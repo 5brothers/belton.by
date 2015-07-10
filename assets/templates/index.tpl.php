@@ -613,7 +613,7 @@ $(document).ready(function () {
             />
         </div>
         
-                <a href="http://www.komus.ru" class="logo--link"></a>
+                <a href="http://[[++site_url]]" ><img src="images/logo.jpg" alt="logo" /></a>
         
                     
     </div><!-- .logo--inside -->

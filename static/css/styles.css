@@ -702,7 +702,6 @@ textarea:-ms-input-placeholder {
   left: -14px;
   width: 269px;
   height: 115px;
-  background: url("http://static.komus.ru/www/images/longwinter/logo/base/logo_main.jpg") left top no-repeat;
 }
 .logo--bg-img {
   float: left;
@@ -716,6 +715,8 @@ textarea:-ms-input-placeholder {
   height: 70px;
   background: url("http://static.komus.ru/www/images/longwinter/logo/emp.gif");
 }
+.logo {margin-top: 10px;}
+.logo--inside img{width:255px;}
 .logo--date {
   position: absolute;
   top: 0px;
