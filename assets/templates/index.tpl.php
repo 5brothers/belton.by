@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head prefix="og: http://ogp.me/ns#">
-<title>Интернет-магазин товаров для дома и офиса АльфаГалактик: купить канцтовары, бумагу, хозтовары, подарки и мебель</title>
+<title>[[++site_name]] - [[*pagetitle]]</title>
 <meta http-equiv="X-UA-Compatible" content="IE=edge" />
 <meta charset="utf-8">
 <meta http-equiv="Content-Language" content="ru" />
@@ -19,8 +19,8 @@
 <script src="/static/js/jquery.timers-1.1.2.js" type="text/javascript"></script>
 <script src="/static/js/longwinter/functions.js" type="text/javascript"></script>
 <script type="text/javascript">
-var dpath_www = 'http://www.komus.ru';
-var dapth = 'http://www.komus.ru';
+var dpath_www = '[[++site_url]]';
+var dapth = '[[++site_url]]';
 </script>
 <script src="/static/js/longwinter/links_popup.js" type="text/javascript"></script>
 <script src="/static/js/longwinter/carousel.js" type="text/javascript"></script>
