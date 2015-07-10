@@ -1,0 +1,23 @@
+@charset "utf-8";
+/* CSS Document */
+
+/* 
+Отступы от баннеров 
+.banner--m- - префикс для класса с отступом
+дальше - значение зоны баннера
+*/
+
+/* Баннер в правой колонке */
+.banner--m-z_bnr_rs_1 {
+	margin-bottom: 5px;
+}
+
+/* Баннер на последнем шаге заказа */
+.banner--m-z_bnr_last_step_order {
+	margin: 12px 0px 12px 0px;
+}
+
+/* Баннер на главной странице личного кабинета под ссылками */
+.banner--m-z_myoffice_bottom_1 {
+	margin: 15px 0px 15px 0px;
+}

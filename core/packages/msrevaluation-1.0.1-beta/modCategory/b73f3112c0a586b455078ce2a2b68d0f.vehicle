@@ -1,0 +1,34 @@
+<?php return array (
+  'unique_key' => 'category',
+  'preserve_keys' => false,
+  'update_object' => true,
+  'related_objects' => true,
+  'namespace' => 'msrevaluation',
+  'resolve' => 
+  array (
+    0 => 
+    array (
+      'type' => 'file',
+      'body' => '{"source":"msrevaluation-1.0.1-beta\\/modCategory\\/b73f3112c0a586b455078ce2a2b68d0f\\/0\\/","target":"return MODX_ASSETS_PATH . \'components\\/\';","name":"msrevaluation"}',
+    ),
+    1 => 
+    array (
+      'type' => 'file',
+      'body' => '{"source":"msrevaluation-1.0.1-beta\\/modCategory\\/b73f3112c0a586b455078ce2a2b68d0f\\/1\\/","target":"return MODX_CORE_PATH . \'components\\/\';","name":"msrevaluation"}',
+    ),
+    2 => 
+    array (
+      'type' => 'php',
+      'body' => '{"source":"msrevaluation-1.0.1-beta\\/modCategory\\/b73f3112c0a586b455078ce2a2b68d0f.resolve.tables.resolver","type":"php","name":"resolve.tables"}',
+    ),
+  ),
+  'validate' => NULL,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => '39b05588faa1e820ca6df0f8dd3a127c',
+  'package' => 'modx',
+  'class' => 'modCategory',
+  'signature' => 'b73f3112c0a586b455078ce2a2b68d0f',
+  'native_key' => NULL,
+  'object' => '{"id":null,"parent":0,"category":"msRevaluation"}',
+);

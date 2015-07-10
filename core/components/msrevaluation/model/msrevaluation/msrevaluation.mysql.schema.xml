@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<model package="msrevaluation" baseClass="xPDOObject" platform="mysql" defaultEngine="MyISAM" version="1.1">
+	<object class="Revaluation" table="revaluation" extends="xPDOSimpleObject">
+		<field key="id_categiry" dbtype="int" precision="11" phptype="integer" null="true" />
+		<field key="time" dbtype="int" precision="11" phptype="integer" null="true" />
+		<field key="action" dbtype="int" precision="1" phptype="integer" null="false" default="1" />
+		<field key="percent" dbtype="int" precision="3" phptype="integer" null="true" />
+		<field key="comment" dbtype="varchar" precision="255" phptype="string" null="true" />
+		<field key="history_file" dbtype="varchar" precision="255" phptype="string" null="true" />
+	</object>
+</model>

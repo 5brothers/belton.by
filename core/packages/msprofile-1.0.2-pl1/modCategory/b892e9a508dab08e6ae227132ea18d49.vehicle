@@ -1,0 +1,209 @@
+<?php return array (
+  'unique_key' => 'category',
+  'preserve_keys' => false,
+  'update_object' => true,
+  'related_objects' => 
+  array (
+    'Chunks' => 
+    array (
+      '27bf864bdcae6e077a784ad4dca312f8' => 
+      array (
+        'preserve_keys' => false,
+        'update_object' => false,
+        'unique_key' => 'name',
+        'class' => 'modChunk',
+        'object' => '{"id":0,"source":1,"property_preprocess":0,"name":"tpl.msProfile.charge.form","description":"","editor_type":0,"category":0,"cache_type":0,"snippet":"<form action=\\"[[~[[*id]]]]\\" method=\\"post\\">\\n\\t<div class=\\"form-group\\">\\n\\t\\t<label for=\\"sum\\">[[%ms2_profile_enter_sum]]<\\/label>\\n\\t\\t<input type=\\"text\\" class=\\"form-control\\" name=\\"sum\\" id=\\"sum\\" value=\\"[[+sum]]\\" \\/>\\n\\t\\t<div class=\\"error\\">[[+error_sum]]<\\/div>\\n\\t<\\/div>\\n\\n\\t<div class=\\"form-group\\">\\n\\t\\t<label>[[%ms2_profile_select_payment]]<\\/label>\\n\\t\\t[[+payments]]\\n\\t\\t<div class=\\"error\\">[[+error_payment ]]<\\/div>\\n\\t<\\/div>\\n\\t[[+error]]\\n\\t<input type=\\"hidden\\" name=\\"action\\" value=\\"profile_charge\\" \\/>\\n\\t<input type=\\"submit\\" class=\\"btn btn-primary\\" value=\\"[[%ms2_profile_pay]]\\" \\/>\\n<\\/form>\\n<!--minishop2_error <div class=\\"alert alert-danger\\">[[+error]]<\\/div>-->","locked":0,"properties":null,"static":0,"static_file":"core\\/components\\/msprofile\\/elements\\/chunks\\/chunk.charge_form.tpl","content":"<form action=\\"[[~[[*id]]]]\\" method=\\"post\\">\\n\\t<div class=\\"form-group\\">\\n\\t\\t<label for=\\"sum\\">[[%ms2_profile_enter_sum]]<\\/label>\\n\\t\\t<input type=\\"text\\" class=\\"form-control\\" name=\\"sum\\" id=\\"sum\\" value=\\"[[+sum]]\\" \\/>\\n\\t\\t<div class=\\"error\\">[[+error_sum]]<\\/div>\\n\\t<\\/div>\\n\\n\\t<div class=\\"form-group\\">\\n\\t\\t<label>[[%ms2_profile_select_payment]]<\\/label>\\n\\t\\t[[+payments]]\\n\\t\\t<div class=\\"error\\">[[+error_payment ]]<\\/div>\\n\\t<\\/div>\\n\\t[[+error]]\\n\\t<input type=\\"hidden\\" name=\\"action\\" value=\\"profile_charge\\" \\/>\\n\\t<input type=\\"submit\\" class=\\"btn btn-primary\\" value=\\"[[%ms2_profile_pay]]\\" \\/>\\n<\\/form>\\n<!--minishop2_error <div class=\\"alert alert-danger\\">[[+error]]<\\/div>-->"}',
+        'guid' => '9c4123048e07e42f18c1d74282d96791',
+        'native_key' => 0,
+        'signature' => 'c669036eb9e8e6d8d00662f9055a0e85',
+      ),
+      'c5bf0b112df6d98cdac3363e0f4ffa2a' => 
+      array (
+        'preserve_keys' => false,
+        'update_object' => false,
+        'unique_key' => 'name',
+        'class' => 'modChunk',
+        'object' => '{"id":0,"source":1,"property_preprocess":0,"name":"tpl.msProfile.charge.payment","description":"","editor_type":0,"category":0,"cache_type":0,"snippet":"<div class=\\"radio\\">\\n\\t<label>\\n\\t\\t<input type=\\"radio\\" name=\\"payment\\" value=\\"[[+id]]\\" id=\\"payment_[[+id]]\\" [[+checked]] \\/>\\n\\t\\t[[+logo:default=`[[+name]]`]]\\n\\t\\t[[+description]]\\n\\t<\\/label>\\n<\\/div>\\n<!--minishop2_logo <img src=\\"[[+logo]]\\" \\/>-->\\n<!--minishop2_description <p><small>[[+description]]<\\/small><\\/p>-->","locked":0,"properties":null,"static":0,"static_file":"core\\/components\\/msprofile\\/elements\\/chunks\\/chunk.payment_row.tpl","content":"<div class=\\"radio\\">\\n\\t<label>\\n\\t\\t<input type=\\"radio\\" name=\\"payment\\" value=\\"[[+id]]\\" id=\\"payment_[[+id]]\\" [[+checked]] \\/>\\n\\t\\t[[+logo:default=`[[+name]]`]]\\n\\t\\t[[+description]]\\n\\t<\\/label>\\n<\\/div>\\n<!--minishop2_logo <img src=\\"[[+logo]]\\" \\/>-->\\n<!--minishop2_description <p><small>[[+description]]<\\/small><\\/p>-->"}',
+        'guid' => 'b4d9c4fadcd3010c4c151f88ef834290',
+        'native_key' => 0,
+        'signature' => '281959d415f0359973b72b2a98b79d41',
+      ),
+    ),
+    'Snippets' => 
+    array (
+      'c91ec6f8a53c543b6266cb7b746cb58d' => 
+      array (
+        'preserve_keys' => false,
+        'update_object' => true,
+        'unique_key' => 'name',
+        'class' => 'modSnippet',
+        'object' => '{"id":0,"source":1,"property_preprocess":0,"name":"msProfile","description":"","editor_type":0,"category":0,"cache_type":0,"snippet":"\\/** @var array $scriptProperties *\\/\\n\\/** @var msProfile $msProfile *\\/\\n$msProfile = $modx->getService(\'msprofile\',\'msProfile\', MODX_CORE_PATH . \'components\\/msprofile\\/model\\/msprofile\\/\', $scriptProperties);\\nif (!($msProfile instanceof msProfile)) return \'\';\\nif (!$modx->user->isAuthenticated($modx->context->key)) {\\n\\treturn $modx->lexicon(\'ms2_profile_err_auth\');\\n}\\n\\/** @var pdoFetch $pdoFetch *\\/\\n$fqn = $modx->getOption(\'pdoFetch.class\', null, \'pdotools.pdofetch\', true);\\nif ($pdoClass = $modx->loadClass($fqn, \'\', false, true)) {\\n\\t$pdoFetch = new $pdoClass($modx, $scriptProperties);\\n}\\nelseif ($pdoClass = $modx->loadClass($fqn, MODX_CORE_PATH . \'components\\/pdotools\\/model\\/\', false, true)) {\\n\\t$pdoFetch = new $pdoClass($modx, $scriptProperties);\\n}\\nelse {\\n\\t$modx->log(modX::LOG_LEVEL_ERROR, \'Could not load pdoFetch from \\"MODX_CORE_PATH\\/components\\/pdotools\\/model\\/\\".\');\\n\\treturn false;\\n}\\n\\nif (empty($id)) {\\n\\t$id = $modx->user->get(\'id\');\\n}\\n\\nif ($profile = $modx->getObject(\'msCustomerProfile\', $id)) {\\n\\treturn empty($tpl)\\n\\t\\t? \'<pre>\'.$pdoFetch->getChunk(\'\', $profile->toArray()).\'<\\/pre>\'\\n\\t\\t: $pdoFetch->getChunk($tpl, $profile->toArray());\\n}","locked":0,"properties":"a:2:{s:2:\\"id\\";a:7:{s:4:\\"name\\";s:2:\\"id\\";s:4:\\"desc\\";s:17:\\"msprofile_prop_id\\";s:4:\\"type\\";s:11:\\"numberfield\\";s:7:\\"options\\";a:0:{}s:5:\\"value\\";i:0;s:7:\\"lexicon\\";s:20:\\"msprofile:properties\\";s:4:\\"area\\";s:0:\\"\\";}s:3:\\"tpl\\";a:7:{s:4:\\"name\\";s:3:\\"tpl\\";s:4:\\"desc\\";s:18:\\"msprofile_prop_tpl\\";s:4:\\"type\\";s:9:\\"textfield\\";s:7:\\"options\\";a:0:{}s:5:\\"value\\";s:0:\\"\\";s:7:\\"lexicon\\";s:20:\\"msprofile:properties\\";s:4:\\"area\\";s:0:\\"\\";}}","moduleguid":"","static":0,"static_file":"core\\/components\\/msprofile\\/elements\\/snippets\\/snippet.msprofile.php","content":"\\/** @var array $scriptProperties *\\/\\n\\/** @var msProfile $msProfile *\\/\\n$msProfile = $modx->getService(\'msprofile\',\'msProfile\', MODX_CORE_PATH . \'components\\/msprofile\\/model\\/msprofile\\/\', $scriptProperties);\\nif (!($msProfile instanceof msProfile)) return \'\';\\nif (!$modx->user->isAuthenticated($modx->context->key)) {\\n\\treturn $modx->lexicon(\'ms2_profile_err_auth\');\\n}\\n\\/** @var pdoFetch $pdoFetch *\\/\\n$fqn = $modx->getOption(\'pdoFetch.class\', null, \'pdotools.pdofetch\', true);\\nif ($pdoClass = $modx->loadClass($fqn, \'\', false, true)) {\\n\\t$pdoFetch = new $pdoClass($modx, $scriptProperties);\\n}\\nelseif ($pdoClass = $modx->loadClass($fqn, MODX_CORE_PATH . \'components\\/pdotools\\/model\\/\', false, true)) {\\n\\t$pdoFetch = new $pdoClass($modx, $scriptProperties);\\n}\\nelse {\\n\\t$modx->log(modX::LOG_LEVEL_ERROR, \'Could not load pdoFetch from \\"MODX_CORE_PATH\\/components\\/pdotools\\/model\\/\\".\');\\n\\treturn false;\\n}\\n\\nif (empty($id)) {\\n\\t$id = $modx->user->get(\'id\');\\n}\\n\\nif ($profile = $modx->getObject(\'msCustomerProfile\', $id)) {\\n\\treturn empty($tpl)\\n\\t\\t? \'<pre>\'.$pdoFetch->getChunk(\'\', $profile->toArray()).\'<\\/pre>\'\\n\\t\\t: $pdoFetch->getChunk($tpl, $profile->toArray());\\n}"}',
+        'guid' => '6fcdef53120d0aa518f6e149579ba0f0',
+        'native_key' => 0,
+        'signature' => 'b73fe50b0ae14cc3ef1650ce6db1cf4f',
+      ),
+      'e2cd66a22811f1a5450d6e2b3f01313a' => 
+      array (
+        'preserve_keys' => false,
+        'update_object' => true,
+        'unique_key' => 'name',
+        'class' => 'modSnippet',
+        'object' => '{"id":0,"source":1,"property_preprocess":0,"name":"msProfileCharge","description":"","editor_type":0,"category":0,"cache_type":0,"snippet":"\\/** @var array $scriptProperties *\\/\\n\\/** @var msProfile $msProfile *\\/\\n$msProfile = $modx->getService(\'msprofile\',\'msProfile\', MODX_CORE_PATH . \'components\\/msprofile\\/model\\/msprofile\\/\', $scriptProperties);\\nif (!($msProfile instanceof msProfile)) return \'\';\\nif (!$modx->user->isAuthenticated($modx->context->key)) {\\n\\treturn $modx->lexicon(\'ms2_profile_err_auth\');\\n}\\n\\/** @var pdoFetch $pdoFetch *\\/\\n$fqn = $modx->getOption(\'pdoFetch.class\', null, \'pdotools.pdofetch\', true);\\nif ($pdoClass = $modx->loadClass($fqn, \'\', false, true)) {\\n\\t$pdoFetch = new $pdoClass($modx, $scriptProperties);\\n}\\nelseif ($pdoClass = $modx->loadClass($fqn, MODX_CORE_PATH . \'components\\/pdotools\\/model\\/\', false, true)) {\\n\\t$pdoFetch = new $pdoClass($modx, $scriptProperties);\\n}\\nelse {\\n\\t$modx->log(modX::LOG_LEVEL_ERROR, \'Could not load pdoFetch from \\"MODX_CORE_PATH\\/components\\/pdotools\\/model\\/\\".\');\\n\\treturn false;\\n}\\n\\nif (!isset($minSum)) {$minSum = 200;}\\nif (!isset($maxSum)) {$maxSum = 1000;}\\nif (empty($outputSeparator)) {$outputSeparator = \\"\\\\n\\";}\\nif (empty($tplOrder)) {$tplOrder = \'tpl.msOrder.success\';}\\nif (empty($tplPayment)) {$tplPayment = \'tpl.msProfile.charge.payment\';}\\nif (empty($tplForm)) {$tplForm = \'tpl.msProfile.charge.form\';}\\n\\nif (!empty($_GET[\'msorder\'])) {\\n\\tif ($order = $modx->getObject(\'msOrder\', $_GET[\'msorder\'])) {\\n\\t\\tif ((!empty($_SESSION[\'minishop2\'][\'orders\']) && in_array($_GET[\'msorder\'], $_SESSION[\'minishop2\'][\'orders\'])) || $order->get(\'user_id\') == $modx->user->id || $modx->context->key == \'mgr\') {\\n\\t\\t\\treturn $pdoFetch->getChunk($tplOrder, array(\'id\' => $_GET[\'msorder\']));\\n\\t\\t}\\n\\t}\\n}\\n\\n$error = \'\';\\n$errors = array();\\nif (!empty($_POST[\'action\']) && $_POST[\'action\'] == \'profile_charge\') {\\n\\t$response = $msProfile->createPayment($_POST);\\n\\tif (!$response[\'success\']) {\\n\\t\\t$error = $response[\'message\'];\\n\\t\\t$errors = $response[\'data\'];\\n\\t}\\n}\\n\\n$where = array(\'class:NOT LIKE\' => \'CustomerAccount%\', \'class:!=\' => \'\');\\nif (empty($showInactive)) {\\n\\t$where[\'active\'] = true;\\n}\\nif (!empty($payments)) {\\n\\t$payments = array_map(\'trim\', explode(\',\', $payments));\\n\\t$in = $out = array();\\n\\tforeach ($payments as $payment) {\\n\\t\\tif ($payment > 0) {\\n\\t\\t\\t$in[] = $payment;\\n\\t\\t}\\n\\t\\telseif ($payment < 0) {\\n\\t\\t\\t$out[] = abs($payment);\\n\\t\\t}\\n\\t}\\n\\tif (!empty($in)) {\\n\\t\\t$where[\'id:IN\'] = $in;\\n\\t}\\n\\telseif (!empty($out)) {\\n\\t\\t$where[\'id:NOT IN\'] = $out;\\n\\t}\\n}\\n\\n\\/\\/ Add custom parameters\\nforeach (array(\'where\') as $v) {\\n\\tif (!empty($scriptProperties[$v])) {\\n\\t\\t$tmp = $modx->fromJSON($scriptProperties[$v]);\\n\\t\\tif (is_array($tmp)) {\\n\\t\\t\\t$$v = array_merge($$v, $tmp);\\n\\t\\t}\\n\\t}\\n\\tunset($scriptProperties[$v]);\\n}\\n\\n$options = array(\\n\\t\'class\' => \'msPayment\',\\n\\t\'where\' => $where,\\n\\t\'sortby\' => \'rank\',\\n\\t\'sortdir\' => \'ASC\',\\n\\t\'nestedChunkPrefix\' => \'minishop2_\',\\n);\\n\\n\\/\\/ Merge all properties and run!\\n$pdoFetch->addTime(\'Query parameters are prepared.\');\\n$pdoFetch->setConfig(array_merge($options, $scriptProperties));\\n\\n$methods = $pdoFetch->getCollection(\'msPayment\', $where, $options);\\nif (empty($methods)) {\\n\\treturn $modx->lexicon(\'ms2_profile_err_payments\');\\n}\\n$payments = array();\\nforeach ($methods as $key => $method) {\\n\\t$method[\'checked\'] = (empty($_POST[\'payment\']) && $key == 0) || (!empty($_POST[\'payment\']) && $_POST[\'payment\'] == $method[\'id\'])\\n\\t\\t? \'checked\'\\n\\t\\t: \'\';\\n\\t$payments[] = $pdoFetch->getChunk($tplPayment, $method);\\n}\\n$payments = implode($outputSeparator, $payments);\\n\\n$data = array(\\n\\t\'payments\' => $payments,\\n\\t\'sum\' => !empty($_POST[\'sum\']) ? $_POST[\'sum\'] : $minSum,\\n\\t\'min_sum\' => $minSum,\\n\\t\'max_sum\' => $maxSum,\\n\\t\'error\' => $error,\\n);\\nforeach ($errors as $key => $error) {\\n\\t$data[\'error_\' . $key] = $error;\\n}\\n\\nreturn $pdoFetch->getChunk($tplForm, $data);","locked":0,"properties":"a:11:{s:7:\\"tplForm\\";a:7:{s:4:\\"name\\";s:7:\\"tplForm\\";s:4:\\"desc\\";s:22:\\"msprofile_prop_tplForm\\";s:4:\\"type\\";s:9:\\"textfield\\";s:7:\\"options\\";a:0:{}s:5:\\"value\\";s:25:\\"tpl.msProfile.charge.form\\";s:7:\\"lexicon\\";s:20:\\"msprofile:properties\\";s:4:\\"area\\";s:0:\\"\\";}s:10:\\"tplPayment\\";a:7:{s:4:\\"name\\";s:10:\\"tplPayment\\";s:4:\\"desc\\";s:25:\\"msprofile_prop_tplPayment\\";s:4:\\"type\\";s:9:\\"textfield\\";s:7:\\"options\\";a:0:{}s:5:\\"value\\";s:28:\\"tpl.msProfile.charge.payment\\";s:7:\\"lexicon\\";s:20:\\"msprofile:properties\\";s:4:\\"area\\";s:0:\\"\\";}s:8:\\"tplOrder\\";a:7:{s:4:\\"name\\";s:8:\\"tplOrder\\";s:4:\\"desc\\";s:23:\\"msprofile_prop_tplOrder\\";s:4:\\"type\\";s:9:\\"textfield\\";s:7:\\"options\\";a:0:{}s:5:\\"value\\";s:19:\\"tpl.msOrder.success\\";s:7:\\"lexicon\\";s:20:\\"msprofile:properties\\";s:4:\\"area\\";s:0:\\"\\";}s:8:\\"payments\\";a:7:{s:4:\\"name\\";s:8:\\"payments\\";s:4:\\"desc\\";s:23:\\"msprofile_prop_payments\\";s:4:\\"type\\";s:9:\\"textfield\\";s:7:\\"options\\";a:0:{}s:5:\\"value\\";s:0:\\"\\";s:7:\\"lexicon\\";s:20:\\"msprofile:properties\\";s:4:\\"area\\";s:0:\\"\\";}s:6:\\"sortby\\";a:7:{s:4:\\"name\\";s:6:\\"sortby\\";s:4:\\"desc\\";s:21:\\"msprofile_prop_sortby\\";s:4:\\"type\\";s:9:\\"textfield\\";s:7:\\"options\\";a:0:{}s:5:\\"value\\";s:5:\\"order\\";s:7:\\"lexicon\\";s:20:\\"msprofile:properties\\";s:4:\\"area\\";s:0:\\"\\";}s:7:\\"sortdir\\";a:7:{s:4:\\"name\\";s:7:\\"sortdir\\";s:4:\\"desc\\";s:22:\\"msprofile_prop_sortdir\\";s:4:\\"type\\";s:4:\\"list\\";s:7:\\"options\\";a:2:{i:0;a:2:{s:4:\\"text\\";s:3:\\"ASC\\";s:5:\\"value\\";s:3:\\"ASC\\";}i:1;a:2:{s:4:\\"text\\";s:4:\\"DESC\\";s:5:\\"value\\";s:4:\\"DESC\\";}}s:5:\\"value\\";s:3:\\"ASC\\";s:7:\\"lexicon\\";s:20:\\"msprofile:properties\\";s:4:\\"area\\";s:0:\\"\\";}s:5:\\"limit\\";a:7:{s:4:\\"name\\";s:5:\\"limit\\";s:4:\\"desc\\";s:20:\\"msprofile_prop_limit\\";s:4:\\"type\\";s:11:\\"numberfield\\";s:7:\\"options\\";a:0:{}s:5:\\"value\\";i:0;s:7:\\"lexicon\\";s:20:\\"msprofile:properties\\";s:4:\\"area\\";s:0:\\"\\";}s:15:\\"outputSeparator\\";a:7:{s:4:\\"name\\";s:15:\\"outputSeparator\\";s:4:\\"desc\\";s:30:\\"msprofile_prop_outputSeparator\\";s:4:\\"type\\";s:9:\\"textfield\\";s:7:\\"options\\";a:0:{}s:5:\\"value\\";s:1:\\"\\n\\";s:7:\\"lexicon\\";s:20:\\"msprofile:properties\\";s:4:\\"area\\";s:0:\\"\\";}s:6:\\"minSum\\";a:7:{s:4:\\"name\\";s:6:\\"minSum\\";s:4:\\"desc\\";s:21:\\"msprofile_prop_minSum\\";s:4:\\"type\\";s:11:\\"numberfield\\";s:7:\\"options\\";a:0:{}s:5:\\"value\\";i:200;s:7:\\"lexicon\\";s:20:\\"msprofile:properties\\";s:4:\\"area\\";s:0:\\"\\";}s:6:\\"maxSum\\";a:7:{s:4:\\"name\\";s:6:\\"maxSum\\";s:4:\\"desc\\";s:21:\\"msprofile_prop_maxSum\\";s:4:\\"type\\";s:11:\\"numberfield\\";s:7:\\"options\\";a:0:{}s:5:\\"value\\";i:0;s:7:\\"lexicon\\";s:20:\\"msprofile:properties\\";s:4:\\"area\\";s:0:\\"\\";}s:12:\\"showInactive\\";a:7:{s:4:\\"name\\";s:12:\\"showInactive\\";s:4:\\"desc\\";s:27:\\"msprofile_prop_showInactive\\";s:4:\\"type\\";s:13:\\"combo-boolean\\";s:7:\\"options\\";a:0:{}s:5:\\"value\\";b:1;s:7:\\"lexicon\\";s:20:\\"msprofile:properties\\";s:4:\\"area\\";s:0:\\"\\";}}","moduleguid":"","static":0,"static_file":"core\\/components\\/msprofile\\/elements\\/snippets\\/snippet.msprofile_charge.php","content":"\\/** @var array $scriptProperties *\\/\\n\\/** @var msProfile $msProfile *\\/\\n$msProfile = $modx->getService(\'msprofile\',\'msProfile\', MODX_CORE_PATH . \'components\\/msprofile\\/model\\/msprofile\\/\', $scriptProperties);\\nif (!($msProfile instanceof msProfile)) return \'\';\\nif (!$modx->user->isAuthenticated($modx->context->key)) {\\n\\treturn $modx->lexicon(\'ms2_profile_err_auth\');\\n}\\n\\/** @var pdoFetch $pdoFetch *\\/\\n$fqn = $modx->getOption(\'pdoFetch.class\', null, \'pdotools.pdofetch\', true);\\nif ($pdoClass = $modx->loadClass($fqn, \'\', false, true)) {\\n\\t$pdoFetch = new $pdoClass($modx, $scriptProperties);\\n}\\nelseif ($pdoClass = $modx->loadClass($fqn, MODX_CORE_PATH . \'components\\/pdotools\\/model\\/\', false, true)) {\\n\\t$pdoFetch = new $pdoClass($modx, $scriptProperties);\\n}\\nelse {\\n\\t$modx->log(modX::LOG_LEVEL_ERROR, \'Could not load pdoFetch from \\"MODX_CORE_PATH\\/components\\/pdotools\\/model\\/\\".\');\\n\\treturn false;\\n}\\n\\nif (!isset($minSum)) {$minSum = 200;}\\nif (!isset($maxSum)) {$maxSum = 1000;}\\nif (empty($outputSeparator)) {$outputSeparator = \\"\\\\n\\";}\\nif (empty($tplOrder)) {$tplOrder = \'tpl.msOrder.success\';}\\nif (empty($tplPayment)) {$tplPayment = \'tpl.msProfile.charge.payment\';}\\nif (empty($tplForm)) {$tplForm = \'tpl.msProfile.charge.form\';}\\n\\nif (!empty($_GET[\'msorder\'])) {\\n\\tif ($order = $modx->getObject(\'msOrder\', $_GET[\'msorder\'])) {\\n\\t\\tif ((!empty($_SESSION[\'minishop2\'][\'orders\']) && in_array($_GET[\'msorder\'], $_SESSION[\'minishop2\'][\'orders\'])) || $order->get(\'user_id\') == $modx->user->id || $modx->context->key == \'mgr\') {\\n\\t\\t\\treturn $pdoFetch->getChunk($tplOrder, array(\'id\' => $_GET[\'msorder\']));\\n\\t\\t}\\n\\t}\\n}\\n\\n$error = \'\';\\n$errors = array();\\nif (!empty($_POST[\'action\']) && $_POST[\'action\'] == \'profile_charge\') {\\n\\t$response = $msProfile->createPayment($_POST);\\n\\tif (!$response[\'success\']) {\\n\\t\\t$error = $response[\'message\'];\\n\\t\\t$errors = $response[\'data\'];\\n\\t}\\n}\\n\\n$where = array(\'class:NOT LIKE\' => \'CustomerAccount%\', \'class:!=\' => \'\');\\nif (empty($showInactive)) {\\n\\t$where[\'active\'] = true;\\n}\\nif (!empty($payments)) {\\n\\t$payments = array_map(\'trim\', explode(\',\', $payments));\\n\\t$in = $out = array();\\n\\tforeach ($payments as $payment) {\\n\\t\\tif ($payment > 0) {\\n\\t\\t\\t$in[] = $payment;\\n\\t\\t}\\n\\t\\telseif ($payment < 0) {\\n\\t\\t\\t$out[] = abs($payment);\\n\\t\\t}\\n\\t}\\n\\tif (!empty($in)) {\\n\\t\\t$where[\'id:IN\'] = $in;\\n\\t}\\n\\telseif (!empty($out)) {\\n\\t\\t$where[\'id:NOT IN\'] = $out;\\n\\t}\\n}\\n\\n\\/\\/ Add custom parameters\\nforeach (array(\'where\') as $v) {\\n\\tif (!empty($scriptProperties[$v])) {\\n\\t\\t$tmp = $modx->fromJSON($scriptProperties[$v]);\\n\\t\\tif (is_array($tmp)) {\\n\\t\\t\\t$$v = array_merge($$v, $tmp);\\n\\t\\t}\\n\\t}\\n\\tunset($scriptProperties[$v]);\\n}\\n\\n$options = array(\\n\\t\'class\' => \'msPayment\',\\n\\t\'where\' => $where,\\n\\t\'sortby\' => \'rank\',\\n\\t\'sortdir\' => \'ASC\',\\n\\t\'nestedChunkPrefix\' => \'minishop2_\',\\n);\\n\\n\\/\\/ Merge all properties and run!\\n$pdoFetch->addTime(\'Query parameters are prepared.\');\\n$pdoFetch->setConfig(array_merge($options, $scriptProperties));\\n\\n$methods = $pdoFetch->getCollection(\'msPayment\', $where, $options);\\nif (empty($methods)) {\\n\\treturn $modx->lexicon(\'ms2_profile_err_payments\');\\n}\\n$payments = array();\\nforeach ($methods as $key => $method) {\\n\\t$method[\'checked\'] = (empty($_POST[\'payment\']) && $key == 0) || (!empty($_POST[\'payment\']) && $_POST[\'payment\'] == $method[\'id\'])\\n\\t\\t? \'checked\'\\n\\t\\t: \'\';\\n\\t$payments[] = $pdoFetch->getChunk($tplPayment, $method);\\n}\\n$payments = implode($outputSeparator, $payments);\\n\\n$data = array(\\n\\t\'payments\' => $payments,\\n\\t\'sum\' => !empty($_POST[\'sum\']) ? $_POST[\'sum\'] : $minSum,\\n\\t\'min_sum\' => $minSum,\\n\\t\'max_sum\' => $maxSum,\\n\\t\'error\' => $error,\\n);\\nforeach ($errors as $key => $error) {\\n\\t$data[\'error_\' . $key] = $error;\\n}\\n\\nreturn $pdoFetch->getChunk($tplForm, $data);"}',
+        'guid' => '6798b0d645e214d27b98204f15df9a11',
+        'native_key' => 0,
+        'signature' => 'b9c854bfbcb2a88379eb9a95a93ede68',
+      ),
+    ),
+    'Plugins' => 
+    array (
+      'dc2d013812d0f32ac38624fd18880fcd' => 
+      array (
+        'preserve_keys' => false,
+        'update_object' => true,
+        'unique_key' => 'name',
+        'class' => 'modPlugin',
+        'object' => '{"id":null,"source":1,"property_preprocess":0,"name":"msProfile","description":"","editor_type":0,"category":0,"cache_type":0,"plugincode":"switch ($modx->event->name) {\\n\\n\\tcase \'OnManagerPageBeforeRender\':\\n\\t\\t\\/** @var modManagerController $controller *\\/\\n\\t\\t$controller->msProfile = $msProfile = $modx->getService(\'msprofile\',\'msProfile\', MODX_CORE_PATH . \'components\\/msprofile\\/model\\/msprofile\\/\');\\n\\t\\t$controller->addLexiconTopic(\'msprofile:default\');\\n\\n\\t\\t$controller->addJavascript($msProfile->config[\'jsUrl\'] . \'mgr\\/msprofile.js\');\\n\\t\\t$controller->addLastJavascript($msProfile->config[\'jsUrl\'] . \'mgr\\/widgets\\/profiles.grid.js\');\\n\\t\\t$controller->addLastJavascript($msProfile->config[\'jsUrl\'] . \'mgr\\/widgets\\/referrals.grid.js\');\\n\\t\\t$controller->addHtml(\'<script type=\\"text\\/javascript\\">\\n\\t\\tmsProfile.config = \'.$modx->toJSON($msProfile->config).\';\\n\\t\\tmsProfile.config.connector_url = \\"\'.$msProfile->config[\'connectorUrl\'].\'\\";\\n\\t\\tExt.ComponentMgr.onAvailable(\\"minishop2-orders-tabs\\", function() {\\n\\t\\t\\tthis.on(\\"beforerender\\", function() {\\n\\t\\t\\t\\tthis.add({\\n\\t\\t\\t\\t\\ttitle: _(\\"msprofile\\")\\n\\t\\t\\t\\t\\t,id: \\"msprofile-tab-profiles\\"\\n\\t\\t\\t\\t\\t,items: [{\\n\\t\\t\\t\\t\\t\\thtml: _(\\"msprofile_intro_msg\\")\\n\\t\\t\\t\\t\\t\\t,border: false\\n\\t\\t\\t\\t\\t\\t,bodyCssClass: \\"panel-desc\\"\\n\\t\\t\\t\\t\\t\\t,bodyStyle: \\"margin-bottom: 10px\\"\\n\\t\\t\\t\\t\\t},{\\n\\t\\t\\t\\t\\t\\txtype: \\"msprofile-grid-profiles\\"\\n\\t\\t\\t\\t\\t\\t,preventRender: true\\n\\t\\t\\t\\t\\t}]\\n\\t\\t\\t\\t});\\n\\t\\t\\t});\\n\\t\\t\\tExt.apply(this, {\\n\\t\\t\\t\\tactiveTab: 0\\n\\t\\t\\t\\t,stateful: true\\n\\t\\t\\t\\t,stateId: \\"minishop2-orders-tabs\\"\\n\\t\\t\\t\\t,stateEvents: [\\"tabchange\\"]\\n\\t\\t\\t\\t,getState: function() {\\n\\t\\t\\t\\t\\treturn {\\n\\t\\t\\t\\t\\t\\tactiveTab:this.items.indexOf(this.getActiveTab())\\n\\t\\t\\t\\t\\t};\\n\\t\\t\\t\\t}\\n\\t\\t\\t});\\n\\t\\t});\\n\\t\\t<\\/script>\');\\n\\t\\tbreak;\\n\\n\\tcase \'msOnChangeOrderStatus\':\\n\\t\\tif (empty($status) || $status != 2) {return;}\\n\\t\\t\\/** @var msOrder $order *\\/\\n\\t\\t$properties = $order->get(\'properties\');\\n\\t\\tif (empty($properties[\'account_charge\'])) {return;}\\n\\t\\t\\/** @var modUser $user *\\/\\n\\t\\telseif ($user = $order->getOne(\'User\')) {\\n\\t\\t\\t\\/** @var msCustomerProfile $profile *\\/\\n\\t\\t\\tif ($profile = $order->getOne(\'CustomerProfile\')) {\\n\\t\\t\\t\\t$profile->set(\'account\', $profile->get(\'account\') + $order->get(\'cost\'));\\n\\t\\t\\t\\t$profile->save();\\n\\t\\t\\t}\\n\\t\\t\\tunset($properties[\'account_charge\']);\\n\\t\\t\\t$order->set(\'properties\', $properties);\\n\\t\\t\\t$order->save();\\n\\t\\t}\\n\\t\\tbreak;\\n\\n\\tcase \'msOnBeforeCreateOrder\':\\n\\t\\t\\/** @var msOrder $msOrder *\\/\\n\\t\\tif ($payment = $msOrder->getOne(\'Payment\')) {\\n\\t\\t\\t$class = $payment->get(\'class\');\\n\\t\\t\\tif (preg_match(\'\\/^CustomerAccount\\/i\', $class)) {\\n\\t\\t\\t\\t\\/** @var msPayment $payment *\\/\\n\\t\\t\\t\\t$payment->loadHandler();\\n\\t\\t\\t\\tif ($payment->handler instanceof CustomerAccount && !$payment->handler->check($msOrder)) {\\n\\t\\t\\t\\t\\t$modx->lexicon->load(\'msprofile:default\');\\n\\t\\t\\t\\t\\t$modx->event->output($modx->lexicon(\'ms2_profile_err_balance\'));\\n\\t\\t\\t\\t}\\n\\t\\t\\t}\\n\\t\\t}\\n\\t\\tbreak;\\n\\n}","locked":0,"properties":null,"disabled":0,"moduleguid":"","static":0,"static_file":"core\\/components\\/msprofile\\/elements\\/plugins\\/plugin.msprofile.php","content":"switch ($modx->event->name) {\\n\\n\\tcase \'OnManagerPageBeforeRender\':\\n\\t\\t\\/** @var modManagerController $controller *\\/\\n\\t\\t$controller->msProfile = $msProfile = $modx->getService(\'msprofile\',\'msProfile\', MODX_CORE_PATH . \'components\\/msprofile\\/model\\/msprofile\\/\');\\n\\t\\t$controller->addLexiconTopic(\'msprofile:default\');\\n\\n\\t\\t$controller->addJavascript($msProfile->config[\'jsUrl\'] . \'mgr\\/msprofile.js\');\\n\\t\\t$controller->addLastJavascript($msProfile->config[\'jsUrl\'] . \'mgr\\/widgets\\/profiles.grid.js\');\\n\\t\\t$controller->addLastJavascript($msProfile->config[\'jsUrl\'] . \'mgr\\/widgets\\/referrals.grid.js\');\\n\\t\\t$controller->addHtml(\'<script type=\\"text\\/javascript\\">\\n\\t\\tmsProfile.config = \'.$modx->toJSON($msProfile->config).\';\\n\\t\\tmsProfile.config.connector_url = \\"\'.$msProfile->config[\'connectorUrl\'].\'\\";\\n\\t\\tExt.ComponentMgr.onAvailable(\\"minishop2-orders-tabs\\", function() {\\n\\t\\t\\tthis.on(\\"beforerender\\", function() {\\n\\t\\t\\t\\tthis.add({\\n\\t\\t\\t\\t\\ttitle: _(\\"msprofile\\")\\n\\t\\t\\t\\t\\t,id: \\"msprofile-tab-profiles\\"\\n\\t\\t\\t\\t\\t,items: [{\\n\\t\\t\\t\\t\\t\\thtml: _(\\"msprofile_intro_msg\\")\\n\\t\\t\\t\\t\\t\\t,border: false\\n\\t\\t\\t\\t\\t\\t,bodyCssClass: \\"panel-desc\\"\\n\\t\\t\\t\\t\\t\\t,bodyStyle: \\"margin-bottom: 10px\\"\\n\\t\\t\\t\\t\\t},{\\n\\t\\t\\t\\t\\t\\txtype: \\"msprofile-grid-profiles\\"\\n\\t\\t\\t\\t\\t\\t,preventRender: true\\n\\t\\t\\t\\t\\t}]\\n\\t\\t\\t\\t});\\n\\t\\t\\t});\\n\\t\\t\\tExt.apply(this, {\\n\\t\\t\\t\\tactiveTab: 0\\n\\t\\t\\t\\t,stateful: true\\n\\t\\t\\t\\t,stateId: \\"minishop2-orders-tabs\\"\\n\\t\\t\\t\\t,stateEvents: [\\"tabchange\\"]\\n\\t\\t\\t\\t,getState: function() {\\n\\t\\t\\t\\t\\treturn {\\n\\t\\t\\t\\t\\t\\tactiveTab:this.items.indexOf(this.getActiveTab())\\n\\t\\t\\t\\t\\t};\\n\\t\\t\\t\\t}\\n\\t\\t\\t});\\n\\t\\t});\\n\\t\\t<\\/script>\');\\n\\t\\tbreak;\\n\\n\\tcase \'msOnChangeOrderStatus\':\\n\\t\\tif (empty($status) || $status != 2) {return;}\\n\\t\\t\\/** @var msOrder $order *\\/\\n\\t\\t$properties = $order->get(\'properties\');\\n\\t\\tif (empty($properties[\'account_charge\'])) {return;}\\n\\t\\t\\/** @var modUser $user *\\/\\n\\t\\telseif ($user = $order->getOne(\'User\')) {\\n\\t\\t\\t\\/** @var msCustomerProfile $profile *\\/\\n\\t\\t\\tif ($profile = $order->getOne(\'CustomerProfile\')) {\\n\\t\\t\\t\\t$profile->set(\'account\', $profile->get(\'account\') + $order->get(\'cost\'));\\n\\t\\t\\t\\t$profile->save();\\n\\t\\t\\t}\\n\\t\\t\\tunset($properties[\'account_charge\']);\\n\\t\\t\\t$order->set(\'properties\', $properties);\\n\\t\\t\\t$order->save();\\n\\t\\t}\\n\\t\\tbreak;\\n\\n\\tcase \'msOnBeforeCreateOrder\':\\n\\t\\t\\/** @var msOrder $msOrder *\\/\\n\\t\\tif ($payment = $msOrder->getOne(\'Payment\')) {\\n\\t\\t\\t$class = $payment->get(\'class\');\\n\\t\\t\\tif (preg_match(\'\\/^CustomerAccount\\/i\', $class)) {\\n\\t\\t\\t\\t\\/** @var msPayment $payment *\\/\\n\\t\\t\\t\\t$payment->loadHandler();\\n\\t\\t\\t\\tif ($payment->handler instanceof CustomerAccount && !$payment->handler->check($msOrder)) {\\n\\t\\t\\t\\t\\t$modx->lexicon->load(\'msprofile:default\');\\n\\t\\t\\t\\t\\t$modx->event->output($modx->lexicon(\'ms2_profile_err_balance\'));\\n\\t\\t\\t\\t}\\n\\t\\t\\t}\\n\\t\\t}\\n\\t\\tbreak;\\n\\n}"}',
+        'guid' => '5025fd98e305fe16cad4066a5ff657ed',
+        'native_key' => NULL,
+        'signature' => '747b11ffe9d0ef866a8f6afe23f52869',
+        'related_objects' => 
+        array (
+          'PluginEvents' => 
+          array (
+            'c21ad2fa76e22cf330d6a7ebe1dff5b2' => 
+            array (
+              'preserve_keys' => true,
+              'update_object' => true,
+              'unique_key' => 
+              array (
+                0 => 'pluginid',
+                1 => 'event',
+              ),
+              'class' => 'modPluginEvent',
+              'object' => '{"pluginid":0,"event":"OnManagerPageBeforeRender","priority":0,"propertyset":0}',
+              'guid' => 'd555bd533bb71d8964c1fbc62c6e4871',
+              'native_key' => 
+              array (
+                0 => 0,
+                1 => 'OnManagerPageBeforeRender',
+              ),
+              'signature' => 'f4e003661f4c175a33634a9c55238b7f',
+            ),
+            'a738b0d37b788f5316f80227067bedfd' => 
+            array (
+              'preserve_keys' => true,
+              'update_object' => true,
+              'unique_key' => 
+              array (
+                0 => 'pluginid',
+                1 => 'event',
+              ),
+              'class' => 'modPluginEvent',
+              'object' => '{"pluginid":0,"event":"msOnChangeOrderStatus","priority":0,"propertyset":0}',
+              'guid' => '241b395b16ab5f884f2242f40d4fba81',
+              'native_key' => 
+              array (
+                0 => 0,
+                1 => 'msOnChangeOrderStatus',
+              ),
+              'signature' => '6094ba7e0a22c188205cfc2066db25d2',
+            ),
+            'd3347b25fc72183c7f224a7a1c5749d8' => 
+            array (
+              'preserve_keys' => true,
+              'update_object' => true,
+              'unique_key' => 
+              array (
+                0 => 'pluginid',
+                1 => 'event',
+              ),
+              'class' => 'modPluginEvent',
+              'object' => '{"pluginid":0,"event":"msOnBeforeCreateOrder","priority":0,"propertyset":0}',
+              'guid' => '30e8ac61507d135da6d5285a2f9ac7c9',
+              'native_key' => 
+              array (
+                0 => 0,
+                1 => 'msOnBeforeCreateOrder',
+              ),
+              'signature' => '8da32de58e93f5f2ead09f568f3b1c2e',
+            ),
+          ),
+        ),
+      ),
+    ),
+  ),
+  'related_object_attributes' => 
+  array (
+    'Snippets' => 
+    array (
+      'preserve_keys' => false,
+      'update_object' => true,
+      'unique_key' => 'name',
+    ),
+    'Chunks' => 
+    array (
+      'preserve_keys' => false,
+      'update_object' => false,
+      'unique_key' => 'name',
+    ),
+    'Plugins' => 
+    array (
+      'preserve_keys' => false,
+      'update_object' => true,
+      'unique_key' => 'name',
+    ),
+    'PluginEvents' => 
+    array (
+      'preserve_keys' => true,
+      'update_object' => true,
+      'unique_key' => 
+      array (
+        0 => 'pluginid',
+        1 => 'event',
+      ),
+    ),
+  ),
+  'namespace' => 'msprofile',
+  'resolve' => 
+  array (
+    0 => 
+    array (
+      'type' => 'file',
+      'body' => '{"source":"msprofile-1.0.2-pl1\\/modCategory\\/b892e9a508dab08e6ae227132ea18d49\\/0\\/","target":"return MODX_ASSETS_PATH . \'components\\/\';","name":"msprofile"}',
+    ),
+    1 => 
+    array (
+      'type' => 'file',
+      'body' => '{"source":"msprofile-1.0.2-pl1\\/modCategory\\/b892e9a508dab08e6ae227132ea18d49\\/1\\/","target":"return MODX_CORE_PATH . \'components\\/\';","name":"msprofile"}',
+    ),
+    2 => 
+    array (
+      'type' => 'file',
+      'body' => '{"source":"msprofile-1.0.2-pl1\\/modCategory\\/b892e9a508dab08e6ae227132ea18d49\\/2\\/","target":"return MODX_CORE_PATH . \'components\\/minishop2\\/custom\\/payment\\/\';","name":"customeraccount.class.php"}',
+    ),
+    3 => 
+    array (
+      'type' => 'php',
+      'body' => '{"source":"msprofile-1.0.2-pl1\\/modCategory\\/b892e9a508dab08e6ae227132ea18d49.resolve.10.setup.resolver","type":"php","name":"resolve.10.setup"}',
+    ),
+    4 => 
+    array (
+      'type' => 'php',
+      'body' => '{"source":"msprofile-1.0.2-pl1\\/modCategory\\/b892e9a508dab08e6ae227132ea18d49.resolve.20.payment.resolver","type":"php","name":"resolve.20.payment"}',
+    ),
+    5 => 
+    array (
+      'type' => 'php',
+      'body' => '{"source":"msprofile-1.0.2-pl1\\/modCategory\\/b892e9a508dab08e6ae227132ea18d49.resolve.30.lexicon.resolver","type":"php","name":"resolve.30.lexicon"}',
+    ),
+  ),
+  'validate' => NULL,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => '1f3cbe8c5a765c3cb89b180cd91117a6',
+  'package' => 'modx',
+  'class' => 'modCategory',
+  'signature' => 'b892e9a508dab08e6ae227132ea18d49',
+  'native_key' => NULL,
+  'object' => '{"id":null,"parent":0,"category":"msProfile"}',
+);

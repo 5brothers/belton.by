@@ -1,0 +1,16 @@
+<?php return array (
+  'unique_key' => 'key',
+  'preserve_keys' => true,
+  'update_object' => false,
+  'namespace' => 'minishop2',
+  'resolve' => NULL,
+  'validate' => NULL,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => 'b5e7c967cf26dea3ff1e2f4399c81895',
+  'package' => 'modx',
+  'class' => 'modSystemSetting',
+  'signature' => '643b6d648694336599f598af2ba5ece5',
+  'native_key' => 'ms2_category_remember_grid',
+  'object' => '{"key":"ms2_category_remember_grid","value":true,"xtype":"combo-boolean","namespace":"minishop2","area":"ms2_category","editedon":null}',
+);

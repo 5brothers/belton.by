@@ -1,0 +1,31 @@
+# ignore any files beginning with .
+.*
+.DS_Store
+core/cache/logs/error.log
+core/config/config.inc.php
+
+# and any files in the cache directory
+/assets/cache/*
+/assets/uploads/*
+# and the config file
+/manager/includes/config.inc.php
+
+# except do not ignore .gitignore
+!.gitignore
+
+config.core.php
+
+/core/cache/*
+
+promo/*
+
+2_SQLyogTunnel.php
+
+*.tar.gz
+
+promo/
+uploader/
+index.php
+assets/media/
+assets/components/minifyx/*
+assets/images/

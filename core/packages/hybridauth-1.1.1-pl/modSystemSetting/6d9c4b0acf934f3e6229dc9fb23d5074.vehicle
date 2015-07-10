@@ -1,0 +1,16 @@
+<?php return array (
+  'unique_key' => 'key',
+  'preserve_keys' => true,
+  'update_object' => false,
+  'namespace' => 'hybridauth',
+  'resolve' => NULL,
+  'validate' => NULL,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => '1d00f90e845db237c302cf85748ffafc',
+  'package' => 'modx',
+  'class' => 'modSystemSetting',
+  'signature' => '6d9c4b0acf934f3e6229dc9fb23d5074',
+  'native_key' => 'ha.keys.Google',
+  'object' => '{"key":"ha.keys.Google","value":"{\\"id\\":\\"12345\\",\\"secret\\":\\"12345\\"}","xtype":"textfield","namespace":"hybridauth","area":"ha.keys","editedon":null}',
+);

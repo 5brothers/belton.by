@@ -1,0 +1,16 @@
+<?php return array (
+  'unique_key' => 'key',
+  'preserve_keys' => true,
+  'update_object' => false,
+  'namespace' => 'hybridauth',
+  'resolve' => NULL,
+  'validate' => NULL,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => '0018bcb585d50df2a90376c15b7eea92',
+  'package' => 'modx',
+  'class' => 'modSystemSetting',
+  'signature' => 'df2c3d844d13670fa43af48d3b6dc969',
+  'native_key' => 'ha.register_users',
+  'object' => '{"key":"ha.register_users","value":true,"xtype":"combo-boolean","namespace":"hybridauth","area":"ha.main","editedon":null}',
+);

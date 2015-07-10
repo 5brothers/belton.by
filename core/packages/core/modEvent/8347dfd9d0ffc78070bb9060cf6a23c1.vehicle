@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => '9e489a84aa1b4afb9020b4b83dba1af6',
+  'package' => 'modx',
+  'class' => 'modEvent',
+  'signature' => '8347dfd9d0ffc78070bb9060cf6a23c1',
+  'native_key' => 'OnResourceAddToResourceGroup',
+  'object' => '{"name":"OnResourceAddToResourceGroup","service":1,"groupname":"Resources"}',
+);

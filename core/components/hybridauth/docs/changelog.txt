@@ -1,0 +1,124 @@
+Changelog for HybridAuth.
+
+1.1.1 pl
+==============
+- [#17] Fixed work with enabled php-apc after updated HybridAuth core to version 2.3.0.
+
+1.1.0 pl
+==============
+- Updated HybridAuth core to version 2.3.0.
+- Shows more errors from HybridAuth in MODX log.
+
+1.0.0 pl
+==============
+- Removed object haUser. All existing users will be converted to modUser on package upgrade.
+- Removed function filter_var() for email validation.
+- Returned back transparent images.
+
+0.9.0 pl
+==============
+- Added possibility to view user's linked services in manager.
+
+0.8.8 pl1
+==============
+- [#26] Fixed calculation of time of the queries.
+- Fixed E_NOTICE on line 99 of hybridauth.class.php.
+
+0.8.7 pl
+==============
+- [#23] Fixed parameter "debug" for HybridAuth.
+- [#21] Improved usernames.
+
+0.8.6 pl
+==============
+- [#20] Improved work with context settings.
+- Fixed method makePlaceholders.
+
+0.8.5 pl4
+==============
+- Improved package uninstall and reinstall.
+- [#17] Fixed work with enabled php-apc.
+- Added Foursquare icon.
+- Fixed possible E_WARNING on initialization.
+
+0.8.4 pl
+==============
+- Added rel="nofollow" into chunk with link to provider.
+- Improved description of system settings.
+
+0.8.3 pl
+==============
+- Improved generation of providers links.
+
+0.8.2 pl
+==============
+- Added parameter "&redirectUri=``" for solve issue "redirect_uri_mismatch" when using multiple contexts.
+- Context settings now can override providers keys in system settings. Very helpful for multiple contexts.
+
+0.8.1 pl
+==============
+- Fixed bug with saving parameters to $_SESSION.
+
+0.8.0 pl
+==============
+- [#7] Fixed generation of links for sites in subfolder.
+- [#4] Fixed login to separate contexts.
+- Improved support of multiple contexts.
+
+0.7.0 pl2
+==============
+- New snippet "haProfile" for update user profile.
+- Automatic generation of links of providers.
+- Improved chunks, added icons for some providers.
+- Automatic logout of users that was been blocked by administrator.
+- Added virtual field "gravatar" to class "haUser". You can get it with $modx->user->get('gravatar');.
+- Extension package is removed from system settings when you uninstall component.
+- Replaced file "action.php" to plugin "HybridAuth".
+- Added new providers: "Draugiem" and "Xing".
+- [#3] Fixed "No foreign key definition for parentClass: modUser using relation alias: Services" log entries.
+- Fixed order of links to providers, specified in the parameter "&providers".
+
+0.6.0 pl
+==============
+- Added ability to disable new user registrations. See system setting "ha.register_users".
+
+0.5.0 beta
+==============
+- Fixed login trough vk.com
+- Updated HybridAuth core to version 2.1.2
+
+0.4.0 beta
+==============
+- Updated HybridAuth core to version 2.1.1
+- Improved initialization of main class
+
+0.3.3 beta
+==============
+- Fixed issue with empty email
+
+0.3.2 beta
+==============
+- Added exception handler for catching all exceptions from HybridAuth into MODX system log
+
+0.3.1 beta
+==============
+- Changing user class to haUser on login through remote service.
+- On uninstall of component all haUsers becomes modUsers.
+
+0.3.0 beta
+==============
+- Fixed save of a photo in profile.
+- Improved errors handling.
+- Fixed increment of username if remote username exists on site.
+- If authenticated user linking remote service record, that already exists in remote profiles of the site - this record changes the owner. You can re-link any of your records to any accounts on site.
+
+0.2.0 beta
+==============
+- Added parameter &groups=``. For example, &groups=`Users:1` will add new user to group "Users" with role "member"
+- Updated snippet params, added russian localization.
+- Chunks localization
+- Updated readme
+
+0.1.0 beta
+==============
+- Initial release.

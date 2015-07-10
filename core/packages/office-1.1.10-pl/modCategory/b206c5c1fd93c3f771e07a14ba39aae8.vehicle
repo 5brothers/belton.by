@@ -1,0 +1,350 @@
+<?php return array (
+  'unique_key' => 'category',
+  'preserve_keys' => false,
+  'update_object' => true,
+  'related_objects' => 
+  array (
+    'Chunks' => 
+    array (
+      '18648af9e44a929097f705421a8d0927' => 
+      array (
+        'preserve_keys' => false,
+        'update_object' => false,
+        'unique_key' => 'name',
+        'class' => 'modChunk',
+        'object' => '{"id":0,"source":1,"property_preprocess":0,"name":"tpl.Office.auth.login","description":"","editor_type":0,"category":0,"cache_type":0,"snippet":"<div class=\\"row\\" id=\\"office-auth-form\\">\\n\\t<div class=\\"col-md-6 office-auth-login-wrapper\\">\\n\\t\\t<h4>[[%office_auth_login]]<\\/h4>\\n\\n\\t\\t<form method=\\"post\\" class=\\"form-horizontal\\" id=\\"office-auth-login\\">\\n\\t\\t\\t<div class=\\"form-group\\">\\n\\t\\t\\t\\t<label for=\\"office-auth-login-email\\" class=\\"col-md-3 control-label\\">[[%office_auth_login_username]]&nbsp;<span class=\\"red\\">*<\\/span><\\/label>\\n\\t\\t\\t\\t<div class=\\"col-md-8\\">\\n\\t\\t\\t\\t\\t<input type=\\"text\\" name=\\"username\\" placeholder=\\"\\" class=\\"form-control\\" id=\\"office-auth-login-username\\" value=\\"\\" \\/>\\n\\t\\t\\t\\t\\t<p class=\\"help-block\\"><small>[[%office_auth_login_username_desc]]<\\/small><\\/p>\\n\\t\\t\\t\\t<\\/div>\\n\\n\\t\\t\\t\\t<label for=\\"office-auth-login-password\\" class=\\"col-md-3 control-label\\">[[%office_auth_login_password]]<\\/label>\\n\\t\\t\\t\\t<div class=\\"col-md-8\\">\\n\\t\\t\\t\\t\\t<input type=\\"password\\" name=\\"password\\" placeholder=\\"\\" class=\\"form-control\\" id=\\"office-login-form-password\\" value=\\"\\" \\/>\\n\\t\\t\\t\\t\\t<p class=\\"help-block\\"><small>[[%office_auth_login_password_desc]]<\\/small><\\/p>\\n\\t\\t\\t\\t<\\/div>\\n\\n\\t\\t\\t\\t<input type=\\"hidden\\" name=\\"action\\" value=\\"auth\\/formLogin\\" \\/>\\n\\t\\t\\t\\t<input type=\\"hidden\\" name=\\"return\\" value=\\"\\" \\/>\\n\\t\\t\\t\\t<div class=\\"col-sm-offset-3 col-sm-8\\">\\n\\t\\t\\t\\t\\t<button type=\\"submit\\" class=\\"btn btn-primary\\">[[%office_auth_login_btn]]<\\/button>\\n\\t\\t\\t\\t<\\/div>\\n\\t\\t\\t<\\/div>\\n\\t\\t<\\/form>\\n\\n\\t\\t<label>[[%office_auth_login_ha]]<\\/label>\\n\\t\\t<div>[[+providers]]<\\/div>\\n\\t\\t<p class=\\"help-block\\"><small>[[%office_auth_login_ha_desc]]<\\/small><\\/p>\\n\\n\\t\\t[[+error:notempty=`\\n\\t\\t<div class=\\"alert alert-block alert-danger alert-error\\">[[+error]]<\\/div>\\n\\t\\t`]]\\n\\t<\\/div>\\n\\n\\t<div class=\\"col-md-6 office-auth-register-wrapper\\">\\n\\t\\t<h4>[[%office_auth_register]]<\\/h4>\\n\\t\\t<form method=\\"post\\" class=\\"form-horizontal\\" id=\\"office-auth-register\\">\\n\\t\\t\\t<div class=\\"form-group\\">\\n\\t\\t\\t\\t<label for=\\"office-auth-register-email\\" class=\\"col-md-3 control-label\\">[[%office_auth_register_email]]&nbsp;<span class=\\"red\\">*<\\/span><\\/label>\\n\\t\\t\\t\\t<div class=\\"col-md-8\\">\\n\\t\\t\\t\\t\\t<input type=\\"email\\" name=\\"email\\" placeholder=\\"\\" class=\\"form-control\\" id=\\"office-auth-register-email\\" value=\\"\\" \\/>\\n\\t\\t\\t\\t\\t<p class=\\"help-block\\"><small>[[%office_auth_register_email_desc]]<\\/small><\\/p>\\n\\t\\t\\t\\t<\\/div>\\n\\n\\t\\t\\t\\t<label for=\\"office-auth-register-password\\" class=\\"col-md-3 control-label\\">[[%office_auth_register_password]]<\\/label>\\n\\t\\t\\t\\t<div class=\\"col-md-8\\">\\n\\t\\t\\t\\t\\t<input type=\\"password\\" name=\\"password\\" placeholder=\\"\\" class=\\"form-control\\" id=\\"office-register-form-password\\" value=\\"\\" \\/>\\n\\t\\t\\t\\t\\t<p class=\\"help-block\\"><small>[[%office_auth_register_password_desc]]<\\/small><\\/p>\\n\\t\\t\\t\\t<\\/div>\\n\\n\\t\\t\\t\\t<label for=\\"office-auth-register-username\\" class=\\"col-md-3 control-label\\">[[%office_auth_register_username]]<\\/label>\\n\\t\\t\\t\\t<div class=\\"col-md-8\\">\\n\\t\\t\\t\\t\\t<input type=\\"text\\" name=\\"username\\" placeholder=\\"\\" class=\\"form-control\\" id=\\"office-register-form-username\\" value=\\"\\" \\/>\\n\\t\\t\\t\\t\\t<p class=\\"help-block\\"><small>[[%office_auth_register_username_desc]]<\\/small><\\/p>\\n\\t\\t\\t\\t<\\/div>\\n\\n\\t\\t\\t\\t<label for=\\"office-auth-register-fullname\\" class=\\"col-md-3 control-label\\">[[%office_auth_register_fullname]]<\\/label>\\n\\t\\t\\t\\t<div class=\\"col-md-8\\">\\n\\t\\t\\t\\t\\t<input type=\\"text\\" name=\\"fullname\\" placeholder=\\"\\" class=\\"form-control\\" id=\\"office-register-form-fullname\\" value=\\"\\" \\/>\\n\\t\\t\\t\\t\\t<p class=\\"help-block\\"><small>[[%office_auth_register_fullname_desc]]<\\/small><\\/p>\\n\\t\\t\\t\\t<\\/div>\\n\\n\\t\\t\\t\\t<input type=\\"hidden\\" name=\\"action\\" value=\\"auth\\/formRegister\\" \\/>\\n\\t\\t\\t\\t<div class=\\"col-sm-offset-3 col-sm-8\\">\\n\\t\\t\\t\\t\\t<button type=\\"submit\\" class=\\"btn btn-danger\\">[[%office_auth_register_btn]]<\\/button>\\n\\t\\t\\t\\t<\\/div>\\n\\t\\t\\t<\\/div>\\n\\t\\t<\\/form>\\n\\t<\\/div>\\n<\\/div>","locked":0,"properties":null,"static":0,"static_file":"core\\/components\\/office\\/elements\\/chunks\\/chunk.auth.login.tpl","content":"<div class=\\"row\\" id=\\"office-auth-form\\">\\n\\t<div class=\\"col-md-6 office-auth-login-wrapper\\">\\n\\t\\t<h4>[[%office_auth_login]]<\\/h4>\\n\\n\\t\\t<form method=\\"post\\" class=\\"form-horizontal\\" id=\\"office-auth-login\\">\\n\\t\\t\\t<div class=\\"form-group\\">\\n\\t\\t\\t\\t<label for=\\"office-auth-login-email\\" class=\\"col-md-3 control-label\\">[[%office_auth_login_username]]&nbsp;<span class=\\"red\\">*<\\/span><\\/label>\\n\\t\\t\\t\\t<div class=\\"col-md-8\\">\\n\\t\\t\\t\\t\\t<input type=\\"text\\" name=\\"username\\" placeholder=\\"\\" class=\\"form-control\\" id=\\"office-auth-login-username\\" value=\\"\\" \\/>\\n\\t\\t\\t\\t\\t<p class=\\"help-block\\"><small>[[%office_auth_login_username_desc]]<\\/small><\\/p>\\n\\t\\t\\t\\t<\\/div>\\n\\n\\t\\t\\t\\t<label for=\\"office-auth-login-password\\" class=\\"col-md-3 control-label\\">[[%office_auth_login_password]]<\\/label>\\n\\t\\t\\t\\t<div class=\\"col-md-8\\">\\n\\t\\t\\t\\t\\t<input type=\\"password\\" name=\\"password\\" placeholder=\\"\\" class=\\"form-control\\" id=\\"office-login-form-password\\" value=\\"\\" \\/>\\n\\t\\t\\t\\t\\t<p class=\\"help-block\\"><small>[[%office_auth_login_password_desc]]<\\/small><\\/p>\\n\\t\\t\\t\\t<\\/div>\\n\\n\\t\\t\\t\\t<input type=\\"hidden\\" name=\\"action\\" value=\\"auth\\/formLogin\\" \\/>\\n\\t\\t\\t\\t<input type=\\"hidden\\" name=\\"return\\" value=\\"\\" \\/>\\n\\t\\t\\t\\t<div class=\\"col-sm-offset-3 col-sm-8\\">\\n\\t\\t\\t\\t\\t<button type=\\"submit\\" class=\\"btn btn-primary\\">[[%office_auth_login_btn]]<\\/button>\\n\\t\\t\\t\\t<\\/div>\\n\\t\\t\\t<\\/div>\\n\\t\\t<\\/form>\\n\\n\\t\\t<label>[[%office_auth_login_ha]]<\\/label>\\n\\t\\t<div>[[+providers]]<\\/div>\\n\\t\\t<p class=\\"help-block\\"><small>[[%office_auth_login_ha_desc]]<\\/small><\\/p>\\n\\n\\t\\t[[+error:notempty=`\\n\\t\\t<div class=\\"alert alert-block alert-danger alert-error\\">[[+error]]<\\/div>\\n\\t\\t`]]\\n\\t<\\/div>\\n\\n\\t<div class=\\"col-md-6 office-auth-register-wrapper\\">\\n\\t\\t<h4>[[%office_auth_register]]<\\/h4>\\n\\t\\t<form method=\\"post\\" class=\\"form-horizontal\\" id=\\"office-auth-register\\">\\n\\t\\t\\t<div class=\\"form-group\\">\\n\\t\\t\\t\\t<label for=\\"office-auth-register-email\\" class=\\"col-md-3 control-label\\">[[%office_auth_register_email]]&nbsp;<span class=\\"red\\">*<\\/span><\\/label>\\n\\t\\t\\t\\t<div class=\\"col-md-8\\">\\n\\t\\t\\t\\t\\t<input type=\\"email\\" name=\\"email\\" placeholder=\\"\\" class=\\"form-control\\" id=\\"office-auth-register-email\\" value=\\"\\" \\/>\\n\\t\\t\\t\\t\\t<p class=\\"help-block\\"><small>[[%office_auth_register_email_desc]]<\\/small><\\/p>\\n\\t\\t\\t\\t<\\/div>\\n\\n\\t\\t\\t\\t<label for=\\"office-auth-register-password\\" class=\\"col-md-3 control-label\\">[[%office_auth_register_password]]<\\/label>\\n\\t\\t\\t\\t<div class=\\"col-md-8\\">\\n\\t\\t\\t\\t\\t<input type=\\"password\\" name=\\"password\\" placeholder=\\"\\" class=\\"form-control\\" id=\\"office-register-form-password\\" value=\\"\\" \\/>\\n\\t\\t\\t\\t\\t<p class=\\"help-block\\"><small>[[%office_auth_register_password_desc]]<\\/small><\\/p>\\n\\t\\t\\t\\t<\\/div>\\n\\n\\t\\t\\t\\t<label for=\\"office-auth-register-username\\" class=\\"col-md-3 control-label\\">[[%office_auth_register_username]]<\\/label>\\n\\t\\t\\t\\t<div class=\\"col-md-8\\">\\n\\t\\t\\t\\t\\t<input type=\\"text\\" name=\\"username\\" placeholder=\\"\\" class=\\"form-control\\" id=\\"office-register-form-username\\" value=\\"\\" \\/>\\n\\t\\t\\t\\t\\t<p class=\\"help-block\\"><small>[[%office_auth_register_username_desc]]<\\/small><\\/p>\\n\\t\\t\\t\\t<\\/div>\\n\\n\\t\\t\\t\\t<label for=\\"office-auth-register-fullname\\" class=\\"col-md-3 control-label\\">[[%office_auth_register_fullname]]<\\/label>\\n\\t\\t\\t\\t<div class=\\"col-md-8\\">\\n\\t\\t\\t\\t\\t<input type=\\"text\\" name=\\"fullname\\" placeholder=\\"\\" class=\\"form-control\\" id=\\"office-register-form-fullname\\" value=\\"\\" \\/>\\n\\t\\t\\t\\t\\t<p class=\\"help-block\\"><small>[[%office_auth_register_fullname_desc]]<\\/small><\\/p>\\n\\t\\t\\t\\t<\\/div>\\n\\n\\t\\t\\t\\t<input type=\\"hidden\\" name=\\"action\\" value=\\"auth\\/formRegister\\" \\/>\\n\\t\\t\\t\\t<div class=\\"col-sm-offset-3 col-sm-8\\">\\n\\t\\t\\t\\t\\t<button type=\\"submit\\" class=\\"btn btn-danger\\">[[%office_auth_register_btn]]<\\/button>\\n\\t\\t\\t\\t<\\/div>\\n\\t\\t\\t<\\/div>\\n\\t\\t<\\/form>\\n\\t<\\/div>\\n<\\/div>"}',
+        'guid' => 'bd6ca131edacb52e697e6133a54efbd6',
+        'native_key' => 0,
+        'signature' => '7fa7646be6f3157c168aad8d3b8d2db7',
+      ),
+      '4df823dc20825a6fec4f97959b256274' => 
+      array (
+        'preserve_keys' => false,
+        'update_object' => false,
+        'unique_key' => 'name',
+        'class' => 'modChunk',
+        'object' => '{"id":0,"source":1,"property_preprocess":0,"name":"tpl.Office.auth.logout","description":"","editor_type":0,"category":0,"cache_type":0,"snippet":"<img src=\\"[[+photo:default=`[[+gravatar]]?s=100`]]\\" alt=\\"[[+fullname]]\\" title=\\"[[+fullname]]\\"  class=\\"office-avatar\\" width=\\"100\\" \\/>\\n\\n<span class=\\"ha-info\\">\\n\\t[[%office_auth_welcome]] <b>[[+username]]<\\/b> ([[+fullname]])! <a href=\\"[[~[[*id]]]]?action=auth\\/logout\\">[[%office_auth_logout]]<\\/a>\\n\\t<br\\/><br\\/>\\n\\t<small>[[%ha.providers_available]]:<\\/small><br\\/>\\n\\t[[+providers]]\\n<\\/span>","locked":0,"properties":null,"static":0,"static_file":"core\\/components\\/office\\/elements\\/chunks\\/chunk.auth.logout.tpl","content":"<img src=\\"[[+photo:default=`[[+gravatar]]?s=100`]]\\" alt=\\"[[+fullname]]\\" title=\\"[[+fullname]]\\"  class=\\"office-avatar\\" width=\\"100\\" \\/>\\n\\n<span class=\\"ha-info\\">\\n\\t[[%office_auth_welcome]] <b>[[+username]]<\\/b> ([[+fullname]])! <a href=\\"[[~[[*id]]]]?action=auth\\/logout\\">[[%office_auth_logout]]<\\/a>\\n\\t<br\\/><br\\/>\\n\\t<small>[[%ha.providers_available]]:<\\/small><br\\/>\\n\\t[[+providers]]\\n<\\/span>"}',
+        'guid' => 'aeb2d49e03012ae0c4129b707d92d3e3',
+        'native_key' => 0,
+        'signature' => '6b631f4d28569201fb5fba31619628a6',
+      ),
+      'f4254d4482e3c717bc252e030de28313' => 
+      array (
+        'preserve_keys' => false,
+        'update_object' => false,
+        'unique_key' => 'name',
+        'class' => 'modChunk',
+        'object' => '{"id":0,"source":1,"property_preprocess":0,"name":"tpl.Office.remote.login","description":"","editor_type":0,"category":0,"cache_type":0,"snippet":"<div class=\\"office-remote-login\\">\\n\\t<a href=\\"[[+remote]]\\" rel=\\"nofollow\\">[[%office_auth_remote_login]]<\\/a>\\n\\t[[+error:notempty=`\\n\\t\\t<div class=\\"alert alert-block alert-danger alert-error\\">[[+error]]<\\/div>\\n\\t`]]\\n<\\/div>","locked":0,"properties":null,"static":0,"static_file":"core\\/components\\/office\\/elements\\/chunks\\/chunk.remote.login.tpl","content":"<div class=\\"office-remote-login\\">\\n\\t<a href=\\"[[+remote]]\\" rel=\\"nofollow\\">[[%office_auth_remote_login]]<\\/a>\\n\\t[[+error:notempty=`\\n\\t\\t<div class=\\"alert alert-block alert-danger alert-error\\">[[+error]]<\\/div>\\n\\t`]]\\n<\\/div>"}',
+        'guid' => '4d64e8b1477f411493dd2a5660ddcbed',
+        'native_key' => 0,
+        'signature' => 'c89cf0ff9cde2d30a52bbbae9b30eb55',
+      ),
+      '132067a85a7b007c3dc9944491976a3c' => 
+      array (
+        'preserve_keys' => false,
+        'update_object' => false,
+        'unique_key' => 'name',
+        'class' => 'modChunk',
+        'object' => '{"id":0,"source":1,"property_preprocess":0,"name":"tpl.Office.remote.logout","description":"","editor_type":0,"category":0,"cache_type":0,"snippet":"<img src=\\"[[+photo:default=`[[+gravatar]]?s=100`]]\\" alt=\\"[[+fullname]]\\" title=\\"[[+fullname]]\\" class=\\"office-avatar\\" width=\\"100\\" \\/>\\n\\n<span class=\\"office-remote-info\\">\\n\\t[[%office_auth_welcome]] <b>[[+username]]<\\/b> ([[+fullname]])! <a href=\\"[[~[[*id]]]]?action=remote\\/logout\\" rel=\\"nofollow\\">[[%office_auth_logout]]<\\/a>\\n<\\/span>","locked":0,"properties":null,"static":0,"static_file":"core\\/components\\/office\\/elements\\/chunks\\/chunk.remote.logout.tpl","content":"<img src=\\"[[+photo:default=`[[+gravatar]]?s=100`]]\\" alt=\\"[[+fullname]]\\" title=\\"[[+fullname]]\\" class=\\"office-avatar\\" width=\\"100\\" \\/>\\n\\n<span class=\\"office-remote-info\\">\\n\\t[[%office_auth_welcome]] <b>[[+username]]<\\/b> ([[+fullname]])! <a href=\\"[[~[[*id]]]]?action=remote\\/logout\\" rel=\\"nofollow\\">[[%office_auth_logout]]<\\/a>\\n<\\/span>"}',
+        'guid' => '3a2e1c96b7f0be3a6f86070eecef6e9b',
+        'native_key' => 0,
+        'signature' => '548bceb76e7ce16ace6882c64f9e92e4',
+      ),
+      'f2cf48d15dd4ac9244bfc33d1545d972' => 
+      array (
+        'preserve_keys' => false,
+        'update_object' => false,
+        'unique_key' => 'name',
+        'class' => 'modChunk',
+        'object' => '{"id":0,"source":1,"property_preprocess":0,"name":"tpl.Office.auth.activate","description":"","editor_type":0,"category":0,"cache_type":0,"snippet":"<p>\\u0412\\u044b (\\u0438\\u043b\\u0438 \\u043a\\u0442\\u043e-\\u0442\\u043e \\u0434\\u0440\\u0443\\u0433\\u043e\\u0439) \\u0437\\u0430\\u043f\\u0440\\u043e\\u0441\\u0438\\u043b \\u0441\\u0431\\u0440\\u043e\\u0441 \\u043f\\u0430\\u0440\\u043e\\u043b\\u044f \\u0434\\u043b\\u044f \\u0432\\u0430\\u0448\\u0435\\u0433\\u043e email \\u043d\\u0430 \\u0441\\u0430\\u0439\\u0442\\u0435 [[++site_name]].<\\/p>\\n\\n<p>\\u0415\\u0441\\u043b\\u0438 \\u044d\\u0442\\u043e \\u0434\\u0435\\u0439\\u0441\\u0442\\u0432\\u0438\\u0442\\u0435\\u043b\\u044c\\u043d\\u043e \\u0431\\u044b\\u043b\\u0438 \\u0432\\u044b, \\u0442\\u043e \\u0432\\u0430\\u043c \\u043d\\u0443\\u0436\\u043d\\u043e <a href=\\"[[+link]]\\">\\u043f\\u0440\\u043e\\u0439\\u0442\\u0438 \\u043f\\u043e \\u0441\\u0441\\u044b\\u043b\\u043a\\u0435<\\/a>, \\u0434\\u043b\\u044f \\u0430\\u043a\\u0442\\u0438\\u0432\\u0430\\u0446\\u0438\\u0438 \\u043d\\u043e\\u0432\\u043e\\u0433\\u043e \\u043f\\u0430\\u0440\\u043e\\u043b\\u044f: <strong>[[+password]]<\\/strong>\\n<br\\/>\\u0412 \\u043f\\u0440\\u043e\\u0442\\u0438\\u0432\\u043d\\u043e\\u043c \\u0441\\u043b\\u0443\\u0447\\u0430\\u0435, \\u043f\\u0440\\u043e\\u0441\\u0442\\u043e \\u0443\\u0434\\u0430\\u043b\\u0438\\u0442\\u0435 \\u044d\\u0442\\u043e \\u043f\\u0438\\u0441\\u044c\\u043c\\u043e.<\\/p>","locked":0,"properties":null,"static":0,"static_file":"core\\/components\\/office\\/elements\\/chunks\\/chunk.auth.activate.tpl","content":"<p>\\u0412\\u044b (\\u0438\\u043b\\u0438 \\u043a\\u0442\\u043e-\\u0442\\u043e \\u0434\\u0440\\u0443\\u0433\\u043e\\u0439) \\u0437\\u0430\\u043f\\u0440\\u043e\\u0441\\u0438\\u043b \\u0441\\u0431\\u0440\\u043e\\u0441 \\u043f\\u0430\\u0440\\u043e\\u043b\\u044f \\u0434\\u043b\\u044f \\u0432\\u0430\\u0448\\u0435\\u0433\\u043e email \\u043d\\u0430 \\u0441\\u0430\\u0439\\u0442\\u0435 [[++site_name]].<\\/p>\\n\\n<p>\\u0415\\u0441\\u043b\\u0438 \\u044d\\u0442\\u043e \\u0434\\u0435\\u0439\\u0441\\u0442\\u0432\\u0438\\u0442\\u0435\\u043b\\u044c\\u043d\\u043e \\u0431\\u044b\\u043b\\u0438 \\u0432\\u044b, \\u0442\\u043e \\u0432\\u0430\\u043c \\u043d\\u0443\\u0436\\u043d\\u043e <a href=\\"[[+link]]\\">\\u043f\\u0440\\u043e\\u0439\\u0442\\u0438 \\u043f\\u043e \\u0441\\u0441\\u044b\\u043b\\u043a\\u0435<\\/a>, \\u0434\\u043b\\u044f \\u0430\\u043a\\u0442\\u0438\\u0432\\u0430\\u0446\\u0438\\u0438 \\u043d\\u043e\\u0432\\u043e\\u0433\\u043e \\u043f\\u0430\\u0440\\u043e\\u043b\\u044f: <strong>[[+password]]<\\/strong>\\n<br\\/>\\u0412 \\u043f\\u0440\\u043e\\u0442\\u0438\\u0432\\u043d\\u043e\\u043c \\u0441\\u043b\\u0443\\u0447\\u0430\\u0435, \\u043f\\u0440\\u043e\\u0441\\u0442\\u043e \\u0443\\u0434\\u0430\\u043b\\u0438\\u0442\\u0435 \\u044d\\u0442\\u043e \\u043f\\u0438\\u0441\\u044c\\u043c\\u043e.<\\/p>"}',
+        'guid' => '0fabec4634310b6493f4d0efff1a45c2',
+        'native_key' => 0,
+        'signature' => 'ed2be3ff3d659de934b7efdf03a1640d',
+      ),
+      '6eced14f367bbcb4c70dec6d71fabc71' => 
+      array (
+        'preserve_keys' => false,
+        'update_object' => false,
+        'unique_key' => 'name',
+        'class' => 'modChunk',
+        'object' => '{"id":0,"source":1,"property_preprocess":0,"name":"tpl.Office.auth.register","description":"","editor_type":0,"category":0,"cache_type":0,"snippet":"<p>\\u0412\\u044b \\u0443\\u0441\\u043f\\u0435\\u0448\\u043d\\u043e \\u0437\\u0430\\u0440\\u0435\\u0433\\u0438\\u0441\\u0442\\u0440\\u0438\\u0440\\u043e\\u0432\\u0430\\u043b\\u0438\\u0441\\u044c \\u043d\\u0430 \\u0441\\u0430\\u0439\\u0442\\u0435 [[++site_name]], \\u0443\\u043a\\u0430\\u0437\\u0430\\u0432 email [[+email]].<\\/p>\\n\\n<p>\\u0422\\u0435\\u043f\\u0435\\u0440\\u044c \\u0432\\u0430\\u043c \\u043d\\u0443\\u0436\\u043d\\u043e <a href=\\"[[+link]]\\">\\u043f\\u0440\\u043e\\u0439\\u0442\\u0438 \\u043f\\u043e \\u0441\\u0441\\u044b\\u043b\\u043a\\u0435<\\/a>, \\u0447\\u0442\\u043e\\u0431\\u044b \\u0430\\u043a\\u0442\\u0438\\u0432\\u0438\\u0440\\u043e\\u0432\\u0430\\u0442\\u044c \\u0443\\u0447\\u0451\\u0442\\u043d\\u0443\\u044e \\u0437\\u0430\\u043f\\u0438\\u0441\\u044c.\\n<br\\/>\\u0412\\u0430\\u0448 \\u043f\\u0430\\u0440\\u043e\\u043b\\u044c: <strong>[[+password]]<\\/strong><\\/p>","locked":0,"properties":null,"static":0,"static_file":"core\\/components\\/office\\/elements\\/chunks\\/chunk.auth.register.tpl","content":"<p>\\u0412\\u044b \\u0443\\u0441\\u043f\\u0435\\u0448\\u043d\\u043e \\u0437\\u0430\\u0440\\u0435\\u0433\\u0438\\u0441\\u0442\\u0440\\u0438\\u0440\\u043e\\u0432\\u0430\\u043b\\u0438\\u0441\\u044c \\u043d\\u0430 \\u0441\\u0430\\u0439\\u0442\\u0435 [[++site_name]], \\u0443\\u043a\\u0430\\u0437\\u0430\\u0432 email [[+email]].<\\/p>\\n\\n<p>\\u0422\\u0435\\u043f\\u0435\\u0440\\u044c \\u0432\\u0430\\u043c \\u043d\\u0443\\u0436\\u043d\\u043e <a href=\\"[[+link]]\\">\\u043f\\u0440\\u043e\\u0439\\u0442\\u0438 \\u043f\\u043e \\u0441\\u0441\\u044b\\u043b\\u043a\\u0435<\\/a>, \\u0447\\u0442\\u043e\\u0431\\u044b \\u0430\\u043a\\u0442\\u0438\\u0432\\u0438\\u0440\\u043e\\u0432\\u0430\\u0442\\u044c \\u0443\\u0447\\u0451\\u0442\\u043d\\u0443\\u044e \\u0437\\u0430\\u043f\\u0438\\u0441\\u044c.\\n<br\\/>\\u0412\\u0430\\u0448 \\u043f\\u0430\\u0440\\u043e\\u043b\\u044c: <strong>[[+password]]<\\/strong><\\/p>"}',
+        'guid' => 'd1c54044a115fef370c3bdb143c082c9',
+        'native_key' => 0,
+        'signature' => '3e7eaa4841b292c4d7312aec78e37dba',
+      ),
+      '05b2c43503bb7dc5f9d5f2114caef4f5' => 
+      array (
+        'preserve_keys' => false,
+        'update_object' => false,
+        'unique_key' => 'name',
+        'class' => 'modChunk',
+        'object' => '{"id":0,"source":1,"property_preprocess":0,"name":"tpl.Office.profile.form","description":"","editor_type":0,"category":0,"cache_type":0,"snippet":"<form action=\\"\\" method=\\"post\\" class=\\"form-horizontal well\\" id=\\"office-profile-form\\" enctype=\\"multipart\\/form-data\\">\\n\\t<div class=\\"header\\">\\n\\t\\t<small>[[%office_profile_header]]<\\/small>\\n\\t<\\/div>\\n\\n\\t<div class=\\"form-group avatar\\">\\n\\t\\t<label class=\\"col-sm-2 control-label\\">[[%office_profile_avatar]]<\\/label>\\n\\t\\t<div class=\\"col-sm-10\\">\\n\\t\\t\\t<img src=\\"[[+photo:empty=`[[+gravatar]]?s=100`]]\\" id=\\"profile-user-photo\\" data-gravatar=\\"[[+gravatar]]?s=100\\" width=\\"100\\" \\/>\\n\\t\\t\\t<a href=\\"#\\" id=\\"office-user-photo-remove\\" [[+photo:is=``:then=`style=\\"display:none;\\"`]]\\">\\n\\t\\t\\t\\t[[%office_profile_avatar_remove]]\\n\\t\\t\\t\\t<i class=\\"glyphicon glyphicon-remove\\"><\\/i>\\n\\t\\t\\t<\\/a>\\n\\t\\t\\t<p class=\\"help-block\\">[[%office_profile_avatar_desc]]<\\/p>\\n\\t\\t\\t<input type=\\"hidden\\" name=\\"photo\\" value=\\"[[+photo]]\\" \\/>\\n\\t\\t\\t<input type=\\"file\\" name=\\"newphoto\\" id=\\"profile-photo\\" \\/>\\n\\t\\t<\\/div>\\n\\t<\\/div>\\n\\n\\t<div class=\\"form-group\\">\\n\\t\\t<label class=\\"col-sm-2 control-label\\">[[%office_profile_username]]<sup class=\\"red\\">*<\\/sup><\\/label>\\n\\t\\t<div class=\\"col-sm-10\\">\\n\\t\\t\\t<input type=\\"text\\" name=\\"username\\" value=\\"[[+username]]\\" placeholder=\\"[[%office_profile_username]]\\"  class=\\"form-control\\" \\/>\\n\\t\\t\\t<p class=\\"help-block message\\">[[+error_username]]<\\/p>\\n\\t\\t\\t<p class=\\"help-block desc\\">[[%office_profile_username_desc]]<\\/p>\\n\\t\\t<\\/div>\\n\\t<\\/div>\\n\\n\\t<div class=\\"form-group\\">\\n\\t\\t<label class=\\"col-sm-2 control-label\\">[[%office_profile_fullname]]<sup class=\\"red\\">*<\\/sup><\\/label>\\n\\t\\t<div class=\\"col-sm-10\\">\\n\\t\\t\\t<input type=\\"text\\" name=\\"fullname\\" value=\\"[[+fullname]]\\" placeholder=\\"[[%office_profile_fullname]]\\" class=\\"form-control\\" \\/>\\n\\t\\t\\t<p class=\\"help-block message\\">[[+error_fullname]]<\\/p>\\n\\t\\t\\t<p class=\\"help-block desc\\">[[%office_profile_fullname_desc]]<\\/p>\\n\\t\\t<\\/div>\\n\\t<\\/div>\\n\\n\\t<div class=\\"form-group\\">\\n\\t\\t<label class=\\"col-sm-2 control-label\\">[[%office_profile_email]]<sup class=\\"red\\">*<\\/sup><\\/label>\\n\\t\\t<div class=\\"col-sm-10\\">\\n\\t\\t\\t<input type=\\"text\\" name=\\"email\\" value=\\"[[+email]]\\" placeholder=\\"[[%office_profile_email]]\\" class=\\"form-control\\" \\/>\\n\\t\\t\\t<p class=\\"help-block message\\">[[+error_email]]<\\/p>\\n\\t\\t\\t<p class=\\"help-block desc\\">[[%office_profile_email_desc]]<\\/p>\\n\\t\\t<\\/div>\\n\\t<\\/div>\\n\\n\\t<div class=\\"form-group\\">\\n\\t\\t<label class=\\"col-sm-2 control-label\\">[[%office_profile_password]]<\\/label>\\n\\t\\t<div class=\\"col-sm-10\\">\\n\\t\\t\\t<input type=\\"password\\" name=\\"specifiedpassword\\" value=\\"\\" placeholder=\\"********\\" class=\\"form-control\\" \\/>\\n\\t\\t\\t<p class=\\"help-block message\\">[[+error_specifiedpassword]]<\\/p>\\n\\t\\t\\t<p class=\\"help-block desc\\">[[%office_profile_specifiedpassword_desc]]<\\/p>\\n\\t\\t\\t<input type=\\"password\\" name=\\"confirmpassword\\" value=\\"\\" placeholder=\\"********\\" class=\\"form-control\\" \\/>\\n\\t\\t\\t<p class=\\"help-block message\\">[[+error_confirmpassword]]<\\/p>\\n\\t\\t\\t<p class=\\"help-block desc\\">[[%office_profile_confirmpassword_desc]]<\\/p>\\n\\t\\t<\\/div>\\n\\t<\\/div>\\n\\n\\t<div class=\\"form-group\\">\\n\\t\\t<label class=\\"col-sm-2 control-label\\">[[%ha.providers_available]]<\\/label>\\n\\t\\t<div class=\\"col-sm-10\\">\\n\\t\\t\\t[[+providers]]\\n\\t\\t<\\/div>\\n\\t<\\/div>\\n\\n\\t<hr\\/>\\n\\t<div class=\\"form-group\\">\\n\\t\\t<div class=\\"col-sm-offset-2 col-sm-10\\">\\n\\t\\t\\t<button type=\\"submit\\" class=\\"btn btn-primary\\">[[%office_profile_save]]<\\/button>\\n\\t\\t\\t&nbsp;&nbsp;&nbsp;&nbsp;\\n\\t\\t\\t<a class=\\"btn btn-danger\\" href=\\"[[~[[*id]]]]?action=auth\\/logout\\">[[%office_profile_logout]]<\\/a>\\n\\t\\t<\\/div>\\n\\t<\\/div>\\n<\\/form>","locked":0,"properties":null,"static":0,"static_file":"core\\/components\\/office\\/elements\\/chunks\\/chunk.profile.form.tpl","content":"<form action=\\"\\" method=\\"post\\" class=\\"form-horizontal well\\" id=\\"office-profile-form\\" enctype=\\"multipart\\/form-data\\">\\n\\t<div class=\\"header\\">\\n\\t\\t<small>[[%office_profile_header]]<\\/small>\\n\\t<\\/div>\\n\\n\\t<div class=\\"form-group avatar\\">\\n\\t\\t<label class=\\"col-sm-2 control-label\\">[[%office_profile_avatar]]<\\/label>\\n\\t\\t<div class=\\"col-sm-10\\">\\n\\t\\t\\t<img src=\\"[[+photo:empty=`[[+gravatar]]?s=100`]]\\" id=\\"profile-user-photo\\" data-gravatar=\\"[[+gravatar]]?s=100\\" width=\\"100\\" \\/>\\n\\t\\t\\t<a href=\\"#\\" id=\\"office-user-photo-remove\\" [[+photo:is=``:then=`style=\\"display:none;\\"`]]\\">\\n\\t\\t\\t\\t[[%office_profile_avatar_remove]]\\n\\t\\t\\t\\t<i class=\\"glyphicon glyphicon-remove\\"><\\/i>\\n\\t\\t\\t<\\/a>\\n\\t\\t\\t<p class=\\"help-block\\">[[%office_profile_avatar_desc]]<\\/p>\\n\\t\\t\\t<input type=\\"hidden\\" name=\\"photo\\" value=\\"[[+photo]]\\" \\/>\\n\\t\\t\\t<input type=\\"file\\" name=\\"newphoto\\" id=\\"profile-photo\\" \\/>\\n\\t\\t<\\/div>\\n\\t<\\/div>\\n\\n\\t<div class=\\"form-group\\">\\n\\t\\t<label class=\\"col-sm-2 control-label\\">[[%office_profile_username]]<sup class=\\"red\\">*<\\/sup><\\/label>\\n\\t\\t<div class=\\"col-sm-10\\">\\n\\t\\t\\t<input type=\\"text\\" name=\\"username\\" value=\\"[[+username]]\\" placeholder=\\"[[%office_profile_username]]\\"  class=\\"form-control\\" \\/>\\n\\t\\t\\t<p class=\\"help-block message\\">[[+error_username]]<\\/p>\\n\\t\\t\\t<p class=\\"help-block desc\\">[[%office_profile_username_desc]]<\\/p>\\n\\t\\t<\\/div>\\n\\t<\\/div>\\n\\n\\t<div class=\\"form-group\\">\\n\\t\\t<label class=\\"col-sm-2 control-label\\">[[%office_profile_fullname]]<sup class=\\"red\\">*<\\/sup><\\/label>\\n\\t\\t<div class=\\"col-sm-10\\">\\n\\t\\t\\t<input type=\\"text\\" name=\\"fullname\\" value=\\"[[+fullname]]\\" placeholder=\\"[[%office_profile_fullname]]\\" class=\\"form-control\\" \\/>\\n\\t\\t\\t<p class=\\"help-block message\\">[[+error_fullname]]<\\/p>\\n\\t\\t\\t<p class=\\"help-block desc\\">[[%office_profile_fullname_desc]]<\\/p>\\n\\t\\t<\\/div>\\n\\t<\\/div>\\n\\n\\t<div class=\\"form-group\\">\\n\\t\\t<label class=\\"col-sm-2 control-label\\">[[%office_profile_email]]<sup class=\\"red\\">*<\\/sup><\\/label>\\n\\t\\t<div class=\\"col-sm-10\\">\\n\\t\\t\\t<input type=\\"text\\" name=\\"email\\" value=\\"[[+email]]\\" placeholder=\\"[[%office_profile_email]]\\" class=\\"form-control\\" \\/>\\n\\t\\t\\t<p class=\\"help-block message\\">[[+error_email]]<\\/p>\\n\\t\\t\\t<p class=\\"help-block desc\\">[[%office_profile_email_desc]]<\\/p>\\n\\t\\t<\\/div>\\n\\t<\\/div>\\n\\n\\t<div class=\\"form-group\\">\\n\\t\\t<label class=\\"col-sm-2 control-label\\">[[%office_profile_password]]<\\/label>\\n\\t\\t<div class=\\"col-sm-10\\">\\n\\t\\t\\t<input type=\\"password\\" name=\\"specifiedpassword\\" value=\\"\\" placeholder=\\"********\\" class=\\"form-control\\" \\/>\\n\\t\\t\\t<p class=\\"help-block message\\">[[+error_specifiedpassword]]<\\/p>\\n\\t\\t\\t<p class=\\"help-block desc\\">[[%office_profile_specifiedpassword_desc]]<\\/p>\\n\\t\\t\\t<input type=\\"password\\" name=\\"confirmpassword\\" value=\\"\\" placeholder=\\"********\\" class=\\"form-control\\" \\/>\\n\\t\\t\\t<p class=\\"help-block message\\">[[+error_confirmpassword]]<\\/p>\\n\\t\\t\\t<p class=\\"help-block desc\\">[[%office_profile_confirmpassword_desc]]<\\/p>\\n\\t\\t<\\/div>\\n\\t<\\/div>\\n\\n\\t<div class=\\"form-group\\">\\n\\t\\t<label class=\\"col-sm-2 control-label\\">[[%ha.providers_available]]<\\/label>\\n\\t\\t<div class=\\"col-sm-10\\">\\n\\t\\t\\t[[+providers]]\\n\\t\\t<\\/div>\\n\\t<\\/div>\\n\\n\\t<hr\\/>\\n\\t<div class=\\"form-group\\">\\n\\t\\t<div class=\\"col-sm-offset-2 col-sm-10\\">\\n\\t\\t\\t<button type=\\"submit\\" class=\\"btn btn-primary\\">[[%office_profile_save]]<\\/button>\\n\\t\\t\\t&nbsp;&nbsp;&nbsp;&nbsp;\\n\\t\\t\\t<a class=\\"btn btn-danger\\" href=\\"[[~[[*id]]]]?action=auth\\/logout\\">[[%office_profile_logout]]<\\/a>\\n\\t\\t<\\/div>\\n\\t<\\/div>\\n<\\/form>"}',
+        'guid' => 'fc42ec1ca51b9bf08cb67b309e1a31de',
+        'native_key' => 0,
+        'signature' => 'af10a7c40ca7fb3f8723a5203ab47176',
+      ),
+      '65ad6871de41141311cb29c9f3ab29c3' => 
+      array (
+        'preserve_keys' => false,
+        'update_object' => false,
+        'unique_key' => 'name',
+        'class' => 'modChunk',
+        'object' => '{"id":0,"source":1,"property_preprocess":0,"name":"tpl.Office.profile.activate","description":"","editor_type":0,"category":0,"cache_type":0,"snippet":"<p>\\u0412\\u044b \\u0438\\u0437\\u043c\\u0435\\u043d\\u0438\\u043b\\u0438 email \\u0432 \\u0441\\u0432\\u043e\\u0451\\u043c \\u043f\\u0440\\u043e\\u0444\\u0438\\u043b\\u0435 \\u043d\\u0430 \\u0441\\u0430\\u0439\\u0442\\u0435 [[++site_name]].<\\/p>\\n\\n<p>\\u0414\\u043b\\u044f \\u043f\\u043e\\u0434\\u0442\\u0432\\u0435\\u0440\\u0436\\u0434\\u0435\\u043d\\u0438\\u044f \\u043d\\u043e\\u0432\\u043e\\u0433\\u043e \\u0430\\u0434\\u0440\\u0435\\u0441\\u0430 \\u0432\\u0430\\u043c \\u043d\\u0443\\u0436\\u043d\\u043e <a href=\\"[[+link]]\\">\\u043f\\u0440\\u043e\\u0439\\u0442\\u0438 \\u043f\\u043e \\u0441\\u0441\\u044b\\u043b\\u043a\\u0435<\\/a>.<\\/p>","locked":0,"properties":null,"static":0,"static_file":"core\\/components\\/office\\/elements\\/chunks\\/chunk.profile.activate.tpl","content":"<p>\\u0412\\u044b \\u0438\\u0437\\u043c\\u0435\\u043d\\u0438\\u043b\\u0438 email \\u0432 \\u0441\\u0432\\u043e\\u0451\\u043c \\u043f\\u0440\\u043e\\u0444\\u0438\\u043b\\u0435 \\u043d\\u0430 \\u0441\\u0430\\u0439\\u0442\\u0435 [[++site_name]].<\\/p>\\n\\n<p>\\u0414\\u043b\\u044f \\u043f\\u043e\\u0434\\u0442\\u0432\\u0435\\u0440\\u0436\\u0434\\u0435\\u043d\\u0438\\u044f \\u043d\\u043e\\u0432\\u043e\\u0433\\u043e \\u0430\\u0434\\u0440\\u0435\\u0441\\u0430 \\u0432\\u0430\\u043c \\u043d\\u0443\\u0436\\u043d\\u043e <a href=\\"[[+link]]\\">\\u043f\\u0440\\u043e\\u0439\\u0442\\u0438 \\u043f\\u043e \\u0441\\u0441\\u044b\\u043b\\u043a\\u0435<\\/a>.<\\/p>"}',
+        'guid' => 'f94093e7979c5ad0f811d8e72e799496',
+        'native_key' => 0,
+        'signature' => '0d96b74e3eb9544a6b2ab25a6b5fbb31',
+      ),
+      '8596478a3aab51467adc721abcdb6dc0' => 
+      array (
+        'preserve_keys' => false,
+        'update_object' => false,
+        'unique_key' => 'name',
+        'class' => 'modChunk',
+        'object' => '{"id":0,"source":1,"property_preprocess":0,"name":"tpl.Office.ms2.outer","description":"","editor_type":0,"category":0,"cache_type":0,"snippet":"<div id=\\"office-minishop2-grid\\">\\n\\t<div id=\\"office-preloader\\"><\\/div>\\n<\\/div>","locked":0,"properties":null,"static":0,"static_file":"core\\/components\\/office\\/elements\\/chunks\\/chunk.ms2.outer.tpl","content":"<div id=\\"office-minishop2-grid\\">\\n\\t<div id=\\"office-preloader\\"><\\/div>\\n<\\/div>"}',
+        'guid' => '50b19f99ca81ddd7e0b8c8064cee95ae',
+        'native_key' => 0,
+        'signature' => '5d89ddf4ddcbf5281f8e986db5172493',
+      ),
+    ),
+    'Snippets' => 
+    array (
+      '1d09cbb2c82bf23bad11d3c2633b801e' => 
+      array (
+        'preserve_keys' => false,
+        'update_object' => true,
+        'unique_key' => 'name',
+        'class' => 'modSnippet',
+        'object' => '{"id":0,"source":1,"property_preprocess":0,"name":"Office","description":"","editor_type":0,"category":0,"cache_type":0,"snippet":"\\/** @var array $scriptProperties *\\/\\n\\/** @var Office $Office *\\/\\n$Office = $modx->getService(\'office\', \'Office\', MODX_CORE_PATH . \'components\\/office\\/model\\/office\\/\', $scriptProperties);\\n\\n$output = null;\\n\\/\\/ We can change action to received via $_GET only if snippet was called with the same controller\\nif (!empty($_GET[\'action\']) && !empty($action)) {\\n\\t$request = explode(\'\\/\', strtolower(trim($_GET[\'action\'])));\\n\\t$default = explode(\'\\/\', strtolower(trim($action)));\\n\\tif ($request[0] == $default[0]) {\\n\\t\\t$action = $_GET[\'action\'];\\n\\t\\t$scriptProperties = array_merge($_REQUEST, $scriptProperties);\\n\\t}\\n}\\n\\nif (!empty($action)) {\\n\\t$Office->initialize($modx->context->key, $scriptProperties);\\n\\t$output = $Office->loadAction($action, $scriptProperties);\\n}\\n\\nreturn $output;","locked":0,"properties":"a:1:{s:6:\\"action\\";a:7:{s:4:\\"name\\";s:6:\\"action\\";s:4:\\"desc\\";s:18:\\"office_prop_action\\";s:4:\\"type\\";s:9:\\"textfield\\";s:7:\\"options\\";a:0:{}s:5:\\"value\\";s:4:\\"Auth\\";s:7:\\"lexicon\\";s:17:\\"office:properties\\";s:4:\\"area\\";s:0:\\"\\";}}","moduleguid":"","static":0,"static_file":"core\\/components\\/office\\/elements\\/snippets\\/snippet.office.php","content":"\\/** @var array $scriptProperties *\\/\\n\\/** @var Office $Office *\\/\\n$Office = $modx->getService(\'office\', \'Office\', MODX_CORE_PATH . \'components\\/office\\/model\\/office\\/\', $scriptProperties);\\n\\n$output = null;\\n\\/\\/ We can change action to received via $_GET only if snippet was called with the same controller\\nif (!empty($_GET[\'action\']) && !empty($action)) {\\n\\t$request = explode(\'\\/\', strtolower(trim($_GET[\'action\'])));\\n\\t$default = explode(\'\\/\', strtolower(trim($action)));\\n\\tif ($request[0] == $default[0]) {\\n\\t\\t$action = $_GET[\'action\'];\\n\\t\\t$scriptProperties = array_merge($_REQUEST, $scriptProperties);\\n\\t}\\n}\\n\\nif (!empty($action)) {\\n\\t$Office->initialize($modx->context->key, $scriptProperties);\\n\\t$output = $Office->loadAction($action, $scriptProperties);\\n}\\n\\nreturn $output;"}',
+        'guid' => '5e6d8a51ddd2c6ee024c7fab63639b5d',
+        'native_key' => 0,
+        'signature' => 'd3bc41b8aed6402f83e8621660b508c9',
+      ),
+      'f41db70c0f533d7803f8eb6c10842e40' => 
+      array (
+        'preserve_keys' => false,
+        'update_object' => true,
+        'unique_key' => 'name',
+        'class' => 'modSnippet',
+        'object' => '{"id":0,"source":1,"property_preprocess":0,"name":"officeProfile","description":"","editor_type":0,"category":0,"cache_type":0,"snippet":"\\/** @var array $scriptProperties *\\/\\n$scriptProperties[\'action\'] = \'Profile\';\\n\\n\\/** @var modSnippet $snippet *\\/\\nif ($snippet = $modx->getObject(\'modSnippet\', array(\'name\' => \'Office\'))) {\\n\\t$snippet->_cacheable = false;\\n\\t$snippet->_processed = false;\\n\\n\\treturn $snippet->process($scriptProperties);\\n}","locked":0,"properties":"a:10:{s:10:\\"tplProfile\\";a:7:{s:4:\\"name\\";s:10:\\"tplProfile\\";s:4:\\"desc\\";s:22:\\"office_prop_tplProfile\\";s:4:\\"type\\";s:9:\\"textfield\\";s:7:\\"options\\";a:0:{}s:5:\\"value\\";s:23:\\"tpl.Office.profile.form\\";s:7:\\"lexicon\\";s:17:\\"office:properties\\";s:4:\\"area\\";s:0:\\"\\";}s:11:\\"tplActivate\\";a:7:{s:4:\\"name\\";s:11:\\"tplActivate\\";s:4:\\"desc\\";s:23:\\"office_prop_tplActivate\\";s:4:\\"type\\";s:9:\\"textfield\\";s:7:\\"options\\";a:0:{}s:5:\\"value\\";s:27:\\"tpl.Office.profile.activate\\";s:7:\\"lexicon\\";s:17:\\"office:properties\\";s:4:\\"area\\";s:0:\\"\\";}s:13:\\"profileFields\\";a:7:{s:4:\\"name\\";s:13:\\"profileFields\\";s:4:\\"desc\\";s:25:\\"office_prop_profileFields\\";s:4:\\"type\\";s:9:\\"textfield\\";s:7:\\"options\\";a:0:{}s:5:\\"value\\";s:161:\\"username:50,email:50,fullname:50,phone:12,mobilephone:12,dob:10,gender,address,country,city,state,zip,fax,photo,comment,website,specifiedpassword,confirmpassword\\";s:7:\\"lexicon\\";s:17:\\"office:properties\\";s:4:\\"area\\";s:0:\\"\\";}s:14:\\"requiredFields\\";a:7:{s:4:\\"name\\";s:14:\\"requiredFields\\";s:4:\\"desc\\";s:26:\\"office_prop_requiredFields\\";s:4:\\"type\\";s:9:\\"textfield\\";s:7:\\"options\\";a:0:{}s:5:\\"value\\";s:23:\\"username,email,fullname\\";s:7:\\"lexicon\\";s:17:\\"office:properties\\";s:4:\\"area\\";s:0:\\"\\";}s:10:\\"HybridAuth\\";a:7:{s:4:\\"name\\";s:10:\\"HybridAuth\\";s:4:\\"desc\\";s:22:\\"office_prop_HybridAuth\\";s:4:\\"type\\";s:13:\\"combo-boolean\\";s:7:\\"options\\";a:0:{}s:5:\\"value\\";b:1;s:7:\\"lexicon\\";s:17:\\"office:properties\\";s:4:\\"area\\";s:0:\\"\\";}s:9:\\"providers\\";a:7:{s:4:\\"name\\";s:9:\\"providers\\";s:4:\\"desc\\";s:21:\\"office_prop_providers\\";s:4:\\"type\\";s:0:\\"\\";s:7:\\"options\\";a:0:{}s:5:\\"value\\";s:0:\\"\\";s:7:\\"lexicon\\";s:17:\\"office:properties\\";s:4:\\"area\\";s:0:\\"\\";}s:11:\\"providerTpl\\";a:7:{s:4:\\"name\\";s:11:\\"providerTpl\\";s:4:\\"desc\\";s:23:\\"office_prop_providerTpl\\";s:4:\\"type\\";s:9:\\"textfield\\";s:7:\\"options\\";a:0:{}s:5:\\"value\\";s:23:\\"tpl.HybridAuth.provider\\";s:7:\\"lexicon\\";s:17:\\"office:properties\\";s:4:\\"area\\";s:0:\\"\\";}s:17:\\"activeProviderTpl\\";a:7:{s:4:\\"name\\";s:17:\\"activeProviderTpl\\";s:4:\\"desc\\";s:29:\\"office_prop_activeProviderTpl\\";s:4:\\"type\\";s:9:\\"textfield\\";s:7:\\"options\\";a:0:{}s:5:\\"value\\";s:30:\\"tpl.HybridAuth.provider.active\\";s:7:\\"lexicon\\";s:17:\\"office:properties\\";s:4:\\"area\\";s:0:\\"\\";}s:12:\\"avatarParams\\";a:7:{s:4:\\"name\\";s:12:\\"avatarParams\\";s:4:\\"desc\\";s:24:\\"office_prop_avatarParams\\";s:4:\\"type\\";s:9:\\"textfield\\";s:7:\\"options\\";a:0:{}s:5:\\"value\\";s:48:\\"{\\"w\\":200,\\"h\\":200,\\"zc\\":0,\\"bg\\":\\"ffffff\\",\\"f\\":\\"jpg\\"}\\";s:7:\\"lexicon\\";s:17:\\"office:properties\\";s:4:\\"area\\";s:0:\\"\\";}s:10:\\"avatarPath\\";a:7:{s:4:\\"name\\";s:10:\\"avatarPath\\";s:4:\\"desc\\";s:22:\\"office_prop_avatarPath\\";s:4:\\"type\\";s:9:\\"textfield\\";s:7:\\"options\\";a:0:{}s:5:\\"value\\";s:13:\\"images\\/users\\/\\";s:7:\\"lexicon\\";s:17:\\"office:properties\\";s:4:\\"area\\";s:0:\\"\\";}}","moduleguid":"","static":0,"static_file":"core\\/components\\/office\\/elements\\/snippets\\/snippet.office.profile.php","content":"\\/** @var array $scriptProperties *\\/\\n$scriptProperties[\'action\'] = \'Profile\';\\n\\n\\/** @var modSnippet $snippet *\\/\\nif ($snippet = $modx->getObject(\'modSnippet\', array(\'name\' => \'Office\'))) {\\n\\t$snippet->_cacheable = false;\\n\\t$snippet->_processed = false;\\n\\n\\treturn $snippet->process($scriptProperties);\\n}"}',
+        'guid' => 'b8488d64ff5242890ff10c0e50fbeac4',
+        'native_key' => 0,
+        'signature' => '20f3766d806a823108d613d105178369',
+      ),
+      '5da1aa15ccd3e52754b33e6ed95615c2' => 
+      array (
+        'preserve_keys' => false,
+        'update_object' => true,
+        'unique_key' => 'name',
+        'class' => 'modSnippet',
+        'object' => '{"id":0,"source":1,"property_preprocess":0,"name":"officeAuth","description":"","editor_type":0,"category":0,"cache_type":0,"snippet":"\\/** @var array $scriptProperties *\\/\\n$scriptProperties[\'action\'] = \'Auth\';\\n\\n\\/** @var modSnippet $snippet *\\/\\nif ($snippet = $modx->getObject(\'modSnippet\', array(\'name\' => \'Office\'))) {\\n\\t$snippet->_cacheable = false;\\n\\t$snippet->_processed = false;\\n\\n\\treturn $snippet->process($scriptProperties);\\n}","locked":0,"properties":"a:15:{s:8:\\"tplLogin\\";a:7:{s:4:\\"name\\";s:8:\\"tplLogin\\";s:4:\\"desc\\";s:20:\\"office_prop_tplLogin\\";s:4:\\"type\\";s:9:\\"textfield\\";s:7:\\"options\\";a:0:{}s:5:\\"value\\";s:21:\\"tpl.Office.auth.login\\";s:7:\\"lexicon\\";s:17:\\"office:properties\\";s:4:\\"area\\";s:0:\\"\\";}s:9:\\"tplLogout\\";a:7:{s:4:\\"name\\";s:9:\\"tplLogout\\";s:4:\\"desc\\";s:21:\\"office_prop_tplLogout\\";s:4:\\"type\\";s:9:\\"textfield\\";s:7:\\"options\\";a:0:{}s:5:\\"value\\";s:22:\\"tpl.Office.auth.logout\\";s:7:\\"lexicon\\";s:17:\\"office:properties\\";s:4:\\"area\\";s:0:\\"\\";}s:11:\\"tplActivate\\";a:7:{s:4:\\"name\\";s:11:\\"tplActivate\\";s:4:\\"desc\\";s:23:\\"office_prop_tplActivate\\";s:4:\\"type\\";s:9:\\"textfield\\";s:7:\\"options\\";a:0:{}s:5:\\"value\\";s:24:\\"tpl.Office.auth.activate\\";s:7:\\"lexicon\\";s:17:\\"office:properties\\";s:4:\\"area\\";s:0:\\"\\";}s:11:\\"tplRegister\\";a:7:{s:4:\\"name\\";s:11:\\"tplRegister\\";s:4:\\"desc\\";s:23:\\"office_prop_tplRegister\\";s:4:\\"type\\";s:9:\\"textfield\\";s:7:\\"options\\";a:0:{}s:5:\\"value\\";s:24:\\"tpl.Office.auth.register\\";s:7:\\"lexicon\\";s:17:\\"office:properties\\";s:4:\\"area\\";s:0:\\"\\";}s:7:\\"linkTTL\\";a:7:{s:4:\\"name\\";s:7:\\"linkTTL\\";s:4:\\"desc\\";s:19:\\"office_prop_linkTTL\\";s:4:\\"type\\";s:9:\\"textfield\\";s:7:\\"options\\";a:0:{}s:5:\\"value\\";i:600;s:7:\\"lexicon\\";s:17:\\"office:properties\\";s:4:\\"area\\";s:0:\\"\\";}s:6:\\"groups\\";a:7:{s:4:\\"name\\";s:6:\\"groups\\";s:4:\\"desc\\";s:18:\\"office_prop_groups\\";s:4:\\"type\\";s:9:\\"textfield\\";s:7:\\"options\\";a:0:{}s:5:\\"value\\";s:0:\\"\\";s:7:\\"lexicon\\";s:17:\\"office:properties\\";s:4:\\"area\\";s:0:\\"\\";}s:10:\\"rememberme\\";a:7:{s:4:\\"name\\";s:10:\\"rememberme\\";s:4:\\"desc\\";s:22:\\"office_prop_rememberme\\";s:4:\\"type\\";s:13:\\"combo-boolean\\";s:7:\\"options\\";a:0:{}s:5:\\"value\\";b:1;s:7:\\"lexicon\\";s:17:\\"office:properties\\";s:4:\\"area\\";s:0:\\"\\";}s:12:\\"loginContext\\";a:7:{s:4:\\"name\\";s:12:\\"loginContext\\";s:4:\\"desc\\";s:24:\\"office_prop_loginContext\\";s:4:\\"type\\";s:9:\\"textfield\\";s:7:\\"options\\";a:0:{}s:5:\\"value\\";s:0:\\"\\";s:7:\\"lexicon\\";s:17:\\"office:properties\\";s:4:\\"area\\";s:0:\\"\\";}s:11:\\"addContexts\\";a:7:{s:4:\\"name\\";s:11:\\"addContexts\\";s:4:\\"desc\\";s:23:\\"office_prop_addContexts\\";s:4:\\"type\\";s:9:\\"textfield\\";s:7:\\"options\\";a:0:{}s:5:\\"value\\";s:0:\\"\\";s:7:\\"lexicon\\";s:17:\\"office:properties\\";s:4:\\"area\\";s:0:\\"\\";}s:15:\\"loginResourceId\\";a:7:{s:4:\\"name\\";s:15:\\"loginResourceId\\";s:4:\\"desc\\";s:27:\\"office_prop_loginResourceId\\";s:4:\\"type\\";s:9:\\"textfield\\";s:7:\\"options\\";a:0:{}s:5:\\"value\\";i:0;s:7:\\"lexicon\\";s:17:\\"office:properties\\";s:4:\\"area\\";s:0:\\"\\";}s:16:\\"logoutResourceId\\";a:7:{s:4:\\"name\\";s:16:\\"logoutResourceId\\";s:4:\\"desc\\";s:28:\\"office_prop_logoutResourceId\\";s:4:\\"type\\";s:9:\\"textfield\\";s:7:\\"options\\";a:0:{}s:5:\\"value\\";i:0;s:7:\\"lexicon\\";s:17:\\"office:properties\\";s:4:\\"area\\";s:0:\\"\\";}s:10:\\"HybridAuth\\";a:7:{s:4:\\"name\\";s:10:\\"HybridAuth\\";s:4:\\"desc\\";s:22:\\"office_prop_HybridAuth\\";s:4:\\"type\\";s:13:\\"combo-boolean\\";s:7:\\"options\\";a:0:{}s:5:\\"value\\";b:1;s:7:\\"lexicon\\";s:17:\\"office:properties\\";s:4:\\"area\\";s:0:\\"\\";}s:9:\\"providers\\";a:7:{s:4:\\"name\\";s:9:\\"providers\\";s:4:\\"desc\\";s:21:\\"office_prop_providers\\";s:4:\\"type\\";s:0:\\"\\";s:7:\\"options\\";a:0:{}s:5:\\"value\\";s:0:\\"\\";s:7:\\"lexicon\\";s:17:\\"office:properties\\";s:4:\\"area\\";s:0:\\"\\";}s:11:\\"providerTpl\\";a:7:{s:4:\\"name\\";s:11:\\"providerTpl\\";s:4:\\"desc\\";s:23:\\"office_prop_providerTpl\\";s:4:\\"type\\";s:9:\\"textfield\\";s:7:\\"options\\";a:0:{}s:5:\\"value\\";s:23:\\"tpl.HybridAuth.provider\\";s:7:\\"lexicon\\";s:17:\\"office:properties\\";s:4:\\"area\\";s:0:\\"\\";}s:17:\\"activeProviderTpl\\";a:7:{s:4:\\"name\\";s:17:\\"activeProviderTpl\\";s:4:\\"desc\\";s:29:\\"office_prop_activeProviderTpl\\";s:4:\\"type\\";s:9:\\"textfield\\";s:7:\\"options\\";a:0:{}s:5:\\"value\\";s:30:\\"tpl.HybridAuth.provider.active\\";s:7:\\"lexicon\\";s:17:\\"office:properties\\";s:4:\\"area\\";s:0:\\"\\";}}","moduleguid":"","static":0,"static_file":"core\\/components\\/office\\/elements\\/snippets\\/snippet.office.auth.php","content":"\\/** @var array $scriptProperties *\\/\\n$scriptProperties[\'action\'] = \'Auth\';\\n\\n\\/** @var modSnippet $snippet *\\/\\nif ($snippet = $modx->getObject(\'modSnippet\', array(\'name\' => \'Office\'))) {\\n\\t$snippet->_cacheable = false;\\n\\t$snippet->_processed = false;\\n\\n\\treturn $snippet->process($scriptProperties);\\n}"}',
+        'guid' => 'c8f0b7fc063fe5010ddb8b4ac63686b6',
+        'native_key' => 0,
+        'signature' => '4d6b483c66d2039f1204c56f7bbd7bd4',
+      ),
+      '238795cd1253d5583166aed9346ca96a' => 
+      array (
+        'preserve_keys' => false,
+        'update_object' => true,
+        'unique_key' => 'name',
+        'class' => 'modSnippet',
+        'object' => '{"id":0,"source":1,"property_preprocess":0,"name":"officeRemoteAuth","description":"","editor_type":0,"category":0,"cache_type":0,"snippet":"\\/** @var array $scriptProperties *\\/\\n$scriptProperties[\'action\'] = \'Remote\';\\n\\n\\/** @var modSnippet $snippet *\\/\\nif ($snippet = $modx->getObject(\'modSnippet\', array(\'name\' => \'Office\'))) {\\n\\t$snippet->_cacheable = false;\\n\\t$snippet->_processed = false;\\n\\n\\treturn $snippet->process($scriptProperties);\\n}","locked":0,"properties":"a:12:{s:8:\\"tplLogin\\";a:7:{s:4:\\"name\\";s:8:\\"tplLogin\\";s:4:\\"desc\\";s:20:\\"office_prop_tplLogin\\";s:4:\\"type\\";s:9:\\"textfield\\";s:7:\\"options\\";a:0:{}s:5:\\"value\\";s:23:\\"tpl.Office.remote.login\\";s:7:\\"lexicon\\";s:17:\\"office:properties\\";s:4:\\"area\\";s:0:\\"\\";}s:9:\\"tplLogout\\";a:7:{s:4:\\"name\\";s:9:\\"tplLogout\\";s:4:\\"desc\\";s:21:\\"office_prop_tplLogout\\";s:4:\\"type\\";s:9:\\"textfield\\";s:7:\\"options\\";a:0:{}s:5:\\"value\\";s:24:\\"tpl.Office.remote.logout\\";s:7:\\"lexicon\\";s:17:\\"office:properties\\";s:4:\\"area\\";s:0:\\"\\";}s:6:\\"groups\\";a:7:{s:4:\\"name\\";s:6:\\"groups\\";s:4:\\"desc\\";s:18:\\"office_prop_groups\\";s:4:\\"type\\";s:9:\\"textfield\\";s:7:\\"options\\";a:0:{}s:5:\\"value\\";s:0:\\"\\";s:7:\\"lexicon\\";s:17:\\"office:properties\\";s:4:\\"area\\";s:0:\\"\\";}s:10:\\"rememberme\\";a:7:{s:4:\\"name\\";s:10:\\"rememberme\\";s:4:\\"desc\\";s:22:\\"office_prop_rememberme\\";s:4:\\"type\\";s:13:\\"combo-boolean\\";s:7:\\"options\\";a:0:{}s:5:\\"value\\";b:1;s:7:\\"lexicon\\";s:17:\\"office:properties\\";s:4:\\"area\\";s:0:\\"\\";}s:12:\\"loginContext\\";a:7:{s:4:\\"name\\";s:12:\\"loginContext\\";s:4:\\"desc\\";s:24:\\"office_prop_loginContext\\";s:4:\\"type\\";s:9:\\"textfield\\";s:7:\\"options\\";a:0:{}s:5:\\"value\\";s:0:\\"\\";s:7:\\"lexicon\\";s:17:\\"office:properties\\";s:4:\\"area\\";s:0:\\"\\";}s:11:\\"addContexts\\";a:7:{s:4:\\"name\\";s:11:\\"addContexts\\";s:4:\\"desc\\";s:23:\\"office_prop_addContexts\\";s:4:\\"type\\";s:9:\\"textfield\\";s:7:\\"options\\";a:0:{}s:5:\\"value\\";s:0:\\"\\";s:7:\\"lexicon\\";s:17:\\"office:properties\\";s:4:\\"area\\";s:0:\\"\\";}s:15:\\"loginResourceId\\";a:7:{s:4:\\"name\\";s:15:\\"loginResourceId\\";s:4:\\"desc\\";s:27:\\"office_prop_loginResourceId\\";s:4:\\"type\\";s:9:\\"textfield\\";s:7:\\"options\\";a:0:{}s:5:\\"value\\";i:0;s:7:\\"lexicon\\";s:17:\\"office:properties\\";s:4:\\"area\\";s:0:\\"\\";}s:16:\\"logoutResourceId\\";a:7:{s:4:\\"name\\";s:16:\\"logoutResourceId\\";s:4:\\"desc\\";s:28:\\"office_prop_logoutResourceId\\";s:4:\\"type\\";s:9:\\"textfield\\";s:7:\\"options\\";a:0:{}s:5:\\"value\\";i:0;s:7:\\"lexicon\\";s:17:\\"office:properties\\";s:4:\\"area\\";s:0:\\"\\";}s:10:\\"updateUser\\";a:7:{s:4:\\"name\\";s:10:\\"updateUser\\";s:4:\\"desc\\";s:22:\\"office_prop_updateUser\\";s:4:\\"type\\";s:13:\\"combo-boolean\\";s:7:\\"options\\";a:0:{}s:5:\\"value\\";b:1;s:7:\\"lexicon\\";s:17:\\"office:properties\\";s:4:\\"area\\";s:0:\\"\\";}s:10:\\"createUser\\";a:7:{s:4:\\"name\\";s:10:\\"createUser\\";s:4:\\"desc\\";s:22:\\"office_prop_createUser\\";s:4:\\"type\\";s:13:\\"combo-boolean\\";s:7:\\"options\\";a:0:{}s:5:\\"value\\";b:1;s:7:\\"lexicon\\";s:17:\\"office:properties\\";s:4:\\"area\\";s:0:\\"\\";}s:6:\\"remote\\";a:7:{s:4:\\"name\\";s:6:\\"remote\\";s:4:\\"desc\\";s:18:\\"office_prop_remote\\";s:4:\\"type\\";s:9:\\"textfield\\";s:7:\\"options\\";a:0:{}s:5:\\"value\\";s:0:\\"\\";s:7:\\"lexicon\\";s:17:\\"office:properties\\";s:4:\\"area\\";s:0:\\"\\";}s:3:\\"key\\";a:7:{s:4:\\"name\\";s:3:\\"key\\";s:4:\\"desc\\";s:15:\\"office_prop_key\\";s:4:\\"type\\";s:9:\\"textfield\\";s:7:\\"options\\";a:0:{}s:5:\\"value\\";s:0:\\"\\";s:7:\\"lexicon\\";s:17:\\"office:properties\\";s:4:\\"area\\";s:0:\\"\\";}}","moduleguid":"","static":0,"static_file":"core\\/components\\/office\\/elements\\/snippets\\/snippet.office.remote_auth.php","content":"\\/** @var array $scriptProperties *\\/\\n$scriptProperties[\'action\'] = \'Remote\';\\n\\n\\/** @var modSnippet $snippet *\\/\\nif ($snippet = $modx->getObject(\'modSnippet\', array(\'name\' => \'Office\'))) {\\n\\t$snippet->_cacheable = false;\\n\\t$snippet->_processed = false;\\n\\n\\treturn $snippet->process($scriptProperties);\\n}"}',
+        'guid' => '0e522e48b28497ee9adeca5913ccf098',
+        'native_key' => 0,
+        'signature' => 'eb158f9fdc1279b92a55e3903032235b',
+      ),
+      '830eed682d79f3e73541d84d59137762' => 
+      array (
+        'preserve_keys' => false,
+        'update_object' => true,
+        'unique_key' => 'name',
+        'class' => 'modSnippet',
+        'object' => '{"id":0,"source":1,"property_preprocess":0,"name":"officeRemoteServer","description":"","editor_type":0,"category":0,"cache_type":0,"snippet":"\\/** @var array $scriptProperties *\\/\\n$scriptProperties[\'action\'] = \'Remote\\/Auth\';\\n\\n\\/** @var modSnippet $snippet *\\/\\nif ($snippet = $modx->getObject(\'modSnippet\', array(\'name\' => \'Office\'))) {\\n\\t$snippet->_cacheable = false;\\n\\t$snippet->_processed = false;\\n\\n\\treturn $snippet->process($scriptProperties);\\n}","locked":0,"properties":"a:3:{s:5:\\"hosts\\";a:7:{s:4:\\"name\\";s:5:\\"hosts\\";s:4:\\"desc\\";s:17:\\"office_prop_hosts\\";s:4:\\"type\\";s:9:\\"textfield\\";s:7:\\"options\\";a:0:{}s:5:\\"value\\";s:0:\\"\\";s:7:\\"lexicon\\";s:17:\\"office:properties\\";s:4:\\"area\\";s:0:\\"\\";}s:3:\\"key\\";a:7:{s:4:\\"name\\";s:3:\\"key\\";s:4:\\"desc\\";s:15:\\"office_prop_key\\";s:4:\\"type\\";s:9:\\"textfield\\";s:7:\\"options\\";a:0:{}s:5:\\"value\\";s:0:\\"\\";s:7:\\"lexicon\\";s:17:\\"office:properties\\";s:4:\\"area\\";s:0:\\"\\";}s:6:\\"authId\\";a:7:{s:4:\\"name\\";s:6:\\"authId\\";s:4:\\"desc\\";s:18:\\"office_prop_authId\\";s:4:\\"type\\";s:11:\\"numberfield\\";s:7:\\"options\\";a:0:{}s:5:\\"value\\";i:0;s:7:\\"lexicon\\";s:17:\\"office:properties\\";s:4:\\"area\\";s:0:\\"\\";}}","moduleguid":"","static":0,"static_file":"core\\/components\\/office\\/elements\\/snippets\\/snippet.office.remote_server.php","content":"\\/** @var array $scriptProperties *\\/\\n$scriptProperties[\'action\'] = \'Remote\\/Auth\';\\n\\n\\/** @var modSnippet $snippet *\\/\\nif ($snippet = $modx->getObject(\'modSnippet\', array(\'name\' => \'Office\'))) {\\n\\t$snippet->_cacheable = false;\\n\\t$snippet->_processed = false;\\n\\n\\treturn $snippet->process($scriptProperties);\\n}"}',
+        'guid' => 'eaccb7a7127e29be5886a4fb4a2ae585',
+        'native_key' => 0,
+        'signature' => '351ce8012a4885f5443c1943cf81067e',
+      ),
+    ),
+    'Plugins' => 
+    array (
+      '37b16391e02415a1ae437f702a622d4c' => 
+      array (
+        'preserve_keys' => false,
+        'update_object' => true,
+        'unique_key' => 'name',
+        'class' => 'modPlugin',
+        'object' => '{"id":0,"source":1,"property_preprocess":0,"name":"officeProfile","description":"","editor_type":0,"category":0,"cache_type":0,"plugincode":"switch ($modx->event->name) {\\n\\n\\tcase \'OnLoadWebDocument\':\\n\\t\\tif ($modx->user->isAuthenticated($modx->context->key)) {\\n\\t\\t\\tif (!$modx->user->active || $modx->user->Profile->blocked) {\\n\\t\\t\\t\\t$modx->runProcessor(\'security\\/logout\');\\n\\t\\t\\t\\t$modx->sendRedirect($modx->makeUrl($modx->getOption(\'site_start\'),\'\',\'\',\'full\'));\\n\\t\\t\\t}\\n\\t\\t\\telseif ($page_id = $modx->getOption(\'office_profile_page_id\', null, false, true)) {\\n\\t\\t\\t\\tif ($modx->resource->id != $page_id && $modx->resource->parent != $page_id && @urldecode($_REQUEST[\'action\']) != \'auth\\/logout\') {\\n\\t\\t\\t\\t\\t$required = array_map(\'trim\', explode(\',\', $modx->getOption(\'office_profile_required_fields\', null)));\\n\\t\\t\\t\\t\\tif (!in_array(\'email\', $required)) {$required[] = \'email\';}\\n\\t\\t\\t\\t\\t$user = array_merge($modx->user->Profile->toArray(), $modx->user->toArray());\\n\\t\\t\\t\\t\\t$need = array();\\n\\t\\t\\t\\t\\tforeach ($required as $field) {\\n\\t\\t\\t\\t\\t\\tif (isset($user[$field]) && trim($user[$field]) == \'\') {\\n\\t\\t\\t\\t\\t\\t\\t$need[] = $field;\\n\\t\\t\\t\\t\\t\\t}\\n\\t\\t\\t\\t\\t\\telseif (preg_match(\'\\/(.*?)\\\\[(.*?)\\\\]\\/\', $field, $matches)) {\\n\\t\\t\\t\\t\\t\\t\\tif (empty($user[$matches[1]][$matches[2]])) {\\n\\t\\t\\t\\t\\t\\t\\t\\t$need[$matches[1].\'.\'.$matches[2]] = $field;\\n\\t\\t\\t\\t\\t\\t\\t}\\n\\t\\t\\t\\t\\t\\t}\\n\\t\\t\\t\\t\\t}\\n\\t\\t\\t\\t\\tif (!empty($need)) {\\n\\t\\t\\t\\t\\t\\t$modx->sendRedirect($modx->makeUrl($page_id,\'\',array(\'off_req\' => implode(\'-\',$need)),\'full\'));\\n\\t\\t\\t\\t\\t\\t@session_write_close();\\n\\t\\t\\t\\t\\t\\tdie;\\n\\t\\t\\t\\t\\t}\\n\\t\\t\\t\\t}\\n\\t\\t\\t}\\n\\t\\t\\tif ($modx->getOption(\'office_profile_force_email_as_username\', null, false)) {\\n\\t\\t\\t\\tif (!empty($modx->user->Profile->email) && $modx->user->username != $modx->user->Profile->email) {\\n\\t\\t\\t\\t\\t$modx->user->set(\'username\', $modx->user->Profile->email);\\n\\t\\t\\t\\t\\t$modx->user->save();\\n\\t\\t\\t\\t}\\n\\t\\t\\t}\\n\\t\\t};\\n\\t\\tbreak;\\n}","locked":0,"properties":null,"disabled":0,"moduleguid":"","static":0,"static_file":"core\\/components\\/office\\/elements\\/plugins\\/plugin.office.profile.php","content":"switch ($modx->event->name) {\\n\\n\\tcase \'OnLoadWebDocument\':\\n\\t\\tif ($modx->user->isAuthenticated($modx->context->key)) {\\n\\t\\t\\tif (!$modx->user->active || $modx->user->Profile->blocked) {\\n\\t\\t\\t\\t$modx->runProcessor(\'security\\/logout\');\\n\\t\\t\\t\\t$modx->sendRedirect($modx->makeUrl($modx->getOption(\'site_start\'),\'\',\'\',\'full\'));\\n\\t\\t\\t}\\n\\t\\t\\telseif ($page_id = $modx->getOption(\'office_profile_page_id\', null, false, true)) {\\n\\t\\t\\t\\tif ($modx->resource->id != $page_id && $modx->resource->parent != $page_id && @urldecode($_REQUEST[\'action\']) != \'auth\\/logout\') {\\n\\t\\t\\t\\t\\t$required = array_map(\'trim\', explode(\',\', $modx->getOption(\'office_profile_required_fields\', null)));\\n\\t\\t\\t\\t\\tif (!in_array(\'email\', $required)) {$required[] = \'email\';}\\n\\t\\t\\t\\t\\t$user = array_merge($modx->user->Profile->toArray(), $modx->user->toArray());\\n\\t\\t\\t\\t\\t$need = array();\\n\\t\\t\\t\\t\\tforeach ($required as $field) {\\n\\t\\t\\t\\t\\t\\tif (isset($user[$field]) && trim($user[$field]) == \'\') {\\n\\t\\t\\t\\t\\t\\t\\t$need[] = $field;\\n\\t\\t\\t\\t\\t\\t}\\n\\t\\t\\t\\t\\t\\telseif (preg_match(\'\\/(.*?)\\\\[(.*?)\\\\]\\/\', $field, $matches)) {\\n\\t\\t\\t\\t\\t\\t\\tif (empty($user[$matches[1]][$matches[2]])) {\\n\\t\\t\\t\\t\\t\\t\\t\\t$need[$matches[1].\'.\'.$matches[2]] = $field;\\n\\t\\t\\t\\t\\t\\t\\t}\\n\\t\\t\\t\\t\\t\\t}\\n\\t\\t\\t\\t\\t}\\n\\t\\t\\t\\t\\tif (!empty($need)) {\\n\\t\\t\\t\\t\\t\\t$modx->sendRedirect($modx->makeUrl($page_id,\'\',array(\'off_req\' => implode(\'-\',$need)),\'full\'));\\n\\t\\t\\t\\t\\t\\t@session_write_close();\\n\\t\\t\\t\\t\\t\\tdie;\\n\\t\\t\\t\\t\\t}\\n\\t\\t\\t\\t}\\n\\t\\t\\t}\\n\\t\\t\\tif ($modx->getOption(\'office_profile_force_email_as_username\', null, false)) {\\n\\t\\t\\t\\tif (!empty($modx->user->Profile->email) && $modx->user->username != $modx->user->Profile->email) {\\n\\t\\t\\t\\t\\t$modx->user->set(\'username\', $modx->user->Profile->email);\\n\\t\\t\\t\\t\\t$modx->user->save();\\n\\t\\t\\t\\t}\\n\\t\\t\\t}\\n\\t\\t};\\n\\t\\tbreak;\\n}"}',
+        'guid' => '76f81e26f1c5653fd0835beab89afd2d',
+        'native_key' => 0,
+        'signature' => '06b46b606cb763466e754a74f6edfb40',
+        'related_objects' => 
+        array (
+          'PluginEvents' => 
+          array (
+            '02426de41e863944c037dab89221fdd8' => 
+            array (
+              'preserve_keys' => true,
+              'update_object' => true,
+              'unique_key' => 
+              array (
+                0 => 'pluginid',
+                1 => 'event',
+              ),
+              'class' => 'modPluginEvent',
+              'object' => '{"pluginid":0,"event":"OnLoadWebDocument","priority":0,"propertyset":0}',
+              'guid' => 'b53dfdc26a326e7b317495b062e138f2',
+              'native_key' => 
+              array (
+                0 => 0,
+                1 => 'OnLoadWebDocument',
+              ),
+              'signature' => 'd9ac87b0005037d8e8451fda0ad5868f',
+            ),
+          ),
+        ),
+      ),
+      'd6187abfe53567075373486fa7b99211' => 
+      array (
+        'preserve_keys' => false,
+        'update_object' => true,
+        'unique_key' => 'name',
+        'class' => 'modPlugin',
+        'object' => '{"id":0,"source":1,"property_preprocess":0,"name":"officeAuth","description":"","editor_type":0,"category":0,"cache_type":0,"plugincode":"switch ($modx->event->name) {\\n\\n\\tcase \'OnHandleRequest\':\\n\\t\\t$actions = array(\'auth\\/login\', \'auth\\/logout\', \'remote\\/login\', \'remote\\/logout\');\\n\\n\\t\\tif (!empty($_REQUEST[\'action\']) && in_array(urldecode($_REQUEST[\'action\']), $actions)) {\\n\\t\\t\\t$params = array();\\n\\t\\t\\tforeach ($_REQUEST as $k => $v) {\\n\\t\\t\\t\\t$params[$k] = urldecode($v);\\n\\t\\t\\t}\\n\\t\\t\\tif (!$modx->loadClass(\'office\', MODX_CORE_PATH . \'components\\/office\\/model\\/office\\/\', false, true)) {return;}\\n\\n\\t\\t\\tlist($controller, $action) = explode(\'\\/\', $params[\'action\']);\\n\\t\\t\\t$config = !empty($_SESSION[\'Office\'][ucfirst($controller)][$modx->context->key])\\n\\t\\t\\t\\t? $_SESSION[\'Office\'][ucfirst($controller)][$modx->context->key]\\n\\t\\t\\t\\t: array();\\n\\n\\t\\t\\t$Office = new Office($modx, $config);\\n\\t\\t\\t$Office->loadAction($params[\'action\'], array_merge($params, $config));\\n\\t\\t}\\n\\t\\telseif ($modx->context->key != \'web\' && !$modx->user->id) {\\n\\t\\t\\tif ($user = $modx->getAuthenticatedUser($modx->context->key)) {\\n\\t\\t\\t\\t$modx->user = $user;\\n\\t\\t\\t\\t$modx->getUser($modx->context->key);\\n\\t\\t\\t}\\n\\t\\t}\\n\\n\\t\\tif (!empty($_SESSION[\'Office\'][\'ReturnTo\'][$modx->context->key]) && $modx->user->isAuthenticated($modx->context->key)) {\\n\\t\\t\\t$return = $_SESSION[\'Office\'][\'ReturnTo\'][$modx->context->key];\\n\\t\\t\\tunset($_SESSION[\'Office\'][\'ReturnTo\'][$modx->context->key]);\\n\\t\\t\\t$modx->sendRedirect($return);\\n\\t\\t}\\n\\n\\t\\tbreak;\\n\\n\\tcase \'OnWebAuthentication\':\\n\\t\\t$modx->event->_output = !empty($_SESSION[\'Office\'][\'Auth\'][\'verified\']);\\n\\t\\tbreak;\\n\\n\\tcase \'OnUserSave\':\\n\\t\\tif (!empty($user) && !empty($mode) && $mode == \'new\') {\\n\\t\\t\\tif (!$user->get(\'remote_key\')) {\\n\\t\\t\\t\\t$user->set(\'remote_key\', $user->get(\'id\'));\\n\\t\\t\\t\\t$user->save();\\n\\t\\t\\t}\\n\\t\\t}\\n\\t\\tbreak;\\n}","locked":0,"properties":null,"disabled":0,"moduleguid":"","static":0,"static_file":"core\\/components\\/office\\/elements\\/plugins\\/plugin.office.auth.php","content":"switch ($modx->event->name) {\\n\\n\\tcase \'OnHandleRequest\':\\n\\t\\t$actions = array(\'auth\\/login\', \'auth\\/logout\', \'remote\\/login\', \'remote\\/logout\');\\n\\n\\t\\tif (!empty($_REQUEST[\'action\']) && in_array(urldecode($_REQUEST[\'action\']), $actions)) {\\n\\t\\t\\t$params = array();\\n\\t\\t\\tforeach ($_REQUEST as $k => $v) {\\n\\t\\t\\t\\t$params[$k] = urldecode($v);\\n\\t\\t\\t}\\n\\t\\t\\tif (!$modx->loadClass(\'office\', MODX_CORE_PATH . \'components\\/office\\/model\\/office\\/\', false, true)) {return;}\\n\\n\\t\\t\\tlist($controller, $action) = explode(\'\\/\', $params[\'action\']);\\n\\t\\t\\t$config = !empty($_SESSION[\'Office\'][ucfirst($controller)][$modx->context->key])\\n\\t\\t\\t\\t? $_SESSION[\'Office\'][ucfirst($controller)][$modx->context->key]\\n\\t\\t\\t\\t: array();\\n\\n\\t\\t\\t$Office = new Office($modx, $config);\\n\\t\\t\\t$Office->loadAction($params[\'action\'], array_merge($params, $config));\\n\\t\\t}\\n\\t\\telseif ($modx->context->key != \'web\' && !$modx->user->id) {\\n\\t\\t\\tif ($user = $modx->getAuthenticatedUser($modx->context->key)) {\\n\\t\\t\\t\\t$modx->user = $user;\\n\\t\\t\\t\\t$modx->getUser($modx->context->key);\\n\\t\\t\\t}\\n\\t\\t}\\n\\n\\t\\tif (!empty($_SESSION[\'Office\'][\'ReturnTo\'][$modx->context->key]) && $modx->user->isAuthenticated($modx->context->key)) {\\n\\t\\t\\t$return = $_SESSION[\'Office\'][\'ReturnTo\'][$modx->context->key];\\n\\t\\t\\tunset($_SESSION[\'Office\'][\'ReturnTo\'][$modx->context->key]);\\n\\t\\t\\t$modx->sendRedirect($return);\\n\\t\\t}\\n\\n\\t\\tbreak;\\n\\n\\tcase \'OnWebAuthentication\':\\n\\t\\t$modx->event->_output = !empty($_SESSION[\'Office\'][\'Auth\'][\'verified\']);\\n\\t\\tbreak;\\n\\n\\tcase \'OnUserSave\':\\n\\t\\tif (!empty($user) && !empty($mode) && $mode == \'new\') {\\n\\t\\t\\tif (!$user->get(\'remote_key\')) {\\n\\t\\t\\t\\t$user->set(\'remote_key\', $user->get(\'id\'));\\n\\t\\t\\t\\t$user->save();\\n\\t\\t\\t}\\n\\t\\t}\\n\\t\\tbreak;\\n}"}',
+        'guid' => '5dfaef1ea40c4e973425d07b5c0656cc',
+        'native_key' => 0,
+        'signature' => 'c7a9c2a0d2721993cc1e7e56f7dcdcb3',
+        'related_objects' => 
+        array (
+          'PluginEvents' => 
+          array (
+            'c7bbac857a3442766a68d27b5deb039f' => 
+            array (
+              'preserve_keys' => true,
+              'update_object' => true,
+              'unique_key' => 
+              array (
+                0 => 'pluginid',
+                1 => 'event',
+              ),
+              'class' => 'modPluginEvent',
+              'object' => '{"pluginid":0,"event":"OnHandleRequest","priority":20,"propertyset":0}',
+              'guid' => '7f8b2e17b233c19f4de2ff1a6f2f8e31',
+              'native_key' => 
+              array (
+                0 => 0,
+                1 => 'OnHandleRequest',
+              ),
+              'signature' => 'b5d94516d9b4373501209e80429880ce',
+            ),
+            '15de3b9e5f11865bd7dac67507aef6c5' => 
+            array (
+              'preserve_keys' => true,
+              'update_object' => true,
+              'unique_key' => 
+              array (
+                0 => 'pluginid',
+                1 => 'event',
+              ),
+              'class' => 'modPluginEvent',
+              'object' => '{"pluginid":0,"event":"OnWebAuthentication","priority":10,"propertyset":0}',
+              'guid' => '126d12ae198b37d6973332e7798492ad',
+              'native_key' => 
+              array (
+                0 => 0,
+                1 => 'OnWebAuthentication',
+              ),
+              'signature' => '955533ee940856b7b034d363230a64a0',
+            ),
+            '2adc02becb3e51ba791d8388fb72966d' => 
+            array (
+              'preserve_keys' => true,
+              'update_object' => true,
+              'unique_key' => 
+              array (
+                0 => 'pluginid',
+                1 => 'event',
+              ),
+              'class' => 'modPluginEvent',
+              'object' => '{"pluginid":0,"event":"OnUserSave","priority":10,"propertyset":0}',
+              'guid' => 'b56c0a3ecc2f1bf9eda71f10ab423095',
+              'native_key' => 
+              array (
+                0 => 0,
+                1 => 'OnUserSave',
+              ),
+              'signature' => 'f0975927e95e6c393d4629c59d4dc38f',
+            ),
+          ),
+        ),
+      ),
+    ),
+  ),
+  'related_object_attributes' => 
+  array (
+    'Snippets' => 
+    array (
+      'preserve_keys' => false,
+      'update_object' => true,
+      'unique_key' => 'name',
+    ),
+    'Chunks' => 
+    array (
+      'preserve_keys' => false,
+      'update_object' => false,
+      'unique_key' => 'name',
+    ),
+    'Plugins' => 
+    array (
+      'preserve_keys' => false,
+      'update_object' => true,
+      'unique_key' => 'name',
+    ),
+    'PluginEvents' => 
+    array (
+      'preserve_keys' => true,
+      'update_object' => true,
+      'unique_key' => 
+      array (
+        0 => 'pluginid',
+        1 => 'event',
+      ),
+    ),
+  ),
+  'namespace' => 'office',
+  'resolve' => 
+  array (
+    0 => 
+    array (
+      'type' => 'file',
+      'body' => '{"source":"office-1.1.10-pl\\/modCategory\\/b206c5c1fd93c3f771e07a14ba39aae8\\/0\\/","target":"return MODX_ASSETS_PATH . \'components\\/\';","name":"office"}',
+    ),
+    1 => 
+    array (
+      'type' => 'file',
+      'body' => '{"source":"office-1.1.10-pl\\/modCategory\\/b206c5c1fd93c3f771e07a14ba39aae8\\/1\\/","target":"return MODX_CORE_PATH . \'components\\/\';","name":"office"}',
+    ),
+    2 => 
+    array (
+      'type' => 'php',
+      'body' => '{"source":"office-1.1.10-pl\\/modCategory\\/b206c5c1fd93c3f771e07a14ba39aae8.resolve.chunks.resolver","type":"php","name":"resolve.chunks"}',
+    ),
+    3 => 
+    array (
+      'type' => 'php',
+      'body' => '{"source":"office-1.1.10-pl\\/modCategory\\/b206c5c1fd93c3f771e07a14ba39aae8.resolve.setup.resolver","type":"php","name":"resolve.setup"}',
+    ),
+    4 => 
+    array (
+      'type' => 'php',
+      'body' => '{"source":"office-1.1.10-pl\\/modCategory\\/b206c5c1fd93c3f771e07a14ba39aae8.resolve.settings.resolver","type":"php","name":"resolve.settings"}',
+    ),
+  ),
+  'validate' => NULL,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => 'ee298cc5cc0ba5ad226b30ac58eefc04',
+  'package' => 'modx',
+  'class' => 'modCategory',
+  'signature' => 'b206c5c1fd93c3f771e07a14ba39aae8',
+  'native_key' => 1,
+  'object' => '{"id":1,"parent":0,"category":"Office"}',
+);

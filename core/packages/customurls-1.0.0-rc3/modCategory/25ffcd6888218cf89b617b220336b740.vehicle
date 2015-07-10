@@ -1,0 +1,59 @@
+<?php return array (
+  'unique_key' => 'category',
+  'preserve_keys' => false,
+  'update_object' => true,
+  'related_objects' => 
+  array (
+    'Plugins' => 
+    array (
+      '23289533a30c1b90d32b4caad6832310' => 
+      array (
+        'preserve_keys' => false,
+        'update_object' => true,
+        'unique_key' => 'name',
+        'class' => 'modPlugin',
+        'object' => '{"id":1,"source":0,"property_preprocess":0,"name":"CustomUrls","description":"Handles custom urls generation.","editor_type":0,"category":0,"cache_type":0,"plugincode":"\\/**\\n * CustomURLs customurls plugin\\n *\\n * Copyright 2011 Benjamin Vauchel <contact@omycode.fr>\\n *\\n * @author Benjamin Vauchel <contact@omycode.fr>\\n * @version Version 1.0.0-rc1\\n * 23\\/08\\/12\\n *\\n * CustomURLs is free software; you can redistribute it and\\/or modify it\\n * under the terms of the GNU General Public License as published by the Free\\n * Software Foundation; either version 2 of the License, or (at your option) any\\n * later version.\\n *\\n * CustomURLs is distributed in the hope that it will be useful, but WITHOUT ANY\\n * WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR\\n * A PARTICULAR PURPOSE. See the GNU General Public License for more details.\\n *\\n * You should have received a copy of the GNU General Public License along with\\n * CustomURLs; if not, write to the Free Software Foundation, Inc., 59 Temple\\n * Place, Suite 330, Boston, MA 02111-1307 USA\\n *\\n * @package customurls\\n *\\/\\n\\n\\/**\\n * MODx CustomURLs CustomUrls plugin\\n *\\n * Description: This extra allows you to define custom alias or URI patterns for your resources. It supports translit and Redirector packages.\\n * You can build your patterns from resource fields, TV, snippets and output filters and set some constraints like you\'d do with custom forms.\\n * Usefull when you want to add id or published date to your URLs.\\n * \\n * Example of URL patterns : \\n * \\n * [[+alias]]\\n * some-text-before-[[+alias]]\\n * [[+id]]-[[+alias]]\\n * [[+publishedon:strtotime:date=`%Y-%m-%d`]]\\/[[+id]]-[[+alias]]\\n * [[+tv.mytv]]-[[+id]]\\n * [[MySnippet? &id=`[[+id]]`]]\\n *\\n * Events: OnResourceDuplicate, OnDocFormSave\\n *\\n * @package customurls\\n *\\n *\\/\\n\\n\\/\\/ Load CustomUrls service\\n$corePath =  $modx->getOption(\'customurls.core_path\',$scriptProperties,$modx->getOption(\'core_path\').\'components\\/customurls\\/\');\\n$customUrls = $modx->getService(\'customurls\',\'CustomUrls\',$corePath.\'model\\/customurls\\/\',$scriptProperties);\\nif (!($customUrls instanceof CustomUrls)) return \'\';\\n\\n\\/\\/ Retrieve current resource\\n$eventName = $modx->event->name;\\nif($eventName == \'OnResourceDuplicate\')\\n{\\n    $resource = $newResource;\\n}\\n\\n\\/\\/ Select the proper URL pattern of the current resource\\n$customUrl = $customUrls->getCustomUrl($resource);\\n\\n\\/\\/ If no custom URL pattern defined, exit\\nif(empty($customUrl))\\n{\\n    return \'\';\\n}\\n\\n\\/\\/ Else we generate the custom URL\\nswitch($eventName) \\n{\\n    case \'OnDocFormSave\': \\n        $customUrls->generateCustomUrl($resource, $customUrl);\\n        break;\\n        \\n    case \'OnResourceDuplicate\': \\n        $customUrls->generateCustomUrl($resource, $customUrl);\\n        break;\\n}","locked":0,"properties":null,"disabled":0,"moduleguid":"","static":0,"static_file":"","content":"\\/**\\n * CustomURLs customurls plugin\\n *\\n * Copyright 2011 Benjamin Vauchel <contact@omycode.fr>\\n *\\n * @author Benjamin Vauchel <contact@omycode.fr>\\n * @version Version 1.0.0-rc1\\n * 23\\/08\\/12\\n *\\n * CustomURLs is free software; you can redistribute it and\\/or modify it\\n * under the terms of the GNU General Public License as published by the Free\\n * Software Foundation; either version 2 of the License, or (at your option) any\\n * later version.\\n *\\n * CustomURLs is distributed in the hope that it will be useful, but WITHOUT ANY\\n * WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR\\n * A PARTICULAR PURPOSE. See the GNU General Public License for more details.\\n *\\n * You should have received a copy of the GNU General Public License along with\\n * CustomURLs; if not, write to the Free Software Foundation, Inc., 59 Temple\\n * Place, Suite 330, Boston, MA 02111-1307 USA\\n *\\n * @package customurls\\n *\\/\\n\\n\\/**\\n * MODx CustomURLs CustomUrls plugin\\n *\\n * Description: This extra allows you to define custom alias or URI patterns for your resources. It supports translit and Redirector packages.\\n * You can build your patterns from resource fields, TV, snippets and output filters and set some constraints like you\'d do with custom forms.\\n * Usefull when you want to add id or published date to your URLs.\\n * \\n * Example of URL patterns : \\n * \\n * [[+alias]]\\n * some-text-before-[[+alias]]\\n * [[+id]]-[[+alias]]\\n * [[+publishedon:strtotime:date=`%Y-%m-%d`]]\\/[[+id]]-[[+alias]]\\n * [[+tv.mytv]]-[[+id]]\\n * [[MySnippet? &id=`[[+id]]`]]\\n *\\n * Events: OnResourceDuplicate, OnDocFormSave\\n *\\n * @package customurls\\n *\\n *\\/\\n\\n\\/\\/ Load CustomUrls service\\n$corePath =  $modx->getOption(\'customurls.core_path\',$scriptProperties,$modx->getOption(\'core_path\').\'components\\/customurls\\/\');\\n$customUrls = $modx->getService(\'customurls\',\'CustomUrls\',$corePath.\'model\\/customurls\\/\',$scriptProperties);\\nif (!($customUrls instanceof CustomUrls)) return \'\';\\n\\n\\/\\/ Retrieve current resource\\n$eventName = $modx->event->name;\\nif($eventName == \'OnResourceDuplicate\')\\n{\\n    $resource = $newResource;\\n}\\n\\n\\/\\/ Select the proper URL pattern of the current resource\\n$customUrl = $customUrls->getCustomUrl($resource);\\n\\n\\/\\/ If no custom URL pattern defined, exit\\nif(empty($customUrl))\\n{\\n    return \'\';\\n}\\n\\n\\/\\/ Else we generate the custom URL\\nswitch($eventName) \\n{\\n    case \'OnDocFormSave\': \\n        $customUrls->generateCustomUrl($resource, $customUrl);\\n        break;\\n        \\n    case \'OnResourceDuplicate\': \\n        $customUrls->generateCustomUrl($resource, $customUrl);\\n        break;\\n}"}',
+        'guid' => '35496d00d6fcc42c38e8a39af291cb7b',
+        'native_key' => 1,
+        'signature' => '966ef74a1ee722d6ae7dd6955529599f',
+      ),
+    ),
+  ),
+  'related_object_attributes' => 
+  array (
+    'Plugins' => 
+    array (
+      'preserve_keys' => false,
+      'update_object' => true,
+      'unique_key' => 'name',
+    ),
+  ),
+  'namespace' => 'customurls',
+  'resolve' => 
+  array (
+    0 => 
+    array (
+      'type' => 'file',
+      'body' => '{"source":"customurls-1.0.0-rc3\\/modCategory\\/25ffcd6888218cf89b617b220336b740\\/0\\/","target":"return MODX_CORE_PATH . \'components\\/\';","name":"customurls"}',
+    ),
+    1 => 
+    array (
+      'type' => 'file',
+      'body' => '{"source":"customurls-1.0.0-rc3\\/modCategory\\/25ffcd6888218cf89b617b220336b740\\/1\\/","target":"return MODX_ASSETS_PATH . \'components\\/\';","name":"customurls"}',
+    ),
+    2 => 
+    array (
+      'type' => 'php',
+      'body' => '{"source":"customurls-1.0.0-rc3\\/modCategory\\/25ffcd6888218cf89b617b220336b740.install.script.resolver","type":"php","name":"install.script"}',
+    ),
+  ),
+  'validate' => NULL,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => '3cfd27f360e23cd3a5ef882415ad7a39',
+  'package' => 'modx',
+  'class' => 'modCategory',
+  'signature' => '25ffcd6888218cf89b617b220336b740',
+  'native_key' => 1,
+  'object' => '{"id":1,"parent":0,"category":"CustomUrls"}',
+);

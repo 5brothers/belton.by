@@ -1,0 +1,16 @@
+<?php return array (
+  'unique_key' => 'key',
+  'preserve_keys' => true,
+  'update_object' => false,
+  'namespace' => 'msrevaluation',
+  'resolve' => NULL,
+  'validate' => NULL,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => '6f115b2a1f81ab7a3b1645e12578ae9d',
+  'package' => 'modx',
+  'class' => 'modSystemSetting',
+  'signature' => '50bbfc29df996a40e84ac83649f30e0d',
+  'native_key' => 'protect_from_revaluation',
+  'object' => '{"key":"protect_from_revaluation","value":"","xtype":"textfield","namespace":"msrevaluation","area":"","editedon":null}',
+);

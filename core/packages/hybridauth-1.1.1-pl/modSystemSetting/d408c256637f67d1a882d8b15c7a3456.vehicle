@@ -1,0 +1,16 @@
+<?php return array (
+  'unique_key' => 'key',
+  'preserve_keys' => true,
+  'update_object' => false,
+  'namespace' => 'hybridauth',
+  'resolve' => NULL,
+  'validate' => NULL,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => 'ec9ff14dd566b805d927b9e7547dec30',
+  'package' => 'modx',
+  'class' => 'modSystemSetting',
+  'signature' => 'd408c256637f67d1a882d8b15c7a3456',
+  'native_key' => 'ha.keys.Facebook',
+  'object' => '{"key":"ha.keys.Facebook","value":"{\\"id\\":\\"12345\\",\\"secret\\":\\"12345\\"}","xtype":"textfield","namespace":"hybridauth","area":"ha.keys","editedon":null}',
+);

@@ -1,0 +1,16 @@
+<?php return array (
+  'unique_key' => 'key',
+  'preserve_keys' => true,
+  'update_object' => false,
+  'namespace' => 'ms2gallery',
+  'resolve' => NULL,
+  'validate' => NULL,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => 'e9a78561e8d0df39f53dca3c1fc03983',
+  'package' => 'modx',
+  'class' => 'modSystemSetting',
+  'signature' => 'c0e46935da751b0e99906e73263b69e3',
+  'native_key' => 'ms2gallery_new_tab_mode',
+  'object' => '{"key":"ms2gallery_new_tab_mode","value":false,"xtype":"combo-boolean","namespace":"ms2gallery","area":"ms2gallery_resource","editedon":null}',
+);

@@ -1,0 +1,190 @@
+Changelog for Office.
+
+1.1.10-pl
+==============
+- [#19] [Profile] Fixed issue with HybridAuth templates.
+
+1.1.9-pl1
+==============
+- Updated HybridAuth version in the installer.
+
+1.1.8-pl1
+==============
+- [Profile] Fixed removing old photos from "avatarPath".
+- [Auth] Fixed some log entries.
+
+1.1.7-pl
+==============
+- Added call of system event on user activation.
+- [Remote] Changed log level to "error".
+
+1.1.6-pl
+==============
+- Fixed retrieving of modMail ErrorInfo.
+- Improved creating of system settings.
+- [#10] [miniShop2] Fixed order log pagination.
+
+1.1.5-pl1
+==============
+- [Profile] Improved handling of extended fields.
+
+1.1.4-pl3
+==============
+- [Main] Fixed work of frontend scripts whe Minify is not working.
+- [Profile] Removed option "profile_force_email_as_username" by default.
+- [#9] [Profile] Do not overwrite existing extended fields.
+- [#6] [Profile] Ability not to use email in profile form.
+- Ability to set empty &requiredFields=``.
+- Fixed ExtJS windows animation in MODX 2.3.
+
+1.1.3-pl
+==============
+- [#4] Fixed loading of HybridAuth with custom chunks.
+
+1.1.2-pl
+==============
+- [miniShop2] Improved support of MODX 2.3.
+
+1.1.1-pl1
+==============
+- Switched gravatar links to https by default.
+- [miniShop2] Added support of lexicons in payment, delivery and status names.
+
+1.1.0-pl1
+==============
+- [miniShop2] Fixed empty product names in order grid on MS2 < 2.1.8.
+- [Auth] Added "username" and "fullname" fields to registration form.
+- [Auth] Ability to use username or email for login.
+- [Auth] User will receive activation email if he trying to login and his account was not activated.
+- [#3] [Auth] Ability to use $_GET['hauth_return'] for redirecting user to any page after authorization.
+- [#2] [Profile] Fixed clearing of user photo.
+- [#1] [Profile] Improved regular expression for supporting of all unicode characters.
+
+1.1.0-beta
+==============
+- [Main] Updated Ext JS modx-theme.
+- [Main] Added Font Awesome 4.1 for modx-theme.
+- [miniShop2] Updated miniShop2 controller and Ext JS grid for version 2.1.8.
+- [miniShop2] Improved format of weight and price in MS2 grid.
+- [miniShop2] Fixed default system setting "office_ms2_order_product_fields".
+- [Auth] Ability to use password for login.
+- [Auth] New login form.
+- [Profile] Ability to change password.
+- [Remote] Fixed parameter "updateUser" in remote auth controller.
+
+1.0.0-pl
+==============
+- [Auth] Ability to use regular user names, not email.
+- [Profile] Added system setting to force using emails as usernames.
+- [Profile] Ability to change username.
+- [Profile] Ability to upload user avatar.
+- Updated chunks for Bootstrap 3.
+- Ability to overwrite chunks on update.
+- [Remote] New controller for remote authentication.
+- Improved login errros handling.
+- Fixed &profileFields in "officeProfile".
+
+0.9.5-pl2
+==============
+- [Profile] Ability to edit extended fields.
+- [miniShop2] Fixed popup windows in Internet Explorer.
+
+0.9.4-pl
+==============
+- Optimized creating of system settings fo "page_id".
+
+0.9.3-pl
+==============
+- [Profile] Added displaying error messages about required fields when user redirected to profile.
+
+0.9.2-pl
+==============
+- Added urldecode of action in plugins.
+- Fixed bug with clearing cache of site.
+
+0.9.1-pl
+==============
+- [Profile] Username is always the user`s email.
+- [Main] Component set "alow_multiple_emails" to false on installation.
+
+0.9.1-rc
+==============
+- [Auth] Improved work in multiple contexts.
+- [Auth] Fixed generated links for contexts in subdirectory.
+- [Auth] Moved "login" and "Logout" logic to system plugin.
+- [Auth] Improved saving "office_auth_page_id" setting.
+- [Profile] mproved saving "office_profile_page_id" setting.
+- [Main] Fixed issues with multiple controllers calls on one page.
+
+0.9.0-pl2
+==============
+- Fixed email verification
+- Removed unused files
+- Added integration with HybridAuth 0.7+
+
+0.8.3
+==============
+- Fixed wrong values in MS2 orders grid.
+
+0.8.2
+==============
+- [Main] Changed hard coded "/manager/" to MODX_MANAGER_URL constant.
+
+0.8.1
+==============
+- [Profile] Added system setting "office_profile_required_fields" for requirement from users to fill in this fields.
+
+0.8.0
+==============
+- [Auth] Improved activation email.
+- [Auth] Fixed "loginResourceId" and "logoutResourceId".
+- [Profile] Fixed and improved update of profile.
+- [Profile] If user is not authenticated, controller do not redirects to unathorized page anymore.
+- [miniShop2] Fixed work with miniShop2, called on page.
+- [miniShop2] Improved orders table.
+- [miniShop2] If user is not authenticated, controller do not redirects to unathorized page anymore.
+- [miniShop2] Moved "details" link from context menu to the grid column.
+
+0.7.1
+==============
+- [Main] Added "office_extjs_css" system setting for specifying custom css for ExtJS.
+- [miniShop2] Customizable orders grid.
+- [miniShop2] Customizable order form.
+- [miniShop2] Customizable address form.
+- [miniShop2] Customizable order product grid.
+
+0.7.0
+==============
+- [miniShop2] Added new controller
+
+0.6.0
+==============
+- [Main] Preparation for first public release
+- [Auth] Added system setting "office_auth_page_id"
+- [Profile] Added system setting "office_profile_page_id"
+- Added ability to load custom styles and javascript for Auth and Profile controllers.
+
+0.4.0
+==============
+- [Main] Main class improvements. Added method Office::addClientExtJS()
+
+0.3.2
+==============
+- [Auth] Improved redirect on login\logout
+
+0.3.1
+==============
+- [Auth] Added checking of already send activation link
+- [Auth] Added checking of already logged in users
+
+0.3.0
+==============
+- [Main] Integration of Ext JS from MODX
+
+0.2.0
+==============
+- [Profile] Edit user profile and change email with verification.
+
+0.1.0
+==============
+- [Auth] Login\logout

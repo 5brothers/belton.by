@@ -1,0 +1,16 @@
+<?php return array (
+  'unique_key' => 'key',
+  'preserve_keys' => true,
+  'update_object' => false,
+  'namespace' => 'hybridauth',
+  'resolve' => NULL,
+  'validate' => NULL,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => 'e760882d45af1482141c27c49ea0596c',
+  'package' => 'modx',
+  'class' => 'modSystemSetting',
+  'signature' => 'a4e7f22259014f84ca679b3b03f84b69',
+  'native_key' => 'ha.keys.Twitter',
+  'object' => '{"key":"ha.keys.Twitter","value":"{\\"key\\":\\"12345\\",\\"secret\\":\\"12345\\"}","xtype":"textfield","namespace":"hybridauth","area":"ha.keys","editedon":null}',
+);

@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => '8c8c6331886c559066dd421bd1ae4eb2',
+  'package' => 'modx',
+  'class' => 'modEvent',
+  'signature' => '413209abf87d4a6d5f02462ec01e4974',
+  'native_key' => 'OnFileManagerFileRename',
+  'object' => '{"name":"OnFileManagerFileRename","service":1,"groupname":"System"}',
+);

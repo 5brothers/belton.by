@@ -1,0 +1,150 @@
+<?php return array (
+  'unique_key' => 'category',
+  'preserve_keys' => false,
+  'update_object' => true,
+  'related_objects' => 
+  array (
+    'Chunks' => 
+    array (
+      '98ea831490cbc9a436d338553b25cb67' => 
+      array (
+        'preserve_keys' => false,
+        'update_object' => false,
+        'unique_key' => 'name',
+        'class' => 'modChunk',
+        'object' => '{"id":0,"source":1,"property_preprocess":0,"name":"Head","description":"Head of site with scripts and styles","editor_type":0,"category":0,"cache_type":0,"snippet":"<meta charset=\\"[[++modx_charset]]\\">\\r\\n<meta http-equiv=\\"X-UA-Compatible\\" content=\\"IE=edge\\">\\r\\n<meta name=\\"viewport\\" content=\\"width=device-width, initial-scale=1.0\\">\\r\\n<meta name=\\"description\\" content=\\"\\">\\r\\n<meta name=\\"author\\" content=\\"\\">\\r\\n<base href=\\"[[++site_url]]\\" \\/>\\r\\n<title>[[!pdoTitle]] \\/ [[++site_name]]<\\/title>\\r\\n\\r\\n<!-- You can add theme from bootswatch.com: just add it into &cssSources=``.\\r\\nFor example: [[++assets_url]]components\\/themebootstrap\\/css\\/slate\\/bootstrap.min.css-->\\r\\n[[MinifyX?\\r\\n\\t&minifyCss=`1`\\r\\n\\t&registerCss=`1`\\r\\n\\t&cssSources=`\\r\\n\\t\\t[[++assets_url]]components\\/themebootstrap\\/css\\/bootstrap.min.css,\\r\\n\\t\\t[[++assets_url]]components\\/themebootstrap\\/css\\/add.css\\r\\n\\t`\\r\\n\\t&minifyJs=`1`\\r\\n\\t&registerJs=`1`\\r\\n\\t&jsSources=`\\r\\n\\t\\t[[++assets_url]]components\\/themebootstrap\\/js\\/bootstrap.min.js\\r\\n\\t`\\r\\n]]\\r\\n\\r\\n<script src=\\"[[++assets_url]]components\\/themebootstrap\\/js\\/jquery.min.js\\"><\\/script>\\r\\n\\r\\n<!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->\\r\\n<!--[if lt IE 9]>\\r\\n<script src=\\"https:\\/\\/oss.maxcdn.com\\/libs\\/html5shiv\\/3.7.0\\/html5shiv.js\\"><\\/script>\\r\\n<script src=\\"https:\\/\\/oss.maxcdn.com\\/libs\\/respond.js\\/1.3.0\\/respond.min.js\\"><\\/script>\\r\\n<![endif]-->\\r\\n","locked":0,"properties":null,"static":0,"static_file":"assets\\/components\\/themebootstrap\\/elements\\/chunks\\/chunk.head.tpl","content":"<meta charset=\\"[[++modx_charset]]\\">\\r\\n<meta http-equiv=\\"X-UA-Compatible\\" content=\\"IE=edge\\">\\r\\n<meta name=\\"viewport\\" content=\\"width=device-width, initial-scale=1.0\\">\\r\\n<meta name=\\"description\\" content=\\"\\">\\r\\n<meta name=\\"author\\" content=\\"\\">\\r\\n<base href=\\"[[++site_url]]\\" \\/>\\r\\n<title>[[!pdoTitle]] \\/ [[++site_name]]<\\/title>\\r\\n\\r\\n<!-- You can add theme from bootswatch.com: just add it into &cssSources=``.\\r\\nFor example: [[++assets_url]]components\\/themebootstrap\\/css\\/slate\\/bootstrap.min.css-->\\r\\n[[MinifyX?\\r\\n\\t&minifyCss=`1`\\r\\n\\t&registerCss=`1`\\r\\n\\t&cssSources=`\\r\\n\\t\\t[[++assets_url]]components\\/themebootstrap\\/css\\/bootstrap.min.css,\\r\\n\\t\\t[[++assets_url]]components\\/themebootstrap\\/css\\/add.css\\r\\n\\t`\\r\\n\\t&minifyJs=`1`\\r\\n\\t&registerJs=`1`\\r\\n\\t&jsSources=`\\r\\n\\t\\t[[++assets_url]]components\\/themebootstrap\\/js\\/bootstrap.min.js\\r\\n\\t`\\r\\n]]\\r\\n\\r\\n<script src=\\"[[++assets_url]]components\\/themebootstrap\\/js\\/jquery.min.js\\"><\\/script>\\r\\n\\r\\n<!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->\\r\\n<!--[if lt IE 9]>\\r\\n<script src=\\"https:\\/\\/oss.maxcdn.com\\/libs\\/html5shiv\\/3.7.0\\/html5shiv.js\\"><\\/script>\\r\\n<script src=\\"https:\\/\\/oss.maxcdn.com\\/libs\\/respond.js\\/1.3.0\\/respond.min.js\\"><\\/script>\\r\\n<![endif]-->\\r\\n"}',
+        'guid' => '0043847b620b994a12bdf3da83e95dc9',
+        'native_key' => 0,
+        'signature' => '56edadf064b88eeb524416fa33fe80aa',
+      ),
+      '40c332a2de1b81980ed1fa7b7ab5d946' => 
+      array (
+        'preserve_keys' => false,
+        'update_object' => false,
+        'unique_key' => 'name',
+        'class' => 'modChunk',
+        'object' => '{"id":0,"source":1,"property_preprocess":0,"name":"Navbar","description":"Navbar with main navigation","editor_type":0,"category":0,"cache_type":0,"snippet":"<!-- Static navbar -->\\r\\n<div class=\\"navbar navbar-default navbar-static-top\\" role=\\"navigation\\">\\r\\n\\t<div class=\\"container\\">\\r\\n\\t\\t<div class=\\"navbar-header\\">\\r\\n\\t\\t\\t<button type=\\"button\\" class=\\"navbar-toggle\\" data-toggle=\\"collapse\\" data-target=\\".navbar-collapse\\">\\r\\n\\t\\t\\t\\t<span class=\\"sr-only\\">Toggle navigation<\\/span>\\r\\n\\t\\t\\t\\t<span class=\\"icon-bar\\"><\\/span>\\r\\n\\t\\t\\t\\t<span class=\\"icon-bar\\"><\\/span>\\r\\n\\t\\t\\t\\t<span class=\\"icon-bar\\"><\\/span>\\r\\n\\t\\t\\t<\\/button>\\r\\n\\t\\t\\t<a class=\\"navbar-brand\\" href=\\"\\/\\">[[++site_name]]<\\/a>\\r\\n\\t\\t<\\/div>\\r\\n\\t\\t<div class=\\"navbar-collapse collapse\\">\\r\\n\\t\\t\\t<ul class=\\"nav navbar-nav\\">\\r\\n\\t\\t\\t\\t[[pdoMenu?\\r\\n\\t\\t\\t\\t\\t&startId=`0`\\r\\n\\t\\t\\t\\t\\t&level=`2`\\r\\n\\t\\t\\t\\t\\t&tplParentRow=`@INLINE\\r\\n\\t\\t\\t\\t\\t<li class=\\"[[+classnames]] dropdown\\">\\r\\n\\t\\t\\t\\t\\t\\t<a href=\\"#\\" class=\\"dropdown-toggle\\" data-toggle=\\"dropdown\\" [[+attributes]]>[[+menutitle]]<b class=\\"caret\\"><\\/b><\\/a>\\r\\n\\t\\t\\t\\t\\t\\t<ul class=\\"dropdown-menu\\">[[+wrapper]]<\\/ul>\\r\\n\\t\\t\\t\\t\\t<\\/li>`\\r\\n\\t\\t\\t\\t\\t&tplOuter=`@INLINE [[+wrapper]]`\\r\\n\\t\\t\\t\\t]]\\r\\n\\t\\t\\t<\\/ul>\\r\\n\\t\\t<\\/div><!--\\/.nav-collapse -->\\r\\n\\t<\\/div>\\r\\n<\\/div>","locked":0,"properties":null,"static":0,"static_file":"assets\\/components\\/themebootstrap\\/elements\\/chunks\\/chunk.navbar.tpl","content":"<!-- Static navbar -->\\r\\n<div class=\\"navbar navbar-default navbar-static-top\\" role=\\"navigation\\">\\r\\n\\t<div class=\\"container\\">\\r\\n\\t\\t<div class=\\"navbar-header\\">\\r\\n\\t\\t\\t<button type=\\"button\\" class=\\"navbar-toggle\\" data-toggle=\\"collapse\\" data-target=\\".navbar-collapse\\">\\r\\n\\t\\t\\t\\t<span class=\\"sr-only\\">Toggle navigation<\\/span>\\r\\n\\t\\t\\t\\t<span class=\\"icon-bar\\"><\\/span>\\r\\n\\t\\t\\t\\t<span class=\\"icon-bar\\"><\\/span>\\r\\n\\t\\t\\t\\t<span class=\\"icon-bar\\"><\\/span>\\r\\n\\t\\t\\t<\\/button>\\r\\n\\t\\t\\t<a class=\\"navbar-brand\\" href=\\"\\/\\">[[++site_name]]<\\/a>\\r\\n\\t\\t<\\/div>\\r\\n\\t\\t<div class=\\"navbar-collapse collapse\\">\\r\\n\\t\\t\\t<ul class=\\"nav navbar-nav\\">\\r\\n\\t\\t\\t\\t[[pdoMenu?\\r\\n\\t\\t\\t\\t\\t&startId=`0`\\r\\n\\t\\t\\t\\t\\t&level=`2`\\r\\n\\t\\t\\t\\t\\t&tplParentRow=`@INLINE\\r\\n\\t\\t\\t\\t\\t<li class=\\"[[+classnames]] dropdown\\">\\r\\n\\t\\t\\t\\t\\t\\t<a href=\\"#\\" class=\\"dropdown-toggle\\" data-toggle=\\"dropdown\\" [[+attributes]]>[[+menutitle]]<b class=\\"caret\\"><\\/b><\\/a>\\r\\n\\t\\t\\t\\t\\t\\t<ul class=\\"dropdown-menu\\">[[+wrapper]]<\\/ul>\\r\\n\\t\\t\\t\\t\\t<\\/li>`\\r\\n\\t\\t\\t\\t\\t&tplOuter=`@INLINE [[+wrapper]]`\\r\\n\\t\\t\\t\\t]]\\r\\n\\t\\t\\t<\\/ul>\\r\\n\\t\\t<\\/div><!--\\/.nav-collapse -->\\r\\n\\t<\\/div>\\r\\n<\\/div>"}',
+        'guid' => '37025bb1e1be2efedbeb46824947c0c2',
+        'native_key' => 0,
+        'signature' => 'a34c592647a3708779c2c15886ebe577',
+      ),
+      'b567b7fc577839f32f27097e45fac622' => 
+      array (
+        'preserve_keys' => false,
+        'update_object' => false,
+        'unique_key' => 'name',
+        'class' => 'modChunk',
+        'object' => '{"id":0,"source":1,"property_preprocess":0,"name":"Footer","description":"Chunk with footer","editor_type":0,"category":0,"cache_type":0,"snippet":"<footer>\\r\\n\\t<div class=\\"row\\">\\r\\n\\t\\t<div class=\\"col-lg-8\\">\\r\\n\\t\\t\\t<p><small>\\r\\n\\t\\t\\t\\ttotal time: [^t^]<br\\/>\\r\\n\\t\\t\\t\\tquery time: [^qt^]<br\\/>\\r\\n\\t\\t\\t\\tqueries: [^q^]\\r\\n\\t\\t\\t<\\/small><\\/p>\\r\\n\\t\\t<\\/div>\\r\\n\\t\\t<div class=\\"col-lg-4\\">\\r\\n\\t\\t\\t<p class=\\"\\">&copy;2015 [[++site_name]]<\\/p>\\r\\n\\t\\t\\t<a href=\\"http:\\/\\/bezumkin.ru\\/\\">[[++cultureKey:is=`ru`:then=`\\u0412\\u0430\\u0441\\u0438\\u043b\\u0438\\u0439 \\u041d\\u0430\\u0443\\u043c\\u043a\\u0438\\u043d`:else=`Vasiliy Naumkin`]]<\\/a>\\r\\n\\t\\t<\\/div>\\r\\n\\t<\\/div>\\r\\n<\\/footer>","locked":0,"properties":null,"static":0,"static_file":"assets\\/components\\/themebootstrap\\/elements\\/chunks\\/chunk.footer.tpl","content":"<footer>\\r\\n\\t<div class=\\"row\\">\\r\\n\\t\\t<div class=\\"col-lg-8\\">\\r\\n\\t\\t\\t<p><small>\\r\\n\\t\\t\\t\\ttotal time: [^t^]<br\\/>\\r\\n\\t\\t\\t\\tquery time: [^qt^]<br\\/>\\r\\n\\t\\t\\t\\tqueries: [^q^]\\r\\n\\t\\t\\t<\\/small><\\/p>\\r\\n\\t\\t<\\/div>\\r\\n\\t\\t<div class=\\"col-lg-4\\">\\r\\n\\t\\t\\t<p class=\\"\\">&copy;2015 [[++site_name]]<\\/p>\\r\\n\\t\\t\\t<a href=\\"http:\\/\\/bezumkin.ru\\/\\">[[++cultureKey:is=`ru`:then=`\\u0412\\u0430\\u0441\\u0438\\u043b\\u0438\\u0439 \\u041d\\u0430\\u0443\\u043c\\u043a\\u0438\\u043d`:else=`Vasiliy Naumkin`]]<\\/a>\\r\\n\\t\\t<\\/div>\\r\\n\\t<\\/div>\\r\\n<\\/footer>"}',
+        'guid' => '9e160ae0c54ee617dfc4c4e2a82d4210',
+        'native_key' => 0,
+        'signature' => 'cdbd2e6232415a81cf251931b37ff748',
+      ),
+      'd4a43f958317a6263c9eb7f87f8f0108' => 
+      array (
+        'preserve_keys' => false,
+        'update_object' => false,
+        'unique_key' => 'name',
+        'class' => 'modChunk',
+        'object' => '{"id":0,"source":1,"property_preprocess":0,"name":"Content.main","description":"Content of main page","editor_type":0,"category":0,"cache_type":0,"snippet":"<h3>[[++site_name]]<\\/h3>\\n\\n[[*content]]\\n\\n[[!pdoPage?\\n\\t&element=`pdoResources`\\n\\t&parents=`0`\\n\\t&useWeblinkUrl=`1`\\n\\t&tpl=`@INLINE <p>[[+idx]]. <a href=\\"[[+link]]\\">[[+pagetitle]]<\\/a><\\/p>`\\n\\t&tplPageWrapper=`@INLINE <ul class=\\"pagination\\">[[+first]][[+prev]][[+pages]][[+next]][[+last]]<\\/ul>`\\n]]\\n\\n[[!+page.nav]]","locked":0,"properties":null,"static":0,"static_file":"assets\\/components\\/themebootstrap\\/elements\\/chunks\\/chunk.content.main.tpl","content":"<h3>[[++site_name]]<\\/h3>\\n\\n[[*content]]\\n\\n[[!pdoPage?\\n\\t&element=`pdoResources`\\n\\t&parents=`0`\\n\\t&useWeblinkUrl=`1`\\n\\t&tpl=`@INLINE <p>[[+idx]]. <a href=\\"[[+link]]\\">[[+pagetitle]]<\\/a><\\/p>`\\n\\t&tplPageWrapper=`@INLINE <ul class=\\"pagination\\">[[+first]][[+prev]][[+pages]][[+next]][[+last]]<\\/ul>`\\n]]\\n\\n[[!+page.nav]]"}',
+        'guid' => 'b715fa6d975805fd8ca577f199877329',
+        'native_key' => 0,
+        'signature' => 'bcdcb6d0b289a32c5f5f07b11504371b',
+      ),
+      '21f972ff8aa12520841cf7e622f437ea' => 
+      array (
+        'preserve_keys' => false,
+        'update_object' => false,
+        'unique_key' => 'name',
+        'class' => 'modChunk',
+        'object' => '{"id":0,"source":1,"property_preprocess":0,"name":"Content.inner","description":"Content of inner pages","editor_type":0,"category":0,"cache_type":0,"snippet":"<h3>[[*longtitle:default=`[[*pagetitle]]`]]<\\/h3>\\n\\n[[*content]]","locked":0,"properties":null,"static":0,"static_file":"assets\\/components\\/themebootstrap\\/elements\\/chunks\\/chunk.content.inner.tpl","content":"<h3>[[*longtitle:default=`[[*pagetitle]]`]]<\\/h3>\\n\\n[[*content]]"}',
+        'guid' => '8474a4fdeca5ba386d1c475137b0e9dc',
+        'native_key' => 0,
+        'signature' => '95cd0cce58a4d4d38ed0a74437ff817a',
+      ),
+      '0242f98a7dbcb0a26d24b463211bcec6' => 
+      array (
+        'preserve_keys' => false,
+        'update_object' => false,
+        'unique_key' => 'name',
+        'class' => 'modChunk',
+        'object' => '{"id":0,"source":1,"property_preprocess":0,"name":"Crumbs","description":"Breadcrumbs navigation","editor_type":0,"category":0,"cache_type":0,"snippet":"[[pdoCrumbs?\\n\\t&showAtHome=`0`\\n\\t&showHome=`1`\\n\\t&outputSeparator=``\\n\\t&tpl=`@INLINE <li><a href=\\"[[+link]]\\">[[+menutitle]]<\\/a><\\/li>`\\n\\t&tplCurrent=`@INLINE <li class=\\"active\\">[[+menutitle]]<\\/li>`\\n\\t&tplWrapper=`@INLINE <ol class=\\"breadcrumb\\">[[+output]]<\\/ol>`\\n]]","locked":0,"properties":null,"static":0,"static_file":"assets\\/components\\/themebootstrap\\/elements\\/chunks\\/chunk.crumbs.tpl","content":"[[pdoCrumbs?\\n\\t&showAtHome=`0`\\n\\t&showHome=`1`\\n\\t&outputSeparator=``\\n\\t&tpl=`@INLINE <li><a href=\\"[[+link]]\\">[[+menutitle]]<\\/a><\\/li>`\\n\\t&tplCurrent=`@INLINE <li class=\\"active\\">[[+menutitle]]<\\/li>`\\n\\t&tplWrapper=`@INLINE <ol class=\\"breadcrumb\\">[[+output]]<\\/ol>`\\n]]"}',
+        'guid' => '7946b8f477bb0532409cbf50ea7fa574',
+        'native_key' => 0,
+        'signature' => 'd6fe39fbacf0fd5ce0dccb609f32879c',
+      ),
+    ),
+    'Templates' => 
+    array (
+      '0ef07afbe10a95d9c2fbfd6c3a54718f' => 
+      array (
+        'preserve_keys' => false,
+        'update_object' => false,
+        'unique_key' => 'templatename',
+        'class' => 'modTemplate',
+        'object' => '{"id":0,"source":1,"property_preprocess":0,"templatename":"Bootstrap.main","description":"Template for main page with documents list","editor_type":0,"category":0,"icon":"","template_type":0,"content":"<!DOCTYPE html>\\n<html lang=\\"en\\">\\n\\t<head>\\n\\t\\t[[$Head]]\\n\\t<\\/head>\\n\\t<body>\\n\\t\\t[[$Navbar]]\\n\\t\\t<div class=\\"container\\">\\n\\t\\t\\t<div id=\\"content\\" class=\\"main\\">\\n\\t\\t\\t\\t[[$Content.main]]\\n\\t\\t\\t<\\/div>\\n\\t\\t\\t[[$Footer]]\\n\\t\\t<\\/div>\\n\\t<\\/body>\\n<\\/html>\\n","locked":0,"properties":null,"static":0,"static_file":"assets\\/components\\/themebootstrap\\/elements\\/templates\\/template.main.tpl"}',
+        'guid' => 'c21da0fd50bb27d30759dd237a2aa342',
+        'native_key' => 0,
+        'signature' => '7cb1be55eccf936d7cb32fe082679bfa',
+      ),
+      'fd19a4c76d49bbd0372782dd2a5cc57b' => 
+      array (
+        'preserve_keys' => false,
+        'update_object' => false,
+        'unique_key' => 'templatename',
+        'class' => 'modTemplate',
+        'object' => '{"id":0,"source":1,"property_preprocess":0,"templatename":"Bootstrap.inner","description":"Template for inner pages with display of content","editor_type":0,"category":0,"icon":"","template_type":0,"content":"<!DOCTYPE html>\\n<html>\\n\\t<head>\\n\\t\\t[[$Head]]\\n\\t<\\/head>\\n\\t<body>\\n\\t\\t[[$Navbar]]\\n\\t\\t<div class=\\"container\\">\\n\\t\\t\\t[[$Crumbs]]\\n\\t\\t\\t<div id=\\"content\\" class=\\"inner\\">\\n\\t\\t\\t\\t[[$Content.inner]]\\n\\t\\t\\t<\\/div>\\n\\t\\t\\t[[$Footer]]\\n\\t\\t<\\/div>\\n\\t<\\/body>\\n<\\/html>\\n","locked":0,"properties":null,"static":0,"static_file":"assets\\/components\\/themebootstrap\\/elements\\/templates\\/template.inner.tpl"}',
+        'guid' => '7d43a12dca864ddbd9b65727544aad51',
+        'native_key' => 0,
+        'signature' => 'e38cccd7d86456e13e9e3a701fa73d32',
+      ),
+    ),
+  ),
+  'related_object_attributes' => 
+  array (
+    'Templates' => 
+    array (
+      'preserve_keys' => false,
+      'update_object' => false,
+      'unique_key' => 'templatename',
+    ),
+    'Chunks' => 
+    array (
+      'preserve_keys' => false,
+      'update_object' => false,
+      'unique_key' => 'name',
+    ),
+  ),
+  'namespace' => 'themebootstrap',
+  'resolve' => 
+  array (
+    0 => 
+    array (
+      'type' => 'file',
+      'body' => '{"source":"themebootstrap-2.2.1-pl1\\/modCategory\\/aa98c661cbf90e48274c59fd6a07fe64\\/0\\/","target":"return MODX_ASSETS_PATH . \'components\\/\';","name":"themebootstrap"}',
+    ),
+    1 => 
+    array (
+      'type' => 'php',
+      'body' => '{"source":"themebootstrap-2.2.1-pl1\\/modCategory\\/aa98c661cbf90e48274c59fd6a07fe64.resolve.demo.resolver","type":"php","name":"resolve.demo"}',
+    ),
+    2 => 
+    array (
+      'type' => 'php',
+      'body' => '{"source":"themebootstrap-2.2.1-pl1\\/modCategory\\/aa98c661cbf90e48274c59fd6a07fe64.resolve.update.resolver","type":"php","name":"resolve.update"}',
+    ),
+    3 => 
+    array (
+      'type' => 'php',
+      'body' => '{"source":"themebootstrap-2.2.1-pl1\\/modCategory\\/aa98c661cbf90e48274c59fd6a07fe64.resolve.setup.resolver","type":"php","name":"resolve.setup"}',
+    ),
+  ),
+  'validate' => NULL,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => 'acdb001227c72bec3d95c6e4402b3d8f',
+  'package' => 'modx',
+  'class' => 'modCategory',
+  'signature' => 'aa98c661cbf90e48274c59fd6a07fe64',
+  'native_key' => 1,
+  'object' => '{"id":1,"parent":0,"category":"Theme.Bootstrap"}',
+);

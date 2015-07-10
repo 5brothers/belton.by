@@ -1,0 +1,50 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => false,
+  'unique_key' => 'text',
+  'related_objects' => 
+  array (
+    'Action' => 
+    array (
+      'e510901e468eb442eaec38096424a7f1' => 
+      array (
+        'preserve_keys' => false,
+        'update_object' => false,
+        'unique_key' => 
+        array (
+          0 => 'namespace',
+          1 => 'controller',
+        ),
+        'class' => 'modAction',
+        'object' => '{"id":0,"namespace":"msrevaluation","controller":"index","haslayout":1,"lang_topics":"msrevaluation:default","assets":"","help_url":"","parent":0}',
+        'guid' => '1ad094919ad869cce6e643b25082743b',
+        'native_key' => 0,
+        'signature' => '1d8b5a7ca8aa2f0c413f1efef25f649f',
+      ),
+    ),
+  ),
+  'related_object_attributes' => 
+  array (
+    'Action' => 
+    array (
+      'preserve_keys' => false,
+      'update_object' => false,
+      'unique_key' => 
+      array (
+        0 => 'namespace',
+        1 => 'controller',
+      ),
+    ),
+  ),
+  'namespace' => 'msrevaluation',
+  'resolve' => NULL,
+  'validate' => NULL,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => 'bbbed06793235c4f3bde67d35e6bed7a',
+  'package' => 'modx',
+  'class' => 'modMenu',
+  'signature' => 'f71c6037555073290f20566de29c076f',
+  'native_key' => 'msrevaluation',
+  'object' => '{"text":"msrevaluation","parent":"components","action":0,"description":"revaluation","icon":"images\\/icons\\/plugin.gif","menuindex":0,"params":"","handler":"","permissions":""}',
+);

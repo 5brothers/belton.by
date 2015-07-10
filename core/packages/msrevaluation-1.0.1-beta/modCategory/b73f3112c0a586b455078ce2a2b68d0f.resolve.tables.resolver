@@ -1,0 +1,22 @@
+<?php
+
+if ($object->xpdo) {
+	/* @var modX $modx */
+	$modx =& $object->xpdo;
+	switch ($options[xPDOTransport::PACKAGE_ACTION]) {
+		case xPDOTransport::ACTION_INSTALL:
+			$modelPath = $modx->getOption('msrevaluation.core_path',null,$modx->getOption('core_path').'components/msrevaluation/').'model/';
+			$modx->addPackage('msrevaluation', $modelPath);
+
+			$manager = $modx->getManager();
+			$manager->createObjectContainer('Revaluation');
+			break;
+
+		case xPDOTransport::ACTION_UPGRADE:
+			break;
+
+		case xPDOTransport::ACTION_UNINSTALL:
+			break;
+	}
+}
+return true;
