@@ -12,6 +12,8 @@ img {
 a {
   outline: none;
 }
+
+
 .page-inside {
   width: 972px;
   padding-left: 14px;
@@ -102,7 +104,7 @@ body {
   font-family: Tahoma, Arial, sans-serif;
   font-size: 12px;
   color: #646464;
-  background: url("http://static.komus.ru/www/images/longwinter/body_bg_100.gif") center top repeat-x #fff;
+  background: url("/images/longwinter/body_bg_100.gif") center top repeat-x #fff;
 }
 .bold {
   font-weight: bold;
@@ -171,43 +173,43 @@ textarea:-ms-input-placeholder {
   background-repeat: no-repeat;
 }
 .body--m-ny2014 {
-  background-image: url("http://static.komus.ru/www/images/longwinter/body/base/ny2014.jpg");
+  background-image: url("/images/longwinter/body/base/ny2014.jpg");
 }
 .body--m-stval2014 {
-  background-image: url("http://static.komus.ru/www/images/longwinter/body/base/stval2014.jpg");
+  background-image: url("/images/longwinter/body/base/stval2014.jpg");
 }
 .body--m-23feb2014 {
-  background-image: url("http://static.komus.ru/www/images/longwinter/body/base/23feb2014.jpg");
+  background-image: url("/images/longwinter/body/base/23feb2014.jpg");
 }
 .body--m-8march2014 {
-  background-image: url("http://static.komus.ru/www/images/longwinter/body/base/8march2014-1.jpg");
+  background-image: url("/images/longwinter/body/base/8march2014-1.jpg");
 }
 .body--m-12june2014 {
-  background-image: url("http://static.komus.ru/www/images/longwinter/body/base/12june2014.jpg");
+  background-image: url("/images/longwinter/body/base/12june2014.jpg");
 }
 .body--m-1september2014 {
-  background-image: url("http://static.komus.ru/www/images/longwinter/body/base/1september2014.jpg");
+  background-image: url("/images/longwinter/body/base/1september2014.jpg");
 }
 .body--m-4november2014 {
-  background-image: url("http://static.komus.ru/www/images/longwinter/body/base/4november2014.jpg");
+  background-image: url("/images/longwinter/body/base/4november2014.jpg");
 }
 .body--m-ny2015 {
-  background-image: url("http://static.komus.ru/www/images/longwinter/body/base/ny2015.jpg");
+  background-image: url("/images/longwinter/body/base/ny2015.jpg");
 }
 .body--m-1may2015 {
-  background-image: url("http://static.komus.ru/www/images/longwinter/body/base/1may2015.jpg");
+  background-image: url("/images/longwinter/body/base/1may2015.jpg");
 }
 .body--m-9may2015 {
-  background-image: url("http://static.komus.ru/www/images/longwinter/body/base/9may2015.jpg");
+  background-image: url("/images/longwinter/body/base/9may2015.jpg");
 }
 .body--m-12june2015 {
-  background-image: url("http://static.komus.ru/www/images/longwinter/body/base/12june2015.jpg");
+  background-image: url("/images/longwinter/body/base/12june2015.jpg");
 }
 .body--m-cottage2015 {
-  background-image: url("http://static.komus.ru/www/images/longwinter/body/base/cottage2015.jpg");
+  background-image: url("/images/longwinter/body/base/cottage2015.jpg");
 }
 .body--m-juicer {
-  background-image: url("http://static.komus.ru/www/images/longwinter/body/base/juicer.jpg");
+  background-image: url("/images/longwinter/body/base/juicer.jpg");
 }
 .media-print--typography {
   font-size: 12pt;
@@ -358,7 +360,7 @@ textarea:-ms-input-placeholder {
   width: 1008px;
   padding-top: 43px;
   text-align: left;
-  background: url("http://static.komus.ru/www/images/longwinter/page_bg.png") center top repeat-y;
+  background: url("/images/longwinter/page_bg.png") center top repeat-y;
 }
 .page--block {
   width: 1000px;
@@ -370,7 +372,7 @@ textarea:-ms-input-placeholder {
   padding-right: 14px;
 }
 .page--top-menu-inside {
-  width: 972px;
+  width: 1000px;
   padding-left: 14px;
   padding-right: 14px;
 }
@@ -397,9 +399,7 @@ textarea:-ms-input-placeholder {
   padding-right: 14px;
 }
 .page--footer-inside {
-  width: 972px;
-  padding-left: 14px;
-  padding-right: 14px;
+  width:1000px;
 }
 .page--m-full .page--content {
   width: 1000px;
@@ -421,7 +421,7 @@ textarea:-ms-input-placeholder {
   width: 100%;
   min-width: 1008px;
   height: 43px;
-  background: url("http://static.komus.ru/www/images/longwinter/application-bar/bg.png") center top repeat-x;
+  background: url("/images/longwinter/application-bar/bg.png") center top repeat-x;
 }
 .application-bar--block {
   width: 1000px;
@@ -491,7 +491,7 @@ textarea:-ms-input-placeholder {
   background-repeat: no-repeat;
 }
 .application-bar--item-menu-m-openable .application-bar--item-menu-name {
-  background-image: url("http://static.komus.ru/www/images/longwinter/application-bar/arrow-down.gif");
+  background-image: url("/images/longwinter/application-bar/arrow-down.gif");
 }
 .application-bar--item-menu-m-openable .application-bar--item-link {
   border-bottom: 0px;
@@ -517,21 +517,21 @@ textarea:-ms-input-placeholder {
 }
 .application-bar--basket {
   float: left;
-  width: 188px;
+  width: 150px;
   height: 43px;
   overflow: hidden;
-  background: url("http://static.komus.ru/www/images/longwinter/application-bar/basket_bg.png") left top no-repeat;
+  background: url("/images/longwinter/application-bar/basket_bg.png") left top no-repeat;
 }
 .application-bar--basket-link {
   display: block;
-  width: 188px;
+  width: 150px;
   height: 42px;
   cursor: pointer;
   cursor: hand;
   text-decoration: none;
   background-position: left top;
   background-repeat: no-repeat;
-  background-image: url("http://static.komus.ru/www/images/longwinter/application-bar/base/basket_icon-2.gif");
+  background-image: url("/images/longwinter/application-bar/base/basket_icon-2.gif");
 }
 .application-bar--basket-link:hover {
   background-position: left bottom;
@@ -568,7 +568,7 @@ textarea:-ms-input-placeholder {
   height: 41px;
   background-position: left top;
   background-repeat: no-repeat;
-  background-image: url("http://static.komus.ru/www/images/longwinter/application-bar/base/order_button-2.gif");
+  background-image: url("/images/longwinter/application-bar/base/order_button-2.gif");
 }
 .application-bar--order-link-active {
   background-position: left bottom;
@@ -584,12 +584,12 @@ textarea:-ms-input-placeholder {
   z-index: 1002;
   top: 0px;
   left: 0px;
-  background: url("http://static.komus.ru/www/images/longwinter/application-bar/emp.gif");
+  background: url("/images/longwinter/application-bar/emp.gif");
 }
 .application-bar__panel--top {
   position: relative;
   height: 12px;
-  background: url("http://static.komus.ru/www/images/longwinter/application-bar/emp.gif");
+  background: url("/images/longwinter/application-bar/emp.gif");
   border-bottom: 1px solid #78828c;
 }
 .application-bar__panel--top-arrow {
@@ -598,7 +598,7 @@ textarea:-ms-input-placeholder {
   left: 15px;
   width: 34px;
   height: 8px;
-  background: url("http://static.komus.ru/www/images/longwinter/application-bar/panel_arrow.gif") left top no-repeat;
+  background: url("/images/longwinter/application-bar/panel_arrow.gif") left top no-repeat;
 }
 .application-bar__panel--block {
   background: #fff;
@@ -630,16 +630,16 @@ textarea:-ms-input-placeholder {
 .application-bar__panel--bottom-left {
   width: 8px;
   height: 8px;
-  background: url("http://static.komus.ru/www/images/longwinter/application-bar/panel_bg-bottom-left.png") left top no-repeat;
+  background: url("/images/longwinter/application-bar/panel_bg-bottom-left.png") left top no-repeat;
 }
 .application-bar__panel--bottom-middle {
   height: 8px;
-  background: url("http://static.komus.ru/www/images/longwinter/application-bar/panel_bg-bottom-center.png") center top repeat-x;
+  background: url("/images/longwinter/application-bar/panel_bg-bottom-center.png") center top repeat-x;
 }
 .application-bar__panel--bottom-right {
   width: 8px;
   height: 8px;
-  background: url("http://static.komus.ru/www/images/longwinter/application-bar/panel_bg-bottom-right.png") right top no-repeat;
+  background: url("/images/longwinter/application-bar/panel_bg-bottom-right.png") right top no-repeat;
 }
 .header {
   position: relative;
@@ -648,18 +648,7 @@ textarea:-ms-input-placeholder {
   clear: both;
   height: 1%;
 }
-.header--block-left {
-  width: 255px;
-  float: left;
-}
-.header--block-center {
-  width: 480px;
-  float: left;
-}
-.header--block-right {
-  width: 237px;
-  float: left;
-}
+
 .header__breadcrumb {
   position: absolute;
   left: 12px;
@@ -713,7 +702,7 @@ textarea:-ms-input-placeholder {
   left: 15px;
   width: 210px;
   height: 70px;
-  background: url("http://static.komus.ru/www/images/longwinter/logo/emp.gif");
+  background: url("/images/longwinter/logo/emp.gif");
 }
 .logo {margin-top: 10px;}
 .logo--inside img{width:255px;}
@@ -765,7 +754,7 @@ textarea:-ms-input-placeholder {
 }
 .search-top--field-input {
   float: left;
-  height: 16px;
+  height: 24px;
   line-height: 16px;
   border: 0px;
   padding: 3px;
@@ -791,7 +780,7 @@ textarea:-ms-input-placeholder {
   display: block;
   width: 100px;
   height: 45px;
-  background-image: url("http://static.komus.ru/www/images/longwinter/search-top/base/button-2.png");
+  background-image: url("/images/longwinter/search-top/base/button-2.png");
   background-repeat: no-repeat;
   background-position: left top;
 }
@@ -856,16 +845,16 @@ textarea:-ms-input-placeholder {
 .links-cloud--top {
   height: 18px;
   overflow: hidden;
-  background: url("http://static.komus.ru/www/images/longwinter/links-cloud/bg-top.gif") left top no-repeat;
+  background: url("/images/longwinter/links-cloud/bg-top.gif") left top no-repeat;
 }
 .links-cloud--middle {
   overflow: hidden;
-  background: url("http://static.komus.ru/www/images/longwinter/links-cloud/bg-middle.gif") left center repeat-y;
+  background: url("/images/longwinter/links-cloud/bg-middle.gif") left center repeat-y;
 }
 .links-cloud--bottom {
   height: 11px;
   overflow: hidden;
-  background: url("http://static.komus.ru/www/images/longwinter/links-cloud/bg-bottom.gif") left top no-repeat;
+  background: url("/images/longwinter/links-cloud/bg-bottom.gif") left top no-repeat;
 }
 .links-cloud--content {
   width: 207px;
@@ -899,17 +888,17 @@ textarea:-ms-input-placeholder {
 .menu-general--bg {
   background-position: center top;
   background-repeat: repeat-x;
-  background-image: url("http://static.komus.ru/www/images/longwinter/menu-general/base/bg-center.gif");
+  background-image: url("/images/longwinter/menu-general/base/bg-center.gif");
 }
 .menu-general--border-left {
   background-position: left top;
   background-repeat: no-repeat;
-  background-image: url("http://static.komus.ru/www/images/longwinter/menu-general/base/bg-left.gif");
+  background-image: url("/images/longwinter/menu-general/base/bg-left.gif");
 }
 .menu-general--border-right {
   background-position: right top;
   background-repeat: no-repeat;
-  background-image: url("http://static.komus.ru/www/images/longwinter/menu-general/base/bg-right.gif");
+  background-image: url("/images/longwinter/menu-general/base/bg-right.gif");
 }
 .menu-general--block {
   width: 100%;
@@ -919,7 +908,7 @@ textarea:-ms-input-placeholder {
   vertical-align: middle;
   background-position: left top;
   background-repeat: repeat-y;
-  background-image: url("http://static.komus.ru/www/images/longwinter/menu-general/base/item_separator.gif");
+  background-image: url("/images/longwinter/menu-general/base/item_separator.gif");
 }
 .menu-general--item-first {
   background: none;
@@ -952,7 +941,7 @@ textarea:-ms-input-placeholder {
   left: 0px;
   width: 100%;
   height: 52px;
-  background: url("http://static.komus.ru/www/images/longwinter/menu-general/item-header_bg.png") left top no-repeat;
+  background: url("/images/longwinter/menu-general/item-header_bg.png") left top no-repeat;
 }
 .menu-general--item-m-header .menu-general--item-link {
   top: 17px;
@@ -966,10 +955,10 @@ textarea:-ms-input-placeholder {
   right: -14px;
   width: 14px;
   height: 51px;
-  background: url("http://static.komus.ru/www/images/longwinter/menu-general/item-header_arrow-right.png") left top no-repeat;
+  background: url("/images/longwinter/menu-general/item-header_arrow-right.png") left top no-repeat;
 }
 .menu-general--item-m-open {
-  background: url("http://static.komus.ru/www/images/longwinter/menu-general/base/item-open_bg-center-arrow.gif") center top no-repeat;
+  background: url("/images/longwinter/menu-general/base/item-open_bg-center-arrow.gif") center top no-repeat;
 }
 .menu-general--item-m-open .menu-general__links-panel {
   display: block;
@@ -981,7 +970,7 @@ textarea:-ms-input-placeholder {
   left: 0px;
   width: 100%;
   height: 21px;
-  background: url("http://static.komus.ru/www/images/longwinter/menu-general/item-header_arrow-bottom.png") center top no-repeat;
+  background: url("/images/longwinter/menu-general/item-header_arrow-bottom.png") center top no-repeat;
 }
 .menu-general--1 .menu-general--item {
   width: 100%;
@@ -1037,6 +1026,8 @@ textarea:-ms-input-placeholder {
 .menu-general--m-hover .menu-general__links-panel {
   z-index: 1100;
 }
+
+.menu-general--item-link{color:#fff!important;}
 .menu-general__links-panel {
   display: none;
   position: absolute;
@@ -1082,14 +1073,14 @@ textarea:-ms-input-placeholder {
 .menu-general__links-panel--link {
   display: block;
   padding-left: 15px;
-  background-image: url("http://static.komus.ru/www/images/longwinter/menu-general/links-panel_bullit.gif");
+  background-image: url("/images/longwinter/menu-general/links-panel_bullit.gif");
   background-position: left 6px;
   background-repeat: no-repeat;
   text-decoration: none;
   color: #646464;
 }
 .menu-general__links-panel--link:hover {
-  background-image: url("http://static.komus.ru/www/images/longwinter/menu-general/links-panel_bullit-hover.gif");
+  background-image: url("/images/longwinter/menu-general/links-panel_bullit-hover.gif");
   color: #0078c3;
 }
 .menu-general__links-panel--link:hover .menu-general__links-panel--link-count {
@@ -1141,19 +1132,19 @@ textarea:-ms-input-placeholder {
   float: left;
   width: 8px;
   height: 8px;
-  background: url("http://static.komus.ru/www/images/longwinter/menu-general/base/links-panel_bg-bottom-left.png") left top no-repeat;
+  background: url("/images/longwinter/menu-general/base/links-panel_bg-bottom-left.png") left top no-repeat;
 }
 .menu-general__links-panel--bottom-center {
   float: left;
   width: 592px;
   height: 8px;
-  background: url("http://static.komus.ru/www/images/longwinter/menu-general/base/links-panel_bg-bottom-center.png") center top repeat-x;
+  background: url("/images/longwinter/menu-general/base/links-panel_bg-bottom-center.png") center top repeat-x;
 }
 .menu-general__links-panel--bottom-right {
   float: left;
   width: 8px;
   height: 8px;
-  background: url("http://static.komus.ru/www/images/longwinter/menu-general/base/links-panel_bg-bottom-right.png") left top no-repeat;
+  background: url("/images/longwinter/menu-general/base/links-panel_bg-bottom-right.png") left top no-repeat;
 }
 .menu-general__links-panel--m-header {
   width: 616px;
@@ -1162,17 +1153,17 @@ textarea:-ms-input-placeholder {
   width: 616px;
 }
 .menu-general__links-panel--m-header .menu-general__links-panel--block {
-  background: url("http://static.komus.ru/www/images/longwinter/menu-general/emp.gif");
+  background: url("/images/longwinter/menu-general/emp.gif");
   border-left: 0px;
   border-right: 0px;
 }
 .menu-general__links-panel--m-header .menu-general__links-panel--block-bg-left {
   padding-left: 20px;
-  background: url("http://static.komus.ru/www/images/longwinter/menu-general/links-panel-header_bg-left.png") left center repeat-y;
+  background: url("/images/longwinter/menu-general/links-panel-header_bg-left.png") left center repeat-y;
 }
 .menu-general__links-panel--m-header .menu-general__links-panel--block-bg-right {
   padding-right: 20px;
-  background: url("http://static.komus.ru/www/images/longwinter/menu-general/links-panel-header_bg-right.png") right center repeat-y;
+  background: url("/images/longwinter/menu-general/links-panel-header_bg-right.png") right center repeat-y;
 }
 .menu-general__links-panel--m-header .menu-general__links-panel--block-bg-center {
   background: #fff;
@@ -1199,17 +1190,17 @@ textarea:-ms-input-placeholder {
 .menu-general__links-panel--m-header .menu-general__links-panel--bottom-left {
   width: 20px;
   height: 20px;
-  background: url("http://static.komus.ru/www/images/longwinter/menu-general/links-panel-header_bg-bottom-left.png") left top no-repeat;
+  background: url("/images/longwinter/menu-general/links-panel-header_bg-bottom-left.png") left top no-repeat;
 }
 .menu-general__links-panel--m-header .menu-general__links-panel--bottom-center {
   width: 576px;
   height: 20px;
-  background: url("http://static.komus.ru/www/images/longwinter/menu-general/links-panel-header_bg-bottom-center.png") center top repeat-x;
+  background: url("/images/longwinter/menu-general/links-panel-header_bg-bottom-center.png") center top repeat-x;
 }
 .menu-general__links-panel--m-header .menu-general__links-panel--bottom-right {
   width: 20px;
   height: 20px;
-  background: url("http://static.komus.ru/www/images/longwinter/menu-general/links-panel-header_bg-bottom-right.png") left top no-repeat;
+  background: url("/images/longwinter/menu-general/links-panel-header_bg-bottom-right.png") left top no-repeat;
 }
 .menu-general__links-panel--m-full {
   width: 972px;
@@ -1249,7 +1240,7 @@ textarea:-ms-input-placeholder {
 .menu-secondary--item {
   height: 43px;
   vertical-align: top;
-  background: url("http://static.komus.ru/www/images/longwinter/menu-secondary/item_separator.gif") left top repeat-y;
+  background: url("/images/longwinter/menu-secondary/item_separator.gif") left top repeat-y;
 }
 .menu-secondary--item-link {
   display: block;
@@ -1262,13 +1253,13 @@ textarea:-ms-input-placeholder {
   color: #646464;
 }
 .menu-secondary--item-link:hover {
-  background: url("http://static.komus.ru/www/images/longwinter/menu-secondary/item-hover_bg-center.gif") center top repeat-x;
+  background: url("/images/longwinter/menu-secondary/item-hover_bg-center.gif") center top repeat-x;
 }
 .menu-secondary--item-link:hover .menu-secondary--item-border-left {
-  background: url("http://static.komus.ru/www/images/longwinter/menu-secondary/item-hover_bg-left.gif") left top no-repeat;
+  background: url("/images/longwinter/menu-secondary/item-hover_bg-left.gif") left top no-repeat;
 }
 .menu-secondary--item-link:hover .menu-secondary--item-border-right {
-  background: url("http://static.komus.ru/www/images/longwinter/menu-secondary/item-hover_bg-right.gif") right top no-repeat;
+  background: url("/images/longwinter/menu-secondary/item-hover_bg-right.gif") right top no-repeat;
 }
 .menu-secondary--item-link-m-decoration {
   color: #0078c3;
@@ -1373,7 +1364,7 @@ textarea:-ms-input-placeholder {
   width: 714px;
   overflow: hidden;
   padding-top: 10px;
-  background: url("http://static.komus.ru/www/images/longwinter/banner-big/buttons_shadow.png") center top repeat-x;
+  background: url("/images/longwinter/banner-big/buttons_shadow.png") center top repeat-x;
 }
 .banner-big--buttons-inside {
   width: 717px;
@@ -1398,7 +1389,7 @@ textarea:-ms-input-placeholder {
   top: -11px;
   height: 12px;
   width: 100%;
-  background: url("http://static.komus.ru/www/images/longwinter/banner-big/button_arrow.png") center top no-repeat;
+  background: url("/images/longwinter/banner-big/button_arrow.png") center top no-repeat;
 }
 .banner-big--buttons-item-block {
   height: 43px;
@@ -1490,7 +1481,7 @@ textarea:-ms-input-placeholder {
   display: block;
   width: 139px;
   height: 44px;
-  background: url("http://static.komus.ru/www/images/longwinter/news/header_bg.gif") left top no-repeat;
+  background: url("/images/longwinter/news/header_bg.gif") left top no-repeat;
   text-decoration: none;
   font-size: 14px;
   color: #fff;
@@ -1554,7 +1545,7 @@ textarea:-ms-input-placeholder {
   float: left;
   margin-top: 8px;
   width: 371px;
-  background: url("http://static.komus.ru/www/images/longwinter/bargain-day/bg-left.gif") left top no-repeat;
+  background: url("/images/longwinter/bargain-day/bg-left.gif") left top no-repeat;
 }
 .bargain-day--header {
   padding-bottom: 9px;
@@ -1563,7 +1554,7 @@ textarea:-ms-input-placeholder {
   display: block;
   width: 153px;
   height: 42px;
-  background-image: url("http://static.komus.ru/www/images/longwinter/bargain-day/header-bg.gif");
+  background-image: url("/images/longwinter/bargain-day/header-bg.gif");
   background-position: left top;
   background-repeat: no-repeat;
   text-decoration: none;
@@ -1593,7 +1584,7 @@ textarea:-ms-input-placeholder {
 }
 .bargain-day--item-price {
   height: 32px;
-  background: url("http://static.komus.ru/www/images/longwinter/bargain-day/item-price_bg.gif") left top no-repeat;
+  background: url("/images/longwinter/bargain-day/item-price_bg.gif") left top no-repeat;
   width: 72px;
   text-align: center;
   vertical-align: top;
@@ -1605,14 +1596,14 @@ textarea:-ms-input-placeholder {
 }
 .bargain-day--item-discount {
   height: 32px;
-  background: url("http://static.komus.ru/www/images/longwinter/bargain-day/base/item-discount_bg2-right.gif") right top no-repeat;
+  background: url("/images/longwinter/bargain-day/base/item-discount_bg2-right.gif") right top no-repeat;
   width: 72px;
   text-align: center;
   vertical-align: top;
 }
 .bargain-day--item-discount-inside {
   height: 32px;
-  background: url("http://static.komus.ru/www/images/longwinter/bargain-day/base/item-discount_bg-left.gif") left top no-repeat;
+  background: url("/images/longwinter/bargain-day/base/item-discount_bg-left.gif") left top no-repeat;
 }
 .bargain-day--item-discount-value {
   padding: 5px 6px 0px 4px;
@@ -1646,14 +1637,14 @@ textarea:-ms-input-placeholder {
   width: 32px;
   padding-right: 3px;
   text-align: center;
-  background: url("http://static.komus.ru/www/images/longwinter/bargain-day/time_separator.gif") right center no-repeat;
+  background: url("/images/longwinter/bargain-day/time_separator.gif") right center no-repeat;
 }
 .bargain-day--item-time-values-m {
   float: left;
   width: 32px;
   padding-right: 3px;
   text-align: center;
-  background: url("http://static.komus.ru/www/images/longwinter/bargain-day/time_separator.gif") right center no-repeat;
+  background: url("/images/longwinter/bargain-day/time_separator.gif") right center no-repeat;
 }
 .bargain-day--item-time-values-s {
   float: left;
@@ -1702,7 +1693,7 @@ textarea:-ms-input-placeholder {
   position: relative;
   z-index: 10;
   height: 1px;
-  background: url("http://static.komus.ru/www/images/longwinter/header-ribbon/bg-dotted.gif") center top repeat-x;
+  background: url("/images/longwinter/header-ribbon/bg-dotted.gif") center top repeat-x;
 }
 .header-ribbon--block {
   position: absolute;
@@ -1719,7 +1710,7 @@ textarea:-ms-input-placeholder {
   height: 44px;
   background-position: left top;
   background-repeat: no-repeat;
-  background-image: url("http://static.komus.ru/www/images/longwinter/header-ribbon/ribbon-bg-left.gif");
+  background-image: url("/images/longwinter/header-ribbon/ribbon-bg-left.gif");
   color: #fff;
 }
 .header-ribbon--content-inside {
@@ -1729,7 +1720,7 @@ textarea:-ms-input-placeholder {
   height: 44px;
   background-position: right top;
   background-repeat: no-repeat;
-  background-image: url("http://static.komus.ru/www/images/longwinter/header-ribbon/ribbon-bg-right.gif");
+  background-image: url("/images/longwinter/header-ribbon/ribbon-bg-right.gif");
 }
 .header-ribbon--link {
   cursor: pointer;
@@ -1750,16 +1741,16 @@ textarea:-ms-input-placeholder {
   margin-bottom: 20px;
 }
 .header-ribbon--m-blue .header-ribbon--content {
-  background-image: url("http://static.komus.ru/www/images/longwinter/header-ribbon/ribbon-bg-left_blue.gif");
+  background-image: url("/images/longwinter/header-ribbon/ribbon-bg-left_blue.gif");
 }
 .header-ribbon--m-blue .header-ribbon--content-inside {
-  background-image: url("http://static.komus.ru/www/images/longwinter/header-ribbon/ribbon-bg-right_blue.gif");
+  background-image: url("/images/longwinter/header-ribbon/ribbon-bg-right_blue.gif");
 }
 .header-ribbon--m-green .header-ribbon--content {
-  background-image: url("http://static.komus.ru/www/images/longwinter/header-ribbon/ribbon-bg-left_green.gif");
+  background-image: url("/images/longwinter/header-ribbon/ribbon-bg-left_green.gif");
 }
 .header-ribbon--m-green .header-ribbon--content-inside {
-  background-image: url("http://static.komus.ru/www/images/longwinter/header-ribbon/ribbon-bg-right_green.gif");
+  background-image: url("/images/longwinter/header-ribbon/ribbon-bg-right_green.gif");
 }
 .goods-conveyer--arrow-block {
   position: relative;
@@ -1795,7 +1786,7 @@ textarea:-ms-input-placeholder {
   background-repeat: no-repeat;
 }
 .goods-conveyer--arrow-left-activ .goods-conveyer--arrow-left-button {
-  background-image: url("http://static.komus.ru/www/images/longwinter/goods-conveyer/arrow-left-activ.gif");
+  background-image: url("/images/longwinter/goods-conveyer/arrow-left-activ.gif");
   cursor: pointer;
   cursor: hand;
 }
@@ -1803,7 +1794,7 @@ textarea:-ms-input-placeholder {
   background-position: left bottom;
 }
 .goods-conveyer--arrow-left-passiv .goods-conveyer--arrow-left-button {
-  background-image: url("http://static.komus.ru/www/images/longwinter/goods-conveyer/arrow-left-passiv.gif");
+  background-image: url("/images/longwinter/goods-conveyer/arrow-left-passiv.gif");
 }
 .goods-conveyer--arrow-right {
   position: relative;
@@ -1821,7 +1812,7 @@ textarea:-ms-input-placeholder {
   margin-left: 9px;
 }
 .goods-conveyer--arrow-right-activ .goods-conveyer--arrow-right-button {
-  background-image: url("http://static.komus.ru/www/images/longwinter/goods-conveyer/arrow-right-activ.gif");
+  background-image: url("/images/longwinter/goods-conveyer/arrow-right-activ.gif");
   cursor: pointer;
   cursor: hand;
 }
@@ -1829,7 +1820,7 @@ textarea:-ms-input-placeholder {
   background-position: left bottom;
 }
 .goods-conveyer--arrow-right-passiv .goods-conveyer--arrow-right-button {
-  background-image: url("http://static.komus.ru/www/images/longwinter/goods-conveyer/arrow-right-passiv.gif");
+  background-image: url("/images/longwinter/goods-conveyer/arrow-right-passiv.gif");
 }
 .goods-conveyer--content {
   position: relative;
@@ -1849,7 +1840,7 @@ textarea:-ms-input-placeholder {
   text-align: center;
 }
 .goods-conveyer--item-ajax {
-  background: url("http://static.komus.ru/www/images/longwinter/goods-conveyer/ajax-loader.gif") center 88px no-repeat;
+  background: url("/images/longwinter/goods-conveyer/ajax-loader.gif") center 88px no-repeat;
   height: 120px;
 }
 .goods-line--picture {
@@ -1970,18 +1961,18 @@ textarea:-ms-input-placeholder {
   width: 270px;
   height: 13px;
   overflow: hidden;
-  background: url("http://static.komus.ru/www/images/longwinter/goods-browse/bg-top2.png") left top no-repeat;
+  background: url("/images/longwinter/goods-browse/bg-top2.png") left top no-repeat;
 }
 .goods-browse--middle {
   width: 270px;
   overflow: hidden;
-  background: url("http://static.komus.ru/www/images/longwinter/goods-browse/bg-middle2.png") left center repeat-y;
+  background: url("/images/longwinter/goods-browse/bg-middle2.png") left center repeat-y;
 }
 .goods-browse--bottom {
   width: 270px;
   height: 13px;
   overflow: hidden;
-  background: url("http://static.komus.ru/www/images/longwinter/goods-browse/bg-bottom2.png") left top no-repeat;
+  background: url("/images/longwinter/goods-browse/bg-bottom2.png") left top no-repeat;
 }
 .goods-browse--content {
   position: relative;
@@ -1997,7 +1988,7 @@ textarea:-ms-input-placeholder {
   height: 32px;
   background-position: left top;
   background-repeat: no-repeat;
-  background-image: url("http://static.komus.ru/www/images/longwinter/goods-browse/close-2.gif");
+  background-image: url("/images/longwinter/goods-browse/close-2.gif");
   cursor: pointer;
   cursor: hand;
 }
@@ -2095,7 +2086,7 @@ textarea:-ms-input-placeholder {
   bottom: 96px;
   width: 16px;
   height: 54px;
-  background: url("http://static.komus.ru/www/images/longwinter/goods-browse/arrow-left2.png") left top no-repeat;
+  background: url("/images/longwinter/goods-browse/arrow-left2.png") left top no-repeat;
 }
 .goods-rating--inside {
   padding-top: 2px;
@@ -2134,7 +2125,7 @@ textarea:-ms-input-placeholder {
   background-repeat: no-repeat;
   cursor: pointer;
   cursor: hand;
-  background-image: url("http://static.komus.ru/www/images/longwinter/button-basket/arrow-left.gif");
+  background-image: url("/images/longwinter/button-basket/arrow-left.gif");
 }
 .button-basket--field-arrow-right {
   float: left;
@@ -2144,13 +2135,13 @@ textarea:-ms-input-placeholder {
   background-repeat: no-repeat;
   cursor: pointer;
   cursor: hand;
-  background-image: url("http://static.komus.ru/www/images/longwinter/button-basket/arrow-right.gif");
+  background-image: url("/images/longwinter/button-basket/arrow-right.gif");
 }
 .button-basket--field-block {
   float: left;
   width: 51px;
   height: 32px;
-  background: url("http://static.komus.ru/www/images/longwinter/button-basket/input_bg.gif") center top repeat-x;
+  background: url("/images/longwinter/button-basket/input_bg.gif") center top repeat-x;
 }
 .button-basket--field-input {
   margin-top: 1px;
@@ -2176,7 +2167,7 @@ textarea:-ms-input-placeholder {
   outline: none;
   background-position: left top;
   background-repeat: no-repeat;
-  background-image: url("http://static.komus.ru/www/images/longwinter/button-basket/base/button-to-basket.gif");
+  background-image: url("/images/longwinter/button-basket/base/button-to-basket.gif");
 }
 .button-basket--button-link {
   display: none;
@@ -2184,7 +2175,7 @@ textarea:-ms-input-placeholder {
   height: 32px;
   background-position: left top;
   background-repeat: no-repeat;
-  background-image: url("http://static.komus.ru/www/images/longwinter/button-basket/button-in-basket.gif");
+  background-image: url("/images/longwinter/button-basket/button-in-basket.gif");
 }
 .button-basket--m-center .button-basket--inside {
   display: block;
@@ -2214,7 +2205,7 @@ textarea:-ms-input-placeholder {
 }
 .button-basket--m-noactive .button-basket--inside {
   width: 150px;
-  background: url("http://static.komus.ru/www/images/longwinter/button-basket/not-available.gif") left top no-repeat;
+  background: url("/images/longwinter/button-basket/not-available.gif") left top no-repeat;
 }
 .button-basket--m-linkbutton .button-basket--inside {
   width: 191px;
@@ -2223,14 +2214,14 @@ textarea:-ms-input-placeholder {
   width: 64px;
 }
 .button-basket--m-linkbutton .button-basket--button-input {
-  background-image: url("http://static.komus.ru/www/images/longwinter/button-basket/linkbutton-to-basket.gif");
+  background-image: url("/images/longwinter/button-basket/linkbutton-to-basket.gif");
 }
 .button-basket--m-linkbutton .button-basket--button-input:hover {
   background-position: left bottom;
 }
 .button-basket--m-linkbutton .button-basket--button-link {
   width: 64px;
-  background-image: url("http://static.komus.ru/www/images/longwinter/button-basket/linkbutton-in-basket.gif");
+  background-image: url("/images/longwinter/button-basket/linkbutton-in-basket.gif");
 }
 .button-basket--m-linkbutton .button-basket--button-link:hover {
   background-position: left bottom;
@@ -2243,7 +2234,7 @@ textarea:-ms-input-placeholder {
 }
 .button-basket--m-linkbutton .button-basket--m-noactive .button-basket--inside {
   width: 118px;
-  background: url("http://static.komus.ru/www/images/longwinter/button-basket/linknot-available.gif") left top no-repeat;
+  background: url("/images/longwinter/button-basket/linknot-available.gif") left top no-repeat;
 }
 .button-favorites {
   display: block;
@@ -2335,7 +2326,7 @@ textarea:-ms-input-placeholder {
   display: block;
   width: 132px;
   height: 167px;
-  background: url("http://static.komus.ru/www/images/longwinter/catalog-get/cover_bg.gif") left top no-repeat;
+  background: url("/images/longwinter/catalog-get/cover_bg.gif") left top no-repeat;
 }
 .catalog-get--cover-img {
   float: left;
@@ -2350,7 +2341,7 @@ textarea:-ms-input-placeholder {
 .catalog-get--download-link {
   display: block;
   padding-left: 20px;
-  background: url("http://static.komus.ru/www/images/longwinter/catalog-get/download-link_icon.gif") left center no-repeat;
+  background: url("/images/longwinter/catalog-get/download-link_icon.gif") left center no-repeat;
   text-decoration: none;
   color: #0078c3;
 }
@@ -2366,7 +2357,7 @@ textarea:-ms-input-placeholder {
   display: block;
   width: 138px;
   height: 44px;
-  background: url("http://static.komus.ru/www/images/longwinter/catalog-get/order-link_bg-2.gif") left top no-repeat;
+  background: url("/images/longwinter/catalog-get/order-link_bg-2.gif") left top no-repeat;
   text-decoration: none;
   font-size: 14px;
   color: #fff;
@@ -2420,11 +2411,11 @@ textarea:-ms-input-placeholder {
 }
 .breadcrumb--inside {
   padding-top: 1px;
-  background: url("http://static.komus.ru/www/images/longwinter/breadcrumb/bg.gif") center top repeat-x;
+  background: url("/images/longwinter/breadcrumb/bg.gif") center top repeat-x;
 }
 .breadcrumb--block {
   padding-bottom: 1px;
-  background: url("http://static.komus.ru/www/images/longwinter/breadcrumb/bg.gif") center bottom repeat-x;
+  background: url("/images/longwinter/breadcrumb/bg.gif") center bottom repeat-x;
   height: 1%;
 }
 .breadcrumb--links {
@@ -2546,7 +2537,7 @@ textarea:-ms-input-placeholder {
   background-position: left top;
   background-repeat: no-repeat;
   text-decoration: none;
-  background-image: url("http://static.komus.ru/www/images/longwinter/pagination/base/arrow-left.gif");
+  background-image: url("/images/longwinter/pagination/base/arrow-left.gif");
 }
 .pagination--item-arrow-left:hover {
   background-position: left bottom;
@@ -2558,7 +2549,7 @@ textarea:-ms-input-placeholder {
   background-position: left top;
   background-repeat: no-repeat;
   text-decoration: none;
-  background-image: url("http://static.komus.ru/www/images/longwinter/pagination/base/arrow-right.gif");
+  background-image: url("/images/longwinter/pagination/base/arrow-right.gif");
 }
 .pagination--item-arrow-right:hover {
   background-position: left bottom;
@@ -2637,10 +2628,10 @@ textarea:-ms-input-placeholder {
   background-position: left bottom;
 }
 .goods-kind--item-table {
-  background-image: url("http://static.komus.ru/www/images/longwinter/goods-kind/table.gif");
+  background-image: url("/images/longwinter/goods-kind/table.gif");
 }
 .goods-kind--item-list {
-  background-image: url("http://static.komus.ru/www/images/longwinter/goods-kind/full.gif");
+  background-image: url("/images/longwinter/goods-kind/full.gif");
 }
 .links-dropdown {
   padding-bottom: 12px;
@@ -2653,7 +2644,7 @@ textarea:-ms-input-placeholder {
   margin-bottom: 5px;
 }
 .links-dropdown--select-m-hover .links-dropdown--field-block {
-  background-image: url("http://static.komus.ru/www/images/longwinter/links-dropdown/arrow-down-hover.gif");
+  background-image: url("/images/longwinter/links-dropdown/arrow-down-hover.gif");
 }
 .links-dropdown--select-m-hover .links-dropdown--choose {
   display: block !important;
@@ -2673,7 +2664,7 @@ textarea:-ms-input-placeholder {
   border-left: 1px solid #eaeaea;
   background-position: right 2px;
   background-repeat: no-repeat;
-  background-image: url("http://static.komus.ru/www/images/longwinter/links-dropdown/arrow-down.gif");
+  background-image: url("/images/longwinter/links-dropdown/arrow-down.gif");
   background-color: #fff;
   cursor: default;
   overflow: hidden;
@@ -2715,7 +2706,7 @@ textarea:-ms-input-placeholder {
   left: 0px;
   top: 0px;
   padding-top: 22px;
-  background: url("http://static.komus.ru/www/images/longwinter/links-dropdown/emp.gif");
+  background: url("/images/longwinter/links-dropdown/emp.gif");
 }
 .links-dropdown--m-compact .links-dropdown--links {
   border-top: 1px solid #e7e7e7;
@@ -2749,7 +2740,7 @@ textarea:-ms-input-placeholder {
   float: left;
   width: 32px;
   height: 32px;
-  background: url("http://static.komus.ru/www/images/longwinter/compare-menu/img_bg.gif") left top no-repeat;
+  background: url("/images/longwinter/compare-menu/img_bg.gif") left top no-repeat;
   cursor: default;
 }
 .compare-menu--item-img {
@@ -2764,7 +2755,7 @@ textarea:-ms-input-placeholder {
   top: -7px;
   width: 14px;
   height: 14px;
-  background: url("http://static.komus.ru/www/images/longwinter/compare-menu/close_button.gif") right top no-repeat;
+  background: url("/images/longwinter/compare-menu/close_button.gif") right top no-repeat;
   cursor: pointer;
   cursor: hand;
 }
@@ -2787,7 +2778,7 @@ textarea:-ms-input-placeholder {
   cursor: pointer;
   cursor: hand;
   display: none;
-  background-image: url("http://static.komus.ru/www/images/longwinter/compare-menu/base/compare_button.gif");
+  background-image: url("/images/longwinter/compare-menu/base/compare_button.gif");
 }
 .compare-menu--button-disabled {
   margin-left: auto;
@@ -2796,7 +2787,7 @@ textarea:-ms-input-placeholder {
   height: 32px;
   background-position: left top;
   background-repeat: no-repeat;
-  background-image: url("http://static.komus.ru/www/images/longwinter/compare-menu/compare_button_disabled.gif");
+  background-image: url("/images/longwinter/compare-menu/compare_button_disabled.gif");
 }
 .compare-menu--m-full .compare-menu--button-open {
   display: block;
@@ -2806,7 +2797,7 @@ textarea:-ms-input-placeholder {
 }
 .goods-fullitems--items {
   margin-bottom: 17px;
-  background: url("http://static.komus.ru/www/images/longwinter/goods-fullitems/separator.gif") left top repeat-x;
+  background: url("/images/longwinter/goods-fullitems/separator.gif") left top repeat-x;
 }
 .goods-fullitems--item {
   padding-top: 12px;
@@ -2815,7 +2806,7 @@ textarea:-ms-input-placeholder {
 .goods-fullitems--item-separator {
   height: 1px;
   overflow: hidden;
-  background: url("http://static.komus.ru/www/images/longwinter/goods-fullitems/separator.gif") left top repeat-x;
+  background: url("/images/longwinter/goods-fullitems/separator.gif") left top repeat-x;
 }
 .goods-full--picture {
   float: left;
@@ -2825,7 +2816,7 @@ textarea:-ms-input-placeholder {
   position: relative;
   width: 206px;
   height: 206px;
-  background: url("http://static.komus.ru/www/images/longwinter/goods-full/picture_bg.gif") left top no-repeat;
+  background: url("/images/longwinter/goods-full/picture_bg.gif") left top no-repeat;
 }
 .goods-full--picture-block {
   padding-top: 3px;
@@ -3106,24 +3097,24 @@ textarea:-ms-input-placeholder {
   top: 30px;
   width: 16px;
   height: 54px;
-  background: url("http://static.komus.ru/www/images/longwinter/goods-table/arrow-left2.png") left top no-repeat;
+  background: url("/images/longwinter/goods-table/arrow-left2.png") left top no-repeat;
 }
 .goods-table__browse--top {
   width: 270px;
   height: 13px;
   overflow: hidden;
-  background: url("http://static.komus.ru/www/images/longwinter/goods-table/bg-top2.png") left top no-repeat;
+  background: url("/images/longwinter/goods-table/bg-top2.png") left top no-repeat;
 }
 .goods-table__browse--middle {
   width: 270px;
   overflow: hidden;
-  background: url("http://static.komus.ru/www/images/longwinter/goods-table/bg-middle2.png") left center repeat-y;
+  background: url("/images/longwinter/goods-table/bg-middle2.png") left center repeat-y;
 }
 .goods-table__browse--bottom {
   width: 270px;
   height: 13px;
   overflow: hidden;
-  background: url("http://static.komus.ru/www/images/longwinter/goods-table/bg-bottom2.png") left top no-repeat;
+  background: url("/images/longwinter/goods-table/bg-bottom2.png") left top no-repeat;
 }
 .goods-table__browse--content {
   width: 252px;
@@ -3242,7 +3233,7 @@ textarea:-ms-input-placeholder {
 .product-card--stickers-right-bottom-sdesc {
   height: 61px;
   width: 138px;
-  background: url("http://static.komus.ru/www/images/longwinter/product-card/sdesc_bg.png") left top no-repeat;
+  background: url("/images/longwinter/product-card/sdesc_bg.png") left top no-repeat;
 }
 .product-card--stickers-right-bottom-sdesc-block {
   margin-left: auto;
@@ -3449,7 +3440,7 @@ textarea:-ms-input-placeholder {
 }
 .product-card--chance {
   margin-top: 10px;
-  background: url("http://static.komus.ru/www/images/longwinter/product-card/moneta.png") left top no-repeat;
+  background: url("/images/longwinter/product-card/moneta.png") left top no-repeat;
   padding: 5px 0 5px 40px;
 }
 .product-card--chance-text {
@@ -3506,7 +3497,7 @@ textarea:-ms-input-placeholder {
   background-repeat: no-repeat;
 }
 .product-card__pictures--arrow-left-activ .product-card__pictures--arrow-left-button {
-  background-image: url("http://static.komus.ru/www/images/longwinter/product-card/arrow-left-activ.gif");
+  background-image: url("/images/longwinter/product-card/arrow-left-activ.gif");
   cursor: pointer;
   cursor: hand;
 }
@@ -3514,7 +3505,7 @@ textarea:-ms-input-placeholder {
   background-position: left bottom;
 }
 .product-card__pictures--arrow-left-passiv .product-card__pictures--arrow-left-button {
-  background-image: url("http://static.komus.ru/www/images/longwinter/product-card/arrow-left-passiv.gif");
+  background-image: url("/images/longwinter/product-card/arrow-left-passiv.gif");
 }
 .product-card__pictures--arrow-right {
   position: relative;
@@ -3531,7 +3522,7 @@ textarea:-ms-input-placeholder {
   background-repeat: no-repeat;
 }
 .product-card__pictures--arrow-right-activ .product-card__pictures--arrow-right-button {
-  background-image: url("http://static.komus.ru/www/images/longwinter/product-card/arrow-right-activ.gif");
+  background-image: url("/images/longwinter/product-card/arrow-right-activ.gif");
   cursor: pointer;
   cursor: hand;
 }
@@ -3539,7 +3530,7 @@ textarea:-ms-input-placeholder {
   background-position: left bottom;
 }
 .product-card__pictures--arrow-right-passiv .product-card__pictures--arrow-right-button {
-  background-image: url("http://static.komus.ru/www/images/longwinter/product-card/arrow-right-passiv.gif");
+  background-image: url("/images/longwinter/product-card/arrow-right-passiv.gif");
 }
 .product-card__pictures--content {
   position: relative;
@@ -3565,7 +3556,7 @@ textarea:-ms-input-placeholder {
   height: 80px;
   background-position: left top;
   background-repeat: no-repeat;
-  background-image: url("http://static.komus.ru/www/images/longwinter/product-card/pictures_bg-3.gif");
+  background-image: url("/images/longwinter/product-card/pictures_bg-3.gif");
 }
 .product-card__pictures--item-link:hover {
   background-position: left bottom;
@@ -3596,7 +3587,7 @@ textarea:-ms-input-placeholder {
 .sidebar-top--bottom {
   margin-top: 11px;
   padding: 5px 2px 0px 2px;
-  background: url("http://static.komus.ru/www/images/longwinter/sidebar-top/separator.gif") center top repeat-x;
+  background: url("/images/longwinter/sidebar-top/separator.gif") center top repeat-x;
 }
 .sidebar-buttons--items {
   clear: both;
@@ -3619,18 +3610,18 @@ textarea:-ms-input-placeholder {
 .sidebar-buttons--item-warranty {
   margin-right: 1px;
   margin-bottom: 1px;
-  background-image: url("http://static.komus.ru/www/images/longwinter/sidebar-buttons/base/warranty-2.gif");
+  background-image: url("/images/longwinter/sidebar-buttons/base/warranty-2.gif");
 }
 .sidebar-buttons--item-pay {
   margin-bottom: 1px;
-  background-image: url("http://static.komus.ru/www/images/longwinter/sidebar-buttons/base/pay-2.gif");
+  background-image: url("/images/longwinter/sidebar-buttons/base/pay-2.gif");
 }
 .sidebar-buttons--item-delivery {
   margin-right: 1px;
-  background-image: url("http://static.komus.ru/www/images/longwinter/sidebar-buttons/base/delivery-2.gif");
+  background-image: url("/images/longwinter/sidebar-buttons/base/delivery-2.gif");
 }
 .sidebar-buttons--item-pickup {
-  background-image: url("http://static.komus.ru/www/images/longwinter/sidebar-buttons/base/pickup-2.gif");
+  background-image: url("/images/longwinter/sidebar-buttons/base/pickup-2.gif");
 }
 .sidebar-buttons--item-link {
   display: block;
@@ -3656,7 +3647,7 @@ textarea:-ms-input-placeholder {
   height: 10px;
   background-position: left top;
   background-repeat: no-repeat;
-  background-image: url("http://static.komus.ru/www/images/longwinter/sidebar-buttons/help_bg-top.png");
+  background-image: url("/images/longwinter/sidebar-buttons/help_bg-top.png");
   overflow: hidden;
 }
 .sidebar-buttons--item-help-bottom {
@@ -3664,12 +3655,12 @@ textarea:-ms-input-placeholder {
   height: 20px;
   background-position: left top;
   background-repeat: no-repeat;
-  background-image: url("http://static.komus.ru/www/images/longwinter/sidebar-buttons/help_bg-bottom.png");
+  background-image: url("/images/longwinter/sidebar-buttons/help_bg-bottom.png");
   overflow: hidden;
 }
 .sidebar-buttons--item-help-middle {
   width: 220px;
-  background: url("http://static.komus.ru/www/images/longwinter/sidebar-buttons/help_bg-middle.png") left center repeat-y;
+  background: url("/images/longwinter/sidebar-buttons/help_bg-middle.png") left center repeat-y;
   overflow: hidden;
 }
 .sidebar-buttons--item-help-content {
@@ -3692,11 +3683,11 @@ textarea:-ms-input-placeholder {
 }
 .sidebar-buttons--item-help-m-bottom .sidebar-buttons--item-help-top {
   height: 20px;
-  background-image: url("http://static.komus.ru/www/images/longwinter/sidebar-buttons/help-bottom_bg-top.png");
+  background-image: url("/images/longwinter/sidebar-buttons/help-bottom_bg-top.png");
 }
 .sidebar-buttons--item-help-m-bottom .sidebar-buttons--item-help-bottom {
   height: 10px;
-  background-image: url("http://static.komus.ru/www/images/longwinter/sidebar-buttons/help-bottom_bg-bottom.png");
+  background-image: url("/images/longwinter/sidebar-buttons/help-bottom_bg-bottom.png");
 }
 .sidebar-reviews--header {
   padding-bottom: 8px;
@@ -3749,7 +3740,7 @@ textarea:-ms-input-placeholder {
 }
 .sidebar-block--header {
   padding-top: 2px;
-  background: url("http://static.komus.ru/www/images/longwinter/sidebar-block/header_bg-top.gif") center top repeat-x;
+  background: url("/images/longwinter/sidebar-block/header_bg-top.gif") center top repeat-x;
 }
 .sidebar-block--header-text {
   padding-top: 5px;
@@ -3802,7 +3793,7 @@ textarea:-ms-input-placeholder {
   overflow: hidden;
   background-position: left top;
   background-repeat: no-repeat;
-  background-image: url("http://static.komus.ru/www/images/longwinter/sidebar-block/content-top.gif");
+  background-image: url("/images/longwinter/sidebar-block/content-top.gif");
 }
 .sidebar-block--content-bottom {
   width: 245px;
@@ -3810,13 +3801,13 @@ textarea:-ms-input-placeholder {
   overflow: hidden;
   background-position: left top;
   background-repeat: no-repeat;
-  background-image: url("http://static.komus.ru/www/images/longwinter/sidebar-block/content-bottom.gif");
+  background-image: url("/images/longwinter/sidebar-block/content-bottom.gif");
 }
 .sidebar-block--content-middle {
   width: 245px;
   background-position: left center;
   background-repeat: repeat-y;
-  background-image: url("http://static.komus.ru/www/images/longwinter/sidebar-block/content-middle.gif");
+  background-image: url("/images/longwinter/sidebar-block/content-middle.gif");
 }
 .sidebar-block--content-text {
   padding-left: 1px;
@@ -3853,13 +3844,13 @@ textarea:-ms-input-placeholder {
   color: #646464;
 }
 .sidebar-block--m-reverse .sidebar-block--content-top {
-  background-image: url("http://static.komus.ru/www/images/longwinter/sidebar-block/reverse-content-top.gif");
+  background-image: url("/images/longwinter/sidebar-block/reverse-content-top.gif");
 }
 .sidebar-block--m-reverse .sidebar-block--content-bottom {
-  background-image: url("http://static.komus.ru/www/images/longwinter/sidebar-block/reverse-content-bottom.gif");
+  background-image: url("/images/longwinter/sidebar-block/reverse-content-bottom.gif");
 }
 .sidebar-block--m-reverse .sidebar-block--content-middle {
-  background-image: url("http://static.komus.ru/www/images/longwinter/sidebar-block/reverse-content-middle.gif");
+  background-image: url("/images/longwinter/sidebar-block/reverse-content-middle.gif");
 }
 .sidebar-news {
   padding-left: 14px;
@@ -3957,7 +3948,7 @@ textarea:-ms-input-placeholder {
   cursor: hand;
   background-position: left top;
   background-repeat: no-repeat;
-  background-image: url("http://static.komus.ru/www/images/longwinter/sidebar-filter/cursor.png");
+  background-image: url("/images/longwinter/sidebar-filter/cursor.png");
 }
 .sidebar-filter--item-scale-line-cursor:hover {
   background-position: left bottom;
@@ -3987,7 +3978,7 @@ textarea:-ms-input-placeholder {
   cursor: hand;
   background-position: -3px top;
   background-repeat: no-repeat;
-  background-image: url("http://static.komus.ru/www/images/longwinter/sidebar-filter/item_toggle-button-open.gif");
+  background-image: url("/images/longwinter/sidebar-filter/item_toggle-button-open.gif");
 }
 .sidebar-filter--item-header-text {
   float: left;
@@ -4033,7 +4024,7 @@ textarea:-ms-input-placeholder {
   height: 11px;
   top: 5px;
   width: 219px;
-  background: url("http://static.komus.ru/www/images/longwinter/sidebar-filter/line-full.gif") center top no-repeat;
+  background: url("/images/longwinter/sidebar-filter/line-full.gif") center top no-repeat;
 }
 .sidebar-filter--item-scale-line-min {
   position: absolute;
@@ -4041,7 +4032,7 @@ textarea:-ms-input-placeholder {
   top: 5px;
   left: 6px;
   width: 0px;
-  background: url("http://static.komus.ru/www/images/longwinter/sidebar-filter/line-limit.gif") left top no-repeat;
+  background: url("/images/longwinter/sidebar-filter/line-limit.gif") left top no-repeat;
 }
 .sidebar-filter--item-scale-line-max {
   position: absolute;
@@ -4049,7 +4040,7 @@ textarea:-ms-input-placeholder {
   top: 5px;
   right: 6px;
   width: 0px;
-  background: url("http://static.komus.ru/www/images/longwinter/sidebar-filter/line-limit.gif") right top no-repeat;
+  background: url("/images/longwinter/sidebar-filter/line-limit.gif") right top no-repeat;
 }
 .sidebar-filter--item-scale-line-min-user {
   position: absolute;
@@ -4059,7 +4050,7 @@ textarea:-ms-input-placeholder {
   width: 0px;
   background-position: left top;
   background-repeat: no-repeat;
-  background-image: url("http://static.komus.ru/www/images/longwinter/sidebar-filter/line-limit-user.png");
+  background-image: url("/images/longwinter/sidebar-filter/line-limit-user.png");
 }
 .sidebar-filter--item-scale-line-max-user {
   position: absolute;
@@ -4069,7 +4060,7 @@ textarea:-ms-input-placeholder {
   width: 0px;
   background-position: right top;
   background-repeat: no-repeat;
-  background-image: url("http://static.komus.ru/www/images/longwinter/sidebar-filter/line-limit-user.png");
+  background-image: url("/images/longwinter/sidebar-filter/line-limit-user.png");
 }
 .sidebar-filter--item-scale-line-min-cursor {
   position: absolute;
@@ -4081,7 +4072,7 @@ textarea:-ms-input-placeholder {
   cursor: hand;
   background-position: left top;
   background-repeat: no-repeat;
-  background-image: url("http://static.komus.ru/www/images/longwinter/sidebar-filter/cursor.png");
+  background-image: url("/images/longwinter/sidebar-filter/cursor.png");
   left: 0px;
 }
 .sidebar-filter--item-scale-line-min-cursor:hover {
@@ -4097,7 +4088,7 @@ textarea:-ms-input-placeholder {
   cursor: hand;
   background-position: left top;
   background-repeat: no-repeat;
-  background-image: url("http://static.komus.ru/www/images/longwinter/sidebar-filter/cursor.png");
+  background-image: url("/images/longwinter/sidebar-filter/cursor.png");
   right: 0px;
 }
 .sidebar-filter--item-scale-line-max-cursor:hover {
@@ -4123,10 +4114,10 @@ textarea:-ms-input-placeholder {
   cursor: hand;
   background-position: -3px top;
   background-repeat: no-repeat;
-  background-image: url("http://static.komus.ru/www/images/longwinter/sidebar-filter/flags_toggle-button-open.gif");
+  background-image: url("/images/longwinter/sidebar-filter/flags_toggle-button-open.gif");
 }
 .sidebar-filter--item-flags-group-m-close .sidebar-filter--item-flags-group-toggle-button {
-  background-image: url("http://static.komus.ru/www/images/longwinter/sidebar-filter/flags_toggle-button-close.gif");
+  background-image: url("/images/longwinter/sidebar-filter/flags_toggle-button-close.gif");
 }
 .sidebar-filter--item-flags-group-m-close .sidebar-filter--item-flags-group-content {
   display: none;
@@ -4151,7 +4142,7 @@ textarea:-ms-input-placeholder {
   float: left;
 }
 .sidebar-filter--item-m-close .sidebar-filter--item-toggle-button {
-  background-image: url("http://static.komus.ru/www/images/longwinter/sidebar-filter/item_toggle-button-close.gif");
+  background-image: url("/images/longwinter/sidebar-filter/item_toggle-button-close.gif");
 }
 .sidebar-filter--item-m-close .sidebar-filter--item-content {
   display: none;
@@ -4179,7 +4170,7 @@ textarea:-ms-input-placeholder {
   margin-right: auto;
   width: 102px;
   height: 32px;
-  background: url("http://static.komus.ru/www/images/longwinter/sidebar-filter/button-reset.gif") left top no-repeat;
+  background: url("/images/longwinter/sidebar-filter/button-reset.gif") left top no-repeat;
 }
 * html .sidebar-filter--item-flags-variant-input {
   width: 12px;
@@ -4197,18 +4188,18 @@ textarea:-ms-input-placeholder {
   float: left;
   height: 32px;
   overflow: hidden;
-  background: url("http://static.komus.ru/www/images/longwinter/form-submit/bg-center.gif") center top repeat-x #78828c;
+  background: url("/images/longwinter/form-submit/bg-center.gif") center top repeat-x #78828c;
 }
 .form-submit--bg-left {
   float: left;
   height: 32px;
-  background: url("http://static.komus.ru/www/images/longwinter/form-submit/bg-left.gif") left top no-repeat;
+  background: url("/images/longwinter/form-submit/bg-left.gif") left top no-repeat;
 }
 .form-submit--bg-right {
   float: left;
   height: 32px;
   overflow: hidden;
-  background: url("http://static.komus.ru/www/images/longwinter/form-submit/bg-right.gif") right top no-repeat;
+  background: url("/images/longwinter/form-submit/bg-right.gif") right top no-repeat;
   position: relative;
 }
 .form-submit--text {
@@ -4227,7 +4218,7 @@ textarea:-ms-input-placeholder {
   width: 100%;
   height: 32px;
   border: none;
-  background: url("http://static.komus.ru/www/images/longwinter/form-submit/input_bg.gif");
+  background: url("/images/longwinter/form-submit/input_bg.gif");
   cursor: pointer;
   cursor: hand;
 }
@@ -4278,7 +4269,7 @@ textarea:-ms-input-placeholder {
   width: 100%;
   height: 34px;
   border: none;
-  background: url("http://static.komus.ru/www/images/longwinter/form-submit2/input_bg.gif");
+  background: url("/images/longwinter/form-submit2/input_bg.gif");
   cursor: pointer;
   cursor: hand;
 }
@@ -4343,7 +4334,7 @@ textarea:-ms-input-placeholder {
 }
 .footer__excellence {
   padding-top: 1px;
-  background-image: url("http://static.komus.ru/www/images/longwinter/footer/excellence_bg-top.gif");
+  background-image: url("/images/longwinter/footer/excellence_bg-top.gif");
   background-position: left top;
   background-repeat: repeat-x;
 }
@@ -4394,12 +4385,12 @@ textarea:-ms-input-placeholder {
 .footer__excellence--icon-heart {
   width: 9px;
   height: 17px;
-  background-image: url("http://static.komus.ru/www/images/longwinter/footer/excellence/heart.png");
+  background-image: url("/images/longwinter/footer/excellence/heart.png");
 }
 .footer__links {
   position: relative;
   padding-top: 1px;
-  background: url("http://static.komus.ru/www/images/longwinter/footer/links_bg-top.gif") center top repeat-x;
+  background: url("/images/longwinter/footer/links_bg-top.gif") center top repeat-x;
   padding-bottom: 10px;
 }
 .footer__links--blocks {
@@ -4407,11 +4398,11 @@ textarea:-ms-input-placeholder {
 }
 .footer__links--block-1 {
   float: left;
-  width: 324px;
+ 
 }
 .footer__links--block-2 {
   float: left;
-  width: 324px;
+ 
 }
 .footer__links--block-2 .footer__links--block-items {
   border-left: 1px solid #efefef;
@@ -4419,7 +4410,7 @@ textarea:-ms-input-placeholder {
 }
 .footer__links--block-3 {
   float: left;
-  width: 324px;
+
 }
 .footer__links--block-header {
   text-align: center;
@@ -4455,7 +4446,7 @@ textarea:-ms-input-placeholder {
 }
 .footer__mobile {
   padding-top: 1px;
-  background-image: url("http://static.komus.ru/www/images/longwinter/footer/mobile_bg-top.gif");
+  background-image: url("/images/longwinter/footer/mobile_bg-top.gif");
   background-position: left top;
   background-repeat: repeat-x;
 }
@@ -4484,20 +4475,20 @@ textarea:-ms-input-placeholder {
 }
 .footer__mobile--link-m-iphone {
   width: 140px;
-  background-image: url("http://static.komus.ru/www/images/longwinter/footer/mobile/iphone_2.png");
+  background-image: url("/images/longwinter/footer/mobile/iphone_2.png");
 }
 .footer__mobile--link-m-android {
   width: 140px;
-  background-image: url("http://static.komus.ru/www/images/longwinter/footer/mobile/android_2.png");
+  background-image: url("/images/longwinter/footer/mobile/android_2.png");
 }
 .footer__mobile--link-m-windows-phone {
   width: 190px;
-  background-image: url("http://static.komus.ru/www/images/longwinter/footer/mobile/windows_phone_2.png");
+  background-image: url("/images/longwinter/footer/mobile/windows_phone_2.png");
 }
 .footer__sites {
   position: relative;
   padding-top: 1px;
-  background: url("http://static.komus.ru/www/images/longwinter/footer/sites_bg-top.gif") center top repeat-x;
+  background: url("/images/longwinter/footer/sites_bg-top.gif") center top repeat-x;
 }
 .footer__sites--inside {
   padding-top: 28px;
@@ -4537,7 +4528,7 @@ textarea:-ms-input-placeholder {
 .footer__contacts {
   position: relative;
   padding-top: 2px;
-  background: url("http://static.komus.ru/www/images/longwinter/footer/contacts_bg-top.gif") center top repeat-x;
+  background: url("/images/longwinter/footer/contacts_bg-top.gif") center top repeat-x;
 }
 .footer__contacts--inside {
   background-color: #f2f2f2;
@@ -4632,7 +4623,7 @@ textarea:-ms-input-placeholder {
   position: relative;
   width: 73px;
   height: 274px;
-  background-image: url("http://static.komus.ru/www/images/longwinter/contacts-bar/bg-close.png");
+  background-image: url("/images/longwinter/contacts-bar/bg-close.png");
   background-position: left top;
   background-repeat: no-repeat;
 }
@@ -4655,7 +4646,7 @@ textarea:-ms-input-placeholder {
   right: 56px;
   width: 32px;
   height: 32px;
-  background-image: url("http://static.komus.ru/www/images/longwinter/contacts-bar/turn-2.gif");
+  background-image: url("/images/longwinter/contacts-bar/turn-2.gif");
   background-position: left top;
   background-repeat: no-repeat;
   cursor: pointer;
@@ -4672,7 +4663,7 @@ textarea:-ms-input-placeholder {
   right: 16px;
   width: 32px;
   height: 32px;
-  background-image: url("http://static.komus.ru/www/images/longwinter/contacts-bar/close-2.gif");
+  background-image: url("/images/longwinter/contacts-bar/close-2.gif");
   background-position: left top;
   background-repeat: no-repeat;
   cursor: pointer;
@@ -4684,7 +4675,7 @@ textarea:-ms-input-placeholder {
 .contacts-bar--m-open .contacts-bar--block {
   width: 257px;
   height: 444px;
-  background-image: url("http://static.komus.ru/www/images/longwinter/contacts-bar/bg-open.png");
+  background-image: url("/images/longwinter/contacts-bar/bg-open.png");
   cursor: default;
 }
 .contacts-bar--m-open .contacts-bar--turn {
@@ -4704,7 +4695,7 @@ textarea:-ms-input-placeholder {
   display: none;
   width: 119px;
   height: 42px;
-  background: url("http://static.komus.ru/www/images/longwinter/button-up/bg.png") left top no-repeat;
+  background: url("/images/longwinter/button-up/bg.png") left top no-repeat;
   cursor: pointer;
   cursor: hand;
 }
@@ -4741,7 +4732,7 @@ textarea:-ms-input-placeholder {
   height: 32px;
   background-position: left top;
   background-repeat: no-repeat;
-  background-image: url("http://static.komus.ru/www/images/longwinter/popup/close-2.gif");
+  background-image: url("/images/longwinter/popup/close-2.gif");
   cursor: pointer;
   cursor: hand;
 }
@@ -4774,7 +4765,7 @@ textarea:-ms-input-placeholder {
   height: 32px;
   background-position: left top;
   background-repeat: no-repeat;
-  background-image: url("http://static.komus.ru/www/images/longwinter/message-bug/close-2.gif");
+  background-image: url("/images/longwinter/message-bug/close-2.gif");
   cursor: pointer;
   cursor: hand;
 }
@@ -4801,7 +4792,7 @@ textarea:-ms-input-placeholder {
 .message-bug--button-input {
   background-position: left top;
   background-repeat: no-repeat;
-  background-image: url("http://static.komus.ru/www/images/longwinter/message-bug/button-text.png");
+  background-image: url("/images/longwinter/message-bug/button-text.png");
   cursor: pointer;
   cursor: hand;
 }
@@ -4892,7 +4883,7 @@ textarea:-ms-input-placeholder {
   height: 36px;
   background-position: left top;
   background-repeat: no-repeat;
-  background-image: url("http://static.komus.ru/www/images/longwinter/compare/close-text.png");
+  background-image: url("/images/longwinter/compare/close-text.png");
   cursor: pointer;
   cursor: hand;
 }
@@ -4944,14 +4935,14 @@ textarea:-ms-input-placeholder {
   display: block;
   width: 9px;
   height: 15px;
-  background: url("http://static.komus.ru/www/images/longwinter/compare/head-arrow.png") left top no-repeat;
+  background: url("/images/longwinter/compare/head-arrow.png") left top no-repeat;
 }
 .compare__data--table-thead-left {
   width: 200px;
   border-left: 1px solid #ccc;
   border-right: 1px solid #ccc;
   font-weight: normal;
-  background: url("http://static.komus.ru/www/images/longwinter/compare/shadow.gif") right center repeat-y #f4f4f6;
+  background: url("/images/longwinter/compare/shadow.gif") right center repeat-y #f4f4f6;
   text-align: left;
 }
 .compare__data--table-thead-left-top {
@@ -5004,7 +4995,7 @@ textarea:-ms-input-placeholder {
   margin-right: auto;
   width: 170px;
   height: 32px;
-  background: url("http://static.komus.ru/www/images/longwinter/compare/differences-button.gif") left top no-repeat;
+  background: url("/images/longwinter/compare/differences-button.gif") left top no-repeat;
   cursor: pointer;
   cursor: hand;
 }
@@ -5049,7 +5040,7 @@ textarea:-ms-input-placeholder {
   height: 32px;
   background-position: left top;
   background-repeat: no-repeat;
-  background-image: url("http://static.komus.ru/www/images/longwinter/compare/close-2.gif");
+  background-image: url("/images/longwinter/compare/close-2.gif");
   cursor: pointer;
   cursor: hand;
 }
@@ -5136,7 +5127,7 @@ textarea:-ms-input-placeholder {
   height: 32px;
   background-position: left top;
   background-repeat: no-repeat;
-  background-image: url("http://static.komus.ru/www/images/longwinter/compare/close-2.gif");
+  background-image: url("/images/longwinter/compare/close-2.gif");
   cursor: pointer;
   cursor: hand;
 }
@@ -5196,14 +5187,14 @@ textarea:-ms-input-placeholder {
 .catalog--ag-item-link {
   display: block;
   padding-left: 15px;
-  background-image: url("http://static.komus.ru/www/images/longwinter/catalog/link_bullit.gif");
+  background-image: url("/images/longwinter/catalog/link_bullit.gif");
   background-position: left 6px;
   background-repeat: no-repeat;
   text-decoration: none;
   color: #646464;
 }
 .catalog--ag-item-link:hover {
-  background-image: url("http://static.komus.ru/www/images/longwinter/catalog/link_bullit-hover.gif");
+  background-image: url("/images/longwinter/catalog/link_bullit-hover.gif");
   color: #0078c3;
 }
 .catalog--ag-item-link:hover .catalog--ag-item-count {
@@ -5244,14 +5235,14 @@ textarea:-ms-input-placeholder {
 .catalog-links--block-item-link {
   display: block;
   padding-left: 15px;
-  background-image: url("http://static.komus.ru/www/images/longwinter/catalog-links/link_bullit.gif");
+  background-image: url("/images/longwinter/catalog-links/link_bullit.gif");
   background-position: left 7px;
   background-repeat: no-repeat;
   text-decoration: none;
   color: #646464;
 }
 .catalog-links--block-item-link:hover {
-  background-image: url("http://static.komus.ru/www/images/longwinter/catalog-links/link_bullit-hover.gif");
+  background-image: url("/images/longwinter/catalog-links/link_bullit-hover.gif");
   color: #0078c3;
 }
 .compare-message {
@@ -5274,17 +5265,17 @@ textarea:-ms-input-placeholder {
   width: 264px;
   height: 10px;
   overflow: hidden;
-  background: url("http://static.komus.ru/www/images/longwinter/compare-message/bg-top.png") left top no-repeat;
+  background: url("/images/longwinter/compare-message/bg-top.png") left top no-repeat;
 }
 .compare-message--bottom {
   width: 264px;
   height: 20px;
   overflow: hidden;
-  background: url("http://static.komus.ru/www/images/longwinter/compare-message/bg-bottom.png") left top no-repeat;
+  background: url("/images/longwinter/compare-message/bg-bottom.png") left top no-repeat;
 }
 .compare-message--middle {
   width: 264px;
-  background: url("http://static.komus.ru/www/images/longwinter/compare-message/bg-middle.png") left center repeat-y;
+  background: url("/images/longwinter/compare-message/bg-middle.png") left center repeat-y;
 }
 .compare-message--content {
   padding: 4px 14px 6px 14px;
@@ -5297,7 +5288,7 @@ textarea:-ms-input-placeholder {
   height: 32px;
   background-position: left top;
   background-repeat: no-repeat;
-  background-image: url("http://static.komus.ru/www/images/longwinter/compare-message/close-2.gif");
+  background-image: url("/images/longwinter/compare-message/close-2.gif");
   cursor: pointer;
   cursor: hand;
 }
@@ -5412,25 +5403,25 @@ textarea:-ms-input-placeholder {
   padding-right: 69px;
   background-position: right 3px;
   background-repeat: no-repeat;
-  background-image: url("http://static.komus.ru/www/images/longwinter/tabs/base/z_button_reviews_bg.gif");
+  background-image: url("/images/longwinter/tabs/base/z_button_reviews_bg.gif");
 }
 .tabs--buttons-item-name-reviews-m-0 {
-  background-image: url("http://static.komus.ru/www/images/longwinter/tabs/base/z_button_reviews_bg_0.gif");
+  background-image: url("/images/longwinter/tabs/base/z_button_reviews_bg_0.gif");
 }
 .tabs--buttons-item-name-reviews-m-1 {
-  background-image: url("http://static.komus.ru/www/images/longwinter/tabs/base/z_button_reviews_bg_1.gif");
+  background-image: url("/images/longwinter/tabs/base/z_button_reviews_bg_1.gif");
 }
 .tabs--buttons-item-name-reviews-m-2 {
-  background-image: url("http://static.komus.ru/www/images/longwinter/tabs/base/z_button_reviews_bg_2.gif");
+  background-image: url("/images/longwinter/tabs/base/z_button_reviews_bg_2.gif");
 }
 .tabs--buttons-item-name-reviews-m-3 {
-  background-image: url("http://static.komus.ru/www/images/longwinter/tabs/base/z_button_reviews_bg_3.gif");
+  background-image: url("/images/longwinter/tabs/base/z_button_reviews_bg_3.gif");
 }
 .tabs--buttons-item-name-reviews-m-4 {
-  background-image: url("http://static.komus.ru/www/images/longwinter/tabs/base/z_button_reviews_bg_4.gif");
+  background-image: url("/images/longwinter/tabs/base/z_button_reviews_bg_4.gif");
 }
 .tabs--buttons-item-name-reviews-m-5 {
-  background-image: url("http://static.komus.ru/www/images/longwinter/tabs/base/z_button_reviews_bg_5.gif");
+  background-image: url("/images/longwinter/tabs/base/z_button_reviews_bg_5.gif");
 }
 .tabs--buttons-item-arrow {
   display: none;
@@ -5440,7 +5431,7 @@ textarea:-ms-input-placeholder {
   width: 100%;
   background-position: center top;
   background-repeat: no-repeat;
-  background-image: url("http://static.komus.ru/www/images/longwinter/tabs/base/button_arrow.png");
+  background-image: url("/images/longwinter/tabs/base/button_arrow.png");
 }
 .tabs--buttons-item:hover {
   color: #af0025;
@@ -5463,25 +5454,25 @@ textarea:-ms-input-placeholder {
   color: #fff;
 }
 .tabs--buttons-item-current .tabs--buttons-item-name-reviews {
-  background-image: url("http://static.komus.ru/www/images/longwinter/tabs/base/z_button_reviews_current_bg.gif");
+  background-image: url("/images/longwinter/tabs/base/z_button_reviews_current_bg.gif");
 }
 .tabs--buttons-item-current .tabs--buttons-item-name-reviews-m-0 {
-  background-image: url("http://static.komus.ru/www/images/longwinter/tabs/base/z_button_reviews_current_bg_0.gif");
+  background-image: url("/images/longwinter/tabs/base/z_button_reviews_current_bg_0.gif");
 }
 .tabs--buttons-item-current .tabs--buttons-item-name-reviews-m-1 {
-  background-image: url("http://static.komus.ru/www/images/longwinter/tabs/base/z_button_reviews_current_bg_1.gif");
+  background-image: url("/images/longwinter/tabs/base/z_button_reviews_current_bg_1.gif");
 }
 .tabs--buttons-item-current .tabs--buttons-item-name-reviews-m-2 {
-  background-image: url("http://static.komus.ru/www/images/longwinter/tabs/base/z_button_reviews_current_bg_2.gif");
+  background-image: url("/images/longwinter/tabs/base/z_button_reviews_current_bg_2.gif");
 }
 .tabs--buttons-item-current .tabs--buttons-item-name-reviews-m-3 {
-  background-image: url("http://static.komus.ru/www/images/longwinter/tabs/base/z_button_reviews_current_bg_3.gif");
+  background-image: url("/images/longwinter/tabs/base/z_button_reviews_current_bg_3.gif");
 }
 .tabs--buttons-item-current .tabs--buttons-item-name-reviews-m-4 {
-  background-image: url("http://static.komus.ru/www/images/longwinter/tabs/base/z_button_reviews_current_bg_4.gif");
+  background-image: url("/images/longwinter/tabs/base/z_button_reviews_current_bg_4.gif");
 }
 .tabs--buttons-item-current .tabs--buttons-item-name-reviews-m-5 {
-  background-image: url("http://static.komus.ru/www/images/longwinter/tabs/base/z_button_reviews_current_bg_5.gif");
+  background-image: url("/images/longwinter/tabs/base/z_button_reviews_current_bg_5.gif");
 }
 .tabs--content {
   padding-bottom: 50px;
@@ -5500,14 +5491,14 @@ textarea:-ms-input-placeholder {
 .tabs--content-item-ajax {
   display: none;
   height: 150px;
-  background: url("http://static.komus.ru/www/images/longwinter/tabs/ajax-loader.gif") center center no-repeat;
+  background: url("/images/longwinter/tabs/ajax-loader.gif") center center no-repeat;
 }
 .tabs--m-compact .tabs--buttons {
   display: block;
 }
 .tabs--m-compact .tabs--content {
   border-top: 1px solid #fff;
-  background: url("http://static.komus.ru/www/images/longwinter/tabs/content_bg.gif") center top repeat-x;
+  background: url("/images/longwinter/tabs/content_bg.gif") center top repeat-x;
 }
 .tabs--m-compact .tabs--content-item {
   display: none;
@@ -5625,7 +5616,7 @@ textarea:-ms-input-placeholder {
   vertical-align: top;
   padding: 8px 7px 8px 40px;
   line-height: 16px;
-  background: url("http://static.komus.ru/www/images/longwinter/product-description/icon-download.gif") left top no-repeat;
+  background: url("/images/longwinter/product-description/icon-download.gif") left top no-repeat;
 }
 .product-description--manuals-items {
   vertical-align: top;
@@ -5643,7 +5634,7 @@ textarea:-ms-input-placeholder {
   color: #0078c3;
 }
 .product-description--description {
-  background: url("http://static.komus.ru/www/images/longwinter/product-description/separator.gif") left top repeat-x;
+  background: url("/images/longwinter/product-description/separator.gif") left top repeat-x;
 }
 .product-description--description-inside {
   padding: 15px 12px 15px 12px;
@@ -5714,7 +5705,7 @@ textarea:-ms-input-placeholder {
   position: relative;
   width: 712px;
   border: 1px solid #e6e6e6;
-  background: url("http://static.komus.ru/www/images/longwinter/reviews-add/bg.gif") center top repeat-x;
+  background: url("/images/longwinter/reviews-add/bg.gif") center top repeat-x;
 }
 .reviews-add--arrow-up {
   position: absolute;
@@ -5722,7 +5713,7 @@ textarea:-ms-input-placeholder {
   top: -11px;
   width: 100%;
   height: 11px;
-  background: url("http://static.komus.ru/www/images/longwinter/reviews-add/arrow-up.gif") center top no-repeat;
+  background: url("/images/longwinter/reviews-add/arrow-up.gif") center top no-repeat;
 }
 .reviews-add--form {
   display: block;
@@ -5755,7 +5746,7 @@ textarea:-ms-input-placeholder {
 }
 .reviews-add--instruction-text {
   padding-left: 11px;
-  background: url("http://static.komus.ru/www/images/longwinter/reviews-add/required.png") left 2px no-repeat;
+  background: url("/images/longwinter/reviews-add/required.png") left 2px no-repeat;
 }
 .reviews-add--button {
   float: right;
@@ -5765,12 +5756,12 @@ textarea:-ms-input-placeholder {
   padding-bottom: 17px;
 }
 .reviews--inside {
-  background: url("http://static.komus.ru/www/images/longwinter/reviews/fon_points.jpg") bottom center repeat-x;
+  background: url("/images/longwinter/reviews/fon_points.jpg") bottom center repeat-x;
 }
 .reviews--item {
   padding-bottom: 15px;
   padding-top: 2px;
-  background-image: url("http://static.komus.ru/www/images/longwinter/reviews/fon_points.jpg");
+  background-image: url("/images/longwinter/reviews/fon_points.jpg");
   background-position: center 1px;
   background-repeat: repeat-x;
 }
@@ -5873,7 +5864,7 @@ textarea:-ms-input-placeholder {
   padding-right: 20px;
   background-repeat: no-repeat;
   background-position: right top;
-  background-image: url("http://static.komus.ru/www/images/longwinter/reviews/arrow-down-2.png");
+  background-image: url("/images/longwinter/reviews/arrow-down-2.png");
   color: #333;
   cursor: pointer;
   cursor: hand;
@@ -5907,7 +5898,7 @@ textarea:-ms-input-placeholder {
   display: block;
 }
 .reviews--item-m-answer-open .reviews--item-answer-header {
-  background-image: url("http://static.komus.ru/www/images/longwinter/reviews/arrow-up-2.png");
+  background-image: url("/images/longwinter/reviews/arrow-up-2.png");
 }
 .reviews-additems {
   padding-bottom: 15px;
@@ -5927,7 +5918,7 @@ textarea:-ms-input-placeholder {
 .reviews-additems--header-button {
   width: 140px;
   height: 32px;
-  background-image: url("http://static.komus.ru/www/images/longwinter/reviews-additems/base/button-add.png");
+  background-image: url("/images/longwinter/reviews-additems/base/button-add.png");
   background-position: left top;
   background-repeat: no-repeat;
   cursor: pointer;
@@ -5953,7 +5944,7 @@ textarea:-ms-input-placeholder {
   left: 49px;
   width: 50px;
   height: 11px;
-  background: url("http://static.komus.ru/www/images/longwinter/reviews-additems/arrow-textarea.gif") left top no-repeat;
+  background: url("/images/longwinter/reviews-additems/arrow-textarea.gif") left top no-repeat;
 }
 .reviews-additems--field-block {
   padding: 7px;
@@ -6046,7 +6037,7 @@ textarea:-ms-input-placeholder {
   display: none;
   width: 110px;
   height: 33px;
-  background: url("http://static.komus.ru/www/images/longwinter/webim/button.png") left top no-repeat;
+  background: url("/images/longwinter/webim/button.png") left top no-repeat;
   outline: none;
   text-decoration: none;
 }
@@ -6054,7 +6045,7 @@ textarea:-ms-input-placeholder {
   display: none;
   width: 110px;
   height: 33px;
-  background: url("http://static.komus.ru/www/images/longwinter/zingaya/button.png") left top no-repeat;
+  background: url("/images/longwinter/zingaya/button.png") left top no-repeat;
   outline: none;
   text-decoration: none;
 }
@@ -6139,7 +6130,7 @@ textarea:-ms-input-placeholder {
   height: 36px;
   background-position: left top;
   background-repeat: no-repeat;
-  background-image: url("http://static.komus.ru/www/images/longwinter/shops-remains/close-text.png");
+  background-image: url("/images/longwinter/shops-remains/close-text.png");
   cursor: pointer;
   cursor: hand;
 }
@@ -6164,7 +6155,7 @@ textarea:-ms-input-placeholder {
   font-weight: normal;
   color: #fff;
   font-size: 14px;
-  background-image: url("http://static.komus.ru/www/images/longwinter/shops-remains/1x1_c9002a.gif");
+  background-image: url("/images/longwinter/shops-remains/1x1_c9002a.gif");
   background-color: #af0025;
   border-right: 1px solid #7c001a;
 }
@@ -6231,7 +6222,7 @@ textarea:-ms-input-placeholder {
   height: 32px;
   background-position: left top;
   background-repeat: no-repeat;
-  background-image: url("http://static.komus.ru/www/images/longwinter/shops-remains/close-2.gif");
+  background-image: url("/images/longwinter/shops-remains/close-2.gif");
   cursor: pointer;
   cursor: hand;
 }
@@ -6255,12 +6246,12 @@ textarea:-ms-input-placeholder {
   padding-left: 15px;
   background-position: left 6px;
   background-repeat: no-repeat;
-  background-image: url("http://static.komus.ru/www/images/longwinter/company-select/bullit.gif");
+  background-image: url("/images/longwinter/company-select/bullit.gif");
   text-decoration: none;
   color: #646464;
 }
 .company-select--item-link:hover {
-  background-image: url("http://static.komus.ru/www/images/longwinter/company-select/bullit-hover.gif");
+  background-image: url("/images/longwinter/company-select/bullit-hover.gif");
   color: #0078c3;
 }
 .company-select--item-current {
@@ -6268,7 +6259,7 @@ textarea:-ms-input-placeholder {
   padding-left: 15px;
   background-position: left 6px;
   background-repeat: no-repeat;
-  background-image: url("http://static.komus.ru/www/images/longwinter/company-select/bullit-hover.gif");
+  background-image: url("/images/longwinter/company-select/bullit-hover.gif");
   color: #0078c3;
 }
 .company-select--form-block {
@@ -6327,12 +6318,12 @@ textarea:-ms-input-placeholder {
   padding-left: 15px;
   background-position: left 6px;
   background-repeat: no-repeat;
-  background-image: url("http://static.komus.ru/www/images/longwinter/region-select/bullit.gif");
+  background-image: url("/images/longwinter/region-select/bullit.gif");
   text-decoration: none;
   color: #646464;
 }
 .region-select--item-link:hover {
-  background-image: url("http://static.komus.ru/www/images/longwinter/region-select/bullit-hover.gif");
+  background-image: url("/images/longwinter/region-select/bullit-hover.gif");
   color: #0078c3;
 }
 .region-select--item-current {
@@ -6340,7 +6331,7 @@ textarea:-ms-input-placeholder {
   padding-left: 15px;
   background-position: left 6px;
   background-repeat: no-repeat;
-  background-image: url("http://static.komus.ru/www/images/longwinter/region-select/bullit-hover.gif");
+  background-image: url("/images/longwinter/region-select/bullit-hover.gif");
   color: #0078c3;
 }
 .region-select--item-other {
@@ -6367,7 +6358,7 @@ textarea:-ms-input-placeholder {
   color: #333;
 }
 .region-select--item-priority .region-select--item-link:hover {
-  background-image: url("http://static.komus.ru/www/images/longwinter/region-select/bullit-hover.gif");
+  background-image: url("/images/longwinter/region-select/bullit-hover.gif");
   color: #0078c3;
 }
 .region-select--nodata {
@@ -6581,7 +6572,7 @@ textarea:-ms-input-placeholder {
   height: 3px;
   position: absolute;
   top: 277px;
-  background: url("http://static.komus.ru/www/images/longwinter/reviews-video/border.png") left top no-repeat;
+  background: url("/images/longwinter/reviews-video/border.png") left top no-repeat;
 }
 .reviews-video--item {
   background: #f3f3f3;
@@ -6787,7 +6778,7 @@ textarea:-ms-input-placeholder {
   background-repeat: no-repeat;
 }
 .catalog-cartridge--row-1 {
-  background-image: url("http://static.komus.ru/www/images/longwinter/catalog-cartridge/bg-1.gif");
+  background-image: url("/images/longwinter/catalog-cartridge/bg-1.gif");
 }
 .catalog-cartridge--row-1 .catalog-cartridge--column {
   width: 714px;
@@ -6796,7 +6787,7 @@ textarea:-ms-input-placeholder {
   margin-right: 0px;
 }
 .catalog-cartridge--row-2 {
-  background-image: url("http://static.komus.ru/www/images/longwinter/catalog-cartridge/bg-2.gif");
+  background-image: url("/images/longwinter/catalog-cartridge/bg-2.gif");
 }
 .catalog-cartridge--row-2 .catalog-cartridge--column {
   width: 352px;
@@ -6805,7 +6796,7 @@ textarea:-ms-input-placeholder {
   margin-right: 0px;
 }
 .catalog-cartridge--row-3 {
-  background-image: url("http://static.komus.ru/www/images/longwinter/catalog-cartridge/bg-3.gif");
+  background-image: url("/images/longwinter/catalog-cartridge/bg-3.gif");
 }
 .catalog-cartridge--row-3 .catalog-cartridge--column {
   width: 232px;
@@ -6885,17 +6876,17 @@ input.form-text--input-placeholder {
   width: 264px;
   height: 10px;
   overflow: hidden;
-  background: url("http://static.komus.ru/www/images/longwinter/message-fly/bg-top.png") left top no-repeat;
+  background: url("/images/longwinter/message-fly/bg-top.png") left top no-repeat;
 }
 .message-fly--bottom {
   width: 264px;
   height: 20px;
   overflow: hidden;
-  background: url("http://static.komus.ru/www/images/longwinter/message-fly/bg-bottom.png") left top no-repeat;
+  background: url("/images/longwinter/message-fly/bg-bottom.png") left top no-repeat;
 }
 .message-fly--middle {
   width: 264px;
-  background: url("http://static.komus.ru/www/images/longwinter/message-fly/bg-middle.png") left center repeat-y;
+  background: url("/images/longwinter/message-fly/bg-middle.png") left center repeat-y;
 }
 .message-fly--content {
   padding: 4px 14px 6px 14px;
@@ -6908,7 +6899,7 @@ input.form-text--input-placeholder {
   height: 32px;
   background-position: left top;
   background-repeat: no-repeat;
-  background-image: url("http://static.komus.ru/www/images/longwinter/message-fly/close-2.gif");
+  background-image: url("/images/longwinter/message-fly/close-2.gif");
   cursor: pointer;
   cursor: hand;
 }
@@ -6934,7 +6925,7 @@ input.form-text--input-placeholder {
   padding-right: 20px;
   background-position: right 3px;
   background-repeat: no-repeat;
-  background-image: url("http://static.komus.ru/www/images/longwinter/link-arrow/arrow.png");
+  background-image: url("/images/longwinter/link-arrow/arrow.png");
 }
 .link-arrow--link {
   color: #646464;
@@ -6944,7 +6935,7 @@ input.form-text--input-placeholder {
   text-decoration: underline;
 }
 .link-arrow--m-red .link-arrow--block {
-  background-image: url("http://static.komus.ru/www/images/longwinter/link-arrow/arrow-red.png");
+  background-image: url("/images/longwinter/link-arrow/arrow-red.png");
 }
 .link-arrow--m-red .link-arrow--link {
   color: #af0025;
@@ -6988,7 +6979,7 @@ input.form-text--input-placeholder {
 }
 .goods-listitems--header {
   background-color: #5c7a9b;
-  background-image: url("http://static.komus.ru/www/images/longwinter/goods-listitems/brand_bg.gif");
+  background-image: url("/images/longwinter/goods-listitems/brand_bg.gif");
   background-repeat: repeat-x;
   background-position: left bottom;
 }
@@ -7022,7 +7013,7 @@ input.form-text--input-placeholder {
   border-top: 1px solid #c7d2da;
   border-left: 1px solid #c5cbd0;
   border-right: 1px solid #c5cbd0;
-  background: url("http://static.komus.ru/www/images/longwinter/goods-listitems/link_bg.gif") left top repeat-x;
+  background: url("/images/longwinter/goods-listitems/link_bg.gif") left top repeat-x;
   text-decoration: none;
   color: #333;
 }
@@ -7223,7 +7214,7 @@ input.form-text--input-placeholder {
   padding-top: 4px;
   padding-bottom: 4px;
   line-height: 16px;
-  background-image: url("http://static.komus.ru/www/images/longwinter/office-space/name_bg.png");
+  background-image: url("/images/longwinter/office-space/name_bg.png");
   text-align: center;
   text-transform: uppercase;
   color: #fff;
@@ -7296,7 +7287,7 @@ input.form-text--input-placeholder {
   width: 244px;
   height: 8px;
   overflow: hidden;
-  background-image: url("http://static.komus.ru/www/images/longwinter/office-plase/popup-bg-top.png");
+  background-image: url("/images/longwinter/office-plase/popup-bg-top.png");
   background-position: left top;
   background-repeat: no-repeat;
 }
@@ -7304,13 +7295,13 @@ input.form-text--input-placeholder {
   width: 244px;
   height: 8px;
   overflow: hidden;
-  background-image: url("http://static.komus.ru/www/images/longwinter/office-plase/popup-bg-bottom.png");
+  background-image: url("/images/longwinter/office-plase/popup-bg-bottom.png");
   background-position: left top;
   background-repeat: no-repeat;
 }
 .office-plase--popup-middle {
   width: 244px;
-  background-image: url("http://static.komus.ru/www/images/longwinter/office-plase/popup-bg-middle.png");
+  background-image: url("/images/longwinter/office-plase/popup-bg-middle.png");
   background-position: left center;
   background-repeat: repeat-y;
 }
@@ -7335,7 +7326,7 @@ input.form-text--input-placeholder {
   height: 32px;
   background-position: left top;
   background-repeat: no-repeat;
-  background-image: url("http://static.komus.ru/www/images/longwinter/office-plase/close-2.gif");
+  background-image: url("/images/longwinter/office-plase/close-2.gif");
   cursor: pointer;
   cursor: hand;
 }
@@ -7385,7 +7376,7 @@ input.form-text--input-placeholder {
   background-repeat: no-repeat;
 }
 .office-carousel--arrow-left-activ .office-carousel--arrow-left-button {
-  background-image: url("http://static.komus.ru/www/images/longwinter/office-carousel/arrow-left-activ.gif");
+  background-image: url("/images/longwinter/office-carousel/arrow-left-activ.gif");
   cursor: pointer;
   cursor: hand;
 }
@@ -7393,7 +7384,7 @@ input.form-text--input-placeholder {
   background-position: left bottom;
 }
 .office-carousel--arrow-left-passiv .office-carousel--arrow-left-button {
-  background-image: url("http://static.komus.ru/www/images/longwinter/office-carousel/arrow-left-passiv.gif");
+  background-image: url("/images/longwinter/office-carousel/arrow-left-passiv.gif");
 }
 .office-carousel--arrow-right {
   position: relative;
@@ -7412,7 +7403,7 @@ input.form-text--input-placeholder {
   background-repeat: no-repeat;
 }
 .office-carousel--arrow-right-activ .office-carousel--arrow-right-button {
-  background-image: url("http://static.komus.ru/www/images/longwinter/office-carousel/arrow-right-activ.gif");
+  background-image: url("/images/longwinter/office-carousel/arrow-right-activ.gif");
   cursor: pointer;
   cursor: hand;
 }
@@ -7420,7 +7411,7 @@ input.form-text--input-placeholder {
   background-position: left bottom;
 }
 .office-carousel--arrow-right-passiv .office-carousel--arrow-right-button {
-  background-image: url("http://static.komus.ru/www/images/longwinter/office-carousel/arrow-right-passiv.gif");
+  background-image: url("/images/longwinter/office-carousel/arrow-right-passiv.gif");
 }
 .office-carousel--content {
   position: relative;
@@ -7473,7 +7464,7 @@ input.form-text--input-placeholder {
   padding-top: 4px;
   padding-bottom: 4px;
   line-height: 16px;
-  background-image: url("http://static.komus.ru/www/images/longwinter/office-carousel/name-bg.png");
+  background-image: url("/images/longwinter/office-carousel/name-bg.png");
   text-align: center;
   text-transform: uppercase;
   color: #fff;
@@ -7508,7 +7499,7 @@ input.form-text--input-placeholder {
   border: 1px solid #b2b2b2;
 }
 .office-carousel--item-m-current .office-carousel--item-name {
-  background-image: url("http://static.komus.ru/www/images/longwinter/office-carousel/name-bg-current.png");
+  background-image: url("/images/longwinter/office-carousel/name-bg-current.png");
 }
 .preview-image {
   display: none;
@@ -7526,7 +7517,7 @@ input.form-text--input-placeholder {
 .form-field--name-label-required {
   display: block;
   padding-left: 11px;
-  background: url("http://static.komus.ru/www/images/longwinter/form-field/required.png") left 2px no-repeat;
+  background: url("/images/longwinter/form-field/required.png") left 2px no-repeat;
 }
 .form-field--block {
   padding-top: 4px;
@@ -7646,7 +7637,7 @@ textarea.form-textarea--textarea-placeholder {
 .form-rating--stars {
   width: 95px;
   height: 19px;
-  background-image: url("http://static.komus.ru/www/images/longwinter/form-rating/base/z_rating_19.gif");
+  background-image: url("/images/longwinter/form-rating/base/z_rating_19.gif");
   background-repeat: no-repeat;
 }
 .form-rating--stars-set {
@@ -7899,7 +7890,7 @@ textarea.form-textarea--textarea-placeholder {
   background-repeat: no-repeat;
 }
 .product-preorder__pictures--arrow-left-activ .product-preorder__pictures--arrow-left-button {
-  background-image: url("http://static.komus.ru/www/images/longwinter/product-preorder/arrow-left-activ.gif");
+  background-image: url("/images/longwinter/product-preorder/arrow-left-activ.gif");
   cursor: pointer;
   cursor: hand;
 }
@@ -7907,7 +7898,7 @@ textarea.form-textarea--textarea-placeholder {
   background-position: left bottom;
 }
 .product-preorder__pictures--arrow-left-passiv .product-preorder__pictures--arrow-left-button {
-  background-image: url("http://static.komus.ru/www/images/longwinter/product-preorder/arrow-left-passiv.gif");
+  background-image: url("/images/longwinter/product-preorder/arrow-left-passiv.gif");
 }
 .product-preorder__pictures--arrow-right {
   position: relative;
@@ -7924,7 +7915,7 @@ textarea.form-textarea--textarea-placeholder {
   background-repeat: no-repeat;
 }
 .product-preorder__pictures--arrow-right-activ .product-preorder__pictures--arrow-right-button {
-  background-image: url("http://static.komus.ru/www/images/longwinter/product-preorder/arrow-right-activ.gif");
+  background-image: url("/images/longwinter/product-preorder/arrow-right-activ.gif");
   cursor: pointer;
   cursor: hand;
 }
@@ -7932,7 +7923,7 @@ textarea.form-textarea--textarea-placeholder {
   background-position: left bottom;
 }
 .product-preorder__pictures--arrow-right-passiv .product-preorder__pictures--arrow-right-button {
-  background-image: url("http://static.komus.ru/www/images/longwinter/product-preorder/arrow-right-passiv.gif");
+  background-image: url("/images/longwinter/product-preorder/arrow-right-passiv.gif");
 }
 .product-preorder__pictures--content {
   position: relative;
@@ -7958,7 +7949,7 @@ textarea.form-textarea--textarea-placeholder {
   height: 80px;
   background-position: left top;
   background-repeat: no-repeat;
-  background-image: url("http://static.komus.ru/www/images/longwinter/product-preorder/pictures_bg-3.gif");
+  background-image: url("/images/longwinter/product-preorder/pictures_bg-3.gif");
 }
 .product-preorder__pictures--item-link:hover {
   background-position: left bottom;
@@ -7994,19 +7985,19 @@ textarea.form-textarea--textarea-placeholder {
   width: 100%;
   height: 3px;
   overflow: hidden;
-  background-image: url("http://static.komus.ru/www/images/longwinter/product-info/border_bg.gif");
+  background-image: url("/images/longwinter/product-info/border_bg.gif");
   background-position: center top;
   background-repeat: repeat-x;
 }
 .product-info--inside-1 {
   padding-top: 9px;
   padding-bottom: 9px;
-  background-image: url("http://static.komus.ru/www/images/longwinter/product-info/bg.gif");
+  background-image: url("/images/longwinter/product-info/bg.gif");
   background-position: center top;
   background-repeat: repeat-y;
 }
 .product-info--inside-2 {
-  background-image: url("http://static.komus.ru/www/images/longwinter/product-info/border_center_bg.gif");
+  background-image: url("/images/longwinter/product-info/border_center_bg.gif");
   background-position: center top;
   background-repeat: repeat-y;
 }
@@ -8032,7 +8023,7 @@ textarea.form-textarea--textarea-placeholder {
 .product-info--left-block-item {
   padding-left: 28px;
   padding-bottom: 9px;
-  background-image: url("http://static.komus.ru/www/images/longwinter/product-info/left_block_bullit.gif");
+  background-image: url("/images/longwinter/product-info/left_block_bullit.gif");
   background-position: 0px 5px;
   background-repeat: no-repeat;
 }
@@ -8079,7 +8070,7 @@ textarea.form-textarea--textarea-placeholder {
   height: 72px;
   background-position: left top;
   background-repeat: no-repeat;
-  background-image: url("http://static.komus.ru/www/images/longwinter/smartbanner/close-2.gif");
+  background-image: url("/images/longwinter/smartbanner/close-2.gif");
   cursor: pointer;
   cursor: hand;
 }
@@ -8091,7 +8082,7 @@ textarea.form-textarea--textarea-placeholder {
   padding-left: 152px;
   background-position: left top;
   background-repeat: no-repeat;
-  background-image: url("http://static.komus.ru/www/images/longwinter/smartbanner/icon.png");
+  background-image: url("/images/longwinter/smartbanner/icon.png");
 }
 .smartbanner--info-title {
   text-transform: uppercase;
@@ -8122,7 +8113,7 @@ textarea.form-textarea--textarea-placeholder {
 .table--thead-th {
   border: 1px solid #d9d9d9;
   padding: 6px 10px 6px 10px;
-  background-image: url("http://static.komus.ru/www/images/longwinter/table/bg_1x1_fff.gif");
+  background-image: url("/images/longwinter/table/bg_1x1_fff.gif");
   background-position: center top;
   background-repeat: repeat-x;
   background-color: #f3f3f3;
@@ -8316,7 +8307,7 @@ textarea.form-textarea--textarea-placeholder {
   width: 100%;
   background-position: center top;
   background-repeat: no-repeat;
-  background-image: url("http://static.komus.ru/www/images/longwinter/tabs-links/base/item_arrow.png");
+  background-image: url("/images/longwinter/tabs-links/base/item_arrow.png");
 }
 .tabs-links--item-m-first {
   padding-left: 0px;
@@ -8340,7 +8331,7 @@ textarea.form-textarea--textarea-placeholder {
 }
 .tabs-links--content {
   border-top: 1px solid #fff;
-  background-image: url("http://static.komus.ru/www/images/longwinter/tabs-links/content_bg.gif");
+  background-image: url("/images/longwinter/tabs-links/content_bg.gif");
   background-position: center top;
   background-repeat: repeat-x;
 }
@@ -8428,7 +8419,7 @@ textarea.form-textarea--textarea-placeholder {
 .separator--block {
   overflow: hidden;
   height: 1px;
-  background-image: url("http://static.komus.ru/www/images/longwinter/separator/bg.gif");
+  background-image: url("/images/longwinter/separator/bg.gif");
   background-position: top center;
   background-repeat: repeat-x;
 }
@@ -8464,13 +8455,13 @@ textarea.form-textarea--textarea-placeholder {
 }
 .catalog-images--ag-content-left {
   padding-left: 1px;
-  background-image: url("http://static.komus.ru/www/images/longwinter/catalog-images/border_bg.gif");
+  background-image: url("/images/longwinter/catalog-images/border_bg.gif");
   background-position: left bottom;
   background-repeat: no-repeat;
 }
 .catalog-images--ag-content-right {
   padding-right: 1px;
-  background-image: url("http://static.komus.ru/www/images/longwinter/catalog-images/border_bg.gif");
+  background-image: url("/images/longwinter/catalog-images/border_bg.gif");
   background-position: right bottom;
   background-repeat: no-repeat;
 }
@@ -8488,21 +8479,21 @@ textarea.form-textarea--textarea-placeholder {
 .catalog-images--ag-item-link {
   display: block;
   padding-left: 15px;
-  background-image: url("http://static.komus.ru/www/images/longwinter/catalog-images/link_bullit.gif");
+  background-image: url("/images/longwinter/catalog-images/link_bullit.gif");
   background-position: left 6px;
   background-repeat: no-repeat;
   text-decoration: none;
   color: #646464;
 }
 .catalog-images--ag-item-link:hover {
-  background-image: url("http://static.komus.ru/www/images/longwinter/catalog-images/link_bullit-hover.gif");
+  background-image: url("/images/longwinter/catalog-images/link_bullit-hover.gif");
   color: #0078c3;
 }
 .catalog-images--ag-item-link:hover .catalog-images--ag-item-count {
   color: #0078c3;
 }
 .catalog-images--ag-item-name {
-  background: url("http://static.komus.ru/www/images/longwinter/catalog-images/opacity_80.png");
+  background: url("/images/longwinter/catalog-images/opacity_80.png");
 }
 .catalog-images--ag-item-count {
   color: #999;
@@ -8557,12 +8548,12 @@ textarea.form-textarea--textarea-placeholder {
   text-align: right;
 }
 .sidebar-selection--button-input {
-  background-image: url("http://static.komus.ru/www/images/longwinter/sidebar-selection/base/button.gif");
+  background-image: url("/images/longwinter/sidebar-selection/base/button.gif");
   background-position: left top;
   background-repeat: no-repeat;
 }
 .sidebar-selection--button-input-m-disabled {
-  background-image: url("http://static.komus.ru/www/images/longwinter/sidebar-selection/button_disabled.gif");
+  background-image: url("/images/longwinter/sidebar-selection/button_disabled.gif");
   cursor: default;
 }
 .sidebar-selection--m-blocked .sidebar-selection--blocked {
@@ -8577,10 +8568,10 @@ textarea.form-textarea--textarea-placeholder {
   top: -11px;
   width: 245px;
   height: 47px;
-  background: url("http://static.komus.ru/www/images/longwinter/sidebar-selection/school_2014_bg.jpg") left top no-repeat;
+  background: url("/images/longwinter/sidebar-selection/school_2014_bg.jpg") left top no-repeat;
 }
 .sidebar-selection--m-school_2014 .sidebar-selection--content {
-  background: url("http://static.komus.ru/www/images/longwinter/sidebar-selection/school_2014_bg.jpg") -1px -47px no-repeat;
+  background: url("/images/longwinter/sidebar-selection/school_2014_bg.jpg") -1px -47px no-repeat;
 }
 .sidebar-selection--m-daily_log_2015 .sidebar-selection--top {
   height: 36px;
@@ -8591,11 +8582,11 @@ textarea.form-textarea--textarea-placeholder {
   top: -11px;
   width: 245px;
   height: 47px;
-  background: url("http://static.komus.ru/www/images/longwinter/sidebar-selection/daily_log_2015_bg.jpg") left top no-repeat;
+  background: url("/images/longwinter/sidebar-selection/daily_log_2015_bg.jpg") left top no-repeat;
 }
 .filter--art-inside {
   padding: 0px 5px 0px 5px;
-  background-image: url("http://static.komus.ru/www/images/longwinter/filter/art_border.gif");
+  background-image: url("/images/longwinter/filter/art_border.gif");
   background-position: center bottom;
   background-repeat: repeat-x;
 }
@@ -8644,7 +8635,7 @@ textarea.form-textarea--textarea-placeholder {
 }
 .filter--separator-inside {
   height: 3px;
-  background-image: url("http://static.komus.ru/www/images/longwinter/filter/separator.gif");
+  background-image: url("/images/longwinter/filter/separator.gif");
   background-position: center top;
   background-repeat: repeat-x;
 }
@@ -8656,7 +8647,7 @@ textarea.form-textarea--textarea-placeholder {
 }
 .filter--main-content {
   padding: 10px 60px 0px 80px;
-  background-image: url("http://static.komus.ru/www/images/longwinter/filter/main_bg.gif");
+  background-image: url("/images/longwinter/filter/main_bg.gif");
   background-position: center top;
   background-repeat: repeat-x;
   background-color: #fdfefe;
@@ -8695,7 +8686,7 @@ textarea.form-textarea--textarea-placeholder {
   color: #0078c3;
 }
 .filter--m-gift .filter--art-content {
-  background-image: url("http://static.komus.ru/www/images/longwinter/filter/art_bg_gift.jpg");
+  background-image: url("/images/longwinter/filter/art_bg_gift.jpg");
   height: 223px;
 }
 .filter__art-field--label {
@@ -8735,7 +8726,7 @@ textarea.form-textarea--textarea-placeholder {
   cursor: hand;
   background-position: left top;
   background-repeat: no-repeat;
-  background-image: url("http://static.komus.ru/www/images/longwinter/filter/cursor.png");
+  background-image: url("/images/longwinter/filter/cursor.png");
 }
 .filter__main-fields--scale-line-cursor:hover {
   background-position: left bottom;
@@ -8789,7 +8780,7 @@ textarea.form-textarea--textarea-placeholder {
   height: 11px;
   top: 5px;
   width: 219px;
-  background: url("http://static.komus.ru/www/images/longwinter/filter/line-full.gif") center top no-repeat;
+  background: url("/images/longwinter/filter/line-full.gif") center top no-repeat;
 }
 .filter__main-fields--scale-line-min {
   position: absolute;
@@ -8797,7 +8788,7 @@ textarea.form-textarea--textarea-placeholder {
   top: 5px;
   left: 6px;
   width: 0px;
-  background: url("http://static.komus.ru/www/images/longwinter/filter/line-limit.gif") left top no-repeat;
+  background: url("/images/longwinter/filter/line-limit.gif") left top no-repeat;
 }
 .filter__main-fields--scale-line-max {
   position: absolute;
@@ -8805,7 +8796,7 @@ textarea.form-textarea--textarea-placeholder {
   top: 5px;
   right: 6px;
   width: 0px;
-  background: url("http://static.komus.ru/www/images/longwinter/filter/line-limit.gif") right top no-repeat;
+  background: url("/images/longwinter/filter/line-limit.gif") right top no-repeat;
 }
 .filter__main-fields--scale-line-min-user {
   position: absolute;
@@ -8815,7 +8806,7 @@ textarea.form-textarea--textarea-placeholder {
   width: 0px;
   background-position: left top;
   background-repeat: no-repeat;
-  background-image: url("http://static.komus.ru/www/images/longwinter/filter/line-limit-user.png");
+  background-image: url("/images/longwinter/filter/line-limit-user.png");
 }
 .filter__main-fields--scale-line-max-user {
   position: absolute;
@@ -8825,7 +8816,7 @@ textarea.form-textarea--textarea-placeholder {
   width: 0px;
   background-position: right top;
   background-repeat: no-repeat;
-  background-image: url("http://static.komus.ru/www/images/longwinter/filter/line-limit-user.png");
+  background-image: url("/images/longwinter/filter/line-limit-user.png");
 }
 .filter__main-fields--scale-line-min-cursor {
   position: absolute;
@@ -8837,7 +8828,7 @@ textarea.form-textarea--textarea-placeholder {
   cursor: hand;
   background-position: left top;
   background-repeat: no-repeat;
-  background-image: url("http://static.komus.ru/www/images/longwinter/filter/cursor.png");
+  background-image: url("/images/longwinter/filter/cursor.png");
   left: 0px;
 }
 .filter__main-fields--scale-line-min-cursor:hover {
@@ -8853,7 +8844,7 @@ textarea.form-textarea--textarea-placeholder {
   cursor: hand;
   background-position: left top;
   background-repeat: no-repeat;
-  background-image: url("http://static.komus.ru/www/images/longwinter/filter/cursor.png");
+  background-image: url("/images/longwinter/filter/cursor.png");
   right: 0px;
 }
 .filter__main-fields--scale-line-max-cursor:hover {
@@ -8943,11 +8934,11 @@ textarea.form-textarea--textarea-placeholder {
 }
 .sidebar-filterart--m-gift .sidebar-filterart--top {
   height: 200px;
-  background-image: url("http://static.komus.ru/www/images/longwinter/sidebar-filterart/skin_gift/top.jpg");
+  background-image: url("/images/longwinter/sidebar-filterart/skin_gift/top.jpg");
 }
 .sidebar-filterart--m-gift .sidebar-filterart--bottom {
   height: 238px;
-  background-image: url("http://static.komus.ru/www/images/longwinter/sidebar-filterart/skin_gift/bottom.jpg");
+  background-image: url("/images/longwinter/sidebar-filterart/skin_gift/bottom.jpg");
 }
 .sidebar-filterart__fields--scale-line-any {
   position: absolute;
@@ -8964,7 +8955,7 @@ textarea.form-textarea--textarea-placeholder {
   cursor: hand;
   background-position: left top;
   background-repeat: no-repeat;
-  background-image: url("http://static.komus.ru/www/images/longwinter/sidebar-filterart/cursor.png");
+  background-image: url("/images/longwinter/sidebar-filterart/cursor.png");
 }
 .sidebar-filterart__fields--scale-line-cursor:hover {
   background-position: left bottom;
@@ -9025,7 +9016,7 @@ textarea.form-textarea--textarea-placeholder {
   height: 11px;
   top: 5px;
   width: 219px;
-  background: url("http://static.komus.ru/www/images/longwinter/sidebar-filterart/line-full.gif") center top no-repeat;
+  background: url("/images/longwinter/sidebar-filterart/line-full.gif") center top no-repeat;
 }
 .sidebar-filterart__fields--scale-line-min {
   position: absolute;
@@ -9033,7 +9024,7 @@ textarea.form-textarea--textarea-placeholder {
   top: 5px;
   left: 6px;
   width: 0px;
-  background: url("http://static.komus.ru/www/images/longwinter/sidebar-filterart/line-limit.gif") left top no-repeat;
+  background: url("/images/longwinter/sidebar-filterart/line-limit.gif") left top no-repeat;
 }
 .sidebar-filterart__fields--scale-line-max {
   position: absolute;
@@ -9041,7 +9032,7 @@ textarea.form-textarea--textarea-placeholder {
   top: 5px;
   right: 6px;
   width: 0px;
-  background: url("http://static.komus.ru/www/images/longwinter/sidebar-filterart/line-limit.gif") right top no-repeat;
+  background: url("/images/longwinter/sidebar-filterart/line-limit.gif") right top no-repeat;
 }
 .sidebar-filterart__fields--scale-line-min-user {
   position: absolute;
@@ -9051,7 +9042,7 @@ textarea.form-textarea--textarea-placeholder {
   width: 0px;
   background-position: left top;
   background-repeat: no-repeat;
-  background-image: url("http://static.komus.ru/www/images/longwinter/sidebar-filterart/line-limit-user.png");
+  background-image: url("/images/longwinter/sidebar-filterart/line-limit-user.png");
 }
 .sidebar-filterart__fields--scale-line-max-user {
   position: absolute;
@@ -9061,7 +9052,7 @@ textarea.form-textarea--textarea-placeholder {
   width: 0px;
   background-position: right top;
   background-repeat: no-repeat;
-  background-image: url("http://static.komus.ru/www/images/longwinter/sidebar-filterart/line-limit-user.png");
+  background-image: url("/images/longwinter/sidebar-filterart/line-limit-user.png");
 }
 .sidebar-filterart__fields--scale-line-min-cursor {
   position: absolute;
@@ -9073,7 +9064,7 @@ textarea.form-textarea--textarea-placeholder {
   cursor: hand;
   background-position: left top;
   background-repeat: no-repeat;
-  background-image: url("http://static.komus.ru/www/images/longwinter/sidebar-filterart/cursor.png");
+  background-image: url("/images/longwinter/sidebar-filterart/cursor.png");
   left: 0px;
 }
 .sidebar-filterart__fields--scale-line-min-cursor:hover {
@@ -9089,7 +9080,7 @@ textarea.form-textarea--textarea-placeholder {
   cursor: hand;
   background-position: left top;
   background-repeat: no-repeat;
-  background-image: url("http://static.komus.ru/www/images/longwinter/sidebar-filterart/cursor.png");
+  background-image: url("/images/longwinter/sidebar-filterart/cursor.png");
   right: 0px;
 }
 .sidebar-filterart__fields--scale-line-max-cursor:hover {
@@ -9205,14 +9196,14 @@ textarea.form-textarea--textarea-placeholder {
 .message-popup--button-arrow-left {
   display: block;
   padding-left: 12px;
-  background-image: url("http://static.komus.ru/www/images/longwinter/message-popup/arrow_left.png");
+  background-image: url("/images/longwinter/message-popup/arrow_left.png");
   background-position: left 2px;
   background-repeat: no-repeat;
 }
 .message-popup--button-arrow-right {
   display: block;
   padding-right: 12px;
-  background-image: url("http://static.komus.ru/www/images/longwinter/message-popup/arrow_right.png");
+  background-image: url("/images/longwinter/message-popup/arrow_right.png");
   background-position: right 2px;
   background-repeat: no-repeat;
 }
@@ -9221,7 +9212,7 @@ textarea.form-textarea--textarea-placeholder {
   padding-bottom: 5px;
 }
 .banners-line--header {
-  background-image: url("http://static.komus.ru/www/images/longwinter/banners-line/header_bg.gif");
+  background-image: url("/images/longwinter/banners-line/header_bg.gif");
   background-position: left 11px;
   background-repeat: repeat-x;
   font-weight: normal;
@@ -9264,14 +9255,14 @@ textarea.form-textarea--textarea-placeholder {
   width: 354px;
   padding-left: 6px;
   vertical-align: top;
-  background: url("http://static.komus.ru/www/images/longwinter/news-blocks/content_bottom_bg.png") right bottom no-repeat;
+  background: url("/images/longwinter/news-blocks/content_bottom_bg.png") right bottom no-repeat;
 }
 .news-blocks--frame-col-1 {
   padding-left: 0px;
 }
 .news-blocks--header {
   padding: 7px 13px 6px 14px;
-  background: url("http://static.komus.ru/www/images/longwinter/news-blocks/header_top_bg.png") right top no-repeat #f3f3f3;
+  background: url("/images/longwinter/news-blocks/header_top_bg.png") right top no-repeat #f3f3f3;
   font-size: 17px;
   line-height: 20px;
   color: #333;
@@ -9285,11 +9276,11 @@ textarea.form-textarea--textarea-placeholder {
 }
 .news-blocks--items {
   margin-bottom: 33px;
-  background: url("http://static.komus.ru/www/images/longwinter/news-blocks/content_middle_bg.png") right top repeat-y;
+  background: url("/images/longwinter/news-blocks/content_middle_bg.png") right top repeat-y;
 }
 .news-blocks--items-inside {
   padding-top: 10px;
-  background: url("http://static.komus.ru/www/images/longwinter/news-blocks/content_top_bg.png") right top no-repeat;
+  background: url("/images/longwinter/news-blocks/content_top_bg.png") right top no-repeat;
 }
 .news-blocks--item {
   padding-top: 14px;
@@ -9445,3 +9436,11 @@ textarea.form-textarea--textarea-placeholder {
   
 
 }
+
+#banner-big_js {}
+#banner-big_js  img{ display: inline-block;max-width: 100%;}
+
+.nopadding {padding: 0!important;}
+
+.goods-action__item {width:16.66666666%;float:left;}
+

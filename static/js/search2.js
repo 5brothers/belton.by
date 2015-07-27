@@ -229,29 +229,9 @@ SearchAsYouType.prototype.detectBrowser_ = function() {
  * a generic CSS plus extra stylesheets containing exceptions for IE and 
  * Safari.
  */
-SearchAsYouType.prototype.attachStylesheets_ = function() {
-  this.attachStylesheet_('generic.css');
-  this.attachStylesheet_('customized.css');
-  if (this.browserIE) {
-    this.attachStylesheet_('ie.css');
-  } else if (this.browserSafari) {
-    this.attachStylesheet_('safari.css');
-  }
-}
 
-/**
- * Attach a CSS stylesheet to the document body.
- * @param {String} filename Absolute URL of the stylesheet
- */
-SearchAsYouType.prototype.attachStylesheet_ = function(filename) {
-  var el = document.createElement('link');
-  //el.href = this.resourcesPath + "styles/" + filename;  
-  //подключим стили по другому пути
-  el.href = "/css/search-as-you-type/" + filename;
-  el.type = 'text/css';
-  el.rel = 'stylesheet';
-  document.getElementsByTagName('head').item(0).appendChild(el);
-}
+
+
 
 /**
  * Create all the necessary page elements: search results window(s),

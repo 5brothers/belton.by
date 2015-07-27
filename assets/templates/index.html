@@ -371,7 +371,7 @@ $(document).ready(function(){
 							
 							                            <div class="application-bar--item-menu application-bar--item-menu-m-openable application-bar--item-menu-m-click application-bar--item-menu_js">
                                                                 <div class="application-bar--item-menu-name">
-                                    <a href="/region/" class="application-bar--item-link"><nobr>Москва</nobr></a>
+                                    <a href="/region/" class="application-bar--item-link"><nobr>Минск</nobr></a>
                                 </div><!-- .application-bar--item-menu-name -->
                                                                 <div class="application-bar--item-menu-panel">
                                     
@@ -632,35 +632,7 @@ $(document).ready(function () {
 });
 
 </script>
-<script type="text/javascript">
-$(document).ready(function(){
-	
-	// form_whith_placeholder - функция для оформления подсказок в полях формы, находится в /static/js/longwinter/functions.js
-	// $('.search-top--form_js') - класс формы, в полях input и textarea которой должны появляться комментарии
-	$('.search-top--form_js').form_whith_placeholder({
-		fields_class: 'search-top--field-placeholder_js', // Класс полей input и textarea, в которых должны появляться подсказки
-		placeholder_class: 'search-top--field-placeholder' // Класс, который присваивается полю на то время, пока в нем находится подсказка
-	});
-	
-	// form_fields_focus - функция для изменения вида полей формы в фокусе, находится в /static/js/longwinter/functions.js
-	// $('.search-top--field-input_js') - класс полей, вид которых должен меняться, когда они находятся в фокусе
-	$('.search-top--field-input_js').form_fields_focus({
-		field_class: 'search-top--field-input_js', // Класс поля формы, которое изменяет вид при нахождении в фокусе
-		field_block_class: 'search-top--field_js', // Класс родительского для поля блока, которому нужно поменять класс, когда поле находится в фокусе
-		focus_class: 'search-top--field-m-focus' // Класс, который нужно присвоить родительскому блоку field_block_class, когда поле находится в фокусе
-	});
-	
-	// Вызываем функцию для выпадающего списка автодополнений (если браузер не IE6, который выдает ошибки в этой функции)
-		if (!detectIE6 ()) {
-		searchAsYouType.initialize(
-			document.getElementById('search-top--field-input_js'),
-			false,
-			'/gsa/autocompletion'
-		);
-	};
-		
-});
-</script>
+
 
 <!-- Блок с поиском в шапке -->
 <div class="search-top">
@@ -8140,7 +8112,7 @@ $(document).ready(function(){
                         </noindex>
                         
                                                 <div class="footer__contacts--phones">
-                            Москва&nbsp;&mdash; 
+                            Минск&nbsp;&mdash; 
                             
                             Телефон для заказов: 
 							                            <span class="call_phone_1">
