@@ -1,0 +1,16 @@
+<?php return array (
+  'unique_key' => 'key',
+  'preserve_keys' => true,
+  'update_object' => false,
+  'namespace' => 'msklad',
+  'resolve' => NULL,
+  'validate' => NULL,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => 'ad93393898f81c96290748ec76223585',
+  'package' => 'modx',
+  'class' => 'modSystemSetting',
+  'signature' => '2db7765727579280d88c07cbe7f07124',
+  'native_key' => 'msklad_sync_direction',
+  'object' => '{"key":"msklad_sync_direction","value":"1","xtype":"msklad-combo-direction","namespace":"msklad","area":"msklad_main","editedon":null}',
+);

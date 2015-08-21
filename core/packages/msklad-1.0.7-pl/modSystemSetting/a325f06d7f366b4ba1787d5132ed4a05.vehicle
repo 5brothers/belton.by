@@ -1,0 +1,16 @@
+<?php return array (
+  'unique_key' => 'key',
+  'preserve_keys' => true,
+  'update_object' => false,
+  'namespace' => 'msklad',
+  'resolve' => NULL,
+  'validate' => NULL,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => 'a7ee23815a68239661c46f3524212c90',
+  'package' => 'modx',
+  'class' => 'modSystemSetting',
+  'signature' => 'a325f06d7f366b4ba1787d5132ed4a05',
+  'native_key' => 'msklad_price_by_feature_tv',
+  'object' => '{"key":"msklad_price_by_feature_tv","value":"","xtype":"textfield","namespace":"msklad","area":"msklad_1c","editedon":null}',
+);

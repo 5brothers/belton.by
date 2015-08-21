@@ -1,0 +1,106 @@
+{"types":{"4":{"name":"\u041c\u0424\u0423 \u043b\u0430\u0437\u0435\u0440\u043d\u044b\u0435 \u043c\u043e
+\u043d\u043e\u0445\u0440\u043e\u043c\u043d\u044b\u0435","ID":"4"},"5":{"name":"\u041c\u0424\u0423 \u043b
+\u0430\u0437\u0435\u0440\u043d\u044b\u0435 \u0446\u0432\u0435\u0442\u043d\u044b\u0435","ID":"5"},"8"
+:{"name":"\u041f\u0440\u0438\u043d\u0442\u0435\u0440\u044b \u043b\u0430\u0437\u0435\u0440\u043d\u044b
+\u0435 \u0446\u0432\u0435\u0442\u043d\u044b\u0435","ID":"8"},"7":{"name":"\u041f\u0440\u0438\u043d\u0442
+\u0435\u0440\u044b \u043b\u0430\u0437\u0435\u0440\u043d\u044b\u0435 \u043c\u043e\u043d\u043e\u0445\u0440
+\u043e\u043c\u043d\u044b\u0435","ID":"7"},"9":{"name":"\u041f\u0440\u0438\u043d\u0442\u0435\u0440\u044b
+ \u043c\u0430\u0442\u0440\u0438\u0447\u043d\u044b\u0435","ID":"9"}},"type_selected":0,"printers":{"z6045"
+:{"itemID":"z6045","name":"Samsung CLP-310","bName":"Samsung"},"z6043":{"itemID":"z6043","name":"Samsung
+ CLP-315","bName":"Samsung"},"z6298":{"itemID":"z6298","name":"Samsung CLP-320","bName":"Samsung"},"z6299"
+:{"itemID":"z6299","name":"Samsung CLP-325","bName":"Samsung"},"z6044":{"itemID":"z6044","name":"Samsung
+ CLX-3175","bName":"Samsung"},"z6300":{"itemID":"z6300","name":"Samsung CLX-3185","bName":"Samsung"}
+,"z6027":{"itemID":"z6027","name":"Samsung ML-1640","bName":"Samsung"},"z6025":{"itemID":"z6025","name"
+:"Samsung ML-1660","bName":"Samsung"},"z6026":{"itemID":"z6026","name":"Samsung ML-1665","bName":"Samsung"
+},"z6028":{"itemID":"z6028","name":"Samsung ML-1910","bName":"Samsung"},"z6031":{"itemID":"z6031","name"
+:"Samsung ML-1915","bName":"Samsung"},"z6029":{"itemID":"z6029","name":"Samsung ML-2525","bName":"Samsung"
+},"z6086":{"itemID":"z6086","name":"Samsung ML-2950ND","bName":"Samsung"},"z6088":{"itemID":"z6088","name"
+:"Samsung ML-2955DW","bName":"Samsung"},"z6087":{"itemID":"z6087","name":"Samsung ML-2955ND","bName"
+:"Samsung"},"z6106":{"itemID":"z6106","name":"Samsung ML-3750ND","bName":"Samsung"},"z6030":{"itemID"
+:"z6030","name":"Samsung SCX-4600","bName":"Samsung"},"z6089":{"itemID":"z6089","name":"Samsung SCX-4728FD"
+,"bName":"Samsung"},"z6333":{"itemID":"z6333","name":"Samsung SL-M2620","bName":"Samsung"},"z6334":{"itemID"
+:"z6334","name":"Samsung SL-M2820","bName":"Samsung"},"z6335":{"itemID":"z6335","name":"Samsung SL-M2870"
+,"bName":"Samsung"},"384620":{"itemID":"384620","name":"Samsung  SL-C410W","bName":"Samsung"},"391167"
+:{"itemID":"391167","name":"Samsung  SL-M2880FW","bName":"Samsung"},"z4427":{"itemID":"z4427","name"
+:"Samsung CLP-300","bName":"Samsung"},"134160":{"itemID":"134160","name":"Samsung CLP-310","bName":"Samsung"
+},"157471":{"itemID":"157471","name":"Samsung CLP-315","bName":"Samsung"},"177847":{"itemID":"177847"
+,"name":"Samsung CLP-320","bName":"Samsung"},"177848":{"itemID":"177848","name":"Samsung CLP-320n","bName"
+:"Samsung"},"177849":{"itemID":"177849","name":"Samsung CLP-325","bName":"Samsung"},"177850":{"itemID"
+:"177850","name":"Samsung CLP-325W","bName":"Samsung"},"270218":{"itemID":"270218","name":"Samsung CLP-360"
+,"bName":"Samsung"},"287033":{"itemID":"287033","name":"Samsung CLP-365","bName":"Samsung"},"287034"
+:{"itemID":"287034","name":"Samsung CLP-365W","bName":"Samsung"},"270219":{"itemID":"270219","name":"Samsung
+ CLP-415","bName":"Samsung"},"z4322":{"itemID":"z4322","name":"Samsung CLX-3170","bName":"Samsung"},"134011"
+:{"itemID":"134011","name":"Samsung CLX-3175","bName":"Samsung"},"159483":{"itemID":"159483","name":"Samsung
+ CLX-3175FN","bName":"Samsung"},"177828":{"itemID":"177828","name":"Samsung CLX-3185","bName":"Samsung"
+},"177829":{"itemID":"177829","name":"Samsung CLX-3185FN","bName":"Samsung"},"177830":{"itemID":"177830"
+,"name":"Samsung CLX-3185FW","bName":"Samsung"},"177831":{"itemID":"177831","name":"Samsung CLX-3185N"
+,"bName":"Samsung"},"270221":{"itemID":"270221","name":"Samsung CLX-3300","bName":"Samsung"},"292711"
+:{"itemID":"292711","name":"Samsung CLX-3305","bName":"Samsung"},"292712":{"itemID":"292712","name":"Samsung
+ CLX-3305FN","bName":"Samsung"},"292713":{"itemID":"292713","name":"Samsung CLX-3305FW","bName":"Samsung"
+},"292714":{"itemID":"292714","name":"Samsung CLX-3305W","bName":"Samsung"},"270222":{"itemID":"270222"
+,"name":"Samsung CLX-4195","bName":"Samsung"},"z4738":{"itemID":"z4738","name":"Samsung ML-1010","bName"
+:"Samsung"},"z4739":{"itemID":"z4739","name":"Samsung ML-1020M","bName":"Samsung"},"z4740":{"itemID"
+:"z4740","name":"Samsung ML-1210","bName":"Samsung"},"z4741":{"itemID":"z4741","name":"Samsung ML-1220M"
+,"bName":"Samsung"},"z4742":{"itemID":"z4742","name":"Samsung ML-1250","bName":"Samsung"},"z4743":{"itemID"
+:"z4743","name":"Samsung ML-1430","bName":"Samsung"},"z4748":{"itemID":"z4748","name":"Samsung ML-1510"
+,"bName":"Samsung"},"z4751":{"itemID":"z4751","name":"Samsung ML-1610","bName":"Samsung"},"z4752":{"itemID"
+:"z4752","name":"Samsung ML-1615","bName":"Samsung"},"140480":{"itemID":"140480","name":"Samsung ML-1630"
+,"bName":"Samsung"},"110768":{"itemID":"110768","name":"Samsung ML-1630W","bName":"Samsung"},"110769"
+:{"itemID":"110769","name":"Samsung ML-1640","bName":"Samsung"},"134126":{"itemID":"134126","name":"Samsung
+ ML-1641","bName":"Samsung"},"167751":{"itemID":"167751","name":"Samsung ML-1660","bName":"Samsung"}
+,"167752":{"itemID":"167752","name":"Samsung ML-1665","bName":"Samsung"},"z4753":{"itemID":"z4753","name"
+:"Samsung ML-1710","bName":"Samsung"},"z4754":{"itemID":"z4754","name":"Samsung ML-1750","bName":"Samsung"
+},"201998":{"itemID":"201998","name":"Samsung ML-1860","bName":"Samsung"},"201999":{"itemID":"201999"
+,"name":"Samsung ML-1865","bName":"Samsung"},"202000":{"itemID":"202000","name":"Samsung ML-1865W","bName"
+:"Samsung"},"157469":{"itemID":"157469","name":"Samsung ML-1910","bName":"Samsung"},"159486":{"itemID"
+:"159486","name":"Samsung ML-1915","bName":"Samsung"},"z4755":{"itemID":"z4755","name":"Samsung ML-2015"
+,"bName":"Samsung"},"249890":{"itemID":"249890","name":"Samsung ML-2160","bName":"Samsung"},"249891"
+:{"itemID":"249891","name":"Samsung ML-2165W","bName":"Samsung"},"z4760":{"itemID":"z4760","name":"Samsung
+ ML-2240","bName":"Samsung"},"z4761":{"itemID":"z4761","name":"Samsung ML-2241","bName":"Samsung"},"z4762"
+:{"itemID":"z4762","name":"Samsung ML-2250","bName":"Samsung"},"z4763":{"itemID":"z4763","name":"Samsung
+ ML-2251N","bName":"Samsung"},"z4764":{"itemID":"z4764","name":"Samsung ML-2251NP","bName":"Samsung"
+},"z4765":{"itemID":"z4765","name":"Samsung ML-2252W","bName":"Samsung"},"z4766":{"itemID":"z4766","name"
+:"Samsung ML-2510","bName":"Samsung"},"157470":{"itemID":"157470","name":"Samsung ML-2525","bName":"Samsung"
+},"z4770":{"itemID":"z4770","name":"Samsung ML-2570","bName":"Samsung"},"z4771":{"itemID":"z4771","name"
+:"Samsung ML-2580N","bName":"Samsung"},"z4772":{"itemID":"z4772","name":"Samsung ML-2850D","bName":"Samsung"
+},"z4773":{"itemID":"z4773","name":"Samsung ML-2850DN","bName":"Samsung"},"z4774":{"itemID":"z4774","name"
+:"Samsung ML-2855ND","bName":"Samsung"},"290059":{"itemID":"290059","name":"Samsung ML-2950ND","bName"
+:"Samsung"},"z4775":{"itemID":"z4775","name":"Samsung ML-3050","bName":"Samsung"},"z4776":{"itemID":"z4776"
+,"name":"Samsung ML-3051N","bName":"Samsung"},"202001":{"itemID":"202001","name":"Samsung ML-3310D","bName"
+:"Samsung"},"202002":{"itemID":"202002","name":"Samsung ML-3310ND","bName":"Samsung"},"177825":{"itemID"
+:"177825","name":"Samsung SCX-3200","bName":"Samsung"},"177826":{"itemID":"177826","name":"Samsung SCX-3205W"
+,"bName":"Samsung"},"249893":{"itemID":"249893","name":"Samsung SCX-3400","bName":"Samsung"},"249895"
+:{"itemID":"249895","name":"Samsung SCX-3400F","bName":"Samsung"},"276464":{"itemID":"276464","name"
+:"Samsung SCX-3405","bName":"Samsung"},"276465":{"itemID":"276465","name":"Samsung SCX-3405FW","bName"
+:"Samsung"},"249894":{"itemID":"249894","name":"Samsung SCX-3405W","bName":"Samsung"},"z3997":{"itemID"
+:"z3997","name":"Samsung SCX-4016","bName":"Samsung"},"z3999":{"itemID":"z3999","name":"Samsung SCX-4200"
+,"bName":"Samsung"},"z4000":{"itemID":"z4000","name":"Samsung SCX-4216F","bName":"Samsung"},"142754"
+:{"itemID":"142754","name":"Samsung SCX-4220","bName":"Samsung"},"110770":{"itemID":"110770","name":"Samsung
+ SCX-4300","bName":"Samsung"},"z4785":{"itemID":"z4785","name":"Samsung SCX-4500","bName":"Samsung"}
+,"z4002":{"itemID":"z4002","name":"Samsung SCX-4521","bName":"Samsung"},"157414":{"itemID":"157414","name"
+:"Samsung SCX-4600","bName":"Samsung"},"177827":{"itemID":"177827","name":"Samsung SCX-4623FN","bName"
+:"Samsung"},"z4003":{"itemID":"z4003","name":"Samsung SCX-4623FN","bName":"Samsung"},"274796":{"itemID"
+:"274796","name":"Samsung SCX-4650N","bName":"Samsung"},"274797":{"itemID":"274797","name":"Samsung SCX-4655FN"
+,"bName":"Samsung"},"278842":{"itemID":"278842","name":"Samsung SCX-4727FD","bName":"Samsung"},"270226"
+:{"itemID":"270226","name":"Samsung SCX-4729 FW","bName":"Samsung"},"157415":{"itemID":"157415","name"
+:"Samsung SCX-4824FN","bName":"Samsung"},"186347":{"itemID":"186347","name":"Samsung SCX-4828FN","bName"
+:"Samsung"},"z4007":{"itemID":"z4007","name":"Samsung SCX-4828FN","bName":"Samsung"},"212724":{"itemID"
+:"212724","name":"Samsung SCX-4833FD","bName":"Samsung"},"212725":{"itemID":"212725","name":"Samsung
+ SCX-4833FR","bName":"Samsung"},"168875":{"itemID":"168875","name":"Samsung SCX-5635FN","bName":"Samsung"
+},"212726":{"itemID":"212726","name":"Samsung SCX-5637FR","bName":"Samsung"},"168876":{"itemID":"168876"
+,"name":"Samsung SCX-5835FN","bName":"Samsung"},"384622":{"itemID":"384622","name":"Samsung SL-C460FW"
+,"bName":"Samsung"},"384621":{"itemID":"384621","name":"Samsung SL-C460W","bName":"Samsung"},"391162"
+:{"itemID":"391162","name":"Samsung SL-M2020","bName":"Samsung"},"391163":{"itemID":"391163","name":"Samsung
+ SL-M2020W","bName":"Samsung"},"391164":{"itemID":"391164","name":"Samsung SL-M2070","bName":"Samsung"
+},"391166":{"itemID":"391166","name":"Samsung SL-M2070FW","bName":"Samsung"},"391165":{"itemID":"391165"
+,"name":"Samsung SL-M2070W","bName":"Samsung"},"328403":{"itemID":"328403","name":"Samsung SL-M2870FD"
+,"bName":"Samsung"},"328402":{"itemID":"328402","name":"Samsung SL-M2870FW","bName":"Samsung"},"328410"
+:{"itemID":"328410","name":"Samsung SL-M3820D","bName":"Samsung"},"328411":{"itemID":"328411","name"
+:"Samsung SL-M3820ND","bName":"Samsung"},"328405":{"itemID":"328405","name":"Samsung SL-M3870FD","bName"
+:"Samsung"},"328404":{"itemID":"328404","name":"Samsung SL-M3870FW","bName":"Samsung"},"328406":{"itemID"
+:"328406","name":"Samsung SL-M4070FR","bName":"Samsung"},"z5494":{"itemID":"z5494","name":"Samsung SP-0930N"
+,"bName":"Samsung"},"78783":{"itemID":"78783","name":"\u041c\u043d\u043e\u0433\u043e\u0444\u0443\u043d
+\u043a\u0446\u0438\u043e\u043d\u0430\u043b\u044c\u043d\u043e\u0435 \u0443\u0441\u0442\u0440\u043e\u0439
+\u0441\u0442\u0432\u043e Samsung SCX-4200 \u043b\u0430\u0437\u0435\u0440. \u043f\u0440\u0438\u043d\u0442
+\u0435\u0440-\u0441\u043a\u0430\u043d\u0435\u0440-\u043a\u043e\u043f\u0438\u0440","bName":"Samsung"}
+},"printer_selected":0}

@@ -1,0 +1,16 @@
+<?php return array (
+  'unique_key' => 'key',
+  'preserve_keys' => true,
+  'update_object' => false,
+  'namespace' => 'msklad',
+  'resolve' => NULL,
+  'validate' => NULL,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => '7abd4c1b9485930c4602384de7378750',
+  'package' => 'modx',
+  'class' => 'modSystemSetting',
+  'signature' => '65c71d80afc9924c3ade64f80dada941',
+  'native_key' => 'msklad_alias_with_id',
+  'object' => '{"key":"msklad_alias_with_id","value":false,"xtype":"combo-boolean","namespace":"msklad","area":"msklad_1c","editedon":null}',
+);

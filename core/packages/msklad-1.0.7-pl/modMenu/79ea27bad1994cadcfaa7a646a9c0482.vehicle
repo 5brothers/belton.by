@@ -1,0 +1,50 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => false,
+  'unique_key' => 'text',
+  'related_objects' => 
+  array (
+    'Action' => 
+    array (
+      '0e4dea32c260d12f4084a47bd68c09ee' => 
+      array (
+        'preserve_keys' => false,
+        'update_object' => false,
+        'unique_key' => 
+        array (
+          0 => 'namespace',
+          1 => 'controller',
+        ),
+        'class' => 'modAction',
+        'object' => '{"id":0,"namespace":"msklad","controller":"index","haslayout":1,"lang_topics":"msklad:default","assets":"","help_url":"","parent":0}',
+        'guid' => '933926c6823ae6b833b41d88477dce0e',
+        'native_key' => 0,
+        'signature' => 'cd017c2a275d984e0ab40da82c16cb1b',
+      ),
+    ),
+  ),
+  'related_object_attributes' => 
+  array (
+    'Action' => 
+    array (
+      'preserve_keys' => false,
+      'update_object' => false,
+      'unique_key' => 
+      array (
+        0 => 'namespace',
+        1 => 'controller',
+      ),
+    ),
+  ),
+  'namespace' => 'msklad',
+  'resolve' => NULL,
+  'validate' => NULL,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => 'c0d08b90865744c496c11eed985f1470',
+  'package' => 'modx',
+  'class' => 'modMenu',
+  'signature' => '79ea27bad1994cadcfaa7a646a9c0482',
+  'native_key' => 'msklad',
+  'object' => '{"text":"msklad","parent":"components","action":0,"description":"msklad_menu_desc","icon":"images\\/icons\\/plugin.gif","menuindex":0,"params":"","handler":"","permissions":""}',
+);

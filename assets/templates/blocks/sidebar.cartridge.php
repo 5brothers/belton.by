@@ -29,39 +29,26 @@
             </td>
         </tr>
     </table>
-        
+        [[!getPrinters]]
     <div class="sidebar-cartridge--form">
     	<form class="sidebar-cartridge--form_js">
         	<div class="sidebar-cartridge--field">
-            	<select id="" name="brand" class="sidebar-cartridge--field-select sidebar-cartridge--brand_js">
+            	<select id="cartridge-brand-select" name="brand" class="sidebar-cartridge--field-select sidebar-cartridge--brand_js">
                     <option value="0">Выберите производителя</option>
-                    	                    <option value="38" >Brother</option>
-	                	                    <option value="41" >Canon</option>
-	                	                    <option value="43" >Casio</option>
-	                	                    <option value="48" >Citizen</option>
-	                	                    <option value="76" >Epson</option>
-	                	                    <option value="98" >HP</option>
-	                	                    <option value="124" >Lexmark</option>
-	                	                    <option value="165" >OKI</option>
-	                	                    <option value="172" >Panasonic</option>
-	                	                    <option value="201" >Samsung</option>
-	                	                    <option value="209" >Sharp</option>
-	                	                    <option value="230" >Toshiba</option>
-	                	                    <option value="254" >Xerox</option>
-	                	                    <option value="475" >Kyocera</option>
-	                	                    <option value="476" >Ricoh</option>
-	                	                    <option value="631" >Konica Minolta</option>
-	                                </select>
+                    	                   [[+brands]]
+	                </select>
             </div>
             <div class="sidebar-cartridge--field">
-            	            		<select id="" name="type" class="sidebar-cartridge--field-select sidebar-cartridge--type_js" disabled="disabled">
+            	            		<select id="" name="type" class="sidebar-cartridge--field-select sidebar-cartridge--type_js" >
                     	<option value="0">Выберите тип устройства</option>
+                         [[+cats]]
                 	</select>
                             </div>
             <div class="sidebar-cartridge--field">
             
-            	            		<select id="" name="model" class="sidebar-cartridge--field-select sidebar-cartridge--model_js" disabled="disabled">
+            	            		<select id="" name="model" class="sidebar-cartridge--field-select sidebar-cartridge--model_js" >
                     	<option value="0">Выберите модель</option>
+                         [[+products]]
                 	</select>
                 
             </div>
@@ -105,4 +92,26 @@
     </div><!-- .sidebar-block -->
     <!-- / Правый блок -->
     
+
+    <script type="text/javascript">
+    
+        
+    $('#cartridge-brand-select').bind('change',function(){
+        
+       $.getJSON( "cartridge/index.php", function( data ) {
+
+        console.log(data);
+              var items = [];
+              $.each( data, function( key, val ) {
+                items.push( "<li id='" + key + "'>" + val + "</li>" );
+              });
+             
+              $( "<ul/>", {
+                "class": "my-new-list",
+                html: items.join( "" )
+              }).appendTo( "body" );
+            });
+    });
+
+    </script>
         

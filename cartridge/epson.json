@@ -1,0 +1,176 @@
+{"types":{"6":{"name":"\u041c\u0424\u0423 \u0441\u0442\u0440\u0443\u0439\u043d\u044b\u0435","ID":"6"
+},"10":{"name":"\u041f\u0440\u0438\u043d\u0442\u0435\u0440\u044b \u0441\u0442\u0440\u0443\u0439\u043d
+\u044b\u0435","ID":"10"},"9":{"name":"\u041f\u0440\u0438\u043d\u0442\u0435\u0440\u044b \u043c\u0430\u0442
+\u0440\u0438\u0447\u043d\u044b\u0435","ID":"9"},"11":{"name":"\u041f\u0440\u0438\u043d\u0442\u0435\u0440
+\u044b \u0448\u0438\u0440\u043e\u043a\u043e\u0444\u043e\u0440\u043c\u0430\u0442\u043d\u044b\u0435","ID"
+:"11"}},"type_selected":0,"printers":{"305405":{"itemID":"305405","name":"Epson  Expression Home XP-203"
+,"bName":"Epson"},"225922":{"itemID":"225922","name":"Epson  L100","bName":"Epson"},"223898":{"itemID"
+:"223898","name":"Epson  L800","bName":"Epson"},"221515":{"itemID":"221515","name":"Epson  Stylus Photo
+ P50","bName":"Epson"},"221511":{"itemID":"221511","name":"Epson  Stylus SX130","bName":"Epson"},"233455"
+:{"itemID":"233455","name":"Epson  Stylus SX430W","bName":"Epson"},"z5403":{"itemID":"z5403","name":"Epson
+ 7754","bName":"Epson"},"z5405":{"itemID":"z5405","name":"Epson Actionprinter 3250","bName":"Epson"}
+,"z5406":{"itemID":"z5406","name":"Epson ActionPrinter 5500","bName":"Epson"},"z5410":{"itemID":"z5410"
+,"name":"Epson ERC20","bName":"Epson"},"275506":{"itemID":"275506","name":"Epson Expression Home XP-103"
+,"bName":"Epson"},"275507":{"itemID":"275507","name":"Epson Expression Home XP-207","bName":"Epson"}
+,"z5412":{"itemID":"z5412","name":"Epson FX-100","bName":"Epson"},"z5414":{"itemID":"z5414","name":"Epson
+ FX-1000","bName":"Epson"},"z5415":{"itemID":"z5415","name":"Epson FX-105","bName":"Epson"},"z5416":
+{"itemID":"z5416","name":"Epson FX-1050","bName":"Epson"},"z5417":{"itemID":"z5417","name":"Epson FX-1170"
+,"bName":"Epson"},"z5418":{"itemID":"z5418","name":"Epson FX-1180","bName":"Epson"},"z5421":{"itemID"
+:"z5421","name":"Epson FX-80","bName":"Epson"},"z5422":{"itemID":"z5422","name":"Epson FX-800","bName"
+:"Epson"},"z5423":{"itemID":"z5423","name":"Epson FX-85","bName":"Epson"},"z5424":{"itemID":"z5424","name"
+:"Epson FX-850","bName":"Epson"},"z5425":{"itemID":"z5425","name":"Epson FX-870","bName":"Epson"},"z5426"
+:{"itemID":"z5426","name":"Epson FX-880","bName":"Epson"},"162081":{"itemID":"162081","name":"Epson FX-890"
+,"bName":"Epson"},"z5413":{"itemID":"z5413","name":"Epson FX1000","bName":"Epson"},"299010":{"itemID"
+:"299010","name":"Epson L110","bName":"Epson"},"270217":{"itemID":"270217","name":"Epson L200","bName"
+:"Epson"},"299012":{"itemID":"299012","name":"Epson L210","bName":"Epson"},"299011":{"itemID":"299011"
+,"name":"Epson L300","bName":"Epson"},"299013":{"itemID":"299013","name":"Epson L355","bName":"Epson"
+},"344835":{"itemID":"344835","name":"Epson L550","bName":"Epson"},"z5427":{"itemID":"z5427","name":"Epson
+ LQ 100","bName":"Epson"},"161556":{"itemID":"161556","name":"Epson LQ-630","bName":"Epson"},"z5428"
+:{"itemID":"z5428","name":"Epson LQ100+","bName":"Epson"},"z5429":{"itemID":"z5429","name":"Epson LQ1000"
+,"bName":"Epson"},"z5430":{"itemID":"z5430","name":"Epson LQ1010","bName":"Epson"},"z5431":{"itemID"
+:"z5431","name":"Epson LQ1050","bName":"Epson"},"z5432":{"itemID":"z5432","name":"Epson LQ1050+","bName"
+:"Epson"},"z5433":{"itemID":"z5433","name":"Epson LQ1070","bName":"Epson"},"z5434":{"itemID":"z5434"
+,"name":"Epson LQ1070+","bName":"Epson"},"z5435":{"itemID":"z5435","name":"Epson LQ1170","bName":"Epson"
+},"z5436":{"itemID":"z5436","name":"Epson LQ1180","bName":"Epson"},"z5437":{"itemID":"z5437","name":"Epson
+ LQ1600K","bName":"Epson"},"z5438":{"itemID":"z5438","name":"Epson LQ1800K","bName":"Epson"},"z5439"
+:{"itemID":"z5439","name":"Epson LQ1900K","bName":"Epson"},"z5440":{"itemID":"z5440","name":"Epson LQ2000K"
+,"bName":"Epson"},"z5446":{"itemID":"z5446","name":"Epson LQ400","bName":"Epson"},"z5447":{"itemID":"z5447"
+,"name":"Epson LQ510","bName":"Epson"},"z5448":{"itemID":"z5448","name":"Epson LQ550","bName":"Epson"
+},"z5449":{"itemID":"z5449","name":"Epson LQ570","bName":"Epson"},"z5450":{"itemID":"z5450","name":"Epson
+ LQ580","bName":"Epson"},"z5451":{"itemID":"z5451","name":"Epson LQ850","bName":"Epson"},"z5452":{"itemID"
+:"z5452","name":"Epson LQ870","bName":"Epson"},"162083":{"itemID":"162083","name":"Epson LX-1170 II"
+,"bName":"Epson"},"161555":{"itemID":"161555","name":"Epson LX-300+ II","bName":"Epson"},"304541":{"itemID"
+:"304541","name":"Epson LX-350","bName":"Epson"},"z5454":{"itemID":"z5454","name":"Epson LX1000","bName"
+:"Epson"},"z5455":{"itemID":"z5455","name":"Epson LX1050","bName":"Epson"},"z5457":{"itemID":"z5457"
+,"name":"Epson LX400","bName":"Epson"},"z5458":{"itemID":"z5458","name":"Epson LX800","bName":"Epson"
+},"z5459":{"itemID":"z5459","name":"Epson LX810","bName":"Epson"},"z5460":{"itemID":"z5460","name":"Epson
+ LX850","bName":"Epson"},"z5461":{"itemID":"z5461","name":"Epson LX870","bName":"Epson"},"310631":{"itemID"
+:"310631","name":"Epson M100","bName":"Epson"},"310632":{"itemID":"310632","name":"Epson M105 (C11CC85311
+)","bName":"Epson"},"310633":{"itemID":"310633","name":"Epson M200","bName":"Epson"},"z5465":{"itemID"
+:"z5465","name":"Epson MX-80","bName":"Epson"},"z5463":{"itemID":"z5463","name":"Epson MX70","bName"
+:"Epson"},"z5464":{"itemID":"z5464","name":"Epson MX80","bName":"Epson"},"z5466":{"itemID":"z5466","name"
+:"Epson MX82","bName":"Epson"},"z5467":{"itemID":"z5467","name":"Epson MX85","bName":"Epson"},"z5468"
+:{"itemID":"z5468","name":"Epson MX90","bName":"Epson"},"z4966":{"itemID":"z4966","name":"Epson Office
+ T30","bName":"Epson"},"z4967":{"itemID":"z4967","name":"Epson Office T50","bName":"Epson"},"z4106":
+{"itemID":"z4106","name":"Epson Office TX600FW","bName":"Epson"},"z5469":{"itemID":"z5469","name":"Epson
+ RX-100","bName":"Epson"},"103029":{"itemID":"103029","name":"Epson RX610","bName":"Epson"},"z5470":
+{"itemID":"z5470","name":"Epson RX70","bName":"Epson"},"z5471":{"itemID":"z5471","name":"Epson RX80"
+,"bName":"Epson"},"z4973":{"itemID":"z4973","name":"Epson SCAN 2000","bName":"Epson"},"z4974":{"itemID"
+:"z4974","name":"Epson SCAN 2500","bName":"Epson"},"129485":{"itemID":"129485","name":"Epson Stylus C110"
+,"bName":"Epson"},"z4985":{"itemID":"z4985","name":"Epson Stylus C43","bName":"Epson"},"z4986":{"itemID"
+:"z4986","name":"Epson Stylus C45","bName":"Epson"},"z4989":{"itemID":"z4989","name":"Epson Stylus C62"
+,"bName":"Epson"},"z4991":{"itemID":"z4991","name":"Epson Stylus C67","bName":"Epson"},"z4993":{"itemID"
+:"z4993","name":"Epson Stylus C79","bName":"Epson"},"z4996":{"itemID":"z4996","name":"Epson Stylus C84"
+,"bName":"Epson"},"z4997":{"itemID":"z4997","name":"Epson Stylus C86","bName":"Epson"},"z4998":{"itemID"
+:"z4998","name":"Epson Stylus C87","bName":"Epson"},"96476":{"itemID":"96476","name":"Epson Stylus C91"
+,"bName":"Epson"},"z4999":{"itemID":"z4999","name":"Epson Stylus Color 1160","bName":"Epson"},"z5000"
+:{"itemID":"z5000","name":"Epson Stylus Color 1520","bName":"Epson"},"z5002":{"itemID":"z5002","name"
+:"Epson Stylus Color 440","bName":"Epson"},"z5003":{"itemID":"z5003","name":"Epson Stylus Color 460"
+,"bName":"Epson"},"z5009":{"itemID":"z5009","name":"Epson Stylus Color 640","bName":"Epson"},"z5010"
+:{"itemID":"z5010","name":"Epson Stylus Color 660","bName":"Epson"},"z5011":{"itemID":"z5011","name"
+:"Epson Stylus Color 670","bName":"Epson"},"z5013":{"itemID":"z5013","name":"Epson Stylus Color 740"
+,"bName":"Epson"},"z5014":{"itemID":"z5014","name":"Epson Stylus Color 760","bName":"Epson"},"z5015"
+:{"itemID":"z5015","name":"Epson Stylus Color 800","bName":"Epson"},"z5016":{"itemID":"z5016","name"
+:"Epson Stylus Color 850","bName":"Epson"},"96481":{"itemID":"96481","name":"Epson Stylus CX 4300","bName"
+:"Epson"},"z5020":{"itemID":"z5020","name":"Epson Stylus CX3200","bName":"Epson"},"z5022":{"itemID":"z5022"
+,"name":"Epson Stylus CX3700","bName":"Epson"},"z4107":{"itemID":"z4107","name":"Epson Stylus CX3900"
+,"bName":"Epson"},"z5023":{"itemID":"z5023","name":"Epson Stylus CX4100","bName":"Epson"},"z5024":{"itemID"
+:"z5024","name":"Epson Stylus CX4700","bName":"Epson"},"z4108":{"itemID":"z4108","name":"Epson Stylus
+ CX4900","bName":"Epson"},"z4109":{"itemID":"z4109","name":"Epson Stylus CX5900","bName":"Epson"},"z5027"
+:{"itemID":"z5027","name":"Epson Stylus CX6400","bName":"Epson"},"z5028":{"itemID":"z5028","name":"Epson
+ Stylus CX6600","bName":"Epson"},"z4110":{"itemID":"z4110","name":"Epson Stylus CX6900F","bName":"Epson"
+},"z4111":{"itemID":"z4111","name":"Epson Stylus CX7300","bName":"Epson"},"z4112":{"itemID":"z4112","name"
+:"Epson Stylus CX8300","bName":"Epson"},"z4113":{"itemID":"z4113","name":"Epson Stylus CX9300F","bName"
+:"Epson"},"177832":{"itemID":"177832","name":"Epson Stylus Office BX305F","bName":"Epson"},"177833":
+{"itemID":"177833","name":"Epson Stylus Office BX320FW","bName":"Epson"},"161558":{"itemID":"161558"
+,"name":"Epson Stylus Office T1100","bName":"Epson"},"161557":{"itemID":"161557","name":"Epson Stylus
+ Office T40W","bName":"Epson"},"157423":{"itemID":"157423","name":"Epson Stylus Office TX300F","bName"
+:"Epson"},"157424":{"itemID":"157424","name":"Epson Stylus Office TX510FN","bName":"Epson"},"z5030":
+{"itemID":"z5030","name":"Epson Stylus Photo 1270","bName":"Epson"},"z5031":{"itemID":"z5031","name"
+:"Epson Stylus Photo 1290","bName":"Epson"},"z5032":{"itemID":"z5032","name":"Epson Stylus Photo 1290s"
+,"bName":"Epson"},"142818":{"itemID":"142818","name":"Epson Stylus Photo 1410","bName":"Epson"},"z5033"
+:{"itemID":"z5033","name":"Epson Stylus Photo 1900","bName":"Epson"},"z5035":{"itemID":"z5035","name"
+:"Epson Stylus Photo 2100","bName":"Epson"},"z5039":{"itemID":"z5039","name":"Epson Stylus Photo 790"
+,"bName":"Epson"},"z5040":{"itemID":"z5040","name":"Epson Stylus Photo 810","bName":"Epson"},"z5041"
+:{"itemID":"z5041","name":"Epson Stylus Photo 830 Series","bName":"Epson"},"z5042":{"itemID":"z5042"
+,"name":"Epson Stylus Photo 870","bName":"Epson"},"z5043":{"itemID":"z5043","name":"Epson Stylus Photo
+ 890","bName":"Epson"},"z5044":{"itemID":"z5044","name":"Epson Stylus Photo 895","bName":"Epson"},"z5045"
+:{"itemID":"z5045","name":"Epson Stylus Photo 900","bName":"Epson"},"z5046":{"itemID":"z5046","name"
+:"Epson Stylus Photo 915","bName":"Epson"},"z5047":{"itemID":"z5047","name":"Epson Stylus Photo 925"
+,"bName":"Epson"},"z5048":{"itemID":"z5048","name":"Epson Stylus Photo 935","bName":"Epson"},"z5049"
+:{"itemID":"z5049","name":"Epson Stylus Photo 950","bName":"Epson"},"259855":{"itemID":"259855","name"
+:"Epson Stylus Photo PX660","bName":"Epson"},"z5051":{"itemID":"z5051","name":"Epson Stylus Photo R1800"
+,"bName":"Epson"},"z5052":{"itemID":"z5052","name":"Epson Stylus Photo R200","bName":"Epson"},"z5053"
+:{"itemID":"z5053","name":"Epson Stylus Photo R220","bName":"Epson"},"z5054":{"itemID":"z5054","name"
+:"Epson Stylus Photo R240","bName":"Epson"},"z5055":{"itemID":"z5055","name":"Epson Stylus Photo R2400"
+,"bName":"Epson"},"z5056":{"itemID":"z5056","name":"Epson Stylus Photo R270","bName":"Epson"},"z5057"
+:{"itemID":"z5057","name":"Epson Stylus Photo R2880","bName":"Epson"},"z5058":{"itemID":"z5058","name"
+:"Epson Stylus Photo R290","bName":"Epson"},"z5059":{"itemID":"z5059","name":"Epson Stylus Photo R295"
+,"bName":"Epson"},"z5060":{"itemID":"z5060","name":"Epson Stylus Photo R300","bName":"Epson"},"273663"
+:{"itemID":"273663","name":"Epson Stylus Photo R3000","bName":"Epson"},"z5061":{"itemID":"z5061","name"
+:"Epson Stylus Photo R320","bName":"Epson"},"z5062":{"itemID":"z5062","name":"Epson Stylus Photo R340"
+,"bName":"Epson"},"z5063":{"itemID":"z5063","name":"Epson Stylus Photo R390","bName":"Epson"},"z5064"
+:{"itemID":"z5064","name":"Epson Stylus Photo R800","bName":"Epson"},"z5065":{"itemID":"z5065","name"
+:"Epson Stylus Photo RX500","bName":"Epson"},"z5066":{"itemID":"z5066","name":"Epson Stylus Photo RX520"
+,"bName":"Epson"},"z4114":{"itemID":"z4114","name":"Epson Stylus Photo RX590","bName":"Epson"},"z5067"
+:{"itemID":"z5067","name":"Epson Stylus Photo RX600","bName":"Epson"},"z4115":{"itemID":"z4115","name"
+:"Epson Stylus Photo RX615","bName":"Epson"},"z5068":{"itemID":"z5068","name":"Epson Stylus Photo RX620"
+,"bName":"Epson"},"z5069":{"itemID":"z5069","name":"Epson Stylus Photo RX640","bName":"Epson"},"161561"
+:{"itemID":"161561","name":"Epson Stylus Photo RX690","bName":"Epson"},"z4116":{"itemID":"z4116","name"
+:"Epson Stylus Photo RX700","bName":"Epson"},"158484":{"itemID":"158484","name":"Epson Stylus Photo T50"
+,"bName":"Epson"},"z5070":{"itemID":"z5070","name":"Epson Stylus Photo T59","bName":"Epson"},"158489"
+:{"itemID":"158489","name":"Epson Stylus Photo TX650","bName":"Epson"},"z4117":{"itemID":"z4117","name"
+:"Epson Stylus Photo TX659","bName":"Epson"},"z4118":{"itemID":"z4118","name":"Epson Stylus Photo TX700W"
+,"bName":"Epson"},"z4119":{"itemID":"z4119","name":"Epson Stylus Photo TX710W","bName":"Epson"},"z4120"
+:{"itemID":"z4120","name":"Epson Stylus PhotoTX800FW","bName":"Epson"},"z5497":{"itemID":"z5497","name"
+:"Epson Stylus Pro 3800","bName":"Epson"},"148104":{"itemID":"148104","name":"Epson Stylus Pro 3880"
+,"bName":"Epson"},"161266":{"itemID":"161266","name":"Epson Stylus Pro 7700","bName":"Epson"},"z5507"
+:{"itemID":"z5507","name":"Epson Stylus Pro 7800","bName":"Epson"},"325559":{"itemID":"325559","name"
+:"Epson Stylus Pro 7890","bName":"Epson"},"148105":{"itemID":"148105","name":"Epson Stylus Pro 7900"
+,"bName":"Epson"},"320613":{"itemID":"320613","name":"Epson Stylus Pro 7900","bName":"Epson"},"162975"
+:{"itemID":"162975","name":"Epson Stylus Pro 9700","bName":"Epson"},"z5512":{"itemID":"z5512","name"
+:"Epson Stylus Pro 9800","bName":"Epson"},"z5513":{"itemID":"z5513","name":"Epson Stylus Pro 9880","bName"
+:"Epson"},"148106":{"itemID":"148106","name":"Epson Stylus Pro 9900","bName":"Epson"},"177851":{"itemID"
+:"177851","name":"Epson Stylus S22","bName":"Epson"},"177835":{"itemID":"177835","name":"Epson Stylus
+ SX125","bName":"Epson"},"177836":{"itemID":"177836","name":"Epson Stylus SX420W","bName":"Epson"},"z4121"
+:{"itemID":"z4121","name":"Epson Stylus TX119","bName":"Epson"},"z4122":{"itemID":"z4122","name":"Epson
+ Stylus TX209","bName":"Epson"},"157422":{"itemID":"157422","name":"Epson Stylus TX210","bName":"Epson"
+},"z4123":{"itemID":"z4123","name":"Epson Stylus TX219","bName":"Epson"},"z4124":{"itemID":"z4124","name"
+:"Epson Stylus TX409","bName":"Epson"},"161559":{"itemID":"161559","name":"Epson Stylus TX410","bName"
+:"Epson"},"z4125":{"itemID":"z4125","name":"Epson Stylus TX419","bName":"Epson"},"161560":{"itemID":"161560"
+,"name":"Epson Stylus TX550W","bName":"Epson"},"z5072":{"itemID":"z5072","name":"Epson Stylus \u042226"
+,"bName":"Epson"},"134130":{"itemID":"134130","name":"Epson Stylus \u042227","bName":"Epson"},"129484"
+:{"itemID":"129484","name":"Epson Stylus \u0422X106","bName":"Epson"},"140598":{"itemID":"140598","name"
+:"Epson Stylus \u0422X117","bName":"Epson"},"129486":{"itemID":"129486","name":"Epson Stylus \u0422X200"
+,"bName":"Epson"},"129487":{"itemID":"129487","name":"Epson Stylus \u0422X400","bName":"Epson"},"z4126"
+:{"itemID":"z4126","name":"Epson Stylus \u0422\u0425109","bName":"Epson"},"309555":{"itemID":"309555"
+,"name":"Epson SureColor SC-T3000","bName":"Epson"},"325560":{"itemID":"325560","name":"Epson SureColor
+ SC-T5000","bName":"Epson"},"259856":{"itemID":"259856","name":"Epson WorkForce Pro WP-4015DN","bName"
+:"Epson"},"328727":{"itemID":"328727","name":"Epson WorkForce WF-2010W","bName":"Epson"},"246961":{"itemID"
+:"246961","name":"Epson WorkForce WF-7015","bName":"Epson"},"252460":{"itemID":"252460","name":"Epson
+ WorkForce WF-7515","bName":"Epson"},"252461":{"itemID":"252461","name":"Epson WorkForce WF-7525","bName"
+:"Epson"},"z5473":{"itemID":"z5473","name":"Epson \u041c\u0425-100","bName":"Epson"},"z5474":{"itemID"
+:"z5474","name":"Epson \u041c\u0425-1170","bName":"Epson"},"z6118":{"itemID":"z6118","name":"Epson Expression
+ Premium XP-600","bName":"Epson"},"z6116":{"itemID":"z6116","name":"Epson Expression Premium XP-700"
+,"bName":"Epson"},"z6117":{"itemID":"z6117","name":"Epson Expression Premium XP-800","bName":"Epson"
+},"z6149":{"itemID":"z6149","name":"Epson Stylus Office B42WD","bName":"Epson"},"z6012":{"itemID":"z6012"
+,"name":"Epson Stylus Office BX305FW","bName":"Epson"},"z6142":{"itemID":"z6142","name":"Epson Stylus
+ SX230","bName":"Epson"},"z6143":{"itemID":"z6143","name":"Epson Stylus SX235","bName":"Epson"},"z6144"
+:{"itemID":"z6144","name":"Epson Stylus SX430WD","bName":"Epson"},"z6009":{"itemID":"z6009","name":"Epson
+ Stylus SX435","bName":"Epson"},"z6145":{"itemID":"z6145","name":"Epson Stylus SX435WD","bName":"Epson"
+},"z6011":{"itemID":"z6011","name":"Epson Stylus SX438","bName":"Epson"},"z6146":{"itemID":"z6146","name"
+:"Epson Stylus SX440W","bName":"Epson"},"z6147":{"itemID":"z6147","name":"Epson Stylus SX445W","bName"
+:"Epson"},"z6148":{"itemID":"z6148","name":"Epson Stylus SX535WD","bName":"Epson"},"57776":{"itemID"
+:"57776","name":"\u041f\u0440\u0438\u043d\u0442\u0435\u0440 Epson Stylus Color 1160 1440\u0445720dpi
+, LPT, USB, \u04103","bName":"Epson"},"78788":{"itemID":"78788","name":"\u041f\u0440\u0438\u043d\u0442
+\u0435\u0440 Epson Stylus Photo 1290, \u04103+ \u0441\u0442\u0440\u0443\u0439\u043d. 2880x720dpi \u0444
+\u043e\u0442\u043e\u043f","bName":"Epson"},"71959":{"itemID":"71959","name":"\u041f\u0440\u0438\u043d
+\u0442\u0435\u0440 Epson Stylus Photo R220, \u04104 \u0441\u0442\u0440\u0443\u0439\u043d. 5760\u04451440dpi
+ \u0444\u043e\u0442\u043e\u043f\u0440\u0438\u043d\u0442\u0435\u0440","bName":"Epson"},"53478":{"itemID"
+:"53478","name":"\u041f\u0440\u0438\u043d\u0442\u0435\u0440 Epson Stylus Photo R300 5760dpi, \u043f\u0435
+\u0447\u0430\u0442\u044c \u0431\u0435\u0437 \u041f\u041a, USB2.0, \u0416\u041a","bName":"Epson"},"71960"
+:{"itemID":"71960","name":"\u041f\u0440\u0438\u043d\u0442\u0435\u0440 Epson Stylus Photo R340, \u04104
+ \u0441\u0442\u0440\u0443\u0439\u043d. 5760\u04451440dpi \u0444\u043e\u0442\u043e\u043f\u0440\u0438\u043d
+\u0442\u0435\u0440","bName":"Epson"},"148107":{"itemID":"148107","name":"\u041f\u0440\u0438\u043d\u0442
+\u0435\u0440 Stylus Pro 7880 \u043f\u043b\u043e\u0442\u0442\u0435\u0440, 610\u043c\u043c, 2880x1440dpi
+, 9\u0446\u0432.","bName":"Epson"}},"printer_selected":0}

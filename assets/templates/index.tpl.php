@@ -75,51 +75,7 @@
         	<div class="page--content-inside">
         		<div class="row">
            
-             <div class="goods-action col-xs-10">
-             	 <h3>Товары со скидкой</h3>
-             	<div class="goods-action__item">
-             		 <div class="goods-action__item__title">Папка-конверт</div>
-             		<div class="goods-action__item__img">
-             			<img src="images/goods/1.jpg" alt="goods" />
-             		</div>
-
-             	</div>
-             	<div class="goods-action__item">
-             		 <div class="goods-action__item__title">Папка-конверт</div>
-             		<div class="goods-action__item__img">
-             			<img src="images/goods/1.jpg" alt="goods" />
-             		</div>
-
-             	</div>
-             	<div class="goods-action__item">
-             		 <div class="goods-action__item__title">Папка-конверт</div>
-             		<div class="goods-action__item__img">
-             			<img src="images/goods/1.jpg" alt="goods" />
-             		</div>
-
-             	</div>
-             	<div class="goods-action__item">
-             		 <div class="goods-action__item__title">Папка-конверт</div>
-             		<div class="goods-action__item__img">
-             			<img src="images/goods/1.jpg" alt="goods" />
-             		</div>
-
-             	</div>
-             	<div class="goods-action__item">
-             		 <div class="goods-action__item__title">Папка-конверт</div>
-             		<div class="goods-action__item__img">
-             			<img src="images/goods/1.jpg" alt="goods" />
-             		</div>
-
-             	</div>
-             	<div class="goods-action__item">
-             		 <div class="goods-action__item__title">Папка-конверт</div>
-             		<div class="goods-action__item__img">
-             			<img src="images/goods/1.jpg" alt="goods" />
-             		</div>
-
-             	</div>
-             </div>
+           [[$goods.actions]]
              <div class="col-xs-2">
 					<p>Новые поступления</p>
              </div>

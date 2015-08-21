@@ -1,0 +1,548 @@
+{"types":{"4":{"name":"\u041c\u0424\u0423 \u043b\u0430\u0437\u0435\u0440\u043d\u044b\u0435 \u043c\u043e
+\u043d\u043e\u0445\u0440\u043e\u043c\u043d\u044b\u0435","ID":"4"},"6":{"name":"\u041c\u0424\u0423 \u0441
+\u0442\u0440\u0443\u0439\u043d\u044b\u0435","ID":"6"},"5":{"name":"\u041c\u0424\u0423 \u043b\u0430\u0437
+\u0435\u0440\u043d\u044b\u0435 \u0446\u0432\u0435\u0442\u043d\u044b\u0435","ID":"5"},"8":{"name":"\u041f
+\u0440\u0438\u043d\u0442\u0435\u0440\u044b \u043b\u0430\u0437\u0435\u0440\u043d\u044b\u0435 \u0446\u0432
+\u0435\u0442\u043d\u044b\u0435","ID":"8"},"7":{"name":"\u041f\u0440\u0438\u043d\u0442\u0435\u0440\u044b
+ \u043b\u0430\u0437\u0435\u0440\u043d\u044b\u0435 \u043c\u043e\u043d\u043e\u0445\u0440\u043e\u043c\u043d
+\u044b\u0435","ID":"7"},"10":{"name":"\u041f\u0440\u0438\u043d\u0442\u0435\u0440\u044b \u0441\u0442\u0440
+\u0443\u0439\u043d\u044b\u0435","ID":"10"},"11":{"name":"\u041f\u0440\u0438\u043d\u0442\u0435\u0440\u044b
+ \u0448\u0438\u0440\u043e\u043a\u043e\u0444\u043e\u0440\u043c\u0430\u0442\u043d\u044b\u0435","ID":"11"
+}},"type_selected":0,"printers":{"232050":{"itemID":"232050","name":"HP  Color Laserjet Enterprise 500
+ M551dn","bName":"HP"},"232049":{"itemID":"232049","name":"HP  Color Laserjet Enterprise 500 M551n","bName"
+:"HP"},"232051":{"itemID":"232051","name":"HP  Color Laserjet Enterprise 500 M551xh","bName":"HP"},"288264"
+:{"itemID":"288264","name":"HP  Color LaserJet Enterprise CM4540fskm MFP (CC421A)","bName":"HP"},"223432"
+:{"itemID":"223432","name":"HP  Designjet T790","bName":"HP"},"221512":{"itemID":"221512","name":"HP
+  Deskjet 1050A","bName":"HP"},"221513":{"itemID":"221513","name":"HP  Deskjet 2050A","bName":"HP"},"221514"
+:{"itemID":"221514","name":"HP  Deskjet 3070A","bName":"HP"},"222840":{"itemID":"222840","name":"HP 
+ Laserjet 5200dtn","bName":"HP"},"229779":{"itemID":"229779","name":"HP  Laserjet Enterprise 600 M601dn"
+,"bName":"HP"},"229778":{"itemID":"229778","name":"HP  Laserjet Enterprise 600 M601n","bName":"HP"},"229781"
+:{"itemID":"229781","name":"HP  Laserjet Enterprise 600 M602dn","bName":"HP"},"229780":{"itemID":"229780"
+,"name":"HP  Laserjet Enterprise 600 M602n","bName":"HP"},"229782":{"itemID":"229782","name":"HP  Laserjet
+ Enterprise 600 M602x","bName":"HP"},"229784":{"itemID":"229784","name":"HP  Laserjet Enterprise 600
+ M603dn","bName":"HP"},"229783":{"itemID":"229783","name":"HP  Laserjet Enterprise 600 M603n","bName"
+:"HP"},"221510":{"itemID":"221510","name":"HP  Laserjet Pro 100 M175nw","bName":"HP"},"212736":{"itemID"
+:"212736","name":"HP  Officejet H470b Mobile","bName":"HP"},"212737":{"itemID":"212737","name":"HP  Officejet
+ Pro 8000 Enterprise","bName":"HP"},"z5077":{"itemID":"z5077","name":"HP 2000c Color Printer series"
+,"bName":"HP"},"z5078":{"itemID":"z5078","name":"HP 2000cn Color Printer series","bName":"HP"},"z5079"
+:{"itemID":"z5079","name":"HP 2500c printer series","bName":"HP"},"z5080":{"itemID":"z5080","name":"HP
+ 2500cm printer series","bName":"HP"},"378632":{"itemID":"378632","name":"HP Advantage 2520hc","bName"
+:"HP"},"z5081":{"itemID":"z5081","name":"HP Business Inkjet 1000 series","bName":"HP"},"z5082":{"itemID"
+:"z5082","name":"HP Business Inkjet 1100 series","bName":"HP"},"z5083":{"itemID":"z5083","name":"HP Business
+ Inkjet 1200 series","bName":"HP"},"z5084":{"itemID":"z5084","name":"HP Business Inkjet 2200 series"
+,"bName":"HP"},"z5085":{"itemID":"z5085","name":"HP Business Inkjet 2300 series","bName":"HP"},"z5086"
+:{"itemID":"z5086","name":"HP Business Inkjet 2600 series","bName":"HP"},"z5087":{"itemID":"z5087","name"
+:"HP Business Inkjet 2800 series","bName":"HP"},"z5088":{"itemID":"z5088","name":"HP Business Inkjet
+ 3000 series","bName":"HP"},"z4127":{"itemID":"z4127","name":"HP Color Copier 290","bName":"HP"},"z5089"
+:{"itemID":"z5089","name":"HP Color Copier 310","bName":"HP"},"z5090":{"itemID":"z5090","name":"HP Color
+ Copier 3822 series","bName":"HP"},"z5092":{"itemID":"z5092","name":"HP Color Inkjet CP 1700 series"
+,"bName":"HP"},"z4365":{"itemID":"z4365","name":"HP Color LaserJet 1500","bName":"HP"},"z4366":{"itemID"
+:"z4366","name":"HP Color LaserJet 2500","bName":"HP"},"z4367":{"itemID":"z4367","name":"HP Color LaserJet
+ 2550","bName":"HP"},"z4368":{"itemID":"z4368","name":"HP Color LaserJet 2600n","bName":"HP"},"117066"
+:{"itemID":"117066","name":"HP Color Laserjet 2820","bName":"HP"},"z3932":{"itemID":"z3932","name":"HP
+ Color LaserJet 2840aio","bName":"HP"},"z4371":{"itemID":"z4371","name":"HP Color LaserJet 3500","bName"
+:"HP"},"z4372":{"itemID":"z4372","name":"HP Color LaserJet 3500N","bName":"HP"},"z4373":{"itemID":"z4373"
+,"name":"HP Color LaserJet 3550","bName":"HP"},"z4374":{"itemID":"z4374","name":"HP Color LaserJet 3550N"
+,"bName":"HP"},"z4375":{"itemID":"z4375","name":"HP Color LaserJet 3700","bName":"HP"},"z4376":{"itemID"
+:"z4376","name":"HP Color LaserJet 3700DN","bName":"HP"},"z4377":{"itemID":"z4377","name":"HP Color LaserJet
+ 3700DTN","bName":"HP"},"z4378":{"itemID":"z4378","name":"HP Color LaserJet 3700N","bName":"HP"},"z4379"
+:{"itemID":"z4379","name":"HP Color LaserJet 3800","bName":"HP"},"z4382":{"itemID":"z4382","name":"HP
+ Color LaserJet 4600","bName":"HP"},"z4383":{"itemID":"z4383","name":"HP Color LaserJet 4650","bName"
+:"HP"},"z4384":{"itemID":"z4384","name":"HP Color LaserJet 4700","bName":"HP"},"z4312":{"itemID":"z4312"
+,"name":"HP Color LaserJet 4730mfp","bName":"HP"},"z4529":{"itemID":"z4529","name":"HP Color LaserJet
+ 5500","bName":"HP"},"z4313":{"itemID":"z4313","name":"HP Color LaserJet CM1015mfp","bName":"HP"},"z4314"
+:{"itemID":"z4314","name":"HP Color LaserJet CM1017mfp","bName":"HP"},"115856":{"itemID":"115856","name"
+:"HP Color Laserjet CM1312","bName":"HP"},"116225":{"itemID":"116225","name":"HP Color Laserjet CM1312nfi"
+,"bName":"HP"},"158485":{"itemID":"158485","name":"HP Color Laserjet CM2320fxi","bName":"HP"},"130500"
+:{"itemID":"130500","name":"HP Color Laserjet CM2320nf","bName":"HP"},"z4315":{"itemID":"z4315","name"
+:"HP Color LaserJet CM4730","bName":"HP"},"229501":{"itemID":"229501","name":"HP Color Laserjet CM6030"
+,"bName":"HP"},"252462":{"itemID":"252462","name":"HP Color LaserJet CM6030f (CE665A)","bName":"HP"}
+,"z4316":{"itemID":"z4316","name":"HP Color LaserJet CM6030mpf","bName":"HP"},"z4317":{"itemID":"z4317"
+,"name":"HP Color LaserJet CM6040mpf","bName":"HP"},"110717":{"itemID":"110717","name":"HP Color Laserjet
+ CP1215","bName":"HP"},"110718":{"itemID":"110718","name":"HP Color Laserjet CP1515n","bName":"HP"},"z4388"
+:{"itemID":"z4388","name":"HP Color LaserJet CP1518","bName":"HP"},"177844":{"itemID":"177844","name"
+:"HP Color Laserjet CP2025","bName":"HP"},"159488":{"itemID":"159488","name":"HP Color Laserjet CP2025dn"
+,"bName":"HP"},"129109":{"itemID":"129109","name":"HP Color Laserjet CP2025n","bName":"HP"},"z4389":
+{"itemID":"z4389","name":"HP Color LaserJet CP3505","bName":"HP"},"204825":{"itemID":"204825","name"
+:"HP Color Laserjet CP3525dn","bName":"HP"},"177845":{"itemID":"177845","name":"HP Color Laserjet CP3525n"
+,"bName":"HP"},"177846":{"itemID":"177846","name":"HP Color Laserjet CP3525x","bName":"HP"},"z4390":
+{"itemID":"z4390","name":"HP Color LaserJet CP4005","bName":"HP"},"z4391":{"itemID":"z4391","name":"HP
+ Color LaserJet CP6015","bName":"HP"},"223437":{"itemID":"223437","name":"HP Color Laserjet Enterprise
+ CP5525dn","bName":"HP"},"365519":{"itemID":"365519","name":"HP Color LaserJet Pro MFP M176n","bName"
+:"HP"},"365520":{"itemID":"365520","name":"HP Color LaserJet Pro MFP M177fw","bName":"HP"},"186352":
+{"itemID":"186352","name":"HP Color Laserjet Professional CP5225","bName":"HP"},"186354":{"itemID":"186354"
+,"name":"HP Color Laserjet Professional CP5225dn","bName":"HP"},"186353":{"itemID":"186353","name":"HP
+ Color Laserjet Professional CP5225n","bName":"HP"},"75421":{"itemID":"75421","name":"HP D2360","bName"
+:"HP"},"z5514":{"itemID":"z5514","name":"HP DesignJet 100","bName":"HP"},"z5515":{"itemID":"z5515","name"
+:"HP DesignJet 100 Plus","bName":"HP"},"z5516":{"itemID":"z5516","name":"HP DesignJet 1050","bName":"HP"
+},"z5517":{"itemID":"z5517","name":"HP DesignJet 1050C","bName":"HP"},"z5518":{"itemID":"z5518","name"
+:"HP DesignJet 1055","bName":"HP"},"z5519":{"itemID":"z5519","name":"HP DesignJet 1055CM","bName":"HP"
+},"z5520":{"itemID":"z5520","name":"HP DesignJet 10PS","bName":"HP"},"158483":{"itemID":"158483","name"
+:"HP Designjet 110 Plus","bName":"HP"},"177852":{"itemID":"177852","name":"HP Designjet 111","bName"
+:"HP"},"177853":{"itemID":"177853","name":"HP Designjet 111","bName":"HP"},"z5521":{"itemID":"z5521"
+,"name":"HP DesignJet 120","bName":"HP"},"z5522":{"itemID":"z5522","name":"HP DesignJet 120","bName"
+:"HP"},"z5523":{"itemID":"z5523","name":"HP DesignJet 120NR","bName":"HP"},"z5524":{"itemID":"z5524"
+,"name":"HP DesignJet 120PS","bName":"HP"},"117703":{"itemID":"117703","name":"HP Designjet 130","bName"
+:"HP"},"z5525":{"itemID":"z5525","name":"HP DesignJet 130GP","bName":"HP"},"z5526":{"itemID":"z5526"
+,"name":"HP DesignJet 130NR","bName":"HP"},"163407":{"itemID":"163407","name":"HP Designjet 130r","bName"
+:"HP"},"z5527":{"itemID":"z5527","name":"HP DesignJet 20PS","bName":"HP"},"z5530":{"itemID":"z5530","name"
+:"HP DesignJet 30","bName":"HP"},"z5531":{"itemID":"z5531","name":"HP DesignJet 30GP","bName":"HP"},"z5532"
+:{"itemID":"z5532","name":"HP DesignJet 30N","bName":"HP"},"z5535":{"itemID":"z5535","name":"HP DesignJet
+ 4000","bName":"HP"},"z5536":{"itemID":"z5536","name":"HP DesignJet 4000PS","bName":"HP"},"z5538":{"itemID"
+:"z5538","name":"HP DesignJet 4500","bName":"HP"},"z5539":{"itemID":"z5539","name":"HP DesignJet 4500PS"
+,"bName":"HP"},"z5543":{"itemID":"z5543","name":"HP DesignJet 500","bName":"HP"},"z5544":{"itemID":"z5544"
+,"name":"HP DesignJet 500","bName":"HP"},"z5545":{"itemID":"z5545","name":"HP DesignJet 5000","bName"
+:"HP"},"z5546":{"itemID":"z5546","name":"HP DesignJet 5000PS","bName":"HP"},"z5547":{"itemID":"z5547"
+,"name":"HP DesignJet 5000UV","bName":"HP"},"z5548":{"itemID":"z5548","name":"HP DesignJet 500PS","bName"
+:"HP"},"z5549":{"itemID":"z5549","name":"HP DesignJet 50PS","bName":"HP"},"148100":{"itemID":"148100"
+,"name":"HP Designjet 510","bName":"HP"},"167287":{"itemID":"167287","name":"HP Designjet 510","bName"
+:"HP"},"z5550":{"itemID":"z5550","name":"HP DesignJet 5500","bName":"HP"},"z5551":{"itemID":"z5551","name"
+:"HP DesignJet 5500PS","bName":"HP"},"z5552":{"itemID":"z5552","name":"HP DesignJet 5500UV","bName":"HP"
+},"117702":{"itemID":"117702","name":"HP DesignJet 70","bName":"HP"},"z5563":{"itemID":"z5563","name"
+:"HP DesignJet 800","bName":"HP"},"z5564":{"itemID":"z5564","name":"HP DesignJet 800","bName":"HP"},"z5565"
+:{"itemID":"z5565","name":"HP DesignJet 800PS","bName":"HP"},"z5566":{"itemID":"z5566","name":"HP DesignJet
+ 815","bName":"HP"},"z5567":{"itemID":"z5567","name":"HP DesignJet 815 mfp","bName":"HP"},"z5568":{"itemID"
+:"z5568","name":"HP DesignJet 820","bName":"HP"},"z5569":{"itemID":"z5569","name":"HP DesignJet 820 mfp"
+,"bName":"HP"},"161562":{"itemID":"161562","name":"HP Designjet 90","bName":"HP"},"z5574":{"itemID":"z5574"
+,"name":"HP DesignJet 90GP","bName":"HP"},"z5575":{"itemID":"z5575","name":"HP DesignJet 90R","bName"
+:"HP"},"z5576":{"itemID":"z5576","name":"HP DesignJet T1100","bName":"HP"},"z5577":{"itemID":"z5577"
+,"name":"HP DesignJet T1100","bName":"HP"},"z5578":{"itemID":"z5578","name":"HP DesignJet T1100 MFP"
+,"bName":"HP"},"z5579":{"itemID":"z5579","name":"HP DesignJet T1100mfp","bName":"HP"},"z5580":{"itemID"
+:"z5580","name":"HP DesignJet T1100PS","bName":"HP"},"z5581":{"itemID":"z5581","name":"HP DesignJet T1120"
+,"bName":"HP"},"z5582":{"itemID":"z5582","name":"HP DesignJet T1120","bName":"HP"},"315678":{"itemID"
+:"315678","name":"HP Designjet T120","bName":"HP"},"186526":{"itemID":"186526","name":"HP Designjet T1200"
+,"bName":"HP"},"z5583":{"itemID":"z5583","name":"HP DesignJet T1200","bName":"HP"},"256531":{"itemID"
+:"256531","name":"HP Designjet T1300 1118 mm (CR651A)","bName":"HP"},"z5584":{"itemID":"z5584","name"
+:"HP DesignJet T610","bName":"HP"},"148102":{"itemID":"148102","name":"HP Designjet T610 1118 \u043c
+\u043c","bName":"HP"},"161265":{"itemID":"161265","name":"HP Designjet T620","bName":"HP"},"177854":
+{"itemID":"177854","name":"HP Designjet T770","bName":"HP"},"177855":{"itemID":"177855","name":"HP Designjet
+ T770","bName":"HP"},"z5585":{"itemID":"z5585","name":"HP DesignJet T770","bName":"HP"},"331953":{"itemID"
+:"331953","name":"HP Designjet T920","bName":"HP"},"331954":{"itemID":"331954","name":"HP Designjet T920"
+,"bName":"HP"},"177856":{"itemID":"177856","name":"HP Designjet Z2100","bName":"HP"},"z5586":{"itemID"
+:"z5586","name":"HP DesignJet Z2100","bName":"HP"},"186357":{"itemID":"186357","name":"HP Deskjet 1000"
+,"bName":"HP"},"z5094":{"itemID":"z5094","name":"HP Deskjet 1100c","bName":"HP"},"z5095":{"itemID":"z5095"
+,"name":"HP Deskjet 1120c","bName":"HP"},"z5096":{"itemID":"z5096","name":"HP Deskjet 1125c","bName"
+:"HP"},"z5097":{"itemID":"z5097","name":"HP Deskjet 1180c","bName":"HP"},"z5098":{"itemID":"z5098","name"
+:"HP Deskjet 1200c","bName":"HP"},"z5099":{"itemID":"z5099","name":"HP Deskjet 1200ps","bName":"HP"}
+,"z5100":{"itemID":"z5100","name":"HP Deskjet 1220c","bName":"HP"},"z5101":{"itemID":"z5101","name":"HP
+ Deskjet 1220ps","bName":"HP"},"z5102":{"itemID":"z5102","name":"HP Deskjet 1280","bName":"HP"},"z5103"
+:{"itemID":"z5103","name":"HP Deskjet 1600","bName":"HP"},"186358":{"itemID":"186358","name":"HP Deskjet
+ 2000","bName":"HP"},"177837":{"itemID":"177837","name":"HP Deskjet 2050","bName":"HP"},"186359":{"itemID"
+:"186359","name":"HP Deskjet 3000","bName":"HP"},"186364":{"itemID":"186364","name":"HP Deskjet 3050"
+,"bName":"HP"},"250714":{"itemID":"250714","name":"HP Deskjet 3050A","bName":"HP"},"z5106":{"itemID"
+:"z5106","name":"HP Deskjet 3320","bName":"HP"},"z5107":{"itemID":"z5107","name":"HP Deskjet 3325","bName"
+:"HP"},"z5111":{"itemID":"z5111","name":"HP Deskjet 3420","bName":"HP"},"z5112":{"itemID":"z5112","name"
+:"HP Deskjet 3425","bName":"HP"},"z5115":{"itemID":"z5115","name":"HP Deskjet 3520","bName":"HP"},"z5116"
+:{"itemID":"z5116","name":"HP Deskjet 3535","bName":"HP"},"z5117":{"itemID":"z5117","name":"HP Deskjet
+ 3550","bName":"HP"},"z5118":{"itemID":"z5118","name":"HP Deskjet 3645","bName":"HP"},"z5119":{"itemID"
+:"z5119","name":"HP Deskjet 3647","bName":"HP"},"z5120":{"itemID":"z5120","name":"HP Deskjet 3650","bName"
+:"HP"},"z5121":{"itemID":"z5121","name":"HP Deskjet 3745","bName":"HP"},"z5122":{"itemID":"z5122","name"
+:"HP Deskjet 3810","bName":"HP"},"z5123":{"itemID":"z5123","name":"HP Deskjet 3816","bName":"HP"},"z5124"
+:{"itemID":"z5124","name":"HP Deskjet 3820","bName":"HP"},"z5125":{"itemID":"z5125","name":"HP Deskjet
+ 3845","bName":"HP"},"z5126":{"itemID":"z5126","name":"HP Deskjet 3920","bName":"HP"},"z5127":{"itemID"
+:"z5127","name":"HP Deskjet 3940","bName":"HP"},"z5131":{"itemID":"z5131","name":"HP Deskjet 450cbi"
+,"bName":"HP"},"z5132":{"itemID":"z5132","name":"HP Deskjet 450ci","bName":"HP"},"z5133":{"itemID":"z5133"
+,"name":"HP Deskjet 450wbt","bName":"HP"},"z5134":{"itemID":"z5134","name":"HP Deskjet 460c","bName"
+:"HP"},"z5135":{"itemID":"z5135","name":"HP Deskjet 460cb","bName":"HP"},"z5136":{"itemID":"z5136","name"
+:"HP Deskjet 460wbt","bName":"HP"},"z5137":{"itemID":"z5137","name":"HP Deskjet 460wf","bName":"HP"}
+,"z5141":{"itemID":"z5141","name":"HP Deskjet 5145","bName":"HP"},"z5142":{"itemID":"z5142","name":"HP
+ Deskjet 5150","bName":"HP"},"z5143":{"itemID":"z5143","name":"HP Deskjet 5151","bName":"HP"},"z5146"
+:{"itemID":"z5146","name":"HP Deskjet 5443","bName":"HP"},"z5148":{"itemID":"z5148","name":"HP Deskjet
+ 5550","bName":"HP"},"z5149":{"itemID":"z5149","name":"HP Deskjet 5552","bName":"HP"},"z5151":{"itemID"
+:"z5151","name":"HP Deskjet 5650","bName":"HP"},"z5152":{"itemID":"z5152","name":"HP Deskjet 5652","bName"
+:"HP"},"z5153":{"itemID":"z5153","name":"HP Deskjet 5655","bName":"HP"},"z5154":{"itemID":"z5154","name"
+:"HP Deskjet 5743","bName":"HP"},"z5155":{"itemID":"z5155","name":"HP Deskjet 5850","bName":"HP"},"z5156"
+:{"itemID":"z5156","name":"HP Deskjet 5943","bName":"HP"},"z5159":{"itemID":"z5159","name":"HP Deskjet
+ 6122","bName":"HP"},"z5160":{"itemID":"z5160","name":"HP Deskjet 6127","bName":"HP"},"z5163":{"itemID"
+:"z5163","name":"HP Deskjet 6543","bName":"HP"},"z5164":{"itemID":"z5164","name":"HP Deskjet 6543d","bName"
+:"HP"},"z5167":{"itemID":"z5167","name":"HP Deskjet 6623","bName":"HP"},"z5169":{"itemID":"z5169","name"
+:"HP Deskjet 6843","bName":"HP"},"z5170":{"itemID":"z5170","name":"HP Deskjet 6843d","bName":"HP"},"z5173"
+:{"itemID":"z5173","name":"HP Deskjet 6983","bName":"HP"},"z5174":{"itemID":"z5174","name":"HP Deskjet
+ 710c","bName":"HP"},"z5175":{"itemID":"z5175","name":"HP Deskjet 720c","bName":"HP"},"z5176":{"itemID"
+:"z5176","name":"HP Deskjet 722c","bName":"HP"},"z5177":{"itemID":"z5177","name":"HP Deskjet 810c","bName"
+:"HP"},"z5178":{"itemID":"z5178","name":"HP Deskjet 815c","bName":"HP"},"z5179":{"itemID":"z5179","name"
+:"HP Deskjet 816c","bName":"HP"},"z5180":{"itemID":"z5180","name":"HP Deskjet 820cXi","bName":"HP"},"z5181"
+:{"itemID":"z5181","name":"HP Deskjet 825c","bName":"HP"},"z5182":{"itemID":"z5182","name":"HP Deskjet
+ 840c","bName":"HP"},"z5183":{"itemID":"z5183","name":"HP Deskjet 843c","bName":"HP"},"z5184":{"itemID"
+:"z5184","name":"HP Deskjet 845c","bName":"HP"},"z5185":{"itemID":"z5185","name":"HP Deskjet 850c","bName"
+:"HP"},"z5186":{"itemID":"z5186","name":"HP Deskjet 870cXi","bName":"HP"},"z5187":{"itemID":"z5187","name"
+:"HP Deskjet 880c","bName":"HP"},"z5188":{"itemID":"z5188","name":"HP Deskjet 890c","bName":"HP"},"z5189"
+:{"itemID":"z5189","name":"HP Deskjet 895cXi","bName":"HP"},"z5190":{"itemID":"z5190","name":"HP Deskjet
+ 916c","bName":"HP"},"z5191":{"itemID":"z5191","name":"HP Deskjet 920c","bName":"HP"},"z5192":{"itemID"
+:"z5192","name":"HP Deskjet 9300","bName":"HP"},"z5193":{"itemID":"z5193","name":"HP Deskjet 930c","bName"
+:"HP"},"z5194":{"itemID":"z5194","name":"HP Deskjet 930cm","bName":"HP"},"z5195":{"itemID":"z5195","name"
+:"HP Deskjet 940c","bName":"HP"},"z5196":{"itemID":"z5196","name":"HP Deskjet 950c","bName":"HP"},"z5197"
+:{"itemID":"z5197","name":"HP Deskjet 959c","bName":"HP"},"z5198":{"itemID":"z5198","name":"HP Deskjet
+ 960c","bName":"HP"},"z5199":{"itemID":"z5199","name":"HP Deskjet 9650","bName":"HP"},"z5200":{"itemID"
+:"z5200","name":"HP Deskjet 9670","bName":"HP"},"z5201":{"itemID":"z5201","name":"HP Deskjet 9680","bName"
+:"HP"},"z5202":{"itemID":"z5202","name":"HP Deskjet 9680gp","bName":"HP"},"z5203":{"itemID":"z5203","name"
+:"HP Deskjet 970cXi","bName":"HP"},"z5204":{"itemID":"z5204","name":"HP Deskjet 9803","bName":"HP"},"z5205"
+:{"itemID":"z5205","name":"HP Deskjet 9803d","bName":"HP"},"z5206":{"itemID":"z5206","name":"HP Deskjet
+ 980cXi","bName":"HP"},"z5207":{"itemID":"z5207","name":"HP Deskjet 990cm","bName":"HP"},"z5208":{"itemID"
+:"z5208","name":"HP Deskjet 990cXi","bName":"HP"},"z5209":{"itemID":"z5209","name":"HP Deskjet 995c"
+,"bName":"HP"},"z5210":{"itemID":"z5210","name":"HP Deskjet D1360","bName":"HP"},"z5211":{"itemID":"z5211"
+,"name":"HP Deskjet D1460","bName":"HP"},"z5212":{"itemID":"z5212","name":"HP Deskjet D1470","bName"
+:"HP"},"z5213":{"itemID":"z5213","name":"HP Deskjet D1560","bName":"HP"},"165351":{"itemID":"165351"
+,"name":"HP Deskjet D1663","bName":"HP"},"z5214":{"itemID":"z5214","name":"HP Deskjet D2330","bName"
+:"HP"},"z5215":{"itemID":"z5215","name":"HP Deskjet D2430","bName":"HP"},"157472":{"itemID":"157472"
+,"name":"HP DeskJet D2663","bName":"HP"},"z5216":{"itemID":"z5216","name":"HP Deskjet D4163","bName"
+:"HP"},"105226":{"itemID":"105226","name":"HP DeskJet D4263","bName":"HP"},"130497":{"itemID":"130497"
+,"name":"HP DeskJet D4363","bName":"HP"},"z5217":{"itemID":"z5217","name":"HP Deskjet D5360","bName"
+:"HP"},"z5218":{"itemID":"z5218","name":"HP Deskjet D5500 \u0441\u0435\u0440\u0438\u0438","bName":"HP"
+},"147416":{"itemID":"147416","name":"HP Deskjet D5563","bName":"HP"},"z4128":{"itemID":"z4128","name"
+:"HP Deskjet F2180","bName":"HP"},"z4129":{"itemID":"z4129","name":"HP Deskjet F2187","bName":"HP"},"z4130"
+:{"itemID":"z4130","name":"HP Deskjet F2290","bName":"HP"},"147415":{"itemID":"147415","name":"HP Deskjet
+ F2483","bName":"HP"},"z4131":{"itemID":"z4131","name":"HP Deskjet F370","bName":"HP"},"z4132":{"itemID"
+:"z4132","name":"HP Deskjet F375","bName":"HP"},"z4133":{"itemID":"z4133","name":"HP Deskjet F380","bName"
+:"HP"},"z4134":{"itemID":"z4134","name":"HP Deskjet F4140","bName":"HP"},"z4135":{"itemID":"z4135","name"
+:"HP Deskjet F4172","bName":"HP"},"z4136":{"itemID":"z4136","name":"HP Deskjet F4190","bName":"HP"},"z4137"
+:{"itemID":"z4137","name":"HP Deskjet F4283","bName":"HP"},"157420":{"itemID":"157420","name":"HP Deskjet
+ F4583","bName":"HP"},"323199":{"itemID":"323199","name":"HP Deskjet Ink Advantage 1015 Printer","bName"
+:"HP"},"323196":{"itemID":"323196","name":"HP Deskjet Ink Advantage 1515 AiO","bName":"HP"},"268604"
+:{"itemID":"268604","name":"HP DeskJet Ink Advantage 2515","bName":"HP"},"268605":{"itemID":"268605"
+,"name":"HP DeskJet Ink Advantage 3515","bName":"HP"},"268606":{"itemID":"268606","name":"HP DeskJet
+ Ink Advantage 3525","bName":"HP"},"268609":{"itemID":"268609","name":"HP DeskJet Ink Advantage 4615"
+,"bName":"HP"},"268610":{"itemID":"268610","name":"HP DeskJet Ink Advantage 4625","bName":"HP"},"268607"
+:{"itemID":"268607","name":"HP DeskJet Ink Advantage 5525","bName":"HP"},"268608":{"itemID":"268608"
+,"name":"HP DeskJet Ink Advantage 6525","bName":"HP"},"z4139":{"itemID":"z4139","name":"HP Digital Copier
+ 410","bName":"HP"},"130495":{"itemID":"130495","name":"HP F2280","bName":"HP"},"z4141":{"itemID":"z4141"
+,"name":"HP Fax 1220","bName":"HP"},"z4142":{"itemID":"z4142","name":"HP Fax 1230","bName":"HP"},"z4143"
+:{"itemID":"z4143","name":"HP Fax 3180","bName":"HP"},"96046":{"itemID":"96046","name":"HP HP Color LJ
+ 1600","bName":"HP"},"96047":{"itemID":"96047","name":"HP HP Color LJ 2605","bName":"HP"},"96048":{"itemID"
+:"96048","name":"HP HP Color LJ 3600","bName":"HP"},"96050":{"itemID":"96050","name":"HP HP Color LJ
+ CM 1015","bName":"HP"},"96095":{"itemID":"96095","name":"HP HP DescJet F4180","bName":"HP"},"315154"
+:{"itemID":"315154","name":"HP HP Designjet T520","bName":"HP"},"315677":{"itemID":"315677","name":"HP
+ HP Designjet T520","bName":"HP"},"121347":{"itemID":"121347","name":"HP HP DeskJet D 2563","bName":"HP"
+},"96051":{"itemID":"96051","name":"HP HP DeskJet D2460","bName":"HP"},"96084":{"itemID":"96084","name"
+:"HP HP DeskJet D6943","bName":"HP"},"89118":{"itemID":"89118","name":"HP HP LJ M1005","bName":"HP"}
+,"221516":{"itemID":"221516","name":"HP HP Photosmart 5510","bName":"HP"},"221519":{"itemID":"221519"
+,"name":"HP HP Photosmart 7510","bName":"HP"},"96094":{"itemID":"96094","name":"HP HP PhotoSmart C5283"
+,"bName":"HP"},"429061":{"itemID":"429061","name":"HP Lase Jet Pro M201dw","bName":"HP"},"z4392":{"itemID"
+:"z4392","name":"HP Laser Jet CM3530 mfp","bName":"HP"},"z4393":{"itemID":"z4393","name":"HP Laser Jet
+ CP3525","bName":"HP"},"429062":{"itemID":"429062","name":"HP Laser Jet Pro M125ra","bName":"HP"},"429064"
+:{"itemID":"429064","name":"HP Laser Jet Pro M201n","bName":"HP"},"429063":{"itemID":"429063","name"
+:"HP Laser Jet Pro M225rdn","bName":"HP"},"429060":{"itemID":"429060","name":"HP Laser Jet Pro MFP M225dw"
+,"bName":"HP"},"z4530":{"itemID":"z4530","name":"HP LaserJet 1000w","bName":"HP"},"z4531":{"itemID":"z4531"
+,"name":"HP LaserJet 1005w","bName":"HP"},"z4532":{"itemID":"z4532","name":"HP LaserJet 1010","bName"
+:"HP"},"z4533":{"itemID":"z4533","name":"HP LaserJet 1012","bName":"HP"},"z4534":{"itemID":"z4534","name"
+:"HP LaserJet 1018","bName":"HP"},"z4535":{"itemID":"z4535","name":"HP LaserJet 1020","bName":"HP"},"z4536"
+:{"itemID":"z4536","name":"HP LaserJet 1022","bName":"HP"},"z4537":{"itemID":"z4537","name":"HP LaserJet
+ 1100","bName":"HP"},"z4538":{"itemID":"z4538","name":"HP LaserJet 1100A","bName":"HP"},"z4539":{"itemID"
+:"z4539","name":"HP LaserJet 1150","bName":"HP"},"z4540":{"itemID":"z4540","name":"HP LaserJet 1160"
+,"bName":"HP"},"z4541":{"itemID":"z4541","name":"HP LaserJet 1200","bName":"HP"},"z4542":{"itemID":"z4542"
+,"name":"HP LaserJet 1220","bName":"HP"},"z4543":{"itemID":"z4543","name":"HP LaserJet 1300","bName"
+:"HP"},"z4544":{"itemID":"z4544","name":"HP LaserJet 1320","bName":"HP"},"z4545":{"itemID":"z4545","name"
+:"HP LaserJet 2100","bName":"HP"},"z4546":{"itemID":"z4546","name":"HP LaserJet 2200","bName":"HP"},"z4547"
+:{"itemID":"z4547","name":"HP LaserJet 2300","bName":"HP"},"z4548":{"itemID":"z4548","name":"HP LaserJet
+ 2410","bName":"HP"},"z4549":{"itemID":"z4549","name":"HP LaserJet 2420","bName":"HP"},"z4550":{"itemID"
+:"z4550","name":"HP LaserJet 2430","bName":"HP"},"z3933":{"itemID":"z3933","name":"HP LaserJet 3020"
+,"bName":"HP"},"z3934":{"itemID":"z3934","name":"HP LaserJet 3030","bName":"HP"},"z3935":{"itemID":"z3935"
+,"name":"HP LaserJet 3052","bName":"HP"},"z3936":{"itemID":"z3936","name":"HP LaserJet 3055","bName"
+:"HP"},"z3939":{"itemID":"z3939","name":"HP LaserJet 3200","bName":"HP"},"z3940":{"itemID":"z3940","name"
+:"HP LaserJet 3380","bName":"HP"},"z3941":{"itemID":"z3941","name":"HP LaserJet 3390","bName":"HP"},"z3942"
+:{"itemID":"z3942","name":"HP LaserJet 3392","bName":"HP"},"z4553":{"itemID":"z4553","name":"HP LaserJet
+ 4000","bName":"HP"},"z4554":{"itemID":"z4554","name":"HP LaserJet 4050","bName":"HP"},"z4556":{"itemID"
+:"z4556","name":"HP LaserJet 4200","bName":"HP"},"z4557":{"itemID":"z4557","name":"HP LaserJet 4250"
+,"bName":"HP"},"z3943":{"itemID":"z3943","name":"HP LaserJet 4345mfp","bName":"HP"},"z4559":{"itemID"
+:"z4559","name":"HP LaserJet 4350","bName":"HP"},"z4569":{"itemID":"z4569","name":"HP LaserJet 5000"
+,"bName":"HP"},"z4570":{"itemID":"z4570","name":"HP LaserJet 5100","bName":"HP"},"142820":{"itemID":"142820"
+,"name":"HP Laserjet 5200","bName":"HP"},"208820":{"itemID":"208820","name":"HP Laserjet 5200tn","bName"
+:"HP"},"z4584":{"itemID":"z4584","name":"HP LaserJet 9000","bName":"HP"},"z4585":{"itemID":"z4585","name"
+:"HP LaserJet 9040","bName":"HP"},"z4586":{"itemID":"z4586","name":"HP LaserJet 9050","bName":"HP"},"273660"
+:{"itemID":"273660","name":"HP LaserJet Enterprise 500 color MFP M575f","bName":"HP"},"273657":{"itemID"
+:"273657","name":"HP LaserJet Enterprise 500 MFP M525dn","bName":"HP"},"229785":{"itemID":"229785","name"
+:"HP Laserjet Enterprise 600 M603xh","bName":"HP"},"286496":{"itemID":"286496","name":"HP LaserJet Enterprise
+ 700 M712dn","bName":"HP"},"286497":{"itemID":"286497","name":"HP LaserJet Enterprise 700 M712xh","bName"
+:"HP"},"z3944":{"itemID":"z3944","name":"HP LaserJet M1005mfp","bName":"HP"},"130494":{"itemID":"130494"
+,"name":"HP Laserjet M1120","bName":"HP"},"118562":{"itemID":"118562","name":"HP Laserjet M1120n","bName"
+:"HP"},"115855":{"itemID":"115855","name":"HP Laserjet M1319f","bName":"HP"},"154631":{"itemID":"154631"
+,"name":"HP Laserjet M1522n","bName":"HP"},"110488":{"itemID":"110488","name":"HP Laserjet M1522nf","bName"
+:"HP"},"110723":{"itemID":"110723","name":"HP Laserjet M2727nf","bName":"HP"},"177823":{"itemID":"177823"
+,"name":"HP Laserjet M2727nfs","bName":"HP"},"158491":{"itemID":"158491","name":"HP LaserJet M3027","bName"
+:"HP"},"177824":{"itemID":"177824","name":"HP Laserjet M3027x","bName":"HP"},"z3945":{"itemID":"z3945"
+,"name":"HP LaserJet M3035mfp","bName":"HP"},"z3946":{"itemID":"z3946","name":"HP LaserJet M4345mfp"
+,"bName":"HP"},"179961":{"itemID":"179961","name":"HP Laserjet M4345x","bName":"HP"},"z3947":{"itemID"
+:"z3947","name":"HP LaserJet M5025","bName":"HP"},"z3948":{"itemID":"z3948","name":"HP LaserJet M5035mfp"
+,"bName":"HP"},"z3949":{"itemID":"z3949","name":"HP LaserJet M9040mfp","bName":"HP"},"z3950":{"itemID"
+:"z3950","name":"HP LaserJet M9050mfp","bName":"HP"},"110765":{"itemID":"110765","name":"HP Laserjet
+ P1005","bName":"HP"},"143314":{"itemID":"143314","name":"HP Laserjet P1006","bName":"HP"},"110766":
+{"itemID":"110766","name":"HP Laserjet P1505","bName":"HP"},"154584":{"itemID":"154584","name":"HP Laserjet
+ P1505n","bName":"HP"},"z4589":{"itemID":"z4589","name":"HP LaserJet P2014","bName":"HP"},"159484":{"itemID"
+:"159484","name":"HP LaserJet P2035","bName":"HP"},"168877":{"itemID":"168877","name":"HP Laserjet P2035n"
+,"bName":"HP"},"212733":{"itemID":"212733","name":"HP Laserjet P2055","bName":"HP"},"130498":{"itemID"
+:"130498","name":"HP Laserjet P2055d","bName":"HP"},"130499":{"itemID":"130499","name":"HP Laserjet P2055dn"
+,"bName":"HP"},"157467":{"itemID":"157467","name":"HP Laserjet P3015d Enterprise","bName":"HP"},"157468"
+:{"itemID":"157468","name":"HP LaserJet P3015dn Enterprise","bName":"HP"},"177841":{"itemID":"177841"
+,"name":"HP Laserjet P3015x Enterprise","bName":"HP"},"162447":{"itemID":"162447","name":"HP LaserJet
+ P4014","bName":"HP"},"162449":{"itemID":"162449","name":"HP LaserJet P4014dn","bName":"HP"},"162448"
+:{"itemID":"162448","name":"HP Laserjet P4014n","bName":"HP"},"z4590":{"itemID":"z4590","name":"HP LaserJet
+ P4015","bName":"HP"},"192707":{"itemID":"192707","name":"HP Laserjet P4015dn","bName":"HP"},"177842"
+:{"itemID":"177842","name":"HP Laserjet P4015x","bName":"HP"},"288393":{"itemID":"288393","name":"HP
+ LaserJet Pro 200 Color M251n","bName":"HP"},"288394":{"itemID":"288394","name":"HP LaserJet Pro 200
+ Color M251nw","bName":"HP"},"275504":{"itemID":"275504","name":"HP LaserJet Pro 200 color MFP M276n"
+,"bName":"HP"},"275505":{"itemID":"275505","name":"HP LaserJet Pro 200 color MFP M276nw","bName":"HP"
+},"273043":{"itemID":"273043","name":"HP LaserJet Pro 300 Color M351a (CE955A)","bName":"HP"},"273044"
+:{"itemID":"273044","name":"HP Laserjet Pro 300 Color MFP M375nw (CE903A)","bName":"HP"},"263467":{"itemID"
+:"263467","name":"HP LaserJet Pro 400 Color M451dn (CE957A)","bName":"HP"},"263466":{"itemID":"263466"
+,"name":"HP LaserJet Pro 400 Color M451dw (CE958A)","bName":"HP"},"299014":{"itemID":"299014","name"
+:"HP LaserJet Pro 400 Color M451nw (CE956A)","bName":"HP"},"263464":{"itemID":"263464","name":"HP LaserJet
+ Pro 400 Color MFP M475dn (CE863A)","bName":"HP"},"263465":{"itemID":"263465","name":"HP LaserJet Pro
+ 400 Color MFP M475dw (CE864A)","bName":"HP"},"261523":{"itemID":"261523","name":"HP LaserJet Pro 400
+ M401a","bName":"HP"},"261524":{"itemID":"261524","name":"HP LaserJet Pro 400 M401d","bName":"HP"},"261525"
+:{"itemID":"261525","name":"HP LaserJet Pro 400 M401dn","bName":"HP"},"332319":{"itemID":"332319","name"
+:"HP LaserJet Pro 400 M401dne","bName":"HP"},"261526":{"itemID":"261526","name":"HP LaserJet Pro 400
+ M401dw","bName":"HP"},"369762":{"itemID":"369762","name":"HP LaserJet Pro 400 MFP M435nw","bName":"HP"
+},"263469":{"itemID":"263469","name":"HP LaserJet Pro 400MFP M425dn (CF286A)","bName":"HP"},"263468"
+:{"itemID":"263468","name":"HP LaserJet Pro 400MFP M425dw (CF288A)","bName":"HP"},"310630":{"itemID"
+:"310630","name":"HP LaserJet Pro 500 color MFP M570dn","bName":"HP"},"310629":{"itemID":"310629","name"
+:"HP LaserJet Pro 500 color MFP M570dw","bName":"HP"},"327735":{"itemID":"327735","name":"HP LaserJet
+ Pro 500 MFP M521dn","bName":"HP"},"327736":{"itemID":"327736","name":"HP LaserJet Pro 500 MFP M521dw"
+,"bName":"HP"},"186355":{"itemID":"186355","name":"HP Laserjet Pro CM1415fn","bName":"HP"},"186356":
+{"itemID":"186356","name":"HP Laserjet Pro CM1415fnw","bName":"HP"},"186348":{"itemID":"186348","name"
+:"HP Laserjet Pro CP1025","bName":"HP"},"340294":{"itemID":"340294","name":"HP Laserjet Pro CP1025","bName"
+:"HP"},"186349":{"itemID":"186349","name":"HP Laserjet Pro CP1025nw","bName":"HP"},"186350":{"itemID"
+:"186350","name":"HP Laserjet Pro CP1525n","bName":"HP"},"186351":{"itemID":"186351","name":"HP Laserjet
+ Pro CP1525nw","bName":"HP"},"179487":{"itemID":"179487","name":"HP Laserjet Pro M1132","bName":"HP"
+},"257808":{"itemID":"257808","name":"HP Laserjet Pro M1132 RU","bName":"HP"},"179488":{"itemID":"179488"
+,"name":"HP Laserjet Pro M1212nf","bName":"HP"},"257807":{"itemID":"257807","name":"HP Laserjet Pro M1212nf"
+,"bName":"HP"},"184124":{"itemID":"184124","name":"HP Laserjet Pro M1214nfh","bName":"HP"},"212723":
+{"itemID":"212723","name":"HP Laserjet Pro M1217nfw","bName":"HP"},"257806":{"itemID":"257806","name"
+:"HP Laserjet Pro M1217nfw","bName":"HP"},"371066":{"itemID":"371066","name":"HP LaserJet Pro M127fn"
+,"bName":"HP"},"371067":{"itemID":"371067","name":"HP LaserJet Pro M127fw","bName":"HP"},"186726":{"itemID"
+:"186726","name":"HP Laserjet Pro M1536dnf","bName":"HP"},"257805":{"itemID":"257805","name":"HP Laserjet
+ Pro M1536dnf","bName":"HP"},"221509":{"itemID":"221509","name":"HP Laserjet Pro M175a","bName":"HP"
+},"164571":{"itemID":"164571","name":"HP Laserjet Pro P1102","bName":"HP"},"257804":{"itemID":"257804"
+,"name":"HP LaserJet Pro P1102","bName":"HP"},"274798":{"itemID":"274798","name":"HP LaserJet Pro P1102"
+,"bName":"HP"},"164572":{"itemID":"164572","name":"HP Laserjet Pro P1102w","bName":"HP"},"164842":{"itemID"
+:"164842","name":"HP Laserjet Pro P1566","bName":"HP"},"164843":{"itemID":"164843","name":"HP Laserjet
+ Pro P1606dn","bName":"HP"},"273659":{"itemID":"273659","name":"HP LazerJet Enterprise 500 color MFP
+ M 575dn","bName":"HP"},"273658":{"itemID":"273658","name":"HP LazerJet Enterprise 500 MFP M525f","bName"
+:"HP"},"115763":{"itemID":"115763","name":"HP LazerJet P4515n","bName":"HP"},"53393":{"itemID":"53393"
+,"name":"HP LJ 3015","bName":"HP"},"71181":{"itemID":"71181","name":"HP LJ 3050","bName":"HP"},"416585"
+:{"itemID":"416585","name":"HP LJ P2035","bName":"HP"},"250715":{"itemID":"250715","name":"HP Officejet
+ 100","bName":"HP"},"273655":{"itemID":"273655","name":"HP Officejet 150 Mobile AiO","bName":"HP"},"z4145"
+:{"itemID":"z4145","name":"HP Officejet 4105","bName":"HP"},"z4146":{"itemID":"z4146","name":"HP Officejet
+ 4110","bName":"HP"},"z5229":{"itemID":"z5229","name":"HP Officejet 4212","bName":"HP"},"z5230":{"itemID"
+:"z5230","name":"HP Officejet 4215","bName":"HP"},"z5231":{"itemID":"z5231","name":"HP Officejet 4219"
+,"bName":"HP"},"z5232":{"itemID":"z5232","name":"HP Officejet 4252","bName":"HP"},"z5233":{"itemID":"z5233"
+,"name":"HP Officejet 4255","bName":"HP"},"z4147":{"itemID":"z4147","name":"HP Officejet 4315","bName"
+:"HP"},"z4148":{"itemID":"z4148","name":"HP Officejet 4355","bName":"HP"},"165352":{"itemID":"165352"
+,"name":"HP Officejet 4500","bName":"HP"},"177838":{"itemID":"177838","name":"HP Officejet 4500","bName"
+:"HP"},"z5234":{"itemID":"z5234","name":"HP Officejet 5110","bName":"HP"},"z4150":{"itemID":"z4150","name"
+:"HP Officejet 5505","bName":"HP"},"z4151":{"itemID":"z4151","name":"HP Officejet 5510","bName":"HP"
+},"z4152":{"itemID":"z4152","name":"HP Officejet 5515","bName":"HP"},"z5235":{"itemID":"z5235","name"
+:"HP Officejet 5605","bName":"HP"},"z5236":{"itemID":"z5236","name":"HP Officejet 5607","bName":"HP"
+},"z5237":{"itemID":"z5237","name":"HP Officejet 5610","bName":"HP"},"z5238":{"itemID":"z5238","name"
+:"HP Officejet 5615","bName":"HP"},"158480":{"itemID":"158480","name":"HP Officejet 6000","bName":"HP"
+},"z5239":{"itemID":"z5239","name":"HP Officejet 6110","bName":"HP"},"z4154":{"itemID":"z4154","name"
+:"HP Officejet 6213","bName":"HP"},"z4156":{"itemID":"z4156","name":"HP Officejet 6313","bName":"HP"
+},"157421":{"itemID":"157421","name":"HP Officejet 6500","bName":"HP"},"196322":{"itemID":"196322","name"
+:"HP Officejet 6500A","bName":"HP"},"196323":{"itemID":"196323","name":"HP Officejet 6500A Plus","bName"
+:"HP"},"273654":{"itemID":"273654","name":"HP Officejet 6700 Premium e-All-in-One","bName":"HP"},"147417"
+:{"itemID":"147417","name":"HP Officejet 7000","bName":"HP"},"323200":{"itemID":"323200","name":"HP Officejet
+ 7110","bName":"HP"},"z4158":{"itemID":"z4158","name":"HP Officejet 7213","bName":"HP"},"z4159":{"itemID"
+:"z4159","name":"HP Officejet 7313","bName":"HP"},"z4160":{"itemID":"z4160","name":"HP Officejet 7413"
+,"bName":"HP"},"212729":{"itemID":"212729","name":"HP Officejet 7500A","bName":"HP"},"332935":{"itemID"
+:"332935","name":"HP Officejet 7610","bName":"HP"},"z5246":{"itemID":"z5246","name":"HP Officejet 9110"
+,"bName":"HP"},"z5247":{"itemID":"z5247","name":"HP Officejet 9120","bName":"HP"},"z5248":{"itemID":"z5248"
+,"name":"HP Officejet 9130","bName":"HP"},"z4161":{"itemID":"z4161","name":"HP Officejet g55","bName"
+:"HP"},"z4162":{"itemID":"z4162","name":"HP Officejet g85","bName":"HP"},"z4163":{"itemID":"z4163","name"
+:"HP Officejet g95","bName":"HP"},"z5253":{"itemID":"z5253","name":"HP Officejet H470","bName":"HP"}
+,"z5254":{"itemID":"z5254","name":"HP Officejet H470b","bName":"HP"},"z5255":{"itemID":"z5255","name"
+:"HP Officejet H470wbt","bName":"HP"},"110640":{"itemID":"110640","name":"HP OfficeJet J3600","bName"
+:"HP"},"158487":{"itemID":"158487","name":"HP Officejet J4580","bName":"HP"},"z4164":{"itemID":"z4164"
+,"name":"HP Officejet J4660","bName":"HP"},"z4165":{"itemID":"z4165","name":"HP Officejet J4680","bName"
+:"HP"},"z4166":{"itemID":"z4166","name":"HP Officejet J5520","bName":"HP"},"z4167":{"itemID":"z4167"
+,"name":"HP Officejet J5783","bName":"HP"},"z4168":{"itemID":"z4168","name":"HP Officejet J6413","bName"
+:"HP"},"z4169":{"itemID":"z4169","name":"HP Officejet k60","bName":"HP"},"108019":{"itemID":"108019"
+,"name":"HP OfficeJet K7103","bName":"HP"},"z4170":{"itemID":"z4170","name":"HP Officejet k80","bName"
+:"HP"},"z4171":{"itemID":"z4171","name":"HP Officejet Pro 1150c","bName":"HP"},"z4172":{"itemID":"z4172"
+,"name":"HP Officejet Pro 1170c","bName":"HP"},"z4173":{"itemID":"z4173","name":"HP Officejet Pro 1175c"
+,"bName":"HP"},"323204":{"itemID":"323204","name":"HP Officejet Pro 251dw","bName":"HP"},"323205":{"itemID"
+:"323205","name":"HP Officejet Pro 276dw MFP","bName":"HP"},"158481":{"itemID":"158481","name":"HP Officejet
+ Pro 8000","bName":"HP"},"161267":{"itemID":"161267","name":"HP Officejet Pro 8000","bName":"HP"},"250713"
+:{"itemID":"250713","name":"HP Officejet Pro 8100 ePrinter","bName":"HP"},"137992":{"itemID":"137992"
+,"name":"HP Officejet Pro 8500","bName":"HP"},"186368":{"itemID":"186368","name":"HP Officejet Pro 8500A"
+,"bName":"HP"},"186369":{"itemID":"186369","name":"HP Officejet Pro 8500A Plus","bName":"HP"},"250711"
+:{"itemID":"250711","name":"HP Officejet Pro 8600","bName":"HP"},"250712":{"itemID":"250712","name":"HP
+ Officejet Pro 8600 Plus","bName":"HP"},"391048":{"itemID":"391048","name":"HP Officejet Pro 8610","bName"
+:"HP"},"z5257":{"itemID":"z5257","name":"HP Officejet Pro K550","bName":"HP"},"z5258":{"itemID":"z5258"
+,"name":"HP Officejet Pro K850 series","bName":"HP"},"110495":{"itemID":"110495","name":"HP Officejet
+ Pro K8600","bName":"HP"},"186360":{"itemID":"186360","name":"HP Officejet Pro K8600dn","bName":"HP"
+},"110491":{"itemID":"110491","name":"HP Officejet Pro L7480","bName":"HP"},"z4174":{"itemID":"z4174"
+,"name":"HP Officejet Pro L7580","bName":"HP"},"110492":{"itemID":"110492","name":"HP Officejet Pro L7590"
+,"bName":"HP"},"110490":{"itemID":"110490","name":"HP Officejet Pro L7680","bName":"HP"},"z4175":{"itemID"
+:"z4175","name":"HP Officejet Pro L7780","bName":"HP"},"343696":{"itemID":"343696","name":"HP Officejet
+ Pro X451dw","bName":"HP"},"343698":{"itemID":"343698","name":"HP Officejet Pro X476dw MFP","bName":"HP"
+},"343697":{"itemID":"343697","name":"HP Officejet Pro X551dw","bName":"HP"},"343699":{"itemID":"343699"
+,"name":"HP Officejet Pro X576dw MFP","bName":"HP"},"110494":{"itemID":"110494","name":"HP Officejet
+ Pro \u041a5400dn","bName":"HP"},"110493":{"itemID":"110493","name":"HP Officejet Pro \u041a5400n","bName"
+:"HP"},"z4176":{"itemID":"z4176","name":"HP Officejet t45","bName":"HP"},"z4177":{"itemID":"z4177","name"
+:"HP Officejet t65","bName":"HP"},"z5259":{"itemID":"z5259","name":"HP Officejet v30","bName":"HP"},"z5260"
+:{"itemID":"z5260","name":"HP Officejet v40","bName":"HP"},"z5261":{"itemID":"z5261","name":"HP Officejet
+ v45","bName":"HP"},"z4591":{"itemID":"z4591","name":"HP P3015","bName":"HP"},"177839":{"itemID":"177839"
+,"name":"HP Photosmart","bName":"HP"},"186365":{"itemID":"186365","name":"HP Photosmart","bName":"HP"
+},"z5262":{"itemID":"z5262","name":"HP Photosmart 100","bName":"HP"},"z5263":{"itemID":"z5263","name"
+:"HP Photosmart 1000","bName":"HP"},"z5264":{"itemID":"z5264","name":"HP Photosmart 1100","bName":"HP"
+},"z5265":{"itemID":"z5265","name":"HP Photosmart 1115","bName":"HP"},"z5266":{"itemID":"z5266","name"
+:"HP Photosmart 1215","bName":"HP"},"z5267":{"itemID":"z5267","name":"HP Photosmart 1218","bName":"HP"
+},"z5268":{"itemID":"z5268","name":"HP Photosmart 130","bName":"HP"},"z5269":{"itemID":"z5269","name"
+:"HP Photosmart 1315","bName":"HP"},"z5270":{"itemID":"z5270","name":"HP Photosmart 145","bName":"HP"
+},"z5271":{"itemID":"z5271","name":"HP Photosmart 230","bName":"HP"},"z5272":{"itemID":"z5272","name"
+:"HP Photosmart 245","bName":"HP"},"z4178":{"itemID":"z4178","name":"HP Photosmart 2573","bName":"HP"
+},"z4179":{"itemID":"z4179","name":"HP Photosmart 2613","bName":"HP"},"z4180":{"itemID":"z4180","name"
+:"HP Photosmart 2713","bName":"HP"},"z4181":{"itemID":"z4181","name":"HP Photosmart 3213","bName":"HP"
+},"z5273":{"itemID":"z5273","name":"HP Photosmart 325","bName":"HP"},"z4182":{"itemID":"z4182","name"
+:"HP Photosmart 3313","bName":"HP"},"z5274":{"itemID":"z5274","name":"HP Photosmart 335","bName":"HP"
+},"z5275":{"itemID":"z5275","name":"HP Photosmart 375","bName":"HP"},"z5276":{"itemID":"z5276","name"
+:"HP Photosmart 385","bName":"HP"},"z5277":{"itemID":"z5277","name":"HP Photosmart 428","bName":"HP"
+},"z5278":{"itemID":"z5278","name":"HP Photosmart 475","bName":"HP"},"z5279":{"itemID":"z5279","name"
+:"HP Photosmart 7150","bName":"HP"},"z5280":{"itemID":"z5280","name":"HP Photosmart 7260","bName":"HP"
+},"z5281":{"itemID":"z5281","name":"HP Photosmart 7345","bName":"HP"},"z5282":{"itemID":"z5282","name"
+:"HP Photosmart 7350","bName":"HP"},"z5283":{"itemID":"z5283","name":"HP Photosmart 7450","bName":"HP"
+},"z5284":{"itemID":"z5284","name":"HP Photosmart 7459","bName":"HP"},"z5285":{"itemID":"z5285","name"
+:"HP Photosmart 7550","bName":"HP"},"z5286":{"itemID":"z5286","name":"HP Photosmart 7655","bName":"HP"
+},"z5287":{"itemID":"z5287","name":"HP Photosmart 7660","bName":"HP"},"z5288":{"itemID":"z5288","name"
+:"HP Photosmart 7690gp","bName":"HP"},"z5289":{"itemID":"z5289","name":"HP Photosmart 7755","bName":"HP"
+},"z5290":{"itemID":"z5290","name":"HP Photosmart 7760","bName":"HP"},"z5291":{"itemID":"z5291","name"
+:"HP Photosmart 7762","bName":"HP"},"z5292":{"itemID":"z5292","name":"HP Photosmart 7960","bName":"HP"
+},"z5293":{"itemID":"z5293","name":"HP Photosmart 8053","bName":"HP"},"z5294":{"itemID":"z5294","name"
+:"HP Photosmart 8153","bName":"HP"},"z5295":{"itemID":"z5295","name":"HP Photosmart 8453","bName":"HP"
+},"z5298":{"itemID":"z5298","name":"HP Photosmart 8753","bName":"HP"},"158486":{"itemID":"158486","name"
+:"HP Photosmart B109c","bName":"HP"},"z5317":{"itemID":"z5317","name":"HP Photosmart B8500 \u0441\u0435
+\u0440\u0438\u0438","bName":"HP"},"75420":{"itemID":"75420","name":"HP PhotoSmart C3183","bName":"HP"
+},"z4183":{"itemID":"z4183","name":"HP Photosmart C4183","bName":"HP"},"z4184":{"itemID":"z4184","name"
+:"HP Photosmart C4273","bName":"HP"},"z4185":{"itemID":"z4185","name":"HP Photosmart C4283","bName":"HP"
+},"z4186":{"itemID":"z4186","name":"HP Photosmart C4343","bName":"HP"},"z4187":{"itemID":"z4187","name"
+:"HP Photosmart C4383","bName":"HP"},"z4188":{"itemID":"z4188","name":"HP Photosmart C4473","bName":"HP"
+},"130496":{"itemID":"130496","name":"HP PhotoSmart C4483","bName":"HP"},"z4189":{"itemID":"z4189","name"
+:"HP Photosmart C4583","bName":"HP"},"143084":{"itemID":"143084","name":"HP Photosmart C4683","bName"
+:"HP"},"z4190":{"itemID":"z4190","name":"HP Photosmart C5183","bName":"HP"},"z4191":{"itemID":"z4191"
+,"name":"HP Photosmart C6183","bName":"HP"},"z4192":{"itemID":"z4192","name":"HP Photosmart C6283","bName"
+:"HP"},"z4193":{"itemID":"z4193","name":"HP Photosmart C7183","bName":"HP"},"z4194":{"itemID":"z4194"
+,"name":"HP Photosmart C7283","bName":"HP"},"z4195":{"itemID":"z4195","name":"HP Photosmart C8183","bName"
+:"HP"},"z4196":{"itemID":"z4196","name":"HP Photosmart C8253","bName":"HP"},"z5318":{"itemID":"z5318"
+,"name":"HP Photosmart D5063","bName":"HP"},"z5319":{"itemID":"z5319","name":"HP Photosmart D5163","bName"
+:"HP"},"z5320":{"itemID":"z5320","name":"HP Photosmart D5363","bName":"HP"},"z5321":{"itemID":"z5321"
+,"name":"HP Photosmart D5400","bName":"HP"},"z5322":{"itemID":"z5322","name":"HP Photosmart D5463","bName"
+:"HP"},"z5323":{"itemID":"z5323","name":"HP Photosmart D7163","bName":"HP"},"134104":{"itemID":"134104"
+,"name":"HP Photosmart D7263","bName":"HP"},"z5324":{"itemID":"z5324","name":"HP Photosmart D7363","bName"
+:"HP"},"z5325":{"itemID":"z5325","name":"HP Photosmart D7463","bName":"HP"},"186366":{"itemID":"186366"
+,"name":"HP Photosmart Plus","bName":"HP"},"158488":{"itemID":"158488","name":"HP Photosmart Premium"
+,"bName":"HP"},"186367":{"itemID":"186367","name":"HP Photosmart Premium","bName":"HP"},"196324":{"itemID"
+:"196324","name":"HP Photosmart Premium Fax","bName":"HP"},"z5327":{"itemID":"z5327","name":"HP Photosmart
+ Pro 8353","bName":"HP"},"z5328":{"itemID":"z5328","name":"HP Photosmart Pro B8553","bName":"HP"},"z5331"
+:{"itemID":"z5331","name":"HP Photosmart \u04125463","bName":"HP"},"z4197":{"itemID":"z4197","name":"HP
+ Photosmart \u04215383","bName":"HP"},"z4198":{"itemID":"z4198","name":"HP Photosmart \u04216383","bName"
+:"HP"},"z4199":{"itemID":"z4199","name":"HP PSC 1100 series","bName":"HP"},"z4200":{"itemID":"z4200"
+,"name":"HP PSC 1200 series","bName":"HP"},"z4201":{"itemID":"z4201","name":"HP PSC 1205","bName":"HP"
+},"z4202":{"itemID":"z4202","name":"HP PSC 1210","bName":"HP"},"z4203":{"itemID":"z4203","name":"HP PSC
+ 1213","bName":"HP"},"z4204":{"itemID":"z4204","name":"HP PSC 1215","bName":"HP"},"z4205":{"itemID":"z4205"
+,"name":"HP PSC 1217","bName":"HP"},"z4206":{"itemID":"z4206","name":"HP PSC 1219","bName":"HP"},"z4207"
+:{"itemID":"z4207","name":"HP PSC 1310","bName":"HP"},"z4208":{"itemID":"z4208","name":"HP PSC 1311"
+,"bName":"HP"},"z4209":{"itemID":"z4209","name":"HP PSC 1312","bName":"HP"},"z4210":{"itemID":"z4210"
+,"name":"HP PSC 1315","bName":"HP"},"z4211":{"itemID":"z4211","name":"HP PSC 1315s","bName":"HP"},"z4212"
+:{"itemID":"z4212","name":"HP PSC 1317","bName":"HP"},"z4213":{"itemID":"z4213","name":"HP PSC 1340"
+,"bName":"HP"},"z4214":{"itemID":"z4214","name":"HP PSC 1350","bName":"HP"},"z4215":{"itemID":"z4215"
+,"name":"HP PSC 1355","bName":"HP"},"z4216":{"itemID":"z4216","name":"HP PSC 1402","bName":"HP"},"z4217"
+:{"itemID":"z4217","name":"HP PSC 1410","bName":"HP"},"z4218":{"itemID":"z4218","name":"HP PSC 1415"
+,"bName":"HP"},"z4219":{"itemID":"z4219","name":"HP PSC 1417","bName":"HP"},"z4220":{"itemID":"z4220"
+,"name":"HP PSC 1513","bName":"HP"},"z4221":{"itemID":"z4221","name":"HP PSC 1513s","bName":"HP"},"z4222"
+:{"itemID":"z4222","name":"HP PSC 1613","bName":"HP"},"z4223":{"itemID":"z4223","name":"HP PSC 2105"
+,"bName":"HP"},"z4224":{"itemID":"z4224","name":"HP PSC 2108","bName":"HP"},"z4225":{"itemID":"z4225"
+,"name":"HP PSC 2110","bName":"HP"},"z4226":{"itemID":"z4226","name":"HP PSC 2115","bName":"HP"},"z4227"
+:{"itemID":"z4227","name":"HP PSC 2171","bName":"HP"},"z4228":{"itemID":"z4228","name":"HP PSC 2175"
+,"bName":"HP"},"z4229":{"itemID":"z4229","name":"HP PSC 2179","bName":"HP"},"z4230":{"itemID":"z4230"
+,"name":"HP PSC 2210","bName":"HP"},"z4231":{"itemID":"z4231","name":"HP PSC 2353","bName":"HP"},"z4232"
+:{"itemID":"z4232","name":"HP PSC 2410","bName":"HP"},"z4233":{"itemID":"z4233","name":"HP PSC 2510"
+,"bName":"HP"},"z4234":{"itemID":"z4234","name":"HP PSC 500","bName":"HP"},"z4235":{"itemID":"z4235"
+,"name":"HP PSC 500","bName":"HP"},"z4236":{"itemID":"z4236","name":"HP PSC 750","bName":"HP"},"z4237"
+:{"itemID":"z4237","name":"HP PSC 950","bName":"HP"},"162974":{"itemID":"162974","name":"HP T1120 HD"
+,"bName":"HP"},"z5929":{"itemID":"z5929","name":"HP Busieness Inkjet 2230 series","bName":"HP"},"z5930"
+:{"itemID":"z5930","name":"HP Busieness Inkjet 2280 series","bName":"HP"},"z5927":{"itemID":"z5927","name"
+:"HP Color LaserJet CM4540","bName":"HP"},"z5922":{"itemID":"z5922","name":"HP Color LaserJet CP1210"
+,"bName":"HP"},"z5923":{"itemID":"z5923","name":"HP Color LaserJet CP1510","bName":"HP"},"z5925":{"itemID"
+:"z5925","name":"HP Color LaserJet CP4025","bName":"HP"},"z5926":{"itemID":"z5926","name":"HP Color LaserJet
+ CP4525","bName":"HP"},"z5928":{"itemID":"z5928","name":"HP Color LaserJet CP5525","bName":"HP"},"z5931"
+:{"itemID":"z5931","name":"HP Deskjet 1050","bName":"HP"},"z6524":{"itemID":"z6524","name":"HP HP LaserJet
+ P2035n","bName":"HP"},"z5996":{"itemID":"z5996","name":"HP LaserJet 3015","bName":"HP"},"z5995":{"itemID"
+:"z5995","name":"HP Laserjet 3050","bName":"HP"},"z5920":{"itemID":"z5920","name":"HP LaserJet 3300"
+,"bName":"HP"},"z5989":{"itemID":"z5989","name":"HP Laserjet M1120","bName":"HP"},"z5990":{"itemID":"z5990"
+,"name":"HP Laserjet M1120n","bName":"HP"},"z5991":{"itemID":"z5991","name":"HP Laserjet M1522n","bName"
+:"HP"},"z5993":{"itemID":"z5993","name":"HP Laserjet P1505","bName":"HP"},"z5994":{"itemID":"z5994","name"
+:"HP Laserjet P1505n","bName":"HP"},"z5921":{"itemID":"z5921","name":"HP LaserJet P2015","bName":"HP"
+},"z6526":{"itemID":"z6526","name":"HP LaserJet P2055d","bName":"HP"},"z6527":{"itemID":"z6527","name"
+:"HP LaserJet P2055dn","bName":"HP"},"z6077":{"itemID":"z6077","name":"HP LaserJet Pro 400 color Printer
+ M451nw","bName":"HP"},"z5924":{"itemID":"z5924","name":"HP LaserJet Pro M1530","bName":"HP"},"z6122"
+:{"itemID":"z6122","name":"HP Officejet 6100 ePrinter","bName":"HP"},"z5932":{"itemID":"z5932","name"
+:"HP Officejet 6313","bName":"HP"},"z6123":{"itemID":"z6123","name":"HP Officejet 6600 e-All-in-One"
+,"bName":"HP"},"z5933":{"itemID":"z5933","name":"HP Photosmart C8183","bName":"HP"},"z5935":{"itemID"
+:"z5935","name":"HP Photosmart Wireless B110b","bName":"HP"},"78782":{"itemID":"78782","name":"\u041c
+\u043d\u043e\u0433\u043e\u0444\u0443\u043d\u043a\u0446\u0438\u043e\u043d\u0430\u043b\u044c\u043d\u043e
+\u0435 \u0443\u0441\u0442\u0440\u043e\u0439\u0441\u0442\u0432\u043e HP Color Laserjet 1017 \u0446\u0432
+\u0435\u0442.\u043b\u0430\u0437\u0435\u0440.\u043f\u0440\u0438\u043d\u0442\u0435\u0440-\u0441\u043a"
+,"bName":"HP"},"334131":{"itemID":"334131","name":"\u041c\u043d\u043e\u0433\u043e\u0444\u0443\u043d\u043a
+\u0446\u0438\u043e\u043d\u0430\u043b\u044c\u043d\u043e\u0435 \u0443\u0441\u0442\u0440\u043e\u0439\u0441
+\u0442\u0432\u043e HP Deskjet 1050A All-in-One (CQ198C)","bName":"HP"},"71951":{"itemID":"71951","name"
+:"\u041c\u043d\u043e\u0433\u043e\u0444\u0443\u043d\u043a\u0446\u0438\u043e\u043d\u0430\u043b\u044c\u043d
+\u043e\u0435 \u0443\u0441\u0442\u0440\u043e\u0439\u0441\u0442\u0432\u043e HP Laserjet 3052 \u043b\u0430
+\u0437\u0435\u0440. \u043f\u0440\u0438\u043d\u0442\u0435\u0440-\u0441\u043a\u0430\u043d\u0435\u0440-
+\u043a\u043e\u043f\u0438\u0440","bName":"HP"},"139089":{"itemID":"139089","name":"\u041c\u043d\u043e
+\u0433\u043e\u0444\u0443\u043d\u043a\u0446\u0438\u043e\u043d\u0430\u043b\u044c\u043d\u043e\u0435 \u0443
+\u0441\u0442\u0440\u043e\u0439\u0441\u0442\u0432\u043e HP Laserjet M1120n \u043a\u043e\u043f\u0438\u0440-
+\u043f\u0440\u0438\u043d\u0442-\u0441\u043a\u0430\u043d,\u043f\u043b\u0430\u043d\u0448\u0435\u0442","bName"
+:"HP"},"154649":{"itemID":"154649","name":"\u041c\u043d\u043e\u0433\u043e\u0444\u0443\u043d\u043a\u0446
+\u0438\u043e\u043d\u0430\u043b\u044c\u043d\u043e\u0435 \u0443\u0441\u0442\u0440\u043e\u0439\u0441\u0442
+\u0432\u043e HP Laserjet M1522nf (110488) \u043f\/\u0441\/\u043a\/\u0444","bName":"HP"},"154650":{"itemID"
+:"154650","name":"\u041c\u043d\u043e\u0433\u043e\u0444\u0443\u043d\u043a\u0446\u0438\u043e\u043d\u0430
+\u043b\u044c\u043d\u043e\u0435 \u0443\u0441\u0442\u0440\u043e\u0439\u0441\u0442\u0432\u043e HP Laserjet
+ M2727nf (110723) \u043f\/\u0441\/\u043a\/\u0444","bName":"HP"},"412071":{"itemID":"412071","name":"
+\u041c\u043d\u043e\u0433\u043e\u0444\u0443\u043d\u043a\u0446\u0438\u043e\u043d\u0430\u043b\u044c\u043d
+\u043e\u0435 \u0443\u0441\u0442\u0440\u043e\u0439\u0441\u0442\u0432\u043e HP LaserJet Pro M1536dnf (CE538A
+) si5000","bName":"HP"},"288260":{"itemID":"288260","name":"\u041c\u043d\u043e\u0433\u043e\u0444\u0443
+\u043d\u043a\u0446\u0438\u043e\u043d\u0430\u043b\u044c\u043d\u043e\u0435 \u0443\u0441\u0442\u0440\u043e
+\u0439\u0441\u0442\u0432\u043e HP LJ Enterprise 500 color M575dn MFP Printe","bName":"HP"},"288261":
+{"itemID":"288261","name":"\u041c\u043d\u043e\u0433\u043e\u0444\u0443\u043d\u043a\u0446\u0438\u043e\u043d
+\u0430\u043b\u044c\u043d\u043e\u0435 \u0443\u0441\u0442\u0440\u043e\u0439\u0441\u0442\u0432\u043e HP
+ LJ Enterprise 500 color M575f MFP Printer","bName":"HP"},"334123":{"itemID":"334123","name":"\u041c
+\u043d\u043e\u0433\u043e\u0444\u0443\u043d\u043a\u0446\u0438\u043e\u043d\u0430\u043b\u044c\u043d\u043e
+\u0435 \u0443\u0441\u0442\u0440\u043e\u0439\u0441\u0442\u0432\u043e HP LJ Enterprise 500 M575c (CD646A
+) 30 \u0441\u0442\u0440\/\u043c","bName":"HP"},"334119":{"itemID":"334119","name":"\u041c\u043d\u043e
+\u0433\u043e\u0444\u0443\u043d\u043a\u0446\u0438\u043e\u043d\u0430\u043b\u044c\u043d\u043e\u0435 \u0443
+\u0441\u0442\u0440\u043e\u0439\u0441\u0442\u0432\u043e HP LJ Enterprise 700 MFP M725dn (CF066A) \u04103"
+,"bName":"HP"},"334120":{"itemID":"334120","name":"\u041c\u043d\u043e\u0433\u043e\u0444\u0443\u043d\u043a
+\u0446\u0438\u043e\u043d\u0430\u043b\u044c\u043d\u043e\u0435 \u0443\u0441\u0442\u0440\u043e\u0439\u0441
+\u0442\u0432\u043e HP LJ Enterprise 700 MFP M725f (CF067A) \u04103","bName":"HP"},"334121":{"itemID"
+:"334121","name":"\u041c\u043d\u043e\u0433\u043e\u0444\u0443\u043d\u043a\u0446\u0438\u043e\u043d\u0430
+\u043b\u044c\u043d\u043e\u0435 \u0443\u0441\u0442\u0440\u043e\u0439\u0441\u0442\u0432\u043e HP LJ Enterprise
+ 700 MFP M725z (CF068A) \u04103","bName":"HP"},"334122":{"itemID":"334122","name":"\u041c\u043d\u043e
+\u0433\u043e\u0444\u0443\u043d\u043a\u0446\u0438\u043e\u043d\u0430\u043b\u044c\u043d\u043e\u0435 \u0443
+\u0441\u0442\u0440\u043e\u0439\u0441\u0442\u0432\u043e HP LJ Enterprise 700 MFP M725z+ (CF069A) \u04103"
+,"bName":"HP"},"335665":{"itemID":"335665","name":"\u041c\u043d\u043e\u0433\u043e\u0444\u0443\u043d\u043a
+\u0446\u0438\u043e\u043d\u0430\u043b\u044c\u043d\u043e\u0435 \u0443\u0441\u0442\u0440\u043e\u0439\u0441
+\u0442\u0432\u043e HP Photosmart 5510 (CQ176C) 22\/21 \u0441\u0442\u0440\/\u043c\u0438\u043d","bName"
+:"HP"},"148103":{"itemID":"148103","name":"\u041f\u0440\u0438\u043d\u0442\u0435\u0440 HP Designjet 4020
+ \u043f\u043b\u043e\u0442\u0442\u0435\u0440 A0, 2400dpi\u04451200dpi, 10\u0446\u0432 (CM765A)","bName"
+:"HP"},"78790":{"itemID":"78790","name":"\u041f\u0440\u0438\u043d\u0442\u0435\u0440 HP DeskJet 1280,
+ \u0441\u0442\u0440\u0443\u0439\u043d. 4800\u04451200dpi, \u04103","bName":"HP"},"68808":{"itemID":"68808"
+,"name":"\u041f\u0440\u0438\u043d\u0442\u0435\u0440 HP DeskJet 5443 4800\u04451200dpi, 22\u0441\u0442
+\u0440.\/\u043c\u0438\u043d., USB","bName":"HP"},"142821":{"itemID":"142821","name":"\u041f\u0440\u0438
+\u043d\u0442\u0435\u0440 HP Laserjet 5550 \u043b\u0430\u0437\u0435\u0440\u043d\u044b\u0439, 1200x1200lpi
+, 35\u0441\u0442\u0440\/\u043c\u0438\u043d","bName":"HP"},"142822":{"itemID":"142822","name":"\u041f
+\u0440\u0438\u043d\u0442\u0435\u0440 HP Laserjet 5550dn \u043b\u0430\u0437\u0435\u0440\u043d\u044b\u0439
+, 1200x1200lpi, 35\u0441\u0442\u0440\/\u043c\u0438\u043d","bName":"HP"},"334118":{"itemID":"334118","name"
+:"\u041f\u0440\u0438\u043d\u0442\u0435\u0440 HP LaserJet Enterprise P3015x (CE529A) 40 \u0441\u0442\u0440
+\/\u043c\u0438\u043d","bName":"HP"},"143083":{"itemID":"143083","name":"\u041f\u0440\u0438\u043d\u0442
+\u0435\u0440 HP Laserjet P3005dn (\u0434\u0432\u0443\u0441\u0442\u043e\u0440, \u0441\u0435\u0442\u044c
+, 33\u0441\u0442\/\u043c)","bName":"HP"},"213620":{"itemID":"213620","name":"\u041f\u0440\u0438\u043d
+\u0442\u0435\u0440 HP Laserjet P4015n (CB509A) 50 \u0441\u0442\/\u043c, \u0441","bName":"HP"},"340295"
+:{"itemID":"340295","name":"\u041f\u0440\u0438\u043d\u0442\u0435\u0440 HP Laserjet Pro CP1025nw (CE918A
+) 16\/4 \u0441\u0442\u0440\/\u043c\u0438\u043d","bName":"HP"},"199254":{"itemID":"199254","name":"\u041f
+\u0440\u0438\u043d\u0442\u0435\u0440 HP Laserjet Pro P1566 (CE663A) 22\u0441\u0442\/\u043c\u0443","bName"
+:"HP"},"141567":{"itemID":"141567","name":"\u041f\u0440\u0438\u043d\u0442\u0435\u0440 HP OfficeJet Pro
+ 6500,\u0441\u0442\u0440\u0443\u0439\u043d. 31 \u0441\u0442\u0440\/\u043c, \u04104, \u0434\u0443\u0445
+\u0441\u0442.","bName":"HP"},"288270":{"itemID":"288270","name":"\u041f\u0440\u0438\u043d\u0442\u0435
+\u0440 HP Officejet Pro 8100 ePrinter (CM752A)4\u0446\u0432 tr\/in","bName":"HP"},"78792":{"itemID":"78792"
+,"name":"\u041f\u0440\u0438\u043d\u0442\u0435\u0440 HP Photosmart D7163, \u0441\u0442\u0440\u0443\u0439
+\u043d. 4800\u04451200dpi, \u04104 \u0444\u043e\u0442\u043e\u043f\u0440\u0438\u043d\u0442\u0435\u0440"
+,"bName":"HP"}},"printer_selected":0}

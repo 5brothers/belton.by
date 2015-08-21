@@ -1,0 +1,81 @@
+{"types":{"2":{"name":"\u041a\u043e\u043f\u0438\u0440\u044b \u043e\u0444\u0438\u0441\u043d\u044b\u0435"
+,"ID":"2"},"4":{"name":"\u041c\u0424\u0423 \u043b\u0430\u0437\u0435\u0440\u043d\u044b\u0435 \u043c\u043e
+\u043d\u043e\u0445\u0440\u043e\u043c\u043d\u044b\u0435","ID":"4"},"5":{"name":"\u041c\u0424\u0423 \u043b
+\u0430\u0437\u0435\u0440\u043d\u044b\u0435 \u0446\u0432\u0435\u0442\u043d\u044b\u0435","ID":"5"},"7"
+:{"name":"\u041f\u0440\u0438\u043d\u0442\u0435\u0440\u044b \u043b\u0430\u0437\u0435\u0440\u043d\u044b
+\u0435 \u043c\u043e\u043d\u043e\u0445\u0440\u043e\u043c\u043d\u044b\u0435","ID":"7"}},"type_selected"
+:0,"printers":{"368553":{"itemID":"368553","name":"Kyocera ECOSYS M2030dn","bName":"Kyocera"},"368554"
+:{"itemID":"368554","name":"Kyocera ECOSYS M2030dn PN","bName":"Kyocera"},"368551":{"itemID":"368551"
+,"name":"Kyocera ECOSYS M2035dn","bName":"Kyocera"},"368552":{"itemID":"368552","name":"Kyocera ECOSYS
+ M2530dn","bName":"Kyocera"},"368550":{"itemID":"368550","name":"Kyocera Ecosys M2535dn","bName":"Kyocera"
+},"371419":{"itemID":"371419","name":"Kyocera ECOSYS M6026cdn","bName":"Kyocera"},"371420":{"itemID"
+:"371420","name":"Kyocera ECOSYS M6526cdn","bName":"Kyocera"},"375720":{"itemID":"375720","name":"Kyocera
+ ECOSYS P2035d","bName":"Kyocera"},"375721":{"itemID":"375721","name":"Kyocera ECOSYS P2035dn","bName"
+:"Kyocera"},"375722":{"itemID":"375722","name":"Kyocera ECOSYS P2135d","bName":"Kyocera"},"375723":{"itemID"
+:"375723","name":"Kyocera ECOSYS P2135dn","bName":"Kyocera"},"z4602":{"itemID":"z4602","name":"Kyocera
+ FS-1016M","bName":"Kyocera"},"z4603":{"itemID":"z4603","name":"Kyocera FS-1018MFP","bName":"Kyocera"
+},"z4604":{"itemID":"z4604","name":"Kyocera FS-1020D","bName":"Kyocera"},"265614":{"itemID":"265614"
+,"name":"Kyocera FS-1024MFP","bName":"Kyocera"},"307038":{"itemID":"307038","name":"Kyocera FS-1025MFP"
+,"bName":"Kyocera"},"z4605":{"itemID":"z4605","name":"Kyocera FS-1028MFP DP","bName":"Kyocera"},"z4606"
+:{"itemID":"z4606","name":"Kyocera FS-1028MPF","bName":"Kyocera"},"265618":{"itemID":"265618","name"
+:"Kyocera FS-1030MFP","bName":"Kyocera"},"265617":{"itemID":"265617","name":"Kyocera FS-1030MFP\/DP"
+,"bName":"Kyocera"},"265611":{"itemID":"265611","name":"Kyocera FS-1035MFP\/DP","bName":"Kyocera"},"307044"
+:{"itemID":"307044","name":"Kyocera FS-1040","bName":"Kyocera"},"307045":{"itemID":"307045","name":"Kyocera
+ FS-1060DN","bName":"Kyocera"},"265622":{"itemID":"265622","name":"Kyocera FS-1110","bName":"Kyocera"
+},"z4609":{"itemID":"z4609","name":"Kyocera FS-1118MFP","bName":"Kyocera"},"265620":{"itemID":"265620"
+,"name":"Kyocera FS-1120D","bName":"Kyocera"},"265615":{"itemID":"265615","name":"Kyocera FS-1124MFP"
+,"bName":"Kyocera"},"307040":{"itemID":"307040","name":"Kyocera FS-1125MFP","bName":"Kyocera"},"z4610"
+:{"itemID":"z4610","name":"Kyocera FS-1128MFP","bName":"Kyocera"},"265619":{"itemID":"265619","name"
+:"Kyocera FS-1130MFP","bName":"Kyocera"},"265616":{"itemID":"265616","name":"Kyocera FS-1135MFP","bName"
+:"Kyocera"},"z4611":{"itemID":"z4611","name":"Kyocera FS-1300D","bName":"Kyocera"},"z4612":{"itemID"
+:"z4612","name":"Kyocera FS-1300DN","bName":"Kyocera"},"265623":{"itemID":"265623","name":"Kyocera FS-1320D"
+,"bName":"Kyocera"},"307047":{"itemID":"307047","name":"Kyocera FS-1320DN","bName":"Kyocera"},"z4613"
+:{"itemID":"z4613","name":"Kyocera FS-1350DN","bName":"Kyocera"},"265625":{"itemID":"265625","name":"Kyocera
+ FS-1370DN","bName":"Kyocera"},"296035":{"itemID":"296035","name":"Kyocera FS-1370DN","bName":"Kyocera"
+},"z4619":{"itemID":"z4619","name":"Kyocera FS-1920","bName":"Kyocera"},"z4621":{"itemID":"z4621","name"
+:"Kyocera FS-2020D","bName":"Kyocera"},"z4622":{"itemID":"z4622","name":"Kyocera FS-2020DN","bName":"Kyocera"
+},"284963":{"itemID":"284963","name":"Kyocera FS-3040MFP+","bName":"Kyocera"},"265621":{"itemID":"265621"
+,"name":"Kyocera FS-3920DN","bName":"Kyocera"},"z4629":{"itemID":"z4629","name":"Kyocera FS-3920DN","bName"
+:"Kyocera"},"334989":{"itemID":"334989","name":"Kyocera FS-4100DN","bName":"Kyocera"},"334988":{"itemID"
+:"334988","name":"Kyocera FS-4200DN","bName":"Kyocera"},"300974":{"itemID":"300974","name":"Kyocera FS-6525MFP"
+,"bName":"Kyocera"},"307043":{"itemID":"307043","name":"Kyocera FS-6530MFP","bName":"Kyocera"},"z4633"
+:{"itemID":"z4633","name":"Kyocera FS-720","bName":"Kyocera"},"z4634":{"itemID":"z4634","name":"Kyocera
+ FS-820","bName":"Kyocera"},"z4638":{"itemID":"z4638","name":"Kyocera FS-920","bName":"Kyocera"},"340299"
+:{"itemID":"340299","name":"Kyocera FS-C2026MFP+","bName":"Kyocera"},"308197":{"itemID":"308197","name"
+:"Kyocera FS-C8520MFP","bName":"Kyocera"},"z3956":{"itemID":"z3956","name":"Kyocera KM-3050","bName"
+:"Kyocera"},"z3957":{"itemID":"z3957","name":"Kyocera KM-4050","bName":"Kyocera"},"z3958":{"itemID":"z3958"
+,"name":"Kyocera KM-5050","bName":"Kyocera"},"307041":{"itemID":"307041","name":"Kyocera Kyocera FS-3140MFP
++","bName":"Kyocera"},"z3626":{"itemID":"z3626","name":"Kyocera Mita KM-1500","bName":"Kyocera"},"z3631"
+:{"itemID":"z3631","name":"Kyocera Mita KM-1620","bName":"Kyocera"},"z3632":{"itemID":"z3632","name"
+:"Kyocera Mita KM-1635","bName":"Kyocera"},"z3633":{"itemID":"z3633","name":"Kyocera Mita KM-1650","bName"
+:"Kyocera"},"z3635":{"itemID":"z3635","name":"Kyocera Mita KM-2020","bName":"Kyocera"},"z3637":{"itemID"
+:"z3637","name":"Kyocera Mita KM-2035","bName":"Kyocera"},"z3638":{"itemID":"z3638","name":"Kyocera Mita
+ KM-2050","bName":"Kyocera"},"z3639":{"itemID":"z3639","name":"Kyocera Mita KM-2530","bName":"Kyocera"
+},"z3640":{"itemID":"z3640","name":"Kyocera Mita KM-2550","bName":"Kyocera"},"z3641":{"itemID":"z3641"
+,"name":"Kyocera Mita KM-3530","bName":"Kyocera"},"265612":{"itemID":"265612","name":"Kyocera TASKalfa
+ 180","bName":"Kyocera"},"265613":{"itemID":"265613","name":"Kyocera TASKalfa 181","bName":"Kyocera"
+},"307042":{"itemID":"307042","name":"Kyocera TASKalfa 220","bName":"Kyocera"},"273661":{"itemID":"273661"
+,"name":"Kyocera TASKalfa 221","bName":"Kyocera"},"260918":{"itemID":"260918","name":"Kyocera TASKalfa
+ 300i (1102K53NL0)","bName":"Kyocera"},"268108":{"itemID":"268108","name":"Kyocera TASKalfa 3500i","bName"
+:"Kyocera"},"z6140":{"itemID":"z6140","name":"Kyocera FS-3540MFP","bName":"Kyocera"},"z6141":{"itemID"
+:"z6141","name":"Kyocera FS-3640MFP","bName":"Kyocera"},"z5954":{"itemID":"z5954","name":"Kyocera FS-4020D"
+,"bName":"Kyocera"},"z6065":{"itemID":"z6065","name":"Kyocera FS-6025MFP","bName":"Kyocera"},"z6066"
+:{"itemID":"z6066","name":"Kyocera FS-6030MFP","bName":"Kyocera"},"z6119":{"itemID":"z6119","name":"Kyocera
+ FS-C1020MFP","bName":"Kyocera"},"z6256":{"itemID":"z6256","name":"Kyocera TASKalfa 250ci","bName":"Kyocera"
+},"z6255":{"itemID":"z6255","name":"Kyocera TASKalfa 300ci","bName":"Kyocera"},"z6378":{"itemID":"z6378"
+,"name":"Kyocera TASKalfa 3050ci","bName":"Kyocera"},"z6379":{"itemID":"z6379","name":"Kyocera TASKalfa
+ 3550ci","bName":"Kyocera"},"z6130":{"itemID":"z6130","name":"Kyocera TASKalfa-620","bName":"Kyocera"
+},"z6132":{"itemID":"z6132","name":"Kyocera TASKalfa-820","bName":"Kyocera"},"307039":{"itemID":"307039"
+,"name":"\u041c\u043d\u043e\u0433\u043e\u0444\u0443\u043d\u043a\u0446\u0438\u043e\u043d\u0430\u043b\u044c
+\u043d\u043e\u0435 \u0443\u0441\u0442\u0440\u043e\u0439\u0441\u0442\u0432\u043e Kyocera FS-1120MFP (20
+ \u0441\u0442\u0440\/\u043c\u0438\u043d,\u0410\u041f\u0414,\u0444\u0430\u043a\u0441)","bName":"Kyocera"
+},"348682":{"itemID":"348682","name":"\u041c\u043d\u043e\u0433\u043e\u0444\u0443\u043d\u043a\u0446\u0438
+\u043e\u043d\u0430\u043b\u044c\u043d\u043e\u0435 \u0443\u0441\u0442\u0440\u043e\u0439\u0441\u0442\u0432
+\u043e Kyocera FS-C8525MFP (\u04103,25\/13 \u0441\u0442\u0440\/\u043c\u0438\u043d,\u0414\u0410\u041f
+\u0414,\u0444","bName":"Kyocera"},"307046":{"itemID":"307046","name":"\u041f\u0440\u0438\u043d\u0442
+\u0435\u0440 Kyocera FS-1120DN (30 \u0441\u0442\u0440\/\u043c\u0438\u043d, 50\u041a \u0432 \u043c\u0435
+\u0441)","bName":"Kyocera"},"307048":{"itemID":"307048","name":"\u041f\u0440\u0438\u043d\u0442\u0435
+\u0440 Kyocera FS-2100D (40 \u0441\u0442\u0440\/\u043c\u0438\u043d, 100\u041a \u0432 \u043c\u0435\u0441
+)","bName":"Kyocera"},"307049":{"itemID":"307049","name":"\u041f\u0440\u0438\u043d\u0442\u0435\u0440
+ Kyocera FS-2100DN (40 \u0441\u0442\u0440\/\u043c\u0438\u043d, 150\u041a \u0432 \u043c\u0435\u0441)"
+,"bName":"Kyocera"}},"printer_selected":0}

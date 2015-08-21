@@ -1,0 +1,208 @@
+Changelog for mSklad.
+
+mSync (ex mSklad) 1.0.7 pl (03.12.2014)
+==============
+- small fixes
+
+mSklad 1.0.7 rc11 (02.12.2014)
+==============
+- fix sale query
+
+mSklad 1.0.7 rc10 (01.12.2014)
+==============
+- fix details in order
+- fix lexicon
+- fix install/upgrade
+- fix get deleted user in order
+- fix user id in sale query
+- fix delivery in order
+- fix status in order
+
+mSklad 1.0.7 rc9 (13.11.2014)
+==============
+- fix update category/product on import
+- fix import freeze on import properties
+
+mSklad 1.0.7 rc8 (11.11.2014)
+==============
+- add second format to import quantity
+- fix import sizes for msOptionsPrices
+
+mSklad 1.0.7 rc7 (10.11.2014)
+==============
+- fix load properties on import offers.xml
+- add integration with msOptionsPrice (https://store.simpledream.ru/packages/ecommerce/msoptionsprice.html)
+
+mSklad 1.0.7 rc6 (09.11.2014)
+==============
+- properties move to first tab in component
+- fix error on properties tab
+- fix slashes in properties
+- add support "class365" service
+- add settings "msklad_alias_with_id" and "msklad_publish_by_quantity"
+- remove MoySklad window from install
+
+mSklad 1.0.7 rc5
+==============
+- fix errors on import properties
+- Removed unnecessary things
+
+mSklad 1.0.7 rc4
+==============
+- add events "mskladOnProductImport", "mskladOnProductOffers"
+
+mSklad 1.0.7 rc3
+==============
+- fix import categories
+
+mSklad 1.0.7 rc2
+==============
+- fix import properties
+
+mSklad 1.0.7 rc1
+==============
+- fix product prices import
+- add settings "msklad_import_all_prices"
+- fix import categories and properties
+- remove setting "msklad_quantity_tv"
+
+mSklad 1.0.7 beta8
+==============
+- fix properties lexicon
+
+mSklad 1.0.7 beta7
+==============
+- add parse "ЗначенияРеквизитов" to properties array
+
+mSklad 1.0.7 beta6
+==============
+-fix link properties in manager
+
+mSklad 1.0.7 beta5
+==============
+- fixes in import properties
+- add settings "msklad_create_properties_tv"
+- add settings "msklad_save_properties_to_tv"
+
+mSklad 1.0.7 beta4
+==============
+- fixes in import offers
+- fix generate alias on import
+
+mSklad 1.0.7 beta3
+==============
+- fix price by feature in offers
+
+mSklad 1.0.7 beta2
+==============
+- add price by feature setting
+- add translit to generate alias
+
+mSklad 1.0.7 beta
+==============
+- add settable properties sync
+
+mSklad 1.0.6 rc2
+==============
+- disable cache on import offers.xml
+
+mSklad 1.0.6 rc1
+==============
+- fix cycling import products on import from import.xml
+
+mSklad 1.0.6 rc
+==============
+- fix all errors on import from import.xml
+
+mSklad 1.0.5 rc6
+==============
+- add settings "msklad_template_product_default" (import from minishop2 on install) and "msklad_template_category_default"
+- fix errors
+
+mSklad 1.0.5 rc5
+==============
+- remove locks on create/update category and product
+- remove checkParentPermissions on create category/product
+- remove "Updating resourceMap before OnDocSaveForm event" on create category/product
+- add temp table for import category
+- fix errors
+
+mSklad 1.0.5 rc4
+==============
+- fix product template
+- fix errors
+
+mSklad 1.0.5 rc3
+==============
+- fix images source
+
+mSklad 1.0.5 rc2
+==============
+- auto fill "msklad_catalog_root_id" setting on first install
+- fix import categories
+- add setting "Time limit"
+- increased import speed of large files
+
+mSklad 1.0.5 rc1
+==============
+- add images support
+
+mSklad 1.0.4 rc3
+==============
+- fix import errors
+
+mSklad 1.0.4 rc2
+==============
+- fix errors
+- change encoding to windows-1251
+- add currency option
+
+mSklad 1.0.4 rc1
+==============
+- fix errors
+- increased import speed of large files
+- save errors to modx log on import catalog from 1c
+- add debug messages on import catalog from 1c
+
+mSklad 1.0.3 rc2
+==============
+- fix import prices by processor
+
+mSklad 1.0.3 rc1
+==============
+- fix import products and categories
+
+
+mSklad 1.0.3 beta
+==============
+- change view in backend
+- add external code field for products and categories
+- change mode for external code
+- add setting "Sync direction"
+- add plugin for change setting "Sync direction"
+- add loading products from 1c
+- add setting for root of catalog
+- hide sync button in component on mode "From 1c/MoySklad to miniShop2"
+- fix utf-8 charset for CommerceML import/export
+- change: create resources by processor
+- add settings: user_id_import and publish_default
+- add plugin for remove 1c uuid on "OnEmptyTrash" event
+- add context setting
+
+mSklad 1.0.2 rc7
+==============
+- fix csv export
+- add new area for component
+
+mSklad 1.0.2 rc7
+==============
+- add setting order status parameter
+- add new area for component
+
+mSklad 1.0.2 rc6
+==============
+- add setting quantity tv parameter
+
+mSklad 1.0.2
+==============
+Stable release

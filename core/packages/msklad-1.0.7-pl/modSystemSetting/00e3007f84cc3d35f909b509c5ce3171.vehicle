@@ -1,0 +1,16 @@
+<?php return array (
+  'unique_key' => 'key',
+  'preserve_keys' => true,
+  'update_object' => false,
+  'namespace' => 'msklad',
+  'resolve' => NULL,
+  'validate' => NULL,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => '62ca54a772e2496e52f06b56c153fedd',
+  'package' => 'modx',
+  'class' => 'modSystemSetting',
+  'signature' => '00e3007f84cc3d35f909b509c5ce3171',
+  'native_key' => 'msklad_api_password',
+  'object' => '{"key":"msklad_api_password","value":"","xtype":"text-password","namespace":"msklad","area":"msklad_api","editedon":null}',
+);

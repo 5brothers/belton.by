@@ -1,0 +1,16 @@
+<?php return array (
+  'unique_key' => 'key',
+  'preserve_keys' => true,
+  'update_object' => false,
+  'namespace' => 'msklad',
+  'resolve' => NULL,
+  'validate' => NULL,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => '0a92e747cb9dcb85334a1ef0b36fa850',
+  'package' => 'modx',
+  'class' => 'modSystemSetting',
+  'signature' => 'ff15347509b2cb83d0a5f5eeae326862',
+  'native_key' => 'msklad_import_all_prices',
+  'object' => '{"key":"msklad_import_all_prices","value":false,"xtype":"combo-boolean","namespace":"msklad","area":"msklad_1c","editedon":null}',
+);

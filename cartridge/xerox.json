@@ -1,0 +1,129 @@
+{"types":{"2":{"name":"\u041a\u043e\u043f\u0438\u0440\u044b \u043e\u0444\u0438\u0441\u043d\u044b\u0435"
+,"ID":"2"},"4":{"name":"\u041c\u0424\u0423 \u043b\u0430\u0437\u0435\u0440\u043d\u044b\u0435 \u043c\u043e
+\u043d\u043e\u0445\u0440\u043e\u043c\u043d\u044b\u0435","ID":"4"},"5":{"name":"\u041c\u0424\u0423 \u043b
+\u0430\u0437\u0435\u0440\u043d\u044b\u0435 \u0446\u0432\u0435\u0442\u043d\u044b\u0435","ID":"5"},"8"
+:{"name":"\u041f\u0440\u0438\u043d\u0442\u0435\u0440\u044b \u043b\u0430\u0437\u0435\u0440\u043d\u044b
+\u0435 \u0446\u0432\u0435\u0442\u043d\u044b\u0435","ID":"8"},"7":{"name":"\u041f\u0440\u0438\u043d\u0442
+\u0435\u0440\u044b \u043b\u0430\u0437\u0435\u0440\u043d\u044b\u0435 \u043c\u043e\u043d\u043e\u0445\u0440
+\u043e\u043c\u043d\u044b\u0435","ID":"7"}},"type_selected":0,"printers":{"z6048":{"itemID":"z6048","name"
+:"Xerox Phaser 4510","bName":"Xerox"},"z5944":{"itemID":"z5944","name":"Xerox Phaser 6500","bName":"Xerox"
+},"z6127":{"itemID":"z6127","name":"Xerox Phaser 7100","bName":"Xerox"},"z6137":{"itemID":"z6137","name"
+:"Xerox WC 5035","bName":"Xerox"},"z6135":{"itemID":"z6135","name":"Xerox WC 5325","bName":"Xerox"},"z6136"
+:{"itemID":"z6136","name":"Xerox WC 5330","bName":"Xerox"},"z6107":{"itemID":"z6107","name":"Xerox WC5019"
+,"bName":"Xerox"},"z6108":{"itemID":"z6108","name":"Xerox WC5021","bName":"Xerox"},"z6380":{"itemID"
+:"z6380","name":"Xerox WorkCentre 7425","bName":"Xerox"},"z6381":{"itemID":"z6381","name":"Xerox WorkCentre
+ 7428","bName":"Xerox"},"z6382":{"itemID":"z6382","name":"Xerox WorkCentre 7435","bName":"Xerox"},"z6257"
+:{"itemID":"z6257","name":"Xerox Xerox WorkCentre 7525","bName":"Xerox"},"z6258":{"itemID":"z6258","name"
+:"Xerox Xerox WorkCentre 7535","bName":"Xerox"},"z4040":{"itemID":"z4040","name":"Xerox M20","bName"
+:"Xerox"},"z4041":{"itemID":"z4041","name":"Xerox M20","bName":"Xerox"},"z4042":{"itemID":"z4042","name"
+:"Xerox M20i","bName":"Xerox"},"z4043":{"itemID":"z4043","name":"Xerox M20i","bName":"Xerox"},"z4795"
+:{"itemID":"z4795","name":"Xerox P1210","bName":"Xerox"},"z4044":{"itemID":"z4044","name":"Xerox PE120"
+,"bName":"Xerox"},"250412":{"itemID":"250412","name":"Xerox Phaser 3010","bName":"Xerox"},"275967":{"itemID"
+:"275967","name":"Xerox Phaser 3010","bName":"Xerox"},"250413":{"itemID":"250413","name":"Xerox Phaser
+ 3040B","bName":"Xerox"},"117067":{"itemID":"117067","name":"Xerox Phaser 3100MFP\/S","bName":"Xerox"
+},"157416":{"itemID":"157416","name":"Xerox Phaser 3100MFP\/X","bName":"Xerox"},"z4802":{"itemID":"z4802"
+,"name":"Xerox Phaser 3122","bName":"Xerox"},"140479":{"itemID":"140479","name":"Xerox Phaser 3124","bName"
+:"Xerox"},"z4803":{"itemID":"z4803","name":"Xerox Phaser 3125","bName":"Xerox"},"159485":{"itemID":"159485"
+,"name":"Xerox Phaser 3140","bName":"Xerox"},"z4805":{"itemID":"z4805","name":"Xerox Phaser 3150","bName"
+:"Xerox"},"163330":{"itemID":"163330","name":"Xerox Phaser 3155","bName":"Xerox"},"160368":{"itemID"
+:"160368","name":"Xerox Phaser 3160N","bName":"Xerox"},"97451":{"itemID":"97451","name":"Xerox Phaser
+ 3200MFP\/N","bName":"Xerox"},"196327":{"itemID":"196327","name":"Xerox Phaser 3250D","bName":"Xerox"
+},"117608":{"itemID":"117608","name":"Xerox Phaser 3250DN","bName":"Xerox"},"157417":{"itemID":"157417"
+,"name":"Xerox Phaser 3300MFP","bName":"Xerox"},"z4045":{"itemID":"z4045","name":"Xerox Phaser 3300MFP"
+,"bName":"Xerox"},"273047":{"itemID":"273047","name":"Xerox Phaser 3320DNI","bName":"Xerox"},"z4809"
+:{"itemID":"z4809","name":"Xerox Phaser 3420","bName":"Xerox"},"z4810":{"itemID":"z4810","name":"Xerox
+ Phaser 3425","bName":"Xerox"},"159487":{"itemID":"159487","name":"Xerox Phaser 3435DN","bName":"Xerox"
+},"163331":{"itemID":"163331","name":"Xerox Phaser 3600N","bName":"Xerox"},"160065":{"itemID":"160065"
+,"name":"Xerox Phaser 3635MFP\/S","bName":"Xerox"},"173085":{"itemID":"173085","name":"Xerox Phaser 3635MFP
+\/X","bName":"Xerox"},"z4046":{"itemID":"z4046","name":"Xerox Phaser 3635MFPX","bName":"Xerox"},"z4813"
+:{"itemID":"z4813","name":"Xerox Phaser 4500","bName":"Xerox"},"186728":{"itemID":"186728","name":"Xerox
+ Phaser 5335N","bName":"Xerox"},"z4815":{"itemID":"z4815","name":"Xerox Phaser 5500","bName":"Xerox"
+},"z4816":{"itemID":"z4816","name":"Xerox Phaser 5550","bName":"Xerox"},"212734":{"itemID":"212734","name"
+:"Xerox Phaser 6000","bName":"Xerox"},"212735":{"itemID":"212735","name":"Xerox Phaser 6010N","bName"
+:"Xerox"},"z4434":{"itemID":"z4434","name":"Xerox Phaser 6115MFP","bName":"Xerox"},"88865":{"itemID"
+:"88865","name":"Xerox Phaser 6120","bName":"Xerox"},"167754":{"itemID":"167754","name":"Xerox Phaser
+ 6121MFP\/D","bName":"Xerox"},"167753":{"itemID":"167753","name":"Xerox Phaser 6121MFP\/N","bName":"Xerox"
+},"140477":{"itemID":"140477","name":"Xerox Phaser 6121MFP\/S","bName":"Xerox"},"117190":{"itemID":"117190"
+,"name":"Xerox Phaser 6125N","bName":"Xerox"},"163332":{"itemID":"163332","name":"Xerox Phaser 6140N"
+,"bName":"Xerox"},"z4047":{"itemID":"z4047","name":"Xerox Phaser 6180","bName":"Xerox"},"z4048":{"itemID"
+:"z4048","name":"Xerox Phaser 6180MFP","bName":"Xerox"},"z4437":{"itemID":"z4437","name":"Xerox Phaser
+ 6280","bName":"Xerox"},"204447":{"itemID":"204447","name":"Xerox Phaser 6280N","bName":"Xerox"},"325558"
+:{"itemID":"325558","name":"Xerox Phaser 7100DN","bName":"Xerox"},"325557":{"itemID":"325557","name"
+:"Xerox Phaser 7100N","bName":"Xerox"},"z4440":{"itemID":"z4440","name":"Xerox Phaser 7400","bName":"Xerox"
+},"z4441":{"itemID":"z4441","name":"Xerox Phaser 7500","bName":"Xerox"},"275508":{"itemID":"275508","name"
+:"Xerox Phaser 7500N","bName":"Xerox"},"z4444":{"itemID":"z4444","name":"Xerox Phaser 7760","bName":"Xerox"
+},"z4052":{"itemID":"z4052","name":"Xerox WC 312","bName":"Xerox"},"z4053":{"itemID":"z4053","name":"Xerox
+ WC M15","bName":"Xerox"},"z4055":{"itemID":"z4055","name":"Xerox WC PE16","bName":"Xerox"},"z4056":
+{"itemID":"z4056","name":"Xerox WC PE16e","bName":"Xerox"},"z3768":{"itemID":"z3768","name":"Xerox WC
+ PRO315","bName":"Xerox"},"z3769":{"itemID":"z3769","name":"Xerox WC PRO320","bName":"Xerox"},"z3770"
+:{"itemID":"z3770","name":"Xerox WC PRO415","bName":"Xerox"},"z3771":{"itemID":"z3771","name":"Xerox
+ WC PRO420","bName":"Xerox"},"77449":{"itemID":"77449","name":"Xerox WC3119","bName":"Xerox"},"z3772"
+:{"itemID":"z3772","name":"Xerox WC5222","bName":"Xerox"},"z3773":{"itemID":"z3773","name":"Xerox WC5225"
+,"bName":"Xerox"},"z3774":{"itemID":"z3774","name":"Xerox WC5632","bName":"Xerox"},"z3775":{"itemID"
+:"z3775","name":"Xerox WC5638","bName":"Xerox"},"z3776":{"itemID":"z3776","name":"Xerox WC5645","bName"
+:"Xerox"},"z3777":{"itemID":"z3777","name":"Xerox WC5655","bName":"Xerox"},"z3780":{"itemID":"z3780"
+,"name":"Xerox WC7132","bName":"Xerox"},"z3781":{"itemID":"z3781","name":"Xerox WC7232","bName":"Xerox"
+},"z3782":{"itemID":"z3782","name":"Xerox WC7242","bName":"Xerox"},"z3783":{"itemID":"z3783","name":"Xerox
+ WCP C2128","bName":"Xerox"},"z3784":{"itemID":"z3784","name":"Xerox WCP C2636","bName":"Xerox"},"z3785"
+:{"itemID":"z3785","name":"Xerox WCP C3545","bName":"Xerox"},"z3786":{"itemID":"z3786","name":"Xerox
+ WCP C7228","bName":"Xerox"},"z3787":{"itemID":"z3787","name":"Xerox WCP C7235","bName":"Xerox"},"z3788"
+:{"itemID":"z3788","name":"Xerox WCP C7245","bName":"Xerox"},"z3789":{"itemID":"z3789","name":"Xerox
+ WCP C7328","bName":"Xerox"},"z3790":{"itemID":"z3790","name":"Xerox WCP C7335","bName":"Xerox"},"z3791"
+:{"itemID":"z3791","name":"Xerox WCP C7345","bName":"Xerox"},"z3792":{"itemID":"z3792","name":"Xerox
+ WCP123","bName":"Xerox"},"z3793":{"itemID":"z3793","name":"Xerox WCP128","bName":"Xerox"},"z3794":{"itemID"
+:"z3794","name":"Xerox WCP133","bName":"Xerox"},"z4059":{"itemID":"z4059","name":"Xerox WCPE114e","bName"
+:"Xerox"},"250414":{"itemID":"250414","name":"Xerox WorkCentre 3045B","bName":"Xerox"},"275968":{"itemID"
+:"275968","name":"Xerox WorkCentre 3045B","bName":"Xerox"},"250415":{"itemID":"250415","name":"Xerox
+ WorkCentre 3045NI","bName":"Xerox"},"140478":{"itemID":"140478","name":"Xerox WorkCentre 3210","bName"
+:"Xerox"},"142823":{"itemID":"142823","name":"Xerox WorkCentre 3220","bName":"Xerox"},"286028":{"itemID"
+:"286028","name":"Xerox WorkCentre 3220 \u041f\u0420\u041e\u0415\u041a\u0422","bName":"Xerox"},"273045"
+:{"itemID":"273045","name":"Xerox WorkCentre 3315DN","bName":"Xerox"},"186727":{"itemID":"186727","name"
+:"Xerox WorkCentre 3550","bName":"Xerox"},"360191":{"itemID":"360191","name":"Xerox WorkCentre 3615"
+,"bName":"Xerox"},"78785":{"itemID":"78785","name":"Xerox WorkCentre 4118p","bName":"Xerox"},"116268"
+:{"itemID":"116268","name":"Xerox WorkCentre 5016","bName":"Xerox"},"290060":{"itemID":"290060","name"
+:"Xerox WorkCentre 5019","bName":"Xerox"},"132208":{"itemID":"132208","name":"Xerox WorkCentre 5020\
+/DN","bName":"Xerox"},"119752":{"itemID":"119752","name":"Xerox WorkCentre 5020\/D\u0412","bName":"Xerox"
+},"110489":{"itemID":"110489","name":"Xerox WorkCentre 5020\/\u0412","bName":"Xerox"},"290061":{"itemID"
+:"290061","name":"Xerox WorkCentre 5021","bName":"Xerox"},"290062":{"itemID":"290062","name":"Xerox WorkCentre
+ 5021D","bName":"Xerox"},"306840":{"itemID":"306840","name":"Xerox WorkCentre 5222PD","bName":"Xerox"
+},"250409":{"itemID":"250409","name":"Xerox WorkCentre 6015B","bName":"Xerox"},"250410":{"itemID":"250410"
+,"name":"Xerox WorkCentre 6015N","bName":"Xerox"},"250411":{"itemID":"250411","name":"Xerox WorkCentre
+ 6015NI","bName":"Xerox"},"212727":{"itemID":"212727","name":"Xerox WorkCentre 6505DN","bName":"Xerox"
+},"212728":{"itemID":"212728","name":"Xerox WorkCentre 6505N","bName":"Xerox"},"71945":{"itemID":"71945"
+,"name":"Xerox WorkCentre C118","bName":"Xerox"},"71949":{"itemID":"71949","name":"Xerox WorkCentre M20i"
+,"bName":"Xerox"},"71948":{"itemID":"71948","name":"Xerox WorkCentre Pe220","bName":"Xerox"},"88914"
+:{"itemID":"88914","name":"Xerox Xerox WC C118 + \u043b\u043e\u0442\u043e\u043a \u04103","bName":"Xerox"
+},"71946":{"itemID":"71946","name":"\u041a\u043e\u043f\u0438\u0440 \u043e\u0444\u0438\u0441\u043d\u044b
+\u0439 Xerox WC C118ADF, A3, 18\u0441\u0442\u0440\/\u043c, \u043b\u043e\u0442.250\u043b\u0438\u0441\u0442
+. \u0430\u0432\u0442\u043e\u043f","bName":"Xerox"},"71947":{"itemID":"71947","name":"\u041a\u043e\u043f
+\u0438\u0440 \u043e\u0444\u0438\u0441\u043d\u044b\u0439 Xerox WC C118DADF, A3, 18\u0441\u0442\u0440\
+/\u043c, \u043b\u043e\u0442.250\u043b\u0438\u0441\u0442. \u0430\u0432\u0442\u043e","bName":"Xerox"},"150311"
+:{"itemID":"150311","name":"\u041a\u043e\u043f\u0438\u0440 \u043e\u0444\u0438\u0441\u043d\u044b\u0439
+ Xerox WorkCentre 5230 (\u04103, \u043f\/\u0441\/\u043a, \u0410\u041f\u0414, \u0441\u0435\u0442\u044c
+, 40\u0413\u0431, 30\u0441\u0442\/\u043c)","bName":"Xerox"},"78784":{"itemID":"78784","name":"\u041a
+\u043e\u043f\u0438\u0440 \u043e\u0444\u0438\u0441\u043d\u044b\u0439 Xerox WorkCentre PE120i \u0441\u0435
+\u0442\u044c \u043b\u0430\u0437\u0435\u0440. \u043f\u0440\u0438\u043d\u0442\u0435\u0440-\u0441\u043a
+\u0430\u043d\u0435\u0440-\u043a\u043e\u043f\u0438\u0440","bName":"Xerox"},"91097":{"itemID":"91097","name"
+:"\u041c\u043d\u043e\u0433\u043e\u0444\u0443\u043d\u043a\u0446\u0438\u043e\u043d\u0430\u043b\u044c\u043d
+\u043e\u0435 \u0443\u0441\u0442\u0440\u043e\u0439\u0441\u0442\u0432\u043e Xerox Phaser 6115MFP\/D \u043f
+\u043e\u043b\u043d\u043e\u0446\u0432\u0435\u0442\u043d\u044b\u0439 \u043a\u043e\u043f\u0438\u0440\/\u043f
+\u0440","bName":"Xerox"},"336940":{"itemID":"336940","name":"\u041c\u043d\u043e\u0433\u043e\u0444\u0443
+\u043d\u043a\u0446\u0438\u043e\u043d\u0430\u043b\u044c\u043d\u043e\u0435 \u0443\u0441\u0442\u0440\u043e
+\u0439\u0441\u0442\u0432\u043e Xerox WorkCentre 5325 (WC5325C_S) \u04103, \u0441 \u0442\u0443\u043c\u0431"
+,"bName":"Xerox"},"336941":{"itemID":"336941","name":"\u041c\u043d\u043e\u0433\u043e\u0444\u0443\u043d
+\u043a\u0446\u0438\u043e\u043d\u0430\u043b\u044c\u043d\u043e\u0435 \u0443\u0441\u0442\u0440\u043e\u0439
+\u0441\u0442\u0432\u043e Xerox WorkCentre 5325 (WC5325C_T) \u04103, \u0441 4 \u043b\u043e","bName":"Xerox"
+},"336936":{"itemID":"336936","name":"\u041c\u043d\u043e\u0433\u043e\u0444\u0443\u043d\u043a\u0446\u0438
+\u043e\u043d\u0430\u043b\u044c\u043d\u043e\u0435 \u0443\u0441\u0442\u0440\u043e\u0439\u0441\u0442\u0432
+\u043e Xerox WorkCentre 5330 (WC5330C_S) \u04103, \u0441 \u0442\u0443\u043c\u0431","bName":"Xerox"},"336937"
+:{"itemID":"336937","name":"\u041c\u043d\u043e\u0433\u043e\u0444\u0443\u043d\u043a\u0446\u0438\u043e
+\u043d\u0430\u043b\u044c\u043d\u043e\u0435 \u0443\u0441\u0442\u0440\u043e\u0439\u0441\u0442\u0432\u043e
+ Xerox WorkCentre 5330 (WC5330C_T) \u04103, \u0441 4 \u043b\u043e","bName":"Xerox"},"336945":{"itemID"
+:"336945","name":"\u041c\u043d\u043e\u0433\u043e\u0444\u0443\u043d\u043a\u0446\u0438\u043e\u043d\u0430
+\u043b\u044c\u043d\u043e\u0435 \u0443\u0441\u0442\u0440\u043e\u0439\u0441\u0442\u0432\u043e Xerox WorkCentre
+ 5335 (WC5335C_S) \u04103, \u0441 \u0442\u0443\u043c\u0431","bName":"Xerox"},"336946":{"itemID":"336946"
+,"name":"\u041c\u043d\u043e\u0433\u043e\u0444\u0443\u043d\u043a\u0446\u0438\u043e\u043d\u0430\u043b\u044c
+\u043d\u043e\u0435 \u0443\u0441\u0442\u0440\u043e\u0439\u0441\u0442\u0432\u043e Xerox WorkCentre 5335
+ (WC5335C_T) \u04103, \u0441 4 \u043b\u043e","bName":"Xerox"},"319552":{"itemID":"319552","name":"\u041f
+\u0440\u0438\u043d\u0442\u0435\u0440 Xerox WorkCentre 7100DN (30\u0441\u0442\/\u043c,55\u041a,\u04103
+)","bName":"Xerox"}},"printer_selected":0}

@@ -1,0 +1,71 @@
+<?php
+/**
+ * Resolves setup-options settings
+ *
+ */
+$success= false;
+switch ($options[xPDOTransport::PACKAGE_ACTION]) {
+    case xPDOTransport::ACTION_INSTALL:
+    case xPDOTransport::ACTION_UPGRADE:
+
+		//set default template for new product
+		$templateProductSetting = $object->xpdo->getObject('modSystemSetting',array('key' => 'msklad_template_product_default'));
+		if ($templateProductSetting != null) {
+			if(!$templateProductSetting->get('value')){
+				$ms2TemplateProductSetting = $object->xpdo->getObject('modSystemSetting',array('key' => 'ms2_template_product_default'));
+
+				$templateProductSetting->set('value', $ms2TemplateProductSetting->get('value'));
+				$templateProductSetting->save();
+			}
+		}
+
+		//set minishop2 dir
+		$dirSetting = $object->xpdo->getObject('modSystemSetting',array('key' => 'msklad_catalog_root_id'));
+		if ($dirSetting != null) {
+			if(!$dirSetting->get('value')){
+
+				$q = $object->xpdo->newQuery('modResource', array('class_key'=>'msCategory'));
+				$q->limit(1);
+				$q->sortby('id', 'ASC');
+				$q->select('id');
+
+				if($q->prepare() && $q->stmt->execute()){
+					$catalogDir = $q->stmt->fetch(PDO::FETCH_ASSOC);
+					$catalogDirId=!empty($catalogDir['id'])? $catalogDir['id'] : 0;
+
+					$dirSetting->set('value', $catalogDirId);
+					$dirSetting->save();
+				}
+
+			}
+		} else {
+			$object->xpdo->log(xPDO::LOG_LEVEL_ERROR,'[msklad] msklad_catalog_root_id setting could not be found, so the setting could not be changed.');
+		}
+
+		//set 1c password
+        $syncpass = $object->xpdo->getObject('modSystemSetting',array('key' => 'msklad_1c_sync_pass'));
+        if ($syncpass != null) {
+            if(!$syncpass->get('value')){
+                $syncpass->set('value',createPassword());
+                $syncpass->save();
+            }
+        } else {
+            $object->xpdo->log(xPDO::LOG_LEVEL_ERROR,'[msklad] msklad_1c_sync_pass setting could not be found, so the setting could not be changed.');
+        }
+        $settings = array();
+
+        $success= true;
+        break;
+
+    case xPDOTransport::ACTION_UNINSTALL:
+        $success= true;
+        break;
+}
+return $success;
+
+function createPassword() {
+    $params[] = '1c_exchange';
+    $params[] = time();
+    $key = md5(implode('%',$params));
+    return $key;
+}

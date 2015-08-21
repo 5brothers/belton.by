@@ -3,13 +3,7 @@
 <!-- You can add theme from bootswatch.com: just add it into &cssSources=``.
 For example: [[++assets_url]]components/themebootstrap/css/slate/bootstrap.min.css-->
 [[MinifyX?
-	&minifyCss=`1`
-	&registerCss=`1`
-	&cssSources=`	
-		[[++assets_url]]components/themebootstrap/css/bootstrap.min.css,
-		[[++assets_url]]components/themebootstrap/css/add.css,
-		/static/css/styles.css
-	`
+	
 	&minifyJs=`1`
 	&registerJs=`1`
 	&jsSources=`
@@ -27,7 +21,9 @@ For example: [[++assets_url]]components/themebootstrap/css/slate/bootstrap.min.c
 
 <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
 
-
+<link rel="stylesheet" type="text/css" href="[[++assets_url]]components/themebootstrap/css/bootstrap.css" />
+<link rel="stylesheet" type="text/css" href="[[++assets_url]]components/themebootstrap/css/add.css" />
+<link rel="stylesheet" type="text/css" href="/static/css/styles.css" />
 <script src="/static/js/jquery-1.9.1.min.js" type="text/javascript"></script>
 <script src="/static/js/jquery.tmpl.js" type="text/javascript"></script>
 <script src="/static/js/jquery.timers-1.1.2.js" type="text/javascript"></script>
@@ -36,8 +32,11 @@ For example: [[++assets_url]]components/themebootstrap/css/slate/bootstrap.min.c
 var dpath_www = '[[++site_url]]';
 var dapth = '[[++site_url]]';
 </script>
-<script src="/static/js/longwinter/links_popup.js" type="text/javascript"></script>
-<script src="/static/js/longwinter/carousel.js" type="text/javascript"></script>
+
+   <script type="text/javascript" src="/static/js/jquery.jcarousel.min.js"></script>
+
+   <script type="text/javascript" src="/static/js/jcarousel.data-attributes.js"></script>
+
 
 <script type="text/javascript" src="/static/js/scripts.js"> </script>
 

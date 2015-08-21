@@ -1,0 +1,95 @@
+<?php
+/**
+ * Resolve creating standart properties
+ */
+if ($object->xpdo) {
+
+	/* @var modX $modx */
+	$modx =& $object->xpdo;
+
+	switch ($options[xPDOTransport::PACKAGE_ACTION]) {
+		case xPDOTransport::ACTION_INSTALL:
+        case xPDOTransport::ACTION_UPGRADE:
+
+			$modelPath = $modx->getOption('msklad_core_path',null,$modx->getOption('core_path').'components/msklad/').'model/';
+			$modx->addPackage('msklad', $modelPath);
+
+			$properties = array(
+				'1' => array(
+					'source'	=> 'Артикул'
+					,'type' 	=> 1
+					,'target' 	=> 'article'
+					,'active' 	=> 1
+					,'default' 	=> 1
+				)
+				,'2' => array(
+					'source' 	=> 'Изготовитель'
+					,'type' 	=> 1
+					,'target' 	=> 'vendor'
+					,'active' 	=> 1
+					,'default' 	=> 1
+				)
+				,'3' => array(
+					'source' 	=> 'Цена'
+					,'type' 	=> 1
+					,'target' 	=> 'price'
+					,'active' 	=> 1
+					,'default' 	=> 1
+				)
+				,'4' => array(
+					'source' 	=> 'Количество'
+					,'type' 	=> 1
+					,'target' 	=> ''
+					,'active' 	=> 0
+					,'default' 	=> 1
+				)
+				,'5' => array(
+					'source' 	=> 'Штрихкод'
+					,'type' 	=> 1
+					,'target' 	=> ''
+					,'active' 	=> 0
+					,'default' 	=> 1
+				)
+				,'6' => array(
+					'source' 	=> 'Вес'
+					,'type' 	=> 1
+					,'target' 	=> 'weight'
+					,'active' 	=> 1
+					,'default' 	=> 1
+				)
+				,'7' => array(
+					'source' 	=> 'Бренд'
+					,'type' 	=> 1
+					,'target' 	=> 'vendor'
+					,'active' 	=> 0
+					,'default' 	=> 1
+				)
+				,'8' => array(
+					'source' 	=> 'Цвет'
+					,'type' 	=> 1
+					,'target' 	=> 'color'
+					,'active' 	=> 1
+					,'default' 	=> 1
+				)
+				,'9' => array(
+					'source' 	=> 'Полное наименование'
+					,'type' 	=> 1
+					,'target' 	=> 'longtitle'
+					,'active' 	=> 1
+					,'default' 	=> 1
+				)
+			);
+			foreach ($properties as $id => $propertyData) {
+				if (!$property = $modx->getCount('mSkladProductProperty', array('id' => $id))) {
+					$property = $modx->newObject('mSkladProductProperty', $propertyData);
+					$property->set('id', $id);
+					$property->save();
+				}
+			}
+		break;
+
+		case xPDOTransport::ACTION_UNINSTALL:
+			break;
+	}
+}
+return true;

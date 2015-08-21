@@ -1,0 +1,44 @@
+<?php
+/**
+ * Resolve creating db tables
+ */
+if ($object->xpdo) {
+
+	/* @var modX $modx */
+	$modx =& $object->xpdo;
+
+	switch ($options[xPDOTransport::PACKAGE_ACTION]) {
+		case xPDOTransport::ACTION_INSTALL:
+        case xPDOTransport::ACTION_UPGRADE:
+
+			$modelPath = $modx->getOption('msklad_core_path',null,$modx->getOption('core_path').'components/msklad/').'model/';
+			$modx->addPackage('msklad', $modelPath);
+
+			$manager = $modx->getManager();
+			$tmp = array(
+				'mSkladProductData',
+				'mSkladProductExchange',
+				'mSkladCategoryData',
+				'mSkladCategoryExchange',
+				'mSkladProductTemp',
+				'mSkladCategoryTemp',
+				'mSkladProductProperty',
+			);
+			foreach ($tmp as $v) {
+				$manager->createObjectContainer($v);
+			}
+
+			$level = $modx->getLogLevel();
+			$modx->setLogLevel(xPDO::LOG_LEVEL_FATAL);
+
+			$manager->addField('mSkladProductTemp', 'manufacturer', array('after' => 'article'));
+
+			$modx->exec("TRUNCATE TABLE {$modx->getTableName('mSkladProductTemp')}");
+
+			$modx->exec("TRUNCATE TABLE {$modx->getTableName('mSkladCategoryTemp')}");
+
+			$modx->setLogLevel($level);
+		break;
+	}
+}
+return true;

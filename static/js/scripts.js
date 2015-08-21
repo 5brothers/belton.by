@@ -1,11 +1,7 @@
 
-
-
-
-
-<script type="text/javascript">
 (function($) {
-    
+
+
 	Popup = {
         // блок с контентом, который нужно открыть
 		window_content: null,
@@ -125,17 +121,17 @@
 	}
 	
 })(jQuery);
-</script>
+
+
+
+
+ 
 
 
 
  
 
 
-
- 
-
-<script type="text/javascript">
 $(window).load(function(){
 	
 	// form_fields_focus - функция для изменения вида полей формы в фокусе, находится в /static/js/longwinter/functions.js
@@ -147,10 +143,9 @@ $(window).load(function(){
 	});
 	
 });	
-</script>
+
  
 
-<script type="text/javascript">
 $(window).load(function(){
 	
 	// form_fields_focus - функция для изменения вида полей формы в фокусе, находится в /static/js/longwinter/functions.js
@@ -162,6 +157,6 @@ $(window).load(function(){
 	});
 	
 });	
-</script>
+
 
 
