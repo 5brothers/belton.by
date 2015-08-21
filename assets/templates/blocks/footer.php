@@ -160,7 +160,7 @@
                                                         
                                                                                                             <div class="footer__links--block-item">
                                                                                 <a 
-                                        href="/pages/delivery/" 
+                                        href="[[~1102]]" 
                                         class="footer__links--block-item-link" 
 										>Доставка</a>
                                     </div>	
@@ -171,7 +171,7 @@
                                                         
                                                                                                             <div class="footer__links--block-item">
                                                                                 <a 
-                                        href="/article/2141/" 
+                                        href="[[~1103]]" 
                                         class="footer__links--block-item-link" 
 										>Оплата</a>
                                     </div>	

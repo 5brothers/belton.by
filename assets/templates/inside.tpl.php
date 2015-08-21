@@ -54,6 +54,7 @@
 
         <div class="page--middle row">
           <div class="col-xs-12">
+            <h2>[[*pagetitle]]</h2>
                 [[*content]]
           </div>
         </div><!-- .page--middle -->
