@@ -496,7 +496,7 @@ $(document).ready(function () {
             
                         <div class="application-bar--order">
             	                <a 
-                href="/cart/index/b_order/" 
+                href="/cart" 
                 class="application-bar--order-link " 
                 rel="nofollow"></a>
             </div><!-- .application-bar--order -->

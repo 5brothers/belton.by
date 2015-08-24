@@ -13,17 +13,9 @@
 <div class="logo">
 	<div class="logo--inside">    
     
-		        <div class="logo--bg">
-                        <img 
-                src="/images/longwinter/logo/emp.gif" 
-                width="269" 
-                height="115" 
-                alt="АльфаГалактик"
-                class="logo--bg-img" 
-            />
-        </div>
+		     
         
-                <a href="http://[[++site_url]]" ><img src="images/logo.jpg" alt="logo" /></a>
+                <a href="[[++site_url]]" style="display:inline-block;" ><img src="images/logo.jpg" alt="logo" /></a>
         
                     
     </div><!-- .logo--inside -->

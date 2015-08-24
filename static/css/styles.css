@@ -689,7 +689,7 @@ textarea:-ms-input-placeholder {
   position: absolute;
   top: -1px;
   left: -14px;
-  width: 269px;
+  width: 238px;
   height: 115px;
 }
 .logo--bg-img {
@@ -705,7 +705,7 @@ textarea:-ms-input-placeholder {
   background: url("/images/longwinter/logo/emp.gif");
 }
 .logo {margin-top: 10px;}
-.logo--inside img{width:255px;}
+.logo--inside img{width:216px;}
 .logo--date {
   position: absolute;
   top: 0px;
@@ -908,8 +908,9 @@ textarea:-ms-input-placeholder {
   vertical-align: middle;
   background-position: left top;
   background-repeat: repeat-y;
-  background-image: url("/images/longwinter/menu-general/base/item_separator.gif");
+    border-right: 1px dotted #ccc;
 }
+.menu-general--item:last-child {border-right:0;}
 .menu-general--item-first {
   background: none;
 }
@@ -9516,4 +9517,51 @@ textarea.form-textarea--textarea-placeholder {
     display: block;
 }
 
+
+.mainmenu>li>.submenu {display: none;}
+
+.mainmenu {
+    position: relative;
+    z-index: 90;
+    height: 47px;
+        background-position: center top;
+    background-repeat: repeat-x;
+    background-image: url("/images/longwinter/menu-general/base/bg-center.gif");
+}
+
+.mainmenu>li {     
+    width: 12.5%;
+    display: table-cell;
+    text-align: center;
+    vertical-align: middle;
+    height: 47px;
+    border-right: 1px dotted #ccc;
+  }
+.mainmenu>li:last-child {border-right:0;}
+.mainmenu>li>a {color:#fff;}
+
+.mainmenu>li:hover>.submenu {
+   background: #fff none repeat scroll 0 0;
+    border-left: 2px solid #000;
+    border-right: 2px solid #000;
+    display: block;
+    left: 0;
+    position: absolute;
+    top: 47px;
+    width: 100%;
+    text-align: left;
+      padding: 20px 40px;
+}
+
+.mainmenu>li>.submenu>li {width: 240px;display:block;float:left;margin-right: 50px;margin-bottom: 20px;}
+.mainmenu>li>.submenu>li a{color:#222;}
+.mainmenu>li>.submenu>li>a{font-size: 16px;}
+
+
+.submenu .submenu {padding-left: 20px;margin-top: 10px;}
+
+.submenu li {list-style-type: none;}
+
+
+.submenu .submenu a {line-height: 24px;}
 
