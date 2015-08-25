@@ -55,6 +55,7 @@
         <div class="page--middle row">
           <div class="col-xs-12">
                 [[*content]]
+                [[!pdoPage? &element=`msProducts` ]] [[!+page.nav]]
           </div>
         </div><!-- .page--middle -->
       

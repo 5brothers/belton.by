@@ -147,6 +147,7 @@ class pdoMenu {
 					'id:IN' => $ids,
 					'published' => true,
 					'deleted' => false,
+					'class_key'=>'msProduct'
 				));
 				$this->modx->queryTime += microtime(true) - $tstart;
 				$this->modx->executedQueries++;

@@ -31,7 +31,7 @@
     </table>
         [[!getPrinters]]
     <div class="sidebar-cartridge--form">
-    	<form class="sidebar-cartridge--form_js">
+    	<form class="sidebar-cartridge--form_js" action="/podbor-kartridzha">
         	<div class="sidebar-cartridge--field">
             	<select id="cartridge-brand-select" name="brand" class="sidebar-cartridge--field-select sidebar-cartridge--brand_js">
                     <option value="0">Выберите производителя</option>
@@ -69,7 +69,7 @@
                                 <input
                     type="submit"
                     name="consum"
-                                        disabled="disabled"                                        value=""
+                                                                             value=""
                     class="form-submit2--input"
                 />
                 
