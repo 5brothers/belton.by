@@ -45,7 +45,7 @@
                 
 
   		 [[$blocks.mainMenu]]
-  		 [[$blocks.secondaryMenu]]
+  
 
             </div><!-- .page--top-menu-inside -->
         </div><!-- .page--top-menu -->
