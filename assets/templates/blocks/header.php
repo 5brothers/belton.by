@@ -39,7 +39,9 @@ $(document).ready(function () {
 <!-- Блок с поиском в шапке -->
 <div class="search-top">
 	
-    <form action="/gsa/" method="post" class="search-top--form_js row">
+
+
+    <form action="/search" method="get" class="search-top--form_js row">
                 <div class="search-top--field search-top--field_js col-xs-9">
             <div class="search-top--field-border">
                 <div class="search-top--field-shadow-1">
@@ -48,8 +50,7 @@ $(document).ready(function () {
                             <input
                             type="text"
                             id="search-top--field-input_js"
-                            name="q"
-                            value=""
+                           name="query" value="[[+mse2_query]]"
                             title="Введите название или артикул товара"
                             placeholder="Введите название или артикул товара"
                             autocomplete="off"
@@ -82,12 +83,12 @@ $(document).ready(function () {
     <div class="links-cloud--middle">
         <div class="links-cloud--content">
         	<div class="links-cloud--content-inside">
-				                    <a href="/pages/contacts/" class="links-cloud--item" >Контакты</a>
-                                    <a href="/reviews/feedback/" class="links-cloud--item" >Обратная связь</a>
-                                    <a href="/pages/retail_action_shops/" class="links-cloud--item" >Адреса магазинов</a>
-                                    <a href="/catalog/markdown/" class="links-cloud--item" >Уценка</a>
-                                    <a href="/article/2137/" class="links-cloud--item" >Помощь</a>
-                                    <a href="/pages/about/" class="links-cloud--item" >О компании</a>
+				                    <a href="[[~1070]]" class="links-cloud--item" >Контакты</a>
+                                    <a href="[[~1071]]" class="links-cloud--item" >Обратная связь</a>
+                                    <a href="[[~1072]]" class="links-cloud--item" >Адреса магазинов</a>
+                                    <a href="[[~1073]]" class="links-cloud--item" >Уценка</a>
+                                    <a href="[[~1074]]" class="links-cloud--item" >Помощь</a>
+                                    <a href="[[~1075]]" class="links-cloud--item" >О компании</a>
                             </div>
         </div>
     </div>

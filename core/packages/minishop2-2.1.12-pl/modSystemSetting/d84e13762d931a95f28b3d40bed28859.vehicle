@@ -1,0 +1,16 @@
+<?php return array (
+  'unique_key' => 'key',
+  'preserve_keys' => true,
+  'update_object' => false,
+  'namespace' => 'minishop2',
+  'resolve' => NULL,
+  'validate' => NULL,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => '1eaf79700b569057566248e2fe41cdd4',
+  'package' => 'modx',
+  'class' => 'modSystemSetting',
+  'signature' => 'd84e13762d931a95f28b3d40bed28859',
+  'native_key' => 'ms2_email_manager',
+  'object' => '{"key":"ms2_email_manager","value":"","xtype":"textfield","namespace":"minishop2","area":"ms2_order","editedon":null}',
+);

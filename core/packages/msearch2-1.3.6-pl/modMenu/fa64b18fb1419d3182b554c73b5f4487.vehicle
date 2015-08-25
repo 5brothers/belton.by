@@ -1,0 +1,50 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => false,
+  'unique_key' => 'text',
+  'related_objects' => 
+  array (
+    'Action' => 
+    array (
+      'f5f64d3319e56739802ec9e64774c9ed' => 
+      array (
+        'preserve_keys' => false,
+        'update_object' => false,
+        'unique_key' => 
+        array (
+          0 => 'namespace',
+          1 => 'controller',
+        ),
+        'class' => 'modAction',
+        'object' => '{"id":0,"namespace":"msearch2","controller":"index","haslayout":1,"lang_topics":"msearch2:default","assets":"","help_url":"","parent":0}',
+        'guid' => '31f3b12fa9d0d57e83487f231efad545',
+        'native_key' => 0,
+        'signature' => '50892a82b64b2f8f617758ef3b7e81dd',
+      ),
+    ),
+  ),
+  'related_object_attributes' => 
+  array (
+    'Action' => 
+    array (
+      'preserve_keys' => false,
+      'update_object' => false,
+      'unique_key' => 
+      array (
+        0 => 'namespace',
+        1 => 'controller',
+      ),
+    ),
+  ),
+  'namespace' => 'msearch2',
+  'resolve' => NULL,
+  'validate' => NULL,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => 'd4415dbdc7b02edecb786ffd780b5c22',
+  'package' => 'modx',
+  'class' => 'modMenu',
+  'signature' => 'fa64b18fb1419d3182b554c73b5f4487',
+  'native_key' => 'msearch2',
+  'object' => '{"text":"msearch2","parent":"components","action":0,"description":"mse2_menu_desc","icon":"images\\/icons\\/plugin.gif","menuindex":0,"params":"","handler":"","permissions":"","namespace":"core"}',
+);

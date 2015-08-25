@@ -73,6 +73,5 @@
 
 </div><!-- .body -->
 </div><!-- #media-print_js -->
-
 </body>
 </html>

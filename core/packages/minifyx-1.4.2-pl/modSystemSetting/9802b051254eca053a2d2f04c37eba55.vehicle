@@ -1,0 +1,16 @@
+<?php return array (
+  'unique_key' => 'key',
+  'preserve_keys' => true,
+  'update_object' => false,
+  'namespace' => 'minifyx',
+  'resolve' => NULL,
+  'validate' => NULL,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => '44ad6cb4c3768b26b4787b7912384e94',
+  'package' => 'modx',
+  'class' => 'modSystemSetting',
+  'signature' => '9802b051254eca053a2d2f04c37eba55',
+  'native_key' => 'minifyx_cssFilename',
+  'object' => '{"key":"minifyx_cssFilename","value":"all","xtype":"textfield","namespace":"minifyx","area":"minifyx_main","editedon":null}',
+);

@@ -386,92 +386,11 @@ $(document).ready(function () {
                     <noindex>
 					                	<div class="application-bar--items-frame-right">
                     
-						                                                
-                                                <div class="application-bar--item application-bar--item-myoffice">
-                                                        <div class="application-bar--item-menu application-bar--item-menu-m-openable application-bar--item-menu_js">
-                                                                <div class="application-bar--item-menu-name">
-                                	<a 
-                                    href="/myoffice/" 
-                                    class="application-bar--item-link" 
-                                    rel="nofollow"><nobr>Личный кабинет</nobr></a>
-                                </div><!-- .application-bar--item-menu-name -->
-                                                                <div class="application-bar--item-menu-panel">
-                                    
-
-
-
-    <div class="application-bar__panel application-bar__panel_js">    
-        <div class="application-bar__panel--inside">
-            
-			            <div class="application-bar__panel--top">
-                <div class="application-bar__panel--top-arrow"></div>                
-            </div><!-- .application-bar__panel--top -->
-            
-                        <div class="application-bar__panel--block">
-                
-                                <div class="application-bar__panel--content">
-
-
-
-<!-- Ссылки внутри выпадающей панели "Личный кабинет" -->
-<div class="links-myoffice">        
-    
-            
-        <ul class="links-myoffice--items">        
-            
-			                <li class="links-myoffice--item">
-                    <img src="/image/nogreen/icone/regauth.png" class="links-myoffice--item-img" width="20" height="20" alt="" />
-                    <a href="/myoffice/login/?statist=login&place=panel_out" class="links-myoffice--item-link" rel="nofollow">Регистрация/Авторизация</a>
-                </li>
-                        
-			                <li class="links-myoffice--item">
-                    <img src="/image/nogreen/icone/basket.png" class="links-myoffice--item-img" width="20" height="20" alt="" />
-                    <a href="/cart/?statist=cart&place=panel_out" class="links-myoffice--item-link" rel="nofollow">Корзина</a>
-                </li>
-                        
-			                <li class="links-myoffice--item">
-                    <img src="/image/nogreen/icone/orders.png" class="links-myoffice--item-img" width="20" height="20" alt="" />
-                    <a href="/myoffice/orders/?statist=orders&place=panel_out" class="links-myoffice--item-link" rel="nofollow">История заказов</a>
-                </li>
-                        
-			            
-			                <li class="links-myoffice--item">
-                    <img src="/image/nogreen/icone/favorites.png" class="links-myoffice--item-img" width="20" height="20" alt="" />
-                    <a href="/myoffice/favorites/?statist=fav&place=panel_out" class="links-myoffice--item-link" rel="nofollow">Избранное</a>
-                </li>
-                        
-			                <li class="links-myoffice--item">
-                    <img src="/image/nogreen/icone/user.png" class="links-myoffice--item-img" width="20" height="20" alt="" />
-                    <a href="/myoffice/sms_subscribe/?statist=sms&place=panel_out" class="links-myoffice--item-link" rel="nofollow">SMS-уведомления</a>
-                </li>
-                        
-			                
-    </ul><!-- .links-myoffice--items -->
-                    
-</div><!-- .links-myoffice -->
-<!-- / Ссылки внутри выпадающей панели "Личный кабинет" --></div><!-- .application-bar__panel--content -->
-                
-                                
-            </div><!-- .application-bar__panel--block -->
-            
-                        <table class="application-bar__panel--bottom">
-            	<tr>
-                	<td class="application-bar__panel--bottom-left"></td>
-                    <td class="application-bar__panel--bottom-middle">&nbsp;</td>
-                    <td class="application-bar__panel--bottom-right"></td>
-                </tr>
-            </table><!-- .application-bar__panel--bottom -->
-            
-        </div><!-- .application-bar__panel--inside -->                                       
-    </div><!-- .application-bar__panel -->
-
-                                </div><!-- .application-bar--item-menu-panel -->
-                            </div><!-- .application-bar--item-menu -->
-                        </div><!-- .application-bar--item -->
+						                 
                         
                                                     
                                                         <div class="application-bar--item application-bar--item-login">
-                                								                                	<a href="/myoffice/login/" class="application-bar--item-link" rel="nofollow">Войти</a>
+                                								                                	<a href="/myoffice/login/" class="application-bar--item-link" rel="nofollow">Регистрация/Войти</a>
                                 								                            </div><!-- .application-bar--item -->
                             
                                             
@@ -483,16 +402,9 @@ $(document).ready(function () {
             </div><!-- .application-bar--items -->
             
             <noindex>
-                        <div class="application-bar--basket">
-                                <a 
-                href="/cart/" 
-                class="application-bar--basket-link " 
-                rel="nofollow">
-                    <div class="application-bar--basket-summ">
-                        <span class="application-bar--basket-summ-count application-bar--basket-summ-count_js">0</span>&nbsp;руб.
-                    </div>
-                </a>
-            </div><!-- .application-bar--basket -->
+
+                [[!msMiniCart]]
+                      
             
                         <div class="application-bar--order">
             	                <a 

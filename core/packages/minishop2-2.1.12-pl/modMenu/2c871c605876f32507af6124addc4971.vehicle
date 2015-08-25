@@ -1,0 +1,50 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'unique_key' => 'text',
+  'related_objects' => 
+  array (
+    'Action' => 
+    array (
+      'a212e56ed5aab0e3ae16a3896e2ca292' => 
+      array (
+        'preserve_keys' => false,
+        'update_object' => false,
+        'unique_key' => 
+        array (
+          0 => 'namespace',
+          1 => 'controller',
+        ),
+        'class' => 'modAction',
+        'object' => '{"id":1,"namespace":"minishop2","controller":"controllers\\/mgr\\/settings","haslayout":1,"lang_topics":"minishop2:default","assets":"","help_url":"","parent":0}',
+        'guid' => '52a61e87341bf7edecbeeeb3f0c8d256',
+        'native_key' => 1,
+        'signature' => '06ce3310df4b8ac67168e1e6e0e42f97',
+      ),
+    ),
+  ),
+  'related_object_attributes' => 
+  array (
+    'Action' => 
+    array (
+      'preserve_keys' => false,
+      'update_object' => false,
+      'unique_key' => 
+      array (
+        0 => 'namespace',
+        1 => 'controller',
+      ),
+    ),
+  ),
+  'namespace' => 'minishop2',
+  'resolve' => NULL,
+  'validate' => NULL,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => '4264d83570a85f906cfc7d64f2261cb1',
+  'package' => 'modx',
+  'class' => 'modMenu',
+  'signature' => '2c871c605876f32507af6124addc4971',
+  'native_key' => 'ms2_settings',
+  'object' => '{"text":"ms2_settings","parent":"minishop2","action":1,"description":"ms2_settings_desc","icon":"","menuindex":1,"params":"","handler":"","permissions":"","namespace":"minishop2"}',
+);
