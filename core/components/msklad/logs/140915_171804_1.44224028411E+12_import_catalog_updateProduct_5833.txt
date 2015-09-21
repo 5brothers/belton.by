@@ -1,0 +1,15 @@
+Array
+(
+    [id] => 341
+    [name] => Картридж НР C9413A чёрный
+    [article] => №38
+    [manufacturer] => 
+    [images] => ["import_files\/C9413A.jpg"]
+    [bar_code] => 
+    [description] => 
+    [features] => []
+    [properties] => {"Цвет":"черный фото","Класс-р":"Hewlett-Packard"}
+    [uuid] => 5833
+    [parent_uuid] => 1771
+    [status] => 
+)

@@ -1,0 +1,15 @@
+Array
+(
+    [id] => 417
+    [name] => Картридж НР CN052AE
+    [article] => CN052AE
+    [manufacturer] => 
+    [images] => ["import_files\/CN052AE.jpg"]
+    [bar_code] => 
+    [description] => 
+    [features] => []
+    [properties] => {"Цвет":"желтый","Класс-р":"Hewlett-Packard"}
+    [uuid] => 8638
+    [parent_uuid] => 1771
+    [status] => 
+)

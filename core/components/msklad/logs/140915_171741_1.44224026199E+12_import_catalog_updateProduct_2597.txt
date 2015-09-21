@@ -1,0 +1,15 @@
+Array
+(
+    [id] => 236
+    [name] => Картридж НР B3P22A матовый чёрный №727XL
+    [article] => B3P22A
+    [manufacturer] => 
+    [images] => ["import_files\/B3P22A.jpg"]
+    [bar_code] => 
+    [description] => 
+    [features] => []
+    [properties] => {"Цвет":"черный матовый","Класс-р":"Hewlett-Packard"}
+    [uuid] => 2597
+    [parent_uuid] => 1771
+    [status] => 
+)

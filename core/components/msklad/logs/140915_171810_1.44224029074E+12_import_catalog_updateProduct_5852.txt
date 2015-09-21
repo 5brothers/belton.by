@@ -1,0 +1,15 @@
+Array
+(
+    [id] => 368
+    [name] => Картридж НР C9504HE (Сдвоенная упаковка чёрных картр.)
+    [article] => №130
+    [manufacturer] => 
+    [images] => ["import_files\/C9504HE.jpg"]
+    [bar_code] => 
+    [description] => 
+    [features] => []
+    [properties] => {"Цвет":"черный","Класс-р":"Hewlett-Packard"}
+    [uuid] => 5852
+    [parent_uuid] => 1771
+    [status] => 
+)

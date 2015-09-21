@@ -1,0 +1,15 @@
+Array
+(
+    [id] => 81
+    [name] => Картридж НР CE272A
+    [article] => CE272A
+    [manufacturer] => 
+    [images] => ["import_files\/CE272A.jpg"]
+    [bar_code] => 
+    [description] => 
+    [features] => []
+    [properties] => {"Цвет":"желтый","Класс-р":"Hewlett-Packard"}
+    [uuid] => 5574
+    [parent_uuid] => 1770
+    [status] => 
+)

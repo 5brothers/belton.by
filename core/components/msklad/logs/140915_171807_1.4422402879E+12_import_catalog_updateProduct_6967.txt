@@ -1,0 +1,15 @@
+Array
+(
+    [id] => 356
+    [name] => Картридж НР C9454A жёлтый №70
+    [article] => №70
+    [manufacturer] => 
+    [images] => ["import_files\/C9454A.jpg"]
+    [bar_code] => 
+    [description] => 
+    [features] => []
+    [properties] => {"Цвет":"желтый","Класс-р":"Hewlett-Packard"}
+    [uuid] => 6967
+    [parent_uuid] => 1771
+    [status] => 
+)

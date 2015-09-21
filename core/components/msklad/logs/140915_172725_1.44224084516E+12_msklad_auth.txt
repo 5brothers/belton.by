@@ -1,0 +1,39 @@
+Array
+(
+    [HTTP_HOST] => belton.tech:8888
+    [HTTP_CONNECTION] => keep-alive
+    [HTTP_CACHE_CONTROL] => max-age=0
+    [HTTP_ACCEPT] => text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+    [HTTP_UPGRADE_INSECURE_REQUESTS] => 1
+    [HTTP_USER_AGENT] => Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.85 Safari/537.36
+    [HTTP_ACCEPT_ENCODING] => gzip, deflate, sdch
+    [HTTP_ACCEPT_LANGUAGE] => ru-RU,ru;q=0.8,en-US;q=0.6,en;q=0.4
+    [HTTP_COOKIE] => __utma=220655883.186059856.1436488305.1436489148.1436489148.1; __utmz=220655883.1436489148.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none); _ga=GA1.2.186059856.1436488305; minishop2-category-grid-6=%7B%22start%22%3A0%2C%22limit%22%3A1000%2C%22action%22%3A%22mgr/product/getlist%22%2C%22parent%22%3A%226%22%2C%22query%22%3A%22hp%22%7D; PHPSESSID=43618a382a2bfc1ea35a8e2e97d2979d
+    [PATH] => /usr/bin:/bin:/usr/sbin:/sbin
+    [SERVER_SIGNATURE] => 
+    [SERVER_SOFTWARE] => Apache
+    [SERVER_NAME] => belton.tech
+    [SERVER_ADDR] => 127.0.0.1
+    [SERVER_PORT] => 8888
+    [REMOTE_ADDR] => 127.0.0.1
+    [DOCUMENT_ROOT] => /Applications/MAMP/htdocs/belton.tech
+    [SERVER_ADMIN] => you@example.com
+    [SCRIPT_FILENAME] => /Applications/MAMP/htdocs/belton.tech/assets/components/msklad/1c_exchange.php
+    [REMOTE_PORT] => 53942
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [REQUEST_METHOD] => GET
+    [QUERY_STRING] => http_auth=htauth:bVN5bmM6NTk1ZTg3Mzc4MGYxMTA1N2Q1NzFkODc2YzJkYzgyMzE=&amp;type=catalog&amp;mode=import&amp;filename=import.xml
+    [REQUEST_URI] => /assets/components/msklad/1c_exchange.php?http_auth=htauth:bVN5bmM6NTk1ZTg3Mzc4MGYxMTA1N2Q1NzFkODc2YzJkYzgyMzE=&type=catalog&mode=import&filename=import.xml
+    [SCRIPT_NAME] => /assets/components/msklad/1c_exchange.php
+    [PHP_SELF] => /assets/components/msklad/1c_exchange.php
+    [REQUEST_TIME_FLOAT] => 1442240845.04
+    [REQUEST_TIME] => 1442240845
+    [argv] => Array
+        (
+            [0] => http_auth=htauth:bVN5bmM6NTk1ZTg3Mzc4MGYxMTA1N2Q1NzFkODc2YzJkYzgyMzE=&type=catalog&mode=import&filename=import.xml
+        )
+
+    [argc] => 1
+    [HTTP_REFERER] => 
+)

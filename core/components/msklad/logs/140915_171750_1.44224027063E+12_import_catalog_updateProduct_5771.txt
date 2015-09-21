@@ -1,0 +1,15 @@
+Array
+(
+    [id] => 280
+    [name] => Картридж НР C5068A (Строенная упаковка пурпурных картр. № 81 (C4932A))
+    [article] => №81
+    [manufacturer] => 
+    [images] => ["import_files\/C5068A.jpg"]
+    [bar_code] => 
+    [description] => 
+    [features] => []
+    [properties] => {"Цвет":"пурпурный","Класс-р":"Hewlett-Packard"}
+    [uuid] => 5771
+    [parent_uuid] => 1771
+    [status] => 
+)

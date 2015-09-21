@@ -1,0 +1,15 @@
+Array
+(
+    [id] => 51
+    [name] => Картридж НР CB540A
+    [article] => CB540A
+    [manufacturer] => 
+    [images] => ["import_files\/CB540A.jpg"]
+    [bar_code] => 
+    [description] => 
+    [features] => []
+    [properties] => {"Цвет":"черный","Класс-р":"Hewlett-Packard"}
+    [uuid] => 8447
+    [parent_uuid] => 1770
+    [status] => 
+)

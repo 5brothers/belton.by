@@ -1,0 +1,15 @@
+Array
+(
+    [id] => 109
+    [name] => Картридж НР CE401A
+    [article] => CE401A
+    [manufacturer] => 
+    [images] => ["import_files\/CE401A.jpg"]
+    [bar_code] => 
+    [description] => 
+    [features] => []
+    [properties] => {"Цвет":"голубой","Класс-р":"Hewlett-Packard"}
+    [uuid] => 3601
+    [parent_uuid] => 1770
+    [status] => 
+)

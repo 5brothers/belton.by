@@ -1,0 +1,15 @@
+Array
+(
+    [id] => 358
+    [name] => Картридж НР C9480A (Строенная упаковка матовых чёрных картр. № 91 (C9464A))
+    [article] => C9480A
+    [manufacturer] => 
+    [images] => ["import_files\/C9480A.jpg"]
+    [bar_code] => 
+    [description] => 
+    [features] => []
+    [properties] => {"Цвет":"черный матовый","Класс-р":"Hewlett-Packard"}
+    [uuid] => 4873
+    [parent_uuid] => 1771
+    [status] => 
+)

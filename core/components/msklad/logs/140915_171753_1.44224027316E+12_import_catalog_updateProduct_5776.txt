@@ -1,0 +1,15 @@
+Array
+(
+    [id] => 294
+    [name] => Картридж НР C6656AE чёрный
+    [article] => №56
+    [manufacturer] => 
+    [images] => ["import_files\/C6656AE.jpg"]
+    [bar_code] => 
+    [description] => 
+    [features] => []
+    [properties] => {"Цвет":"черный","Класс-р":"Hewlett-Packard"}
+    [uuid] => 5776
+    [parent_uuid] => 1771
+    [status] => 
+)

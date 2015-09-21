@@ -1,0 +1,15 @@
+Array
+(
+    [id] => 420
+    [name] => Картридж НР CN055AE пурпурный
+    [article] => №933XL
+    [manufacturer] => 
+    [images] => ["import_files\/CN055AE.jpg"]
+    [bar_code] => 
+    [description] => 
+    [features] => []
+    [properties] => {"Цвет":"пурпурный","Класс-р":"Hewlett-Packard"}
+    [uuid] => 8446
+    [parent_uuid] => 1771
+    [status] => 
+)

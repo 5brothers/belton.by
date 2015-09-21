@@ -1,0 +1,15 @@
+Array
+(
+    [id] => 475
+    [name] => Печатающая головка  НР C9404A матово чёрная и голубая
+    [article] => №70
+    [manufacturer] => 
+    [images] => ["import_files\/C9404A.jpg"]
+    [bar_code] => 
+    [description] => 
+    [features] => []
+    [properties] => {"Цвет":"матовая чёрная и голубая","Класс-р":"Hewlett-Packard"}
+    [uuid] => 5828
+    [parent_uuid] => 1771
+    [status] => 
+)

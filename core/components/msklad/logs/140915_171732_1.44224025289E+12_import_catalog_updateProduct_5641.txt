@@ -1,0 +1,15 @@
+Array
+(
+    [id] => 186
+    [name] => Картридж НР Q5950A
+    [article] => Q5950A
+    [manufacturer] => 
+    [images] => ["import_files\/Q5950A.jpg"]
+    [bar_code] => 
+    [description] => 
+    [features] => []
+    [properties] => {"Цвет":"черный","Класс-р":"Hewlett-Packard"}
+    [uuid] => 5641
+    [parent_uuid] => 1770
+    [status] => 
+)

@@ -1,0 +1,15 @@
+Array
+(
+    [id] => 73
+    [name] => Картридж НР CE260XD (Сдвоенная упаковка чёрных картр. CE260X)
+    [article] => CE260XD
+    [manufacturer] => 
+    [images] => ["import_files\/CE260XD.jpg"]
+    [bar_code] => 
+    [description] => 
+    [features] => []
+    [properties] => {"Цвет":"черный","Класс-р":"Hewlett-Packard"}
+    [uuid] => 5585
+    [parent_uuid] => 1770
+    [status] => 
+)

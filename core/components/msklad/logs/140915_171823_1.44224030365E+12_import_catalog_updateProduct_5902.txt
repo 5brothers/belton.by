@@ -1,0 +1,15 @@
+Array
+(
+    [id] => 434
+    [name] => Картридж НР CZ101AE чёрный
+    [article] => №650
+    [manufacturer] => 
+    [images] => ["import_files\/CZ101AE.jpg"]
+    [bar_code] => 
+    [description] => 
+    [features] => []
+    [properties] => {"Цвет":"черный","Класс-р":"Hewlett-Packard"}
+    [uuid] => 5902
+    [parent_uuid] => 1771
+    [status] => 
+)

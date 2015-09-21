@@ -1,0 +1,15 @@
+Array
+(
+    [id] => 260
+    [name] => Картридж НР C4844A чёрный
+    [article] => №10
+    [manufacturer] => 
+    [images] => ["import_files\/C4844A.jpg"]
+    [bar_code] => 
+    [description] => 
+    [features] => []
+    [properties] => {"Цвет":"черный","Класс-р":"Hewlett-Packard"}
+    [uuid] => 5203
+    [parent_uuid] => 1771
+    [status] => 
+)

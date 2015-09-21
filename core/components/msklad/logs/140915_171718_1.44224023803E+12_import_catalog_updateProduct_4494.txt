@@ -1,0 +1,15 @@
+Array
+(
+    [id] => 148
+    [name] => Картридж НР CF353A
+    [article] => CF353A
+    [manufacturer] => 
+    [images] => ["import_files\/CF353A.jpg"]
+    [bar_code] => 
+    [description] => 
+    [features] => []
+    [properties] => {"Цвет":"пурпурный","Класс-р":"Hewlett-Packard"}
+    [uuid] => 4494
+    [parent_uuid] => 1770
+    [status] => 
+)

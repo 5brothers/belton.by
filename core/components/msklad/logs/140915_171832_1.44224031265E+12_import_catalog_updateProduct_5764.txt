@@ -1,0 +1,15 @@
+Array
+(
+    [id] => 469
+    [name] => Печатающая головка  НР C5057A жёлтая
+    [article] => №90
+    [manufacturer] => 
+    [images] => ["import_files\/C5057A.jpg"]
+    [bar_code] => 
+    [description] => 
+    [features] => []
+    [properties] => {"Цвет":"желтый","Класс-р":"Hewlett-Packard"}
+    [uuid] => 5764
+    [parent_uuid] => 1771
+    [status] => 
+)

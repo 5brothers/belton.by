@@ -1,0 +1,15 @@
+Array
+(
+    [id] => 48
+    [name] => Картридж НР CB435AF (Сдвоенная упаковка чёрных картр. CB435A)
+    [article] => CB435AF
+    [manufacturer] => 
+    [images] => ["import_files\/CB435AF.jpg"]
+    [bar_code] => 
+    [description] => 
+    [features] => []
+    [properties] => {"Цвет":"черный","Класс-р":"Hewlett-Packard"}
+    [uuid] => 6495
+    [parent_uuid] => 1770
+    [status] => 
+)

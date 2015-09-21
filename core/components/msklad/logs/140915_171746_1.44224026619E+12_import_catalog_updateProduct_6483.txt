@@ -1,0 +1,15 @@
+Array
+(
+    [id] => 256
+    [name] => Картридж НР C2P43AE (Счетверённая упаковка картр. №950XL/№951XL (CN045AE, CN046AE, CN047AE, CN048AE)
+    [article] => №950XL/№951XL
+    [manufacturer] => 
+    [images] => ["import_files\/C2P43AE.jpg"]
+    [bar_code] => 
+    [description] => 
+    [features] => []
+    [properties] => {"Цвет":"чёрная, голубая, пурпурная, жёлтая","Класс-р":"Hewlett-Packard"}
+    [uuid] => 6483
+    [parent_uuid] => 1771
+    [status] => 
+)

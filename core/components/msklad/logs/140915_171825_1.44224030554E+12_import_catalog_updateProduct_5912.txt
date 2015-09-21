@@ -1,0 +1,15 @@
+Array
+(
+    [id] => 444
+    [name] => Картридж НР CZ133A чёрный
+    [article] => №711XL
+    [manufacturer] => 
+    [images] => ["import_files\/CZ133A.jpg"]
+    [bar_code] => 
+    [description] => 
+    [features] => []
+    [properties] => {"Цвет":"черный","Класс-р":"Hewlett-Packard"}
+    [uuid] => 5912
+    [parent_uuid] => 1771
+    [status] => 
+)

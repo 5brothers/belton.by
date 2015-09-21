@@ -1,0 +1,15 @@
+Array
+(
+    [id] => 112
+    [name] => Картридж НР CE410A
+    [article] => CE410A
+    [manufacturer] => 
+    [images] => ["import_files\/CE410A.jpg"]
+    [bar_code] => 
+    [description] => 
+    [features] => []
+    [properties] => {"Цвет":"черный","Класс-р":"Hewlett-Packard"}
+    [uuid] => 5596
+    [parent_uuid] => 1770
+    [status] => 
+)

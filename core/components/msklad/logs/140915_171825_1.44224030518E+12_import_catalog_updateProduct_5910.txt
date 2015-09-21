@@ -1,0 +1,15 @@
+Array
+(
+    [id] => 442
+    [name] => Картридж НР CZ131A пурпурный
+    [article] => №711
+    [manufacturer] => 
+    [images] => ["import_files\/CZ131A.jpg"]
+    [bar_code] => 
+    [description] => 
+    [features] => []
+    [properties] => {"Цвет":"пурпурный","Класс-р":"Hewlett-Packard"}
+    [uuid] => 5910
+    [parent_uuid] => 1771
+    [status] => 
+)

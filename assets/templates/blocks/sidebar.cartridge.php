@@ -58,7 +58,7 @@
 
 	    
     <!-- Кнопка type="submit" светло-серая -->
-    <div class="form-submit2 form-submit2--m-disabled form-submit2_js">
+    <div class="form-submit2 form-submit2_js">
         
         <div class="form-submit2--inside">
             <div class="form-submit2--block">

@@ -1,0 +1,15 @@
+Array
+(
+    [id] => 178
+    [name] => Картридж НР Q3964A барабан передачи изображений
+    [article] => Q3964A
+    [manufacturer] => 
+    [images] => ["import_files\/Q3964A.jpeg"]
+    [bar_code] => 
+    [description] => 
+    [features] => []
+    [properties] => {"Цвет":"трехцветный","Класс-р":"Hewlett-Packard"}
+    [uuid] => 5633
+    [parent_uuid] => 1770
+    [status] => 
+)

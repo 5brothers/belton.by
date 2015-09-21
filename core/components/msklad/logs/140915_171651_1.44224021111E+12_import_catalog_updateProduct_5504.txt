@@ -1,0 +1,15 @@
+Array
+(
+    [id] => 11
+    [name] => Картридж НР C3903A
+    [article] => C3903A
+    [manufacturer] => 
+    [images] => ["import_files\/C3903A.jpg"]
+    [bar_code] => 
+    [description] => 
+    [features] => []
+    [properties] => {"Цвет":"черный","Класс-р":"Hewlett-Packard"}
+    [uuid] => 5504
+    [parent_uuid] => 1770
+    [status] => 
+)

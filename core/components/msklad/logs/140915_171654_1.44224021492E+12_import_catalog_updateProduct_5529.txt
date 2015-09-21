@@ -1,0 +1,15 @@
+Array
+(
+    [id] => 36
+    [name] => Картридж НР C9723A
+    [article] => C9723A
+    [manufacturer] => 
+    [images] => ["import_files\/C9723A.jpg"]
+    [bar_code] => 
+    [description] => 
+    [features] => []
+    [properties] => {"Цвет":"пурпурный","Класс-р":"Hewlett-Packard"}
+    [uuid] => 5529
+    [parent_uuid] => 1770
+    [status] => 
+)

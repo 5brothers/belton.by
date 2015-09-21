@@ -1,0 +1,15 @@
+Array
+(
+    [id] => 15
+    [name] => Картридж НР C4096A
+    [article] => C4096A
+    [manufacturer] => 
+    [images] => ["import_files\/C4096A.jpg"]
+    [bar_code] => 
+    [description] => 
+    [features] => []
+    [properties] => {"Цвет":"черный","Класс-р":"Hewlett-Packard"}
+    [uuid] => 5508
+    [parent_uuid] => 1770
+    [status] => 
+)

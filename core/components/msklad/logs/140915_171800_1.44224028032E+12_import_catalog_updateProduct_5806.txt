@@ -1,0 +1,15 @@
+Array
+(
+    [id] => 322
+    [name] => Картридж НР C9372A пурпурный
+    [article] => №72XL
+    [manufacturer] => 
+    [images] => ["import_files\/C9372A.jpg"]
+    [bar_code] => 
+    [description] => 
+    [features] => []
+    [properties] => {"Цвет":"пурпурный","Класс-р":"Hewlett-Packard"}
+    [uuid] => 5806
+    [parent_uuid] => 1771
+    [status] => 
+)

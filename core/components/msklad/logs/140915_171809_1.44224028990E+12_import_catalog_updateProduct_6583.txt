@@ -1,0 +1,15 @@
+Array
+(
+    [id] => 364
+    [name] => Картридж НР C9486A (Строенная упаковка светло-голубых картр. № 91 (C9470A))
+    [article] => C9486A
+    [manufacturer] => 
+    [images] => ["import_files\/C9486A.jpg"]
+    [bar_code] => 
+    [description] => 
+    [features] => []
+    [properties] => {"Цвет":"светло-голубой","Класс-р":"Hewlett-Packard"}
+    [uuid] => 6583
+    [parent_uuid] => 1771
+    [status] => 
+)

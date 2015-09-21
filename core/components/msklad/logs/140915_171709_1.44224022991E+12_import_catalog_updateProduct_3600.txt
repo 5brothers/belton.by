@@ -1,0 +1,15 @@
+Array
+(
+    [id] => 107
+    [name] => Картридж НР CE400A
+    [article] => CE400A
+    [manufacturer] => 
+    [images] => ["import_files\/CE400A.jpg"]
+    [bar_code] => 
+    [description] => 
+    [features] => []
+    [properties] => {"Цвет":"черный","Класс-р":"Hewlett-Packard"}
+    [uuid] => 3600
+    [parent_uuid] => 1770
+    [status] => 
+)

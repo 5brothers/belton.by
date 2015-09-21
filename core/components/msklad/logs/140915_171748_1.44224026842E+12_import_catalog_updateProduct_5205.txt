@@ -1,0 +1,15 @@
+Array
+(
+    [id] => 268
+    [name] => Картридж НР C4912A пурпурный
+    [article] => №82
+    [manufacturer] => 
+    [images] => ["import_files\/C4912A.jpg"]
+    [bar_code] => 
+    [description] => 
+    [features] => []
+    [properties] => {"Цвет":"пурпурный","Класс-р":"Hewlett-Packard"}
+    [uuid] => 5205
+    [parent_uuid] => 1771
+    [status] => 
+)

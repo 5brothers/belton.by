@@ -1,0 +1,15 @@
+Array
+(
+    [id] => 403
+    [name] => Картридж НР CD975AE чёрный
+    [article] => №920XL
+    [manufacturer] => 
+    [images] => ["import_files\/CD975AE.jpg"]
+    [bar_code] => 
+    [description] => 
+    [features] => []
+    [properties] => {"Цвет":"черный","Класс-р":"Hewlett-Packard"}
+    [uuid] => 5887
+    [parent_uuid] => 1771
+    [status] => 
+)

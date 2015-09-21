@@ -1,0 +1,15 @@
+Array
+(
+    [id] => 216
+    [name] => Картридж НР U0SL1AM (Строенная упаковка цветных картр. CF211A, CF212A, CF213A)
+    [article] => U0SL1AM
+    [manufacturer] => 
+    [images] => ["import_files\/U0SL1AM.jpg"]
+    [bar_code] => 
+    [description] => 
+    [features] => []
+    [properties] => {"Цвет":"трехцветный","Класс-р":"Hewlett-Packard"}
+    [uuid] => 5549
+    [parent_uuid] => 1770
+    [status] => 
+)

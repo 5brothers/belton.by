@@ -1,0 +1,15 @@
+Array
+(
+    [id] => 397
+    [name] => Картридж НР CC653AE чёрный
+    [article] => №901
+    [manufacturer] => 
+    [images] => ["import_files\/CC653AE.jpg"]
+    [bar_code] => 
+    [description] => 
+    [features] => []
+    [properties] => {"Цвет":"черный","Класс-р":"Hewlett-Packard"}
+    [uuid] => 5250
+    [parent_uuid] => 1771
+    [status] => 
+)

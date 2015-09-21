@@ -1,0 +1,15 @@
+Array
+(
+    [id] => 146
+    [name] => Картридж НР CF351A
+    [article] => CF351A
+    [manufacturer] => 
+    [images] => ["import_files\/CF351A.jpg"]
+    [bar_code] => 
+    [description] => 
+    [features] => []
+    [properties] => {"Цвет":"голубой","Класс-р":"Hewlett-Packard"}
+    [uuid] => 628
+    [parent_uuid] => 1770
+    [status] => 
+)

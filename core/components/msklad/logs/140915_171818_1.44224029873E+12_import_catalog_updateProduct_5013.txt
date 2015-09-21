@@ -1,0 +1,15 @@
+Array
+(
+    [id] => 407
+    [name] => Картридж НР CH564HE трёхцветный
+    [article] => №122XL
+    [manufacturer] => 
+    [images] => ["import_files\/CH564HE.jpg"]
+    [bar_code] => 
+    [description] => 
+    [features] => []
+    [properties] => {"Цвет":"трехцветный","Класс-р":"Hewlett-Packard"}
+    [uuid] => 5013
+    [parent_uuid] => 1771
+    [status] => 
+)

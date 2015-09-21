@@ -1,0 +1,15 @@
+Array
+(
+    [id] => 240
+    [name] => Картридж НР B6Y33A (Строенная упаковка пурпурных картр. № 771C (B6Y09A))
+    [article] => B6Y33A
+    [manufacturer] => 
+    [images] => ["import_files\/B6Y33A.jpg"]
+    [bar_code] => 
+    [description] => 
+    [features] => []
+    [properties] => {"Цвет":"пурпурный","Класс-р":"Hewlett-Packard"}
+    [uuid] => 5378
+    [parent_uuid] => 1771
+    [status] => 
+)

@@ -1,0 +1,15 @@
+Array
+(
+    [id] => 92
+    [name] => Картридж НР CE312A
+    [article] => CE312A
+    [manufacturer] => 
+    [images] => ["import_files\/CE312A.jpg"]
+    [bar_code] => 
+    [description] => 
+    [features] => []
+    [properties] => {"Цвет":"желтый","Класс-р":"Hewlett-Packard"}
+    [uuid] => 5582
+    [parent_uuid] => 1770
+    [status] => 
+)

@@ -1,0 +1,15 @@
+Array
+(
+    [id] => 195
+    [name] => Картридж НР Q6461A
+    [article] => Q6461A
+    [manufacturer] => 
+    [images] => ["import_files\/Q6461A.jpg"]
+    [bar_code] => 
+    [description] => 
+    [features] => []
+    [properties] => {"Цвет":"голубой","Класс-р":"Hewlett-Packard"}
+    [uuid] => 5650
+    [parent_uuid] => 1770
+    [status] => 
+)

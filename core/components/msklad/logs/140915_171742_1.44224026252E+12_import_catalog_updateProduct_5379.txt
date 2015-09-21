@@ -1,0 +1,15 @@
+Array
+(
+    [id] => 239
+    [name] => Картридж НР B6Y32A (Строенная упаковка хроматических красных картр. № 771C (B6Y08A))
+    [article] => B6Y32A
+    [manufacturer] => 
+    [images] => ["import_files\/B6Y32A.jpg"]
+    [bar_code] => 
+    [description] => 
+    [features] => []
+    [properties] => {"Цвет":"Хроматич-й красный","Класс-р":"Hewlett-Packard"}
+    [uuid] => 5379
+    [parent_uuid] => 1771
+    [status] => 
+)

@@ -1,0 +1,15 @@
+Array
+(
+    [id] => 346
+    [name] => Картридж НР C9418A светло-голубой
+    [article] => №38
+    [manufacturer] => 
+    [images] => ["import_files\/C9418A.jpg"]
+    [bar_code] => 
+    [description] => 
+    [features] => []
+    [properties] => {"Цвет":"светло-голубой","Класс-р":"Hewlett-Packard"}
+    [uuid] => 5838
+    [parent_uuid] => 1771
+    [status] => 
+)

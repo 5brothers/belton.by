@@ -1,0 +1,15 @@
+Array
+(
+    [id] => 23
+    [name] => Картридж НР C8543X
+    [article] => C8543X
+    [manufacturer] => 
+    [images] => ["import_files\/C8543X.jpg"]
+    [bar_code] => 
+    [description] => 
+    [features] => []
+    [properties] => {"Цвет":"черный","Класс-р":"Hewlett-Packard"}
+    [uuid] => 5516
+    [parent_uuid] => 1770
+    [status] => 
+)

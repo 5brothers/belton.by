@@ -1,0 +1,15 @@
+Array
+(
+    [id] => 466
+    [name] => Печатающая головка  НР C5054A чёрная
+    [article] => №90
+    [manufacturer] => 
+    [images] => ["import_files\/C5054A.jpg"]
+    [bar_code] => 
+    [description] => 
+    [features] => []
+    [properties] => {"Цвет":"черный","Класс-р":"Hewlett-Packard"}
+    [uuid] => 5761
+    [parent_uuid] => 1771
+    [status] => 
+)

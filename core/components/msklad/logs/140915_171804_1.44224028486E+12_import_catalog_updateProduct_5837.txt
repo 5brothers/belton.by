@@ -1,0 +1,15 @@
+Array
+(
+    [id] => 345
+    [name] => Картридж НР C9417A жёлтый
+    [article] => №38
+    [manufacturer] => 
+    [images] => ["import_files\/C9417A.jpg"]
+    [bar_code] => 
+    [description] => 
+    [features] => []
+    [properties] => {"Цвет":"желтый","Класс-р":"Hewlett-Packard"}
+    [uuid] => 5837
+    [parent_uuid] => 1771
+    [status] => 
+)

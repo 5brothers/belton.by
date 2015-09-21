@@ -1,0 +1,15 @@
+Array
+(
+    [id] => 435
+    [name] => Картридж НР CZ102AE трёхцветный
+    [article] => №650
+    [manufacturer] => 
+    [images] => ["import_files\/CZ102AE.jpg"]
+    [bar_code] => 
+    [description] => 
+    [features] => []
+    [properties] => {"Цвет":"трехцветный","Класс-р":"Hewlett-Packard"}
+    [uuid] => 5903
+    [parent_uuid] => 1771
+    [status] => 
+)

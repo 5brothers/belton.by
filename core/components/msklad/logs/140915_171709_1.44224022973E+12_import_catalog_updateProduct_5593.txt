@@ -1,0 +1,15 @@
+Array
+(
+    [id] => 106
+    [name] => Картридж НР CE390Х
+    [article] => CE390Х
+    [manufacturer] => 
+    [images] => ["import_files\/CE390Х.jpeg"]
+    [bar_code] => 
+    [description] => 
+    [features] => []
+    [properties] => {"Цвет":"черный","Класс-р":"Hewlett-Packard"}
+    [uuid] => 5593
+    [parent_uuid] => 1770
+    [status] => 
+)

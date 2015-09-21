@@ -1,0 +1,15 @@
+Array
+(
+    [id] => 366
+    [name] => Картридж НР C9502AE (Сдвоенная упаковка чёрных картр.)
+    [article] => №56
+    [manufacturer] => 
+    [images] => ["import_files\/C9502AE.jpg"]
+    [bar_code] => 
+    [description] => 
+    [features] => []
+    [properties] => {"Цвет":"черный","Класс-р":"Hewlett-Packard"}
+    [uuid] => 5850
+    [parent_uuid] => 1771
+    [status] => 
+)

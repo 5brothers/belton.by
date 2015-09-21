@@ -1,0 +1,15 @@
+Array
+(
+    [id] => 297
+    [name] => Картридж НР C8719HE чёрный
+    [article] => №177XL
+    [manufacturer] => 
+    [images] => ["import_files\/C8719HE.jpg"]
+    [bar_code] => 
+    [description] => 
+    [features] => []
+    [properties] => {"Цвет":"черный","Класс-р":"Hewlett-Packard"}
+    [uuid] => 5780
+    [parent_uuid] => 1771
+    [status] => 
+)

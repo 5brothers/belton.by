@@ -1,0 +1,15 @@
+Array
+(
+    [id] => 63
+    [name] => Картридж НР CE250A
+    [article] => CE250A
+    [manufacturer] => 
+    [images] => ["import_files\/CE250A.jpg"]
+    [bar_code] => 
+    [description] => 
+    [features] => []
+    [properties] => {"Цвет":"черный","Класс-р":"Hewlett-Packard"}
+    [uuid] => 5558
+    [parent_uuid] => 1770
+    [status] => 
+)

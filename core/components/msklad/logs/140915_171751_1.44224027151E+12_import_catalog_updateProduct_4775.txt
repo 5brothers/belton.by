@@ -1,0 +1,15 @@
+Array
+(
+    [id] => 285
+    [name] => Картридж НР C5074A (Строенная упаковка пурпурных картр.№83 (C4942A))
+    [article] => C5074A
+    [manufacturer] => 
+    [images] => ["import_files\/C5074A.jpg"]
+    [bar_code] => 
+    [description] => 
+    [features] => []
+    [properties] => {"Цвет":"пурпурный","Класс-р":"Hewlett-Packard"}
+    [uuid] => 4775
+    [parent_uuid] => 1771
+    [status] => 
+)

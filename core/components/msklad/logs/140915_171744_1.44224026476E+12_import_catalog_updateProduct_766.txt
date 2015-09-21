@@ -1,0 +1,15 @@
+Array
+(
+    [id] => 249
+    [name] => Картридж НР C2N92AE (Счетверённая упаковка картр. №920XL (CD972AE, CD973AE, CD974AE, CD975AE))
+    [article] => C2N92AE
+    [manufacturer] => 
+    [images] => ["import_files\/C2N92AE.jpg"]
+    [bar_code] => 
+    [description] => 
+    [features] => []
+    [properties] => {"Цвет":"чёрная, голубая, пурпурная, жёлтая","Класс-р":"Hewlett-Packard"}
+    [uuid] => 766
+    [parent_uuid] => 1771
+    [status] => 
+)

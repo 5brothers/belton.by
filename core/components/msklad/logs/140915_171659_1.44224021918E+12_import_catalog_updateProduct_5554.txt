@@ -1,0 +1,15 @@
+Array
+(
+    [id] => 60
+    [name] => Картридж НР CC530AD (Сдвоенная упаковка чёрных картр. CC530A)
+    [article] => CC530AD
+    [manufacturer] => 
+    [images] => ["import_files\/CC530AD.jpg"]
+    [bar_code] => 
+    [description] => 
+    [features] => []
+    [properties] => {"Цвет":"черный","Класс-р":"Hewlett-Packard"}
+    [uuid] => 5554
+    [parent_uuid] => 1770
+    [status] => 
+)

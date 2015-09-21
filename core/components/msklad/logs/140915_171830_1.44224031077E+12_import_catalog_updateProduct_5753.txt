@@ -1,0 +1,15 @@
+Array
+(
+    [id] => 459
+    [name] => Печатающая головка  НР C4950A чёрная
+    [article] => №81
+    [manufacturer] => 
+    [images] => ["import_files\/C4950A.jpg"]
+    [bar_code] => 
+    [description] => 
+    [features] => []
+    [properties] => {"Цвет":"черный","Класс-р":"Hewlett-Packard"}
+    [uuid] => 5753
+    [parent_uuid] => 1771
+    [status] => 
+)

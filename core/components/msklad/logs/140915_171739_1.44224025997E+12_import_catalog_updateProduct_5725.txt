@@ -1,0 +1,15 @@
+Array
+(
+    [id] => 225
+    [name] => Картридж НР 51644YE жёлтый картридж
+    [article] => №44
+    [manufacturer] => 
+    [images] => ["import_files\/51644YE.jpg"]
+    [bar_code] => 
+    [description] => 
+    [features] => []
+    [properties] => {"Цвет":"желтый","Класс-р":"Hewlett-Packard"}
+    [uuid] => 5725
+    [parent_uuid] => 1771
+    [status] => 
+)

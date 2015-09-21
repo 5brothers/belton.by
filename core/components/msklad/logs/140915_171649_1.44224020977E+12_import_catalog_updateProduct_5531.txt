@@ -1,0 +1,15 @@
+Array
+(
+    [id] => 2
+    [name] => Картридж HP C9731A
+    [article] => C9731A
+    [manufacturer] => 
+    [images] => ["import_files\/C9731A.jpg"]
+    [bar_code] => 
+    [description] => 
+    [features] => []
+    [properties] => {"Цвет":"голубой","Класс-р":"Hewlett-Packard"}
+    [uuid] => 5531
+    [parent_uuid] => 1770
+    [status] => 
+)

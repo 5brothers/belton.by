@@ -1,0 +1,15 @@
+Array
+(
+    [id] => 278
+    [name] => Картридж НР C5066A (Строенная упаковка чёрных картр. № 81 (C4930A))
+    [article] => №81
+    [manufacturer] => 
+    [images] => ["import_files\/C5066A.jpg"]
+    [bar_code] => 
+    [description] => 
+    [features] => []
+    [properties] => {"Цвет":"черный","Класс-р":"Hewlett-Packard"}
+    [uuid] => 5769
+    [parent_uuid] => 1771
+    [status] => 
+)

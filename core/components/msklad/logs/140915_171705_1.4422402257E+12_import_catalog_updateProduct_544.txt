@@ -1,0 +1,15 @@
+Array
+(
+    [id] => 88
+    [name] => Картридж НР CE285L
+    [article] => CE285L
+    [manufacturer] => 
+    [images] => ["import_files\/CE285L.jpg"]
+    [bar_code] => 
+    [description] => 
+    [features] => []
+    [properties] => {"Цвет":"черный","Класс-р":"Hewlett-Packard"}
+    [uuid] => 544
+    [parent_uuid] => 1770
+    [status] => 
+)

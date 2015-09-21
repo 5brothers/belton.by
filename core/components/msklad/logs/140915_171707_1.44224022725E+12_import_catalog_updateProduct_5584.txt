@@ -1,0 +1,15 @@
+Array
+(
+    [id] => 94
+    [name] => Картридж НР CE314A барабан передачи изображений
+    [article] => CE314A
+    [manufacturer] => 
+    [images] => ["import_files\/CE314A.jpg"]
+    [bar_code] => 
+    [description] => 
+    [features] => []
+    [properties] => {"Класс-р":"Hewlett-Packard"}
+    [uuid] => 5584
+    [parent_uuid] => 1770
+    [status] => 
+)

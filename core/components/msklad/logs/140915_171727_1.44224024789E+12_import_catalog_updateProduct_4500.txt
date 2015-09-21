@@ -1,0 +1,15 @@
+Array
+(
+    [id] => 158
+    [name] => Картридж НР CF440AM (Строенная упаковка цветных картр. CF381A, CF382A, CF383A)
+    [article] => CF440AM
+    [manufacturer] => 
+    [images] => ["import_files\/CF440AM.jpg"]
+    [bar_code] => 
+    [description] => 
+    [features] => []
+    [properties] => {"Цвет":"трехцветный","Класс-р":"Hewlett-Packard"}
+    [uuid] => 4500
+    [parent_uuid] => 1770
+    [status] => 
+)

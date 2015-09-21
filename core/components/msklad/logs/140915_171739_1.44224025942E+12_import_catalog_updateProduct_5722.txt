@@ -1,0 +1,15 @@
+Array
+(
+    [id] => 222
+    [name] => Картридж НР 51641A трёхцветный картридж
+    [article] => №41
+    [manufacturer] => 
+    [images] => ["import_files\/51641A.jpg"]
+    [bar_code] => 
+    [description] => 
+    [features] => []
+    [properties] => {"Цвет":"черный","Класс-р":"Hewlett-Packard"}
+    [uuid] => 5722
+    [parent_uuid] => 1771
+    [status] => 
+)

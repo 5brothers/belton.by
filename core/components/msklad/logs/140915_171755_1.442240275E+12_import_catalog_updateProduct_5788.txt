@@ -1,0 +1,15 @@
+Array
+(
+    [id] => 304
+    [name] => Картридж НР C8771HE голубой
+    [article] => №177
+    [manufacturer] => 
+    [images] => ["import_files\/C8771HE.jpg"]
+    [bar_code] => 
+    [description] => 
+    [features] => []
+    [properties] => {"Цвет":"голубой","Класс-р":"Hewlett-Packard"}
+    [uuid] => 5788
+    [parent_uuid] => 1771
+    [status] => 
+)

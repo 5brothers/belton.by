@@ -1,0 +1,15 @@
+Array
+(
+    [id] => 326
+    [name] => Картридж НР C9386AE голубой
+    [article] => №88
+    [manufacturer] => 
+    [images] => ["import_files\/C9386AE_400x400.jpg"]
+    [bar_code] => 
+    [description] => 
+    [features] => []
+    [properties] => {"Цвет":"голубой","Класс-р":"Hewlett-Packard"}
+    [uuid] => 5815
+    [parent_uuid] => 1771
+    [status] => 
+)

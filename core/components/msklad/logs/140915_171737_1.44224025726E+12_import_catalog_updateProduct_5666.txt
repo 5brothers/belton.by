@@ -1,0 +1,15 @@
+Array
+(
+    [id] => 210
+    [name] => Картридж НР Q7553XD (Сдвоенная упаковка чёрных картр. Q7553X)
+    [article] => Q7553XD
+    [manufacturer] => 
+    [images] => ["import_files\/Q7553XD.jpg"]
+    [bar_code] => 
+    [description] => 
+    [features] => []
+    [properties] => {"Цвет":"черный","Класс-р":"Hewlett-Packard"}
+    [uuid] => 5666
+    [parent_uuid] => 1770
+    [status] => 
+)

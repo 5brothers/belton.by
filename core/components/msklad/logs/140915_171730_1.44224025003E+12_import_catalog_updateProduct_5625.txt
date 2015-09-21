@@ -1,0 +1,15 @@
+Array
+(
+    [id] => 170
+    [name] => Картридж НР Q2670A
+    [article] => Q2670A
+    [manufacturer] => 
+    [images] => ["import_files\/Q2670A.jpg"]
+    [bar_code] => 
+    [description] => 
+    [features] => []
+    [properties] => {"Цвет":"черный","Класс-р":"Hewlett-Packard"}
+    [uuid] => 5625
+    [parent_uuid] => 1770
+    [status] => 
+)

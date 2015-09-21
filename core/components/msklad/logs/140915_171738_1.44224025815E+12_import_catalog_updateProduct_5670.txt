@@ -1,0 +1,15 @@
+Array
+(
+    [id] => 215
+    [name] => Картридж НР Q7583A
+    [article] => Q7583A
+    [manufacturer] => 
+    [images] => ["import_files\/Q7583A.jpg"]
+    [bar_code] => 
+    [description] => 
+    [features] => []
+    [properties] => {"Цвет":"пурпурный","Класс-р":"Hewlett-Packard"}
+    [uuid] => 5670
+    [parent_uuid] => 1770
+    [status] => 
+)

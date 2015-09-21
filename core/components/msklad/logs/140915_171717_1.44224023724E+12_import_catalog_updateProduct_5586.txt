@@ -1,0 +1,15 @@
+Array
+(
+    [id] => 144
+    [name] => Картридж НР CF341A (Строенная упаковка цветных картр. CE311A, CE312A, CE313A)
+    [article] => CF341A
+    [manufacturer] => 
+    [images] => ["import_files\/CF341A.jpg"]
+    [bar_code] => 
+    [description] => 
+    [features] => []
+    [properties] => {"Цвет":"трехцветный","Класс-р":"Hewlett-Packard"}
+    [uuid] => 5586
+    [parent_uuid] => 1770
+    [status] => 
+)

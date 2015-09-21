@@ -1,0 +1,15 @@
+Array
+(
+    [id] => 179
+    [name] => Картридж НР Q5942A
+    [article] => Q5942A
+    [manufacturer] => 
+    [images] => ["import_files\/Q5942A.jpg"]
+    [bar_code] => 
+    [description] => 
+    [features] => []
+    [properties] => {"Цвет":"черный","Класс-р":"Hewlett-Packard"}
+    [uuid] => 5634
+    [parent_uuid] => 1770
+    [status] => 
+)

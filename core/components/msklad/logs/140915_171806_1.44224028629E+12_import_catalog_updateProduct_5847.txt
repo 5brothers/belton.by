@@ -1,0 +1,15 @@
+Array
+(
+    [id] => 350
+    [name] => Картридж НР C9427A жёлтый
+    [article] => №85
+    [manufacturer] => 
+    [images] => ["import_files\/C9427A.jpg"]
+    [bar_code] => 
+    [description] => 
+    [features] => []
+    [properties] => {"Цвет":"желтый","Класс-р":"Hewlett-Packard"}
+    [uuid] => 5847
+    [parent_uuid] => 1771
+    [status] => 
+)

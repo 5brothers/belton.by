@@ -1,0 +1,15 @@
+Array
+(
+    [id] => 351
+    [name] => Картридж НР C9428A светло-голубой
+    [article] => №85
+    [manufacturer] => 
+    [images] => ["import_files\/C9428A.jpg"]
+    [bar_code] => 
+    [description] => 
+    [features] => []
+    [properties] => {"Цвет":"светло-голубой","Класс-р":"Hewlett-Packard"}
+    [uuid] => 5848
+    [parent_uuid] => 1771
+    [status] => 
+)

@@ -1,0 +1,15 @@
+Array
+(
+    [id] => 218
+    [name] => Картридж HP CB339A (Сдвоенная упаковка матовых чёрных картр. №70 (C9448A))
+    [article] => №70
+    [manufacturer] => 
+    [images] => ["import_files\/CB339A.jpg"]
+    [bar_code] => 
+    [description] => 
+    [features] => []
+    [properties] => {"Цвет":"черный матовый","Класс-р":"Hewlett-Packard"}
+    [uuid] => 5870
+    [parent_uuid] => 1771
+    [status] => 
+)

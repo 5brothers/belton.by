@@ -1,0 +1,15 @@
+Array
+(
+    [id] => 445
+    [name] => Картридж НР CZ134A (Строенная упаковка голубых картр.)
+    [article] => №711
+    [manufacturer] => 
+    [images] => ["import_files\/CZ134A.jpg"]
+    [bar_code] => 
+    [description] => 
+    [features] => []
+    [properties] => {"Цвет":"голубой","Класс-р":"Hewlett-Packard"}
+    [uuid] => 5913
+    [parent_uuid] => 1771
+    [status] => 
+)

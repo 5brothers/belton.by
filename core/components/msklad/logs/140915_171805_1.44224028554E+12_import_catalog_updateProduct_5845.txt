@@ -1,0 +1,15 @@
+Array
+(
+    [id] => 348
+    [name] => Картридж НР C9425A голубой
+    [article] => №85
+    [manufacturer] => 
+    [images] => ["import_files\/C9425A.jpg"]
+    [bar_code] => 
+    [description] => 
+    [features] => []
+    [properties] => {"Цвет":"голубой","Класс-р":"Hewlett-Packard"}
+    [uuid] => 5845
+    [parent_uuid] => 1771
+    [status] => 
+)

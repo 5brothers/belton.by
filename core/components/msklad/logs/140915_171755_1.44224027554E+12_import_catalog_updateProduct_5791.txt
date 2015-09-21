@@ -1,0 +1,15 @@
+Array
+(
+    [id] => 307
+    [name] => Картридж НР C8774HE светло-голубой
+    [article] => №177
+    [manufacturer] => 
+    [images] => ["import_files\/C8774HE.jpg"]
+    [bar_code] => 
+    [description] => 
+    [features] => []
+    [properties] => {"Цвет":"светло-голубой","Класс-р":"Hewlett-Packard"}
+    [uuid] => 5791
+    [parent_uuid] => 1771
+    [status] => 
+)

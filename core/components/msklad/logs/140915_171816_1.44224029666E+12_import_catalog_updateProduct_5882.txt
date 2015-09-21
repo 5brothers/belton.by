@@ -1,0 +1,15 @@
+Array
+(
+    [id] => 396
+    [name] => Картридж НР CC644HE трёхцветный
+    [article] => №121XL
+    [manufacturer] => 
+    [images] => ["import_files\/CC644HE.jpg"]
+    [bar_code] => 
+    [description] => 
+    [features] => []
+    [properties] => {"Цвет":"трехцветный","Класс-р":"Hewlett-Packard"}
+    [uuid] => 5882
+    [parent_uuid] => 1771
+    [status] => 
+)

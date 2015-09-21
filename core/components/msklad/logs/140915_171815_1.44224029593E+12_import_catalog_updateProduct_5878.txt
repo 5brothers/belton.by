@@ -1,0 +1,15 @@
+Array
+(
+    [id] => 392
+    [name] => Картридж НР CC636HE простой чёрный
+    [article] => №121b
+    [manufacturer] => 
+    [images] => ["import_files\/CC636HE.jpg"]
+    [bar_code] => 
+    [description] => 
+    [features] => []
+    [properties] => {"Цвет":"черный","Класс-р":"Hewlett-Packard"}
+    [uuid] => 5878
+    [parent_uuid] => 1771
+    [status] => 
+)

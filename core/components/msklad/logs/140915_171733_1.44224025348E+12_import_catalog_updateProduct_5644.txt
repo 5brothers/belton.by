@@ -1,0 +1,15 @@
+Array
+(
+    [id] => 189
+    [name] => Картридж НР Q5953A
+    [article] => Q5953A
+    [manufacturer] => 
+    [images] => ["import_files\/Q5953A.jpg"]
+    [bar_code] => 
+    [description] => 
+    [features] => []
+    [properties] => {"Цвет":"пурпурный","Класс-р":"Hewlett-Packard"}
+    [uuid] => 5644
+    [parent_uuid] => 1770
+    [status] => 
+)

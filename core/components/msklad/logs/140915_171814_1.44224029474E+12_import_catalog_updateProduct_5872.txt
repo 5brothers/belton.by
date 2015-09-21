@@ -1,0 +1,15 @@
+Array
+(
+    [id] => 386
+    [name] => Картридж НР CB342A (Сдвоенная упаковка светло-серых картр.)
+    [article] => №70
+    [manufacturer] => 
+    [images] => ["import_files\/CB342A.jpg"]
+    [bar_code] => 
+    [description] => 
+    [features] => []
+    [properties] => {"Цвет":"светло-серый","Класс-р":"Hewlett-Packard"}
+    [uuid] => 5872
+    [parent_uuid] => 1771
+    [status] => 
+)

@@ -1,0 +1,15 @@
+Array
+(
+    [id] => 194
+    [name] => Картридж НР Q6460A
+    [article] => Q6460A
+    [manufacturer] => 
+    [images] => ["import_files\/Q6460A.jpg"]
+    [bar_code] => 
+    [description] => 
+    [features] => []
+    [properties] => {"Цвет":"черный","Класс-р":"Hewlett-Packard"}
+    [uuid] => 5649
+    [parent_uuid] => 1770
+    [status] => 
+)

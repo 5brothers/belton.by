@@ -1,0 +1,15 @@
+Array
+(
+    [id] => 247
+    [name] => Картридж НР C1Q11A матовый чёрный картридж №727
+    [article] => C1Q11A
+    [manufacturer] => 
+    [images] => ["import_files\/C1Q11A.jpg"]
+    [bar_code] => 
+    [description] => 
+    [features] => []
+    [properties] => {"Цвет":"черный матовый","Класс-р":"Hewlett-Packard"}
+    [uuid] => 4871
+    [parent_uuid] => 1771
+    [status] => 
+)

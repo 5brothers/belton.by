@@ -1,0 +1,15 @@
+Array
+(
+    [id] => 64
+    [name] => Картридж НР CE250XD (Сдвоенная упаковка чёрных картр. CE250X)
+    [article] => CE250XD
+    [manufacturer] => 
+    [images] => ["import_files\/CE250XD.jpg"]
+    [bar_code] => 
+    [description] => 
+    [features] => []
+    [properties] => {"Цвет":"черный","Класс-р":"Hewlett-Packard"}
+    [uuid] => 5560
+    [parent_uuid] => 1770
+    [status] => 
+)

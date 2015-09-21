@@ -1,0 +1,15 @@
+Array
+(
+    [id] => 291
+    [name] => Картридж НР C6614DE чёрный
+    [article] => №20
+    [manufacturer] => 
+    [images] => ["import_files\/C6614DE.jpg"]
+    [bar_code] => 
+    [description] => 
+    [features] => []
+    [properties] => {"Цвет":"черный","Класс-р":"Hewlett-Packard"}
+    [uuid] => 5773
+    [parent_uuid] => 1771
+    [status] => 
+)

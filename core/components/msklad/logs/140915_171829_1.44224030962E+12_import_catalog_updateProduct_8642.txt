@@ -1,0 +1,15 @@
+Array
+(
+    [id] => 453
+    [name] => Картридж НР SD367AE (Сдвоенная упаковка картр. №21 и №22 (C9351AE и C9352AE))
+    [article] => SD367AE
+    [manufacturer] => 
+    [images] => ["import_files\/SD367AE.jpg"]
+    [bar_code] => 
+    [description] => 
+    [features] => []
+    [properties] => {"Цвет":"ч\/б, трехцветный","Класс-р":"Hewlett-Packard"}
+    [uuid] => 8642
+    [parent_uuid] => 1771
+    [status] => 
+)

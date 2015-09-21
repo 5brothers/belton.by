@@ -1,0 +1,15 @@
+Array
+(
+    [id] => 375
+    [name] => Картридж НР CB322HE фото-чёрный
+    [article] => №178XL
+    [manufacturer] => 
+    [images] => ["import_files\/CB322HE.jpg"]
+    [bar_code] => 
+    [description] => 
+    [features] => []
+    [properties] => {"Цвет":"фото","Класс-р":"Hewlett-Packard"}
+    [uuid] => 5860
+    [parent_uuid] => 1771
+    [status] => 
+)

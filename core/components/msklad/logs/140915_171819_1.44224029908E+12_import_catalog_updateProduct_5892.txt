@@ -1,0 +1,15 @@
+Array
+(
+    [id] => 409
+    [name] => Картридж НР CH575A матовый чёрный
+    [article] => №726
+    [manufacturer] => 
+    [images] => ["import_files\/CH575A.jpg"]
+    [bar_code] => 
+    [description] => 
+    [features] => []
+    [properties] => {"Цвет":"черный матовый","Класс-р":"Hewlett-Packard"}
+    [uuid] => 5892
+    [parent_uuid] => 1771
+    [status] => 
+)

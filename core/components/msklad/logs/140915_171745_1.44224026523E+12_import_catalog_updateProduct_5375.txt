@@ -1,0 +1,15 @@
+Array
+(
+    [id] => 251
+    [name] => Картридж НР C2P23AE чёрный картридж №934XL
+    [article] => C2P23AE
+    [manufacturer] => 
+    [images] => ["import_files\/C2P23AE.jpg"]
+    [bar_code] => 
+    [description] => 
+    [features] => []
+    [properties] => {"Цвет":"черный","Класс-р":"Hewlett-Packard"}
+    [uuid] => 5375
+    [parent_uuid] => 1771
+    [status] => 
+)

@@ -1,0 +1,15 @@
+Array
+(
+    [id] => 293
+    [name] => Картридж НР C6625A трёхцветный
+    [article] => №17
+    [manufacturer] => 
+    [images] => ["import_files\/C6625A.jpg"]
+    [bar_code] => 
+    [description] => 
+    [features] => []
+    [properties] => {"Цвет":"трехцветный","Класс-р":"Hewlett-Packard"}
+    [uuid] => 5775
+    [parent_uuid] => 1771
+    [status] => 
+)

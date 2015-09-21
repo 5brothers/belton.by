@@ -1,0 +1,15 @@
+Array
+(
+    [id] => 270
+    [name] => Картридж НР C5016A чёрный
+    [article] => №84
+    [manufacturer] => 
+    [images] => ["import_files\/C5016A.jpg"]
+    [bar_code] => 
+    [description] => 
+    [features] => []
+    [properties] => {"Цвет":"черный","Класс-р":"Hewlett-Packard"}
+    [uuid] => 5759
+    [parent_uuid] => 1771
+    [status] => 
+)

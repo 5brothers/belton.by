@@ -1,0 +1,15 @@
+Array
+(
+    [id] => 377
+    [name] => Картридж НР CB324HE пурпурный
+    [article] => №178XL
+    [manufacturer] => 
+    [images] => ["import_files\/CB324HE.jpg"]
+    [bar_code] => 
+    [description] => 
+    [features] => []
+    [properties] => {"Цвет":"пурпурный","Класс-р":"Hewlett-Packard"}
+    [uuid] => 5862
+    [parent_uuid] => 1771
+    [status] => 
+)

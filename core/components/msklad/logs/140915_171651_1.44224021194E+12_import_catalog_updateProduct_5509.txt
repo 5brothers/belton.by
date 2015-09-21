@@ -1,0 +1,15 @@
+Array
+(
+    [id] => 16
+    [name] => Картридж НР C4127X
+    [article] => C4127X
+    [manufacturer] => 
+    [images] => ["import_files\/C4127X.jpg"]
+    [bar_code] => 
+    [description] => 
+    [features] => []
+    [properties] => {"Цвет":"черный","Класс-р":"Hewlett-Packard"}
+    [uuid] => 5509
+    [parent_uuid] => 1770
+    [status] => 
+)

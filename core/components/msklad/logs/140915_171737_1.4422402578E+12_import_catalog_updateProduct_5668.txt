@@ -1,0 +1,15 @@
+Array
+(
+    [id] => 213
+    [name] => Картридж НР Q7581A
+    [article] => Q7581A
+    [manufacturer] => 
+    [images] => ["import_files\/Q7581A.jpg"]
+    [bar_code] => 
+    [description] => 
+    [features] => []
+    [properties] => {"Цвет":"голубой","Класс-р":"Hewlett-Packard"}
+    [uuid] => 5668
+    [parent_uuid] => 1770
+    [status] => 
+)

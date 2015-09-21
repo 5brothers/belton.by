@@ -1,0 +1,15 @@
+Array
+(
+    [id] => 360
+    [name] => Картридж НР C9482A (Строенная упаковка светло-серых картр. № 91 (C9466A))
+    [article] => №91
+    [manufacturer] => 
+    [images] => ["import_files\/C9482A.jpg"]
+    [bar_code] => 
+    [description] => 
+    [features] => []
+    [properties] => {"Цвет":"светло-серый","Класс-р":"Hewlett-Packard"}
+    [uuid] => 6183
+    [parent_uuid] => 1771
+    [status] => 
+)

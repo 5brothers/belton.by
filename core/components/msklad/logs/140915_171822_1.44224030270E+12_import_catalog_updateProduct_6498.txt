@@ -1,0 +1,15 @@
+Array
+(
+    [id] => 429
+    [name] => Картридж НР CN627AE пурпурный №971XL
+    [article] => №971XL
+    [manufacturer] => 
+    [images] => ["import_files\/CN627AE.jpg"]
+    [bar_code] => 
+    [description] => 
+    [features] => []
+    [properties] => {"Цвет":"пурпурный","Класс-р":"Hewlett-Packard"}
+    [uuid] => 6498
+    [parent_uuid] => 1771
+    [status] => 
+)

@@ -1,0 +1,15 @@
+Array
+(
+    [id] => 123
+    [name] => Картридж НР CE741A
+    [article] => CE741A
+    [manufacturer] => 
+    [images] => ["import_files\/CE741A.jpg"]
+    [bar_code] => 
+    [description] => 
+    [features] => []
+    [properties] => {"Цвет":"голубой","Класс-р":"Hewlett-Packard"}
+    [uuid] => 5605
+    [parent_uuid] => 1770
+    [status] => 
+)

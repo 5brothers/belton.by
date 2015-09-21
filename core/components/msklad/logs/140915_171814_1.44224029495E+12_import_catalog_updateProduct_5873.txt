@@ -1,0 +1,15 @@
+Array
+(
+    [id] => 387
+    [name] => Картридж НР CB343A (Сдвоенная упаковка голубых картр.)
+    [article] => №70
+    [manufacturer] => 
+    [images] => ["import_files\/CB343A.jpg"]
+    [bar_code] => 
+    [description] => 
+    [features] => []
+    [properties] => {"Цвет":"голубой","Класс-р":"Hewlett-Packard"}
+    [uuid] => 5873
+    [parent_uuid] => 1771
+    [status] => 
+)

@@ -1,0 +1,15 @@
+Array
+(
+    [id] => 408
+    [name] => Картридж НР CH565A
+    [article] => №82
+    [manufacturer] => 
+    [images] => ["import_files\/CH565A.jpg"]
+    [bar_code] => 
+    [description] => 
+    [features] => []
+    [properties] => {"Цвет":"черный","Класс-р":"Hewlett-Packard"}
+    [uuid] => 5891
+    [parent_uuid] => 1771
+    [status] => 
+)

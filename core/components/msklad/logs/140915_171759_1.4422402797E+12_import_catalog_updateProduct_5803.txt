@@ -1,0 +1,15 @@
+Array
+(
+    [id] => 319
+    [name] => Картридж НР C9369HE фотокартридж
+    [article] => №138
+    [manufacturer] => 
+    [images] => ["import_files\/C9369HE.jpg"]
+    [bar_code] => 
+    [description] => 
+    [features] => []
+    [properties] => {"Цвет":"трехцветный","Класс-р":"Hewlett-Packard"}
+    [uuid] => 5803
+    [parent_uuid] => 1771
+    [status] => 
+)

@@ -1,0 +1,15 @@
+Array
+(
+    [id] => 5
+    [name] => Картридж HP CE505XD (Сдвоенная упаковка чёрных картр. CE505X)
+    [article] => CE505XD
+    [manufacturer] => 
+    [images] => ["import_files\/CE505XD.jpg"]
+    [bar_code] => 
+    [description] => 
+    [features] => []
+    [properties] => {"Цвет":"черный","Класс-р":"Hewlett-Packard"}
+    [uuid] => 5603
+    [parent_uuid] => 1770
+    [status] => 
+)

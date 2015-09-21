@@ -1,0 +1,15 @@
+Array
+(
+    [id] => 161
+    [name] => Картридж НР Q1338D (Сдвоенная упаковка чёрных картр. Q1338A)
+    [article] => Q1338D
+    [manufacturer] => 
+    [images] => ["import_files\/Q1338D.jpg"]
+    [bar_code] => 
+    [description] => 
+    [features] => []
+    [properties] => {"Цвет":"черный","Класс-р":"Hewlett-Packard"}
+    [uuid] => 5617
+    [parent_uuid] => 1770
+    [status] => 
+)

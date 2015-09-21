@@ -1,0 +1,15 @@
+Array
+(
+    [id] => 315
+    [name] => Картридж НР C9362HE чёрный
+    [article] => №132
+    [manufacturer] => 
+    [images] => ["import_files\/C9362HE.jpg"]
+    [bar_code] => 
+    [description] => 
+    [features] => []
+    [properties] => {"Цвет":"черный","Класс-р":"Hewlett-Packard"}
+    [uuid] => 5799
+    [parent_uuid] => 1771
+    [status] => 
+)

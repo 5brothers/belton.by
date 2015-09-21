@@ -1,0 +1,15 @@
+Array
+(
+    [id] => 363
+    [name] => Картридж НР C9485A (Строенная упаковка жёлтых картр. № 91 (C9469A))
+    [article] => C9485A
+    [manufacturer] => 
+    [images] => ["import_files\/C9485A.jpg"]
+    [bar_code] => 
+    [description] => 
+    [features] => []
+    [properties] => {"Цвет":"желтый","Класс-р":"Hewlett-Packard"}
+    [uuid] => 5967
+    [parent_uuid] => 1771
+    [status] => 
+)

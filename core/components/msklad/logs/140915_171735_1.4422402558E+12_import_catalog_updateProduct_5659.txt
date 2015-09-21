@@ -1,0 +1,15 @@
+Array
+(
+    [id] => 202
+    [name] => Картридж НР Q6511XD (Сдвоенная упаковка чёрных картр. Q6511X)
+    [article] => Q6511XD
+    [manufacturer] => 
+    [images] => ["import_files\/Q6511XD.jpg"]
+    [bar_code] => 
+    [description] => 
+    [features] => []
+    [properties] => {"Цвет":"черный","Класс-р":"Hewlett-Packard"}
+    [uuid] => 5659
+    [parent_uuid] => 1770
+    [status] => 
+)

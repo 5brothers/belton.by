@@ -1,0 +1,15 @@
+Array
+(
+    [id] => 46
+    [name] => Картридж НР CB390A
+    [article] => CB390A
+    [manufacturer] => 
+    [images] => ["import_files\/CB390A.jpg"]
+    [bar_code] => 
+    [description] => 
+    [features] => []
+    [properties] => {"Цвет":"черный","Класс-р":"Hewlett-Packard"}
+    [uuid] => 5542
+    [parent_uuid] => 1770
+    [status] => 
+)

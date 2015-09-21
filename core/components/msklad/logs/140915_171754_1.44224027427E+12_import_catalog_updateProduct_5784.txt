@@ -1,0 +1,15 @@
+Array
+(
+    [id] => 300
+    [name] => Картридж НР C8728AE трёхцветный
+    [article] => №28
+    [manufacturer] => 
+    [images] => ["import_files\/C8728AE.jpg"]
+    [bar_code] => 
+    [description] => 
+    [features] => []
+    [properties] => {"Цвет":"трехцветный","Класс-р":"Hewlett-Packard"}
+    [uuid] => 5784
+    [parent_uuid] => 1771
+    [status] => 
+)

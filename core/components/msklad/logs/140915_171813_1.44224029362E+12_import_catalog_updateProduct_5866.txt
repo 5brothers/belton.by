@@ -1,0 +1,15 @@
+Array
+(
+    [id] => 381
+    [name] => Картридж НР CB335HE чёрный картридж
+    [article] => №140
+    [manufacturer] => 
+    [images] => ["import_files\/CB335HE2.jpg"]
+    [bar_code] => 
+    [description] => 
+    [features] => []
+    [properties] => {"Цвет":"черный","Класс-р":"Hewlett-Packard"}
+    [uuid] => 5866
+    [parent_uuid] => 1771
+    [status] => 
+)

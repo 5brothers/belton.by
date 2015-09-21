@@ -1,0 +1,15 @@
+Array
+(
+    [id] => 224
+    [name] => Картридж НР 51644ME пурпурный картридж
+    [article] => №44
+    [manufacturer] => 
+    [images] => ["import_files\/51644ME.jpeg"]
+    [bar_code] => 
+    [description] => 
+    [features] => []
+    [properties] => {"Цвет":"пурпурный","Класс-р":"Hewlett-Packard"}
+    [uuid] => 5724
+    [parent_uuid] => 1771
+    [status] => 
+)

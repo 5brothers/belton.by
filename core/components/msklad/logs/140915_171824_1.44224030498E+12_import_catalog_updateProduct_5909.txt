@@ -1,0 +1,15 @@
+Array
+(
+    [id] => 441
+    [name] => Картридж НР CZ130A голубой
+    [article] => №711
+    [manufacturer] => 
+    [images] => ["import_files\/CZ130A.jpg"]
+    [bar_code] => 
+    [description] => 
+    [features] => []
+    [properties] => {"Цвет":"голубой","Класс-р":"Hewlett-Packard"}
+    [uuid] => 5909
+    [parent_uuid] => 1771
+    [status] => 
+)

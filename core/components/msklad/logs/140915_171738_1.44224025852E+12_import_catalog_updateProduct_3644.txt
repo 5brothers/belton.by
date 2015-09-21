@@ -1,0 +1,15 @@
+Array
+(
+    [id] => 217
+    [name] => Картриджи НР CF373AM (Строенная упаковка цветных картр. CB541A, CB542A, CB543A)
+    [article] => CF373AM
+    [manufacturer] => 
+    [images] => ["import_files\/CF373AM.jpg"]
+    [bar_code] => 
+    [description] => 
+    [features] => []
+    [properties] => {"Цвет":"трехцветный","Класс-р":"Hewlett-Packard"}
+    [uuid] => 3644
+    [parent_uuid] => 1770
+    [status] => 
+)

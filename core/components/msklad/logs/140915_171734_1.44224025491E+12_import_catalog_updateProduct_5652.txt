@@ -1,0 +1,15 @@
+Array
+(
+    [id] => 197
+    [name] => Картридж НР Q6463A
+    [article] => Q6463A
+    [manufacturer] => 
+    [images] => ["import_files\/Q6463A.jpg"]
+    [bar_code] => 
+    [description] => 
+    [features] => []
+    [properties] => {"Цвет":"пурпурный","Класс-р":"Hewlett-Packard"}
+    [uuid] => 5652
+    [parent_uuid] => 1770
+    [status] => 
+)

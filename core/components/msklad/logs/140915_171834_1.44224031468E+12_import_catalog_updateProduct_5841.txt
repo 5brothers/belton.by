@@ -1,0 +1,15 @@
+Array
+(
+    [id] => 480
+    [name] => Печатающая головка  НР C9421A пурпурная
+    [article] => №85
+    [manufacturer] => 
+    [images] => ["import_files\/C9421A.jpg"]
+    [bar_code] => 
+    [description] => 
+    [features] => []
+    [properties] => {"Цвет":"пурпурный","Класс-р":"Hewlett-Packard"}
+    [uuid] => 5841
+    [parent_uuid] => 1771
+    [status] => 
+)

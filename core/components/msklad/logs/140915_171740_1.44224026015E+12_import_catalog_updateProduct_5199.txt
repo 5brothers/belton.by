@@ -1,0 +1,15 @@
+Array
+(
+    [id] => 226
+    [name] => Картридж НР 51645AE чёрный картридж
+    [article] => №45
+    [manufacturer] => 
+    [images] => ["import_files\/51645AE_400x400.jpg"]
+    [bar_code] => 
+    [description] => 
+    [features] => []
+    [properties] => {"Цвет":"черный","Класс-р":"Hewlett-Packard"}
+    [uuid] => 5199
+    [parent_uuid] => 1771
+    [status] => 
+)

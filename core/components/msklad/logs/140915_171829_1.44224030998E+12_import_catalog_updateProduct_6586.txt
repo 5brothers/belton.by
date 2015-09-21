@@ -1,0 +1,15 @@
+Array
+(
+    [id] => 455
+    [name] => Картриджи НР C5070A (Строенная упаковка св.-голубых картр.№81 (C4934A))
+    [article] => C5070A
+    [manufacturer] => 
+    [images] => ["import_files\/C5070A.jpg"]
+    [bar_code] => 
+    [description] => 
+    [features] => []
+    [properties] => {"Цвет":"светло-голубой","Класс-р":"Hewlett-Packard"}
+    [uuid] => 6586
+    [parent_uuid] => 1771
+    [status] => 
+)

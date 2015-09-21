@@ -1,0 +1,15 @@
+Array
+(
+    [id] => 108
+    [name] => Картридж НР CE400Х
+    [article] => CE400Х
+    [manufacturer] => 
+    [images] => ["import_files\/CE400X.jpg"]
+    [bar_code] => 
+    [description] => 
+    [features] => []
+    [properties] => {"Цвет":"черный","Класс-р":"Hewlett-Packard"}
+    [uuid] => 5595
+    [parent_uuid] => 1770
+    [status] => 
+)

@@ -1,0 +1,15 @@
+Array
+(
+    [id] => 286
+    [name] => Картридж НР C5075A (Строенная упаковка жёлтых картр.№83 (C4943A))
+    [article] => C5075A
+    [manufacturer] => 
+    [images] => ["import_files\/C5075A.jpg"]
+    [bar_code] => 
+    [description] => 
+    [features] => []
+    [properties] => {"Цвет":"желтый","Класс-р":"Hewlett-Packard"}
+    [uuid] => 2715
+    [parent_uuid] => 1771
+    [status] => 
+)

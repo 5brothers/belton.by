@@ -1,0 +1,15 @@
+Array
+(
+    [id] => 354
+    [name] => Картридж НР C9449A чёрный фотокартридж №70
+    [article] => №70
+    [manufacturer] => 
+    [images] => ["import_files\/C9449A.jpg"]
+    [bar_code] => 
+    [description] => 
+    [features] => []
+    [properties] => {"Цвет":"черный фото","Класс-р":"Hewlett-Packard"}
+    [uuid] => 5741
+    [parent_uuid] => 1771
+    [status] => 
+)

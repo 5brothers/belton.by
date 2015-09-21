@@ -1,0 +1,15 @@
+Array
+(
+    [id] => 143
+    [name] => Картридж НР CF325X
+    [article] => CF325X
+    [manufacturer] => 
+    [images] => ["import_files\/CF325X.jpg"]
+    [bar_code] => 
+    [description] => 
+    [features] => []
+    [properties] => {"Цвет":"черный","Класс-р":"Hewlett-Packard"}
+    [uuid] => 627
+    [parent_uuid] => 1770
+    [status] => 
+)

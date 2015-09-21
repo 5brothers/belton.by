@@ -1,0 +1,15 @@
+Array
+(
+    [id] => 61
+    [name] => Картридж НР CC532A
+    [article] => CC532A
+    [manufacturer] => 
+    [images] => ["import_files\/CC532A.jpg"]
+    [bar_code] => 
+    [description] => 
+    [features] => []
+    [properties] => {"Цвет":"желтый","Класс-р":"Hewlett-Packard"}
+    [uuid] => 5556
+    [parent_uuid] => 1770
+    [status] => 
+)

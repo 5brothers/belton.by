@@ -1,0 +1,15 @@
+Array
+(
+    [id] => 477
+    [name] => Печатающая головка  НР C9406A пурпурная и жёлтая
+    [article] => №70
+    [manufacturer] => 
+    [images] => ["import_files\/C9406A.jpg"]
+    [bar_code] => 
+    [description] => 
+    [features] => []
+    [properties] => {"Цвет":"пурпурная и жёлтая","Класс-р":"Hewlett-Packard"}
+    [uuid] => 5830
+    [parent_uuid] => 1771
+    [status] => 
+)

@@ -1,0 +1,15 @@
+Array
+(
+    [id] => 135
+    [name] => Картридж НР CF280Х
+    [article] => CF280Х
+    [manufacturer] => 
+    [images] => ["import_files\/CF280X.jpg"]
+    [bar_code] => 
+    [description] => 
+    [features] => []
+    [properties] => {"Цвет":"черный","Класс-р":"Hewlett-Packard"}
+    [uuid] => 5614
+    [parent_uuid] => 1770
+    [status] => 
+)

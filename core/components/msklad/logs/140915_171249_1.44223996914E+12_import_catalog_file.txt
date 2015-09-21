@@ -1,0 +1,11 @@
+Array
+(
+    [http_auth] => htauth:bVN5bmM6NTk1ZTg3Mzc4MGYxMTA1N2Q1NzFkODc2YzJkYzgyMzE=
+    [type] => catalog
+    [mode] => file
+    [filename] => import.xml
+    [__utma] => 220655883.186059856.1436488305.1436489148.1436489148.1
+    [__utmz] => 220655883.1436489148.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none)
+    [_ga] => GA1.2.186059856.1436488305
+    [PHPSESSID] => 43618a382a2bfc1ea35a8e2e97d2979d
+)

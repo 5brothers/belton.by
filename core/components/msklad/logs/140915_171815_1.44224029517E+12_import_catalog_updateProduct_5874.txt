@@ -1,0 +1,15 @@
+Array
+(
+    [id] => 388
+    [name] => Картридж НР CB344A (Сдвоенная упаковка пурпурных картр. №70 (C9453A))
+    [article] => №70
+    [manufacturer] => 
+    [images] => ["import_files\/CB344A.jpg"]
+    [bar_code] => 
+    [description] => 
+    [features] => []
+    [properties] => {"Цвет":"пурпурный","Класс-р":"Hewlett-Packard"}
+    [uuid] => 5874
+    [parent_uuid] => 1771
+    [status] => 
+)

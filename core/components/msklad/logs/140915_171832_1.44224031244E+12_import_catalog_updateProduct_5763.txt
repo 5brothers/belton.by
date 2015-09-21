@@ -1,0 +1,15 @@
+Array
+(
+    [id] => 468
+    [name] => Печатающая головка  НР C5056A пурпурная
+    [article] => №90
+    [manufacturer] => 
+    [images] => ["import_files\/C5056A.jpg"]
+    [bar_code] => 
+    [description] => 
+    [features] => []
+    [properties] => {"Цвет":"пурпурный","Класс-р":"Hewlett-Packard"}
+    [uuid] => 5763
+    [parent_uuid] => 1771
+    [status] => 
+)

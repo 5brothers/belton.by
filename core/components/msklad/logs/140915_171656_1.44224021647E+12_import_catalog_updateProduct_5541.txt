@@ -1,0 +1,15 @@
+Array
+(
+    [id] => 45
+    [name] => Картридж НР CB387A пурпурный барабан передачи изображений
+    [article] => CB387A
+    [manufacturer] => 
+    [images] => ["import_files\/CB387A.jpg"]
+    [bar_code] => 
+    [description] => 
+    [features] => []
+    [properties] => {"Цвет":"пурпурный","Класс-р":"Hewlett-Packard"}
+    [uuid] => 5541
+    [parent_uuid] => 1770
+    [status] => 
+)

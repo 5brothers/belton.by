@@ -1,0 +1,15 @@
+Array
+(
+    [id] => 414
+    [name] => Картридж НР CN049AE чёрный
+    [article] => №950
+    [manufacturer] => 
+    [images] => ["import_files\/CN049AE.jpg"]
+    [bar_code] => 
+    [description] => 
+    [features] => []
+    [properties] => {"Цвет":"черный","Класс-р":"Hewlett-Packard"}
+    [uuid] => 5897
+    [parent_uuid] => 1771
+    [status] => 
+)

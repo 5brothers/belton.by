@@ -1,0 +1,15 @@
+Array
+(
+    [id] => 470
+    [name] => Печатающая головка  НР C9380A серая и фото/черная
+    [article] => №72
+    [manufacturer] => 
+    [images] => ["import_files\/C9380A.jpg"]
+    [bar_code] => 
+    [description] => 
+    [features] => []
+    [properties] => {"Цвет":"серая и фото\/черная","Класс-р":"Hewlett-Packard"}
+    [uuid] => 5809
+    [parent_uuid] => 1771
+    [status] => 
+)

@@ -1,0 +1,15 @@
+Array
+(
+    [id] => 365
+    [name] => Картридж НР C9487A (Строенная упаковка светло-пурпурных картр. № 91 (C9471A))
+    [article] => C9487A
+    [manufacturer] => 
+    [images] => ["import_files\/C9487A.jpg"]
+    [bar_code] => 
+    [description] => 
+    [features] => []
+    [properties] => {"Цвет":"светло-пурпурная","Класс-р":"Hewlett-Packard"}
+    [uuid] => 5678
+    [parent_uuid] => 1771
+    [status] => 
+)

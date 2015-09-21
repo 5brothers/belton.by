@@ -1,0 +1,15 @@
+Array
+(
+    [id] => 238
+    [name] => Картридж НР B3P24A серый №727XL
+    [article] => B3P24A
+    [manufacturer] => 
+    [images] => ["import_files\/B3P24A.jpg"]
+    [bar_code] => 
+    [description] => 
+    [features] => []
+    [properties] => {"Цвет":"серый","Класс-р":"Hewlett-Packard"}
+    [uuid] => 2662
+    [parent_uuid] => 1771
+    [status] => 
+)

@@ -1,0 +1,15 @@
+Array
+(
+    [id] => 248
+    [name] => Картридж НР C1Q12A матовый чёрный картридж №727XXL
+    [article] => №727XXL
+    [manufacturer] => 
+    [images] => ["import_files\/C1Q12A.jpg"]
+    [bar_code] => 
+    [description] => 
+    [features] => []
+    [properties] => {"Цвет":"черный матовый","Класс-р":"Hewlett-Packard"}
+    [uuid] => 2370
+    [parent_uuid] => 1771
+    [status] => 
+)

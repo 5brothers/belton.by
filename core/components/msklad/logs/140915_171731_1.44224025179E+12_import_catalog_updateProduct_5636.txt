@@ -1,0 +1,15 @@
+Array
+(
+    [id] => 180
+    [name] => Картридж НР Q5942XD (Сдвоенная упаковка чёрных картр. Q5942X)
+    [article] => Q5942XD
+    [manufacturer] => 
+    [images] => ["import_files\/Q5942XD.jpg"]
+    [bar_code] => 
+    [description] => 
+    [features] => []
+    [properties] => {"Цвет":"черный","Класс-р":"Hewlett-Packard"}
+    [uuid] => 5636
+    [parent_uuid] => 1770
+    [status] => 
+)

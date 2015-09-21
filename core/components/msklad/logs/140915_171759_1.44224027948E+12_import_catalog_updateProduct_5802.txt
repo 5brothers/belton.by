@@ -1,0 +1,15 @@
+Array
+(
+    [id] => 318
+    [name] => Картридж НР C9368AE серый фотокартридж
+    [article] => №100
+    [manufacturer] => 
+    [images] => ["import_files\/C9368AE.jpg"]
+    [bar_code] => 
+    [description] => 
+    [features] => []
+    [properties] => {"Цвет":"серый фотокартридж","Класс-р":"Hewlett-Packard"}
+    [uuid] => 5802
+    [parent_uuid] => 1771
+    [status] => 
+)

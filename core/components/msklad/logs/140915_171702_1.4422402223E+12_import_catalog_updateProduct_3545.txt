@@ -1,0 +1,15 @@
+Array
+(
+    [id] => 78
+    [name] => Картридж НР CE264X
+    [article] => CE264X
+    [manufacturer] => 
+    [images] => ["import_files\/CE264X.jpg"]
+    [bar_code] => 
+    [description] => 
+    [features] => []
+    [properties] => {"Цвет":"черный","Класс-р":"Hewlett-Packard"}
+    [uuid] => 3545
+    [parent_uuid] => 1770
+    [status] => 
+)

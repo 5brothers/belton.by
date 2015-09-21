@@ -1,0 +1,15 @@
+Array
+(
+    [id] => 446
+    [name] => Картридж НР CZ135A (Строенная упаковка пурпурных картр.)
+    [article] => №711
+    [manufacturer] => 
+    [images] => ["import_files\/CZ135A.jpg"]
+    [bar_code] => 
+    [description] => 
+    [features] => []
+    [properties] => {"Цвет":"пурпурный","Класс-р":"Hewlett-Packard"}
+    [uuid] => 5914
+    [parent_uuid] => 1771
+    [status] => 
+)

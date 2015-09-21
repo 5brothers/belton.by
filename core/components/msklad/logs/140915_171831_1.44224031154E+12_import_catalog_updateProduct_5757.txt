@@ -1,0 +1,15 @@
+Array
+(
+    [id] => 463
+    [name] => Печатающая головка  НР C4954A светло-голубая
+    [article] => №81
+    [manufacturer] => 
+    [images] => ["import_files\/C4954A.jpg"]
+    [bar_code] => 
+    [description] => 
+    [features] => []
+    [properties] => {"Цвет":"светло-голубой","Класс-р":"Hewlett-Packard"}
+    [uuid] => 5757
+    [parent_uuid] => 1771
+    [status] => 
+)

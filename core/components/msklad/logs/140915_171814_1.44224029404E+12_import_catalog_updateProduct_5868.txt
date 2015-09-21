@@ -1,0 +1,15 @@
+Array
+(
+    [id] => 383
+    [name] => Картридж НР CB337HE трёхцветный
+    [article] => №141
+    [manufacturer] => 
+    [images] => ["import_files\/CB337HE.jpeg"]
+    [bar_code] => 
+    [description] => 
+    [features] => []
+    [properties] => {"Цвет":"трехцветный","Класс-р":"Hewlett-Packard"}
+    [uuid] => 5868
+    [parent_uuid] => 1771
+    [status] => 
+)

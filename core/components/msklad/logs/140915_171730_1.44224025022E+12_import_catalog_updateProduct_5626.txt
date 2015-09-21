@@ -1,0 +1,15 @@
+Array
+(
+    [id] => 171
+    [name] => Картридж НР Q2671A
+    [article] => Q2671A
+    [manufacturer] => 
+    [images] => ["import_files\/Q2671A.jpg"]
+    [bar_code] => 
+    [description] => 
+    [features] => []
+    [properties] => {"Цвет":"голубой","Класс-р":"Hewlett-Packard"}
+    [uuid] => 5626
+    [parent_uuid] => 1770
+    [status] => 
+)

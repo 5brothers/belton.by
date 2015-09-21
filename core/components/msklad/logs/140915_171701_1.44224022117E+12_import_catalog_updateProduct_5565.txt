@@ -1,0 +1,15 @@
+Array
+(
+    [id] => 71
+    [name] => Картридж НР CE255Х
+    [article] => CE255Х
+    [manufacturer] => 
+    [images] => ["import_files\/CE255Х.jpg"]
+    [bar_code] => 
+    [description] => 
+    [features] => []
+    [properties] => {"Цвет":"черный","Класс-р":"Hewlett-Packard"}
+    [uuid] => 5565
+    [parent_uuid] => 1770
+    [status] => 
+)

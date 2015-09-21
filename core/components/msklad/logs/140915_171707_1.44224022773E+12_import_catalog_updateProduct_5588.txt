@@ -1,0 +1,15 @@
+Array
+(
+    [id] => 96
+    [name] => Картридж НР CE320AD
+    [article] => CE320AD
+    [manufacturer] => 
+    [images] => ["import_files\/CE320AD.jpg"]
+    [bar_code] => 
+    [description] => 
+    [features] => []
+    [properties] => {"Цвет":"черный","Класс-р":"Hewlett-Packard"}
+    [uuid] => 5588
+    [parent_uuid] => 1770
+    [status] => 
+)

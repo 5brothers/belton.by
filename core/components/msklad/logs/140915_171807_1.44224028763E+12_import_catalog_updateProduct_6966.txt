@@ -1,0 +1,15 @@
+Array
+(
+    [id] => 355
+    [name] => Картридж НР C9451A светло-серый №70
+    [article] => №70
+    [manufacturer] => 
+    [images] => ["import_files\/C9451A.jpg"]
+    [bar_code] => 
+    [description] => 
+    [features] => []
+    [properties] => {"Цвет":"светло-серый","Класс-р":"Hewlett-Packard"}
+    [uuid] => 6966
+    [parent_uuid] => 1771
+    [status] => 
+)

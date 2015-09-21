@@ -1,0 +1,15 @@
+Array
+(
+    [id] => 134
+    [name] => Картридж НР CF280XF (Сдвоенная упаковка чёрных картр. CF280X)
+    [article] => CF280XF
+    [manufacturer] => 
+    [images] => ["import_files\/CF280XF.jpg"]
+    [bar_code] => 
+    [description] => 
+    [features] => []
+    [properties] => {"Цвет":"черный","Класс-р":"Hewlett-Packard"}
+    [uuid] => 5615
+    [parent_uuid] => 1770
+    [status] => 
+)

@@ -1,0 +1,15 @@
+Array
+(
+    [id] => 75
+    [name] => Картридж НР CE261A
+    [article] => CE261A
+    [manufacturer] => 
+    [images] => ["import_files\/CE261A.jpg"]
+    [bar_code] => 
+    [description] => 
+    [features] => []
+    [properties] => {"Цвет":"голубой","Класс-р":"Hewlett-Packard"}
+    [uuid] => 5569
+    [parent_uuid] => 1770
+    [status] => 
+)

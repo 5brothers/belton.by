@@ -1,0 +1,15 @@
+Array
+(
+    [id] => 100
+    [name] => Картридж НР CE340A
+    [article] => CE340A
+    [manufacturer] => 
+    [images] => ["import_files\/CE340A.jpg"]
+    [bar_code] => 
+    [description] => 
+    [features] => []
+    [properties] => {"Цвет":"черный","Класс-р":"Hewlett-Packard"}
+    [uuid] => 2106
+    [parent_uuid] => 1770
+    [status] => 
+)

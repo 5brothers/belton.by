@@ -1,0 +1,15 @@
+Array
+(
+    [id] => 312
+    [name] => Картридж НР C9352AE трёхцветный
+    [article] => №22
+    [manufacturer] => 
+    [images] => ["import_files\/C9352AE.jpg"]
+    [bar_code] => 
+    [description] => 
+    [features] => []
+    [properties] => {"Цвет":"трехцветный","Класс-р":"Hewlett-Packard"}
+    [uuid] => 5796
+    [parent_uuid] => 1771
+    [status] => 
+)

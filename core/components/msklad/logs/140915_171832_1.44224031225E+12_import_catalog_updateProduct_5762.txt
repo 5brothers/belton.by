@@ -1,0 +1,15 @@
+Array
+(
+    [id] => 467
+    [name] => Печатающая головка  НР C5055A голубая
+    [article] => №90
+    [manufacturer] => 
+    [images] => ["import_files\/C5055A.jpeg"]
+    [bar_code] => 
+    [description] => 
+    [features] => []
+    [properties] => {"Цвет":"голубой","Класс-р":"Hewlett-Packard"}
+    [uuid] => 5762
+    [parent_uuid] => 1771
+    [status] => 
+)

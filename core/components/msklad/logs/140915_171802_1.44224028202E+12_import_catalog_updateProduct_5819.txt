@@ -1,0 +1,15 @@
+Array
+(
+    [id] => 331
+    [name] => Картридж НР C9392AE пурпурный
+    [article] => №88XL
+    [manufacturer] => 
+    [images] => ["import_files\/C9392AE_400x400.jpg"]
+    [bar_code] => 
+    [description] => 
+    [features] => []
+    [properties] => {"Цвет":"пурпурный","Класс-р":"Hewlett-Packard"}
+    [uuid] => 5819
+    [parent_uuid] => 1771
+    [status] => 
+)

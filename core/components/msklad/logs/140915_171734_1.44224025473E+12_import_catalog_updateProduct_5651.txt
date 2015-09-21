@@ -1,0 +1,15 @@
+Array
+(
+    [id] => 196
+    [name] => Картридж НР Q6462A
+    [article] => Q6462A
+    [manufacturer] => 
+    [images] => ["import_files\/Q6462A.jpg"]
+    [bar_code] => 
+    [description] => 
+    [features] => []
+    [properties] => {"Цвет":"желтый","Класс-р":"Hewlett-Packard"}
+    [uuid] => 5651
+    [parent_uuid] => 1770
+    [status] => 
+)

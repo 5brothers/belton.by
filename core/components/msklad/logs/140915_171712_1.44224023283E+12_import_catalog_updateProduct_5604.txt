@@ -1,0 +1,15 @@
+Array
+(
+    [id] => 122
+    [name] => Картридж НР CE740A
+    [article] => CE740A
+    [manufacturer] => 
+    [images] => ["import_files\/CE740A.jpg"]
+    [bar_code] => 
+    [description] => 
+    [features] => []
+    [properties] => {"Цвет":"черный","Класс-р":"Hewlett-Packard"}
+    [uuid] => 5604
+    [parent_uuid] => 1770
+    [status] => 
+)

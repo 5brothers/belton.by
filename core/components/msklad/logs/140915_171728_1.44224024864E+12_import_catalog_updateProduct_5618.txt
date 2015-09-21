@@ -1,0 +1,15 @@
+Array
+(
+    [id] => 162
+    [name] => Картридж НР Q1339A
+    [article] => Q1339A
+    [manufacturer] => 
+    [images] => ["import_files\/Q1339A.jpg"]
+    [bar_code] => 
+    [description] => 
+    [features] => []
+    [properties] => {"Цвет":"черный","Класс-р":"Hewlett-Packard"}
+    [uuid] => 5618
+    [parent_uuid] => 1770
+    [status] => 
+)

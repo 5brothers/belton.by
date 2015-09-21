@@ -1,0 +1,15 @@
+Array
+(
+    [id] => 84
+    [name] => Картридж НР CE278AF (Сдвоенная упаковка чёрных картр. CE278A)
+    [article] => CE278AF
+    [manufacturer] => 
+    [images] => ["import_files\/CE278AF.jpg"]
+    [bar_code] => 
+    [description] => 
+    [features] => []
+    [properties] => {"Цвет":"черный","Класс-р":"Hewlett-Packard"}
+    [uuid] => 5577
+    [parent_uuid] => 1770
+    [status] => 
+)

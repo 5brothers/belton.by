@@ -1,0 +1,15 @@
+Array
+(
+    [id] => 359
+    [name] => Картридж НР C9481A (Строенная упаковка фото-чёрных картр. № 91 (C9465A))
+    [article] => №91
+    [manufacturer] => 
+    [images] => ["import_files\/C9481A.jpg"]
+    [bar_code] => 
+    [description] => 
+    [features] => []
+    [properties] => {"Цвет":"черный фото","Класс-р":"Hewlett-Packard"}
+    [uuid] => 4049
+    [parent_uuid] => 1771
+    [status] => 
+)

@@ -1,0 +1,15 @@
+Array
+(
+    [id] => 478
+    [name] => Печатающая головка  НР C9407A фото чёрная и свет.-серая
+    [article] => №70
+    [manufacturer] => 
+    [images] => ["import_files\/C9407A.jpg"]
+    [bar_code] => 
+    [description] => 
+    [features] => []
+    [properties] => {"Цвет":"чёрная и светло-серая","Класс-р":"Hewlett-Packard"}
+    [uuid] => 5831
+    [parent_uuid] => 1771
+    [status] => 
+)

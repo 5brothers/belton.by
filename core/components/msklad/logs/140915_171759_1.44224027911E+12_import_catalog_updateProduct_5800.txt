@@ -1,0 +1,15 @@
+Array
+(
+    [id] => 316
+    [name] => Картридж НР C9363HE трёхцветный
+    [article] => №134
+    [manufacturer] => 
+    [images] => ["import_files\/C9363HE.jpg"]
+    [bar_code] => 
+    [description] => 
+    [features] => []
+    [properties] => {"Цвет":"трехцветный","Класс-р":"Hewlett-Packard"}
+    [uuid] => 5800
+    [parent_uuid] => 1771
+    [status] => 
+)

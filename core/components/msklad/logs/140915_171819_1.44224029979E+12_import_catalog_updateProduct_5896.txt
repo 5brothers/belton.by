@@ -1,0 +1,15 @@
+Array
+(
+    [id] => 413
+    [name] => Картридж НР CN048AE жёлтый
+    [article] => №951XL
+    [manufacturer] => 
+    [images] => ["import_files\/CN048AE.jpg"]
+    [bar_code] => 
+    [description] => 
+    [features] => []
+    [properties] => {"Цвет":"желтый","Класс-р":"Hewlett-Packard"}
+    [uuid] => 5896
+    [parent_uuid] => 1771
+    [status] => 
+)

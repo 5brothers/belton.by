@@ -1,0 +1,15 @@
+Array
+(
+    [id] => 310
+    [name] => Картридж НР C9351BE простой чёрный
+    [article] => №21b
+    [manufacturer] => 
+    [images] => ["import_files\/C9351BE.jpg"]
+    [bar_code] => 
+    [description] => 
+    [features] => []
+    [properties] => {"Цвет":"черный","Класс-р":"Hewlett-Packard"}
+    [uuid] => 5794
+    [parent_uuid] => 1771
+    [status] => 
+)

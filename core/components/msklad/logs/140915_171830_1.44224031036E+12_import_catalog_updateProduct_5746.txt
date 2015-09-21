@@ -1,0 +1,15 @@
+Array
+(
+    [id] => 457
+    [name] => Печатающая головка  НР C4900A чёрная и жёлтая
+    [article] => №940
+    [manufacturer] => 
+    [images] => ["import_files\/C4900A.jpg"]
+    [bar_code] => 
+    [description] => 
+    [features] => []
+    [properties] => {"Цвет":"черный, желтый","Класс-р":"Hewlett-Packard"}
+    [uuid] => 5746
+    [parent_uuid] => 1771
+    [status] => 
+)

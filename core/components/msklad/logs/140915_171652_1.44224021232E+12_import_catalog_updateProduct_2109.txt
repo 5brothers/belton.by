@@ -1,0 +1,15 @@
+Array
+(
+    [id] => 19
+    [name] => Картридж НР C7115A
+    [article] => C7115A
+    [manufacturer] => 
+    [images] => ["import_files\/C7115A.jpg"]
+    [bar_code] => 
+    [description] => 
+    [features] => []
+    [properties] => {"Цвет":"черный","Класс-р":"Hewlett-Packard"}
+    [uuid] => 2109
+    [parent_uuid] => 1770
+    [status] => 
+)

@@ -1,0 +1,15 @@
+Array
+(
+    [id] => 237
+    [name] => Картридж НР B3P23A фото-чёрный картридж №727XL
+    [article] => B3P23A
+    [manufacturer] => 
+    [images] => ["import_files\/B3P23A.jpg"]
+    [bar_code] => 
+    [description] => 
+    [features] => []
+    [properties] => {"Цвет":"черный матовый","Класс-р":"Hewlett-Packard"}
+    [uuid] => 2661
+    [parent_uuid] => 1771
+    [status] => 
+)

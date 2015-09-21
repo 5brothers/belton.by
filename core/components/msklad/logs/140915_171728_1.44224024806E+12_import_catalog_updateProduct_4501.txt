@@ -1,0 +1,15 @@
+Array
+(
+    [id] => 159
+    [name] => Картридж НР CZ192A
+    [article] => CZ192A
+    [manufacturer] => 
+    [images] => ["import_files\/CZ192A.jpg"]
+    [bar_code] => 
+    [description] => 
+    [features] => []
+    [properties] => {"Цвет":"черный","Класс-р":"Hewlett-Packard"}
+    [uuid] => 4501
+    [parent_uuid] => 1770
+    [status] => 
+)

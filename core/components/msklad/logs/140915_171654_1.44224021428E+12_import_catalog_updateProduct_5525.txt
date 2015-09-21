@@ -1,0 +1,15 @@
+Array
+(
+    [id] => 32
+    [name] => Картридж НР C9704A барабан передачи изображений
+    [article] => C9704A
+    [manufacturer] => 
+    [images] => ["import_files\/C9704A.jpg"]
+    [bar_code] => 
+    [description] => 
+    [features] => []
+    [properties] => {"Класс-р":"Hewlett-Packard"}
+    [uuid] => 5525
+    [parent_uuid] => 1770
+    [status] => 
+)

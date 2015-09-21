@@ -1,0 +1,15 @@
+Array
+(
+    [id] => 18
+    [name] => Картридж НР C4182X
+    [article] => C4182X
+    [manufacturer] => 
+    [images] => ["import_files\/C4182X.jpg"]
+    [bar_code] => 
+    [description] => 
+    [features] => []
+    [properties] => {"Цвет":"черный","Класс-р":"Hewlett-Packard"}
+    [uuid] => 5511
+    [parent_uuid] => 1770
+    [status] => 
+)

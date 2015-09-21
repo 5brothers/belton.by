@@ -1,0 +1,15 @@
+Array
+(
+    [id] => 201
+    [name] => Картридж НР Q6511A
+    [article] => Q6511A
+    [manufacturer] => 
+    [images] => ["import_files\/Q6511A.jpg"]
+    [bar_code] => 
+    [description] => 
+    [features] => []
+    [properties] => {"Цвет":"черный","Класс-р":"Hewlett-Packard"}
+    [uuid] => 5657
+    [parent_uuid] => 1770
+    [status] => 
+)

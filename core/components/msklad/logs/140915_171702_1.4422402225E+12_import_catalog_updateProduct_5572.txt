@@ -1,0 +1,15 @@
+Array
+(
+    [id] => 79
+    [name] => Картридж НР CE270A
+    [article] => CE270A
+    [manufacturer] => 
+    [images] => ["import_files\/CE270A.jpg"]
+    [bar_code] => 
+    [description] => 
+    [features] => []
+    [properties] => {"Цвет":"черный","Класс-р":"Hewlett-Packard"}
+    [uuid] => 5572
+    [parent_uuid] => 1770
+    [status] => 
+)

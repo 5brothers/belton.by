@@ -1,0 +1,15 @@
+Array
+(
+    [id] => 284
+    [name] => Картридж НР C5073A (Строенная упаковка голубых картр.№83 (C4941A))
+    [article] => C5073A
+    [manufacturer] => 
+    [images] => ["import_files\/C5073A.jpg"]
+    [bar_code] => 
+    [description] => 
+    [features] => []
+    [properties] => {"Цвет":"голубой","Класс-р":"Hewlett-Packard"}
+    [uuid] => 4774
+    [parent_uuid] => 1771
+    [status] => 
+)

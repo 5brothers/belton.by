@@ -1,0 +1,15 @@
+Array
+(
+    [id] => 433
+    [name] => Картридж НР CR340HE (Сдвоенная упаковка картр. (CH561HE и CH562HE))
+    [article] => №122
+    [manufacturer] => 
+    [images] => ["import_files\/CR340HE.jpg"]
+    [bar_code] => 
+    [description] => 
+    [features] => []
+    [properties] => {"Цвет":"ч\/б, трехцветный","Класс-р":"Hewlett-Packard"}
+    [uuid] => 5901
+    [parent_uuid] => 1771
+    [status] => 
+)

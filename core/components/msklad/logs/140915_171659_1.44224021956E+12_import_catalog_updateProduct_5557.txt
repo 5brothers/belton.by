@@ -1,0 +1,15 @@
+Array
+(
+    [id] => 62
+    [name] => Картридж НР CC533A
+    [article] => CC533A
+    [manufacturer] => 
+    [images] => ["import_files\/CC533A.jpg"]
+    [bar_code] => 
+    [description] => 
+    [features] => []
+    [properties] => {"Цвет":"пурпурный","Класс-р":"Hewlett-Packard"}
+    [uuid] => 5557
+    [parent_uuid] => 1770
+    [status] => 
+)

@@ -1,0 +1,121 @@
+Array
+(
+    [REQUEST] => Array
+        (
+            [http_auth] => htauth:bVN5bmM6NTk1ZTg3Mzc4MGYxMTA1N2Q1NzFkODc2YzJkYzgyMzE=
+            [type] => catalog
+            [mode] => import
+            [filename] => import2.xml
+            [__utma] => 220655883.186059856.1436488305.1436489148.1436489148.1
+            [__utmz] => 220655883.1436489148.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none)
+            [_ga] => GA1.2.186059856.1436488305
+            [minishop2-category-grid-6] => {"start":0,"limit":1000,"action":"mgr/product/getlist","parent":"6","query":"hp"}
+            [PHPSESSID] => 43618a382a2bfc1ea35a8e2e97d2979d
+        )
+
+    [SESSION] => Array
+        (
+            [modx.user.contextTokens] => Array
+                (
+                    [mgr] => 1
+                )
+
+            [modx.user.0.resourceGroups] => Array
+                (
+                    [web] => Array
+                        (
+                        )
+
+                )
+
+            [modx.user.0.attributes] => Array
+                (
+                    [web] => Array
+                        (
+                            [modAccessContext] => Array
+                                (
+                                    [web] => Array
+                                        (
+                                            [0] => Array
+                                                (
+                                                    [principal] => 0
+                                                    [authority] => 0
+                                                    [policy] => Array
+                                                        (
+                                                            [load] => 1
+                                                        )
+
+                                                )
+
+                                        )
+
+                                )
+
+                            [modAccessResourceGroup] => Array
+                                (
+                                )
+
+                            [modAccessCategory] => Array
+                                (
+                                )
+
+                            [sources.modAccessMediaSource] => Array
+                                (
+                                )
+
+                        )
+
+                )
+
+            [minishop2] => Array
+                (
+                    [cart] => Array
+                        (
+                        )
+
+                    [order] => Array
+                        (
+                        )
+
+                )
+
+            [modx.mgr.user.token] => modx559ef256971695.35308164_155f6d3e6988044.27714247
+            [modx.mgr.session.cookie.lifetime] => 0
+            [modx.mgr.user.config] => Array
+                (
+                )
+
+            [newResourceTokens] => Array
+                (
+                    [0] => 55f6d74684fd65.32526437
+                    [1] => 55f6d89c0b1986.65065408
+                    [2] => 55f6d8a55c07f2.80088620
+                )
+
+            [Console] => Array
+                (
+                    [code] => <?php
+unset($_SESSION['last_1c_offer']);
+unset($_SESSION['importFinish']);
+unset($_SESSION['lastCategory']);
+unset($_SESSION['totalCategories']);
+unset($_SESSION['lastProperty']);
+unset($_SESSION['totalProperties']);
+unset($_SESSION['lastImportProduct']);
+unset($_SESSION['lastProduct']);
+unset($_SESSION['totalProducts']);
+unset($_SESSION['categories_mapping']);
+unset($_SESSION['properties_mapping']);
+unset($_SESSION['feature_mapping']);
+unset($_SESSION['price_mapping']);
+ 
+$_SESSION['feature_mapping'] = array();
+                )
+
+            [feature_mapping] => Array
+                (
+                )
+
+        )
+
+)

@@ -1,0 +1,15 @@
+Array
+(
+    [id] => 3
+    [name] => Картридж HP C9732A
+    [article] => C9732A
+    [manufacturer] => 
+    [images] => ["import_files\/C9732A.jpg"]
+    [bar_code] => 
+    [description] => 
+    [features] => []
+    [properties] => {"Цвет":"желтый","Класс-р":"Hewlett-Packard"}
+    [uuid] => 5532
+    [parent_uuid] => 1770
+    [status] => 
+)

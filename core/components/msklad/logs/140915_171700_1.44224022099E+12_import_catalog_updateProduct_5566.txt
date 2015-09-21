@@ -1,0 +1,15 @@
+Array
+(
+    [id] => 70
+    [name] => Картридж НР CE255XD (Сдвоенная упаковка чёрных картр. CE255X)
+    [article] => CE255XD
+    [manufacturer] => 
+    [images] => ["import_files\/CE255XD.jpg"]
+    [bar_code] => 
+    [description] => 
+    [features] => []
+    [properties] => {"Цвет":"черный","Класс-р":"Hewlett-Packard"}
+    [uuid] => 5566
+    [parent_uuid] => 1770
+    [status] => 
+)

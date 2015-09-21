@@ -1,0 +1,15 @@
+Array
+(
+    [id] => 154
+    [name] => Картридж НР CF380XD (Сдвоенная упаковка чёрных картр. CF380X)
+    [article] => CF380XD
+    [manufacturer] => 
+    [images] => ["import_files\/CF380XD.jpg"]
+    [bar_code] => 
+    [description] => 
+    [features] => []
+    [properties] => {"Цвет":"черный","Класс-р":"Hewlett-Packard"}
+    [uuid] => 4497
+    [parent_uuid] => 1770
+    [status] => 
+)

@@ -1,0 +1,15 @@
+Array
+(
+    [id] => 462
+    [name] => Печатающая головка  НР C4953A жёлтая
+    [article] => №81
+    [manufacturer] => 
+    [images] => ["import_files\/C4953A.jpg"]
+    [bar_code] => 
+    [description] => 
+    [features] => []
+    [properties] => {"Цвет":"желтый","Класс-р":"Hewlett-Packard"}
+    [uuid] => 5756
+    [parent_uuid] => 1771
+    [status] => 
+)

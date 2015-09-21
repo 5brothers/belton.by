@@ -1,0 +1,15 @@
+Array
+(
+    [id] => 485
+    [name] => Печатающая головка НР C4811A голубая №11
+    [article] => №11
+    [manufacturer] => 
+    [images] => ["import_files\/C4811A.jpg"]
+    [bar_code] => 
+    [description] => 
+    [features] => []
+    [properties] => {"Цвет":"голубой","Класс-р":"Hewlett-Packard"}
+    [uuid] => 2488
+    [parent_uuid] => 1771
+    [status] => 
+)

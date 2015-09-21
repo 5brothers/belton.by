@@ -1,0 +1,15 @@
+Array
+(
+    [id] => 184
+    [name] => Картридж НР Q5949XD (Сдвоенная упаковка чёрных картр. Q5949X)
+    [article] => Q5949XD
+    [manufacturer] => 
+    [images] => ["import_files\/Q5949XD.jpg"]
+    [bar_code] => 
+    [description] => 
+    [features] => []
+    [properties] => {"Цвет":"черный","Класс-р":"Hewlett-Packard"}
+    [uuid] => 5640
+    [parent_uuid] => 1770
+    [status] => 
+)

@@ -1,0 +1,15 @@
+Array
+(
+    [id] => 344
+    [name] => Картридж НР C9416A пурпурный
+    [article] => №38
+    [manufacturer] => 
+    [images] => ["import_files\/C9416A.jpg"]
+    [bar_code] => 
+    [description] => 
+    [features] => []
+    [properties] => {"Цвет":"пурпурный","Класс-р":"Hewlett-Packard"}
+    [uuid] => 5836
+    [parent_uuid] => 1771
+    [status] => 
+)

@@ -1,0 +1,15 @@
+Array
+(
+    [id] => 43
+    [name] => Картридж НР CB385A голубой барабан передачи изображений
+    [article] => CB385A
+    [manufacturer] => 
+    [images] => ["import_files\/CB385A.jpg"]
+    [bar_code] => 
+    [description] => 
+    [features] => []
+    [properties] => {"Цвет":"голубой","Класс-р":"Hewlett-Packard"}
+    [uuid] => 5539
+    [parent_uuid] => 1770
+    [status] => 
+)

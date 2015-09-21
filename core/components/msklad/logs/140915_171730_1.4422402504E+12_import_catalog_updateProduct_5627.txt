@@ -1,0 +1,15 @@
+Array
+(
+    [id] => 172
+    [name] => Картридж НР Q2672A
+    [article] => Q2672A
+    [manufacturer] => 
+    [images] => ["import_files\/Q2672A.jpg"]
+    [bar_code] => 
+    [description] => 
+    [features] => []
+    [properties] => {"Цвет":"желтый","Класс-р":"Hewlett-Packard"}
+    [uuid] => 5627
+    [parent_uuid] => 1770
+    [status] => 
+)

@@ -1,0 +1,15 @@
+Array
+(
+    [id] => 120
+    [name] => Картридж НР CE505L
+    [article] => CE505L
+    [manufacturer] => 
+    [images] => ["import_files\/CE505L.jpg"]
+    [bar_code] => 
+    [description] => 
+    [features] => []
+    [properties] => {"Цвет":"черный","Класс-р":"Hewlett-Packard"}
+    [uuid] => 8455
+    [parent_uuid] => 1770
+    [status] => 
+)

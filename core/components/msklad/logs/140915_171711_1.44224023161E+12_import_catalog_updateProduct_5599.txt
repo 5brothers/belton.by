@@ -1,0 +1,15 @@
+Array
+(
+    [id] => 116
+    [name] => Картридж НР CE412A
+    [article] => CE412A
+    [manufacturer] => 
+    [images] => ["import_files\/CE412A.jpg"]
+    [bar_code] => 
+    [description] => 
+    [features] => []
+    [properties] => {"Цвет":"желтый","Класс-р":"Hewlett-Packard"}
+    [uuid] => 5599
+    [parent_uuid] => 1770
+    [status] => 
+)

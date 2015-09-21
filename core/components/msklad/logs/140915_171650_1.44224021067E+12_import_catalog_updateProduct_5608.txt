@@ -1,0 +1,15 @@
+Array
+(
+    [id] => 6
+    [name] => Картридж HP CF210A
+    [article] => CF210A
+    [manufacturer] => 
+    [images] => ["import_files\/CF210A.jpg"]
+    [bar_code] => 
+    [description] => 
+    [features] => []
+    [properties] => {"Цвет":"черный","Класс-р":"Hewlett-Packard"}
+    [uuid] => 5608
+    [parent_uuid] => 1770
+    [status] => 
+)

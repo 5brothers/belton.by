@@ -1,0 +1,15 @@
+Array
+(
+    [id] => 142
+    [name] => Картридж НР CF310A
+    [article] => CF310A
+    [manufacturer] => 
+    [images] => ["import_files\/CF310A.jpg"]
+    [bar_code] => 
+    [description] => 
+    [features] => []
+    [properties] => {"Цвет":"черный","Класс-р":"Hewlett-Packard"}
+    [uuid] => 2634
+    [parent_uuid] => 1770
+    [status] => 
+)

@@ -1,0 +1,15 @@
+Array
+(
+    [id] => 448
+    [name] => Картридж НР CZ637AE чёрный картридж №46
+    [article] => №46
+    [manufacturer] => 
+    [images] => ["import_files\/CZ637AE.jpg"]
+    [bar_code] => 
+    [description] => 
+    [features] => []
+    [properties] => {"Цвет":"черный","Класс-р":"Hewlett-Packard"}
+    [uuid] => 5252
+    [parent_uuid] => 1771
+    [status] => 
+)

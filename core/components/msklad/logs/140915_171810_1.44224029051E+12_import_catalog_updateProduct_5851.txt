@@ -1,0 +1,15 @@
+Array
+(
+    [id] => 367
+    [name] => Картридж НР C9503AE (Сдвоенная упаковка трёхцветных картр.)
+    [article] => №57
+    [manufacturer] => 
+    [images] => ["import_files\/C9503AE.jpg"]
+    [bar_code] => 
+    [description] => 
+    [features] => []
+    [properties] => {"Цвет":"трехцветный","Класс-р":"Hewlett-Packard"}
+    [uuid] => 5851
+    [parent_uuid] => 1771
+    [status] => 
+)

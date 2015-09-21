@@ -1,0 +1,15 @@
+Array
+(
+    [id] => 191
+    [name] => Картридж НР Q6001A
+    [article] => Q6001A
+    [manufacturer] => 
+    [images] => ["import_files\/Q6001A.jpg"]
+    [bar_code] => 
+    [description] => 
+    [features] => []
+    [properties] => {"Цвет":"голубой","Класс-р":"Hewlett-Packard"}
+    [uuid] => 5646
+    [parent_uuid] => 1770
+    [status] => 
+)

@@ -1,0 +1,15 @@
+Array
+(
+    [id] => 211
+    [name] => Картридж НР Q7553Х
+    [article] => Q7553Х
+    [manufacturer] => 
+    [images] => ["import_files\/Q7553X.jpg"]
+    [bar_code] => 
+    [description] => 
+    [features] => []
+    [properties] => {"Цвет":"черный","Класс-р":"Hewlett-Packard"}
+    [uuid] => 5665
+    [parent_uuid] => 1770
+    [status] => 
+)

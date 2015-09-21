@@ -1,0 +1,15 @@
+Array
+(
+    [id] => 39
+    [name] => Картридж НР CB381A
+    [article] => CB381A
+    [manufacturer] => 
+    [images] => ["import_files\/CB381A.jpg"]
+    [bar_code] => 
+    [description] => 
+    [features] => []
+    [properties] => {"Цвет":"голубой","Класс-р":"Hewlett-Packard"}
+    [uuid] => 5535
+    [parent_uuid] => 1770
+    [status] => 
+)

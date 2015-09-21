@@ -1,0 +1,15 @@
+Array
+(
+    [id] => 1
+    [name] => Картридж HP 92298X
+    [article] => 92298X
+    [manufacturer] => 
+    [images] => ["import_files\/92298X.jpg"]
+    [bar_code] => 
+    [description] => 
+    [features] => []
+    [properties] => {"Цвет":"черный","Класс-р":"Hewlett-Packard"}
+    [uuid] => 5381
+    [parent_uuid] => 1770
+    [status] => 
+)

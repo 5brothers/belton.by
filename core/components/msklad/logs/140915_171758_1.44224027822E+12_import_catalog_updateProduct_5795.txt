@@ -1,0 +1,15 @@
+Array
+(
+    [id] => 311
+    [name] => Картридж НР C9351CE чёрный
+    [article] => №21XL
+    [manufacturer] => 
+    [images] => ["import_files\/C9351CE.jpg"]
+    [bar_code] => 
+    [description] => 
+    [features] => []
+    [properties] => {"Цвет":"черный","Класс-р":"Hewlett-Packard"}
+    [uuid] => 5795
+    [parent_uuid] => 1771
+    [status] => 
+)

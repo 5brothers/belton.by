@@ -1,0 +1,15 @@
+Array
+(
+    [id] => 447
+    [name] => Картридж НР CZ136A (Строенная упаковка жёлтых картр.)
+    [article] => №711
+    [manufacturer] => 
+    [images] => ["import_files\/CZ136A.jpg"]
+    [bar_code] => 
+    [description] => 
+    [features] => []
+    [properties] => {"Цвет":"желтый","Класс-р":"Hewlett-Packard"}
+    [uuid] => 5915
+    [parent_uuid] => 1771
+    [status] => 
+)

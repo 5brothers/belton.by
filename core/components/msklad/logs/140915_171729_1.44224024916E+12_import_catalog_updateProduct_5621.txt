@@ -1,0 +1,15 @@
+Array
+(
+    [id] => 165
+    [name] => Картридж НР Q2612AF (Сдвоенная упаковка чёрных картр. Q2612A)
+    [article] => Q2612AF
+    [manufacturer] => 
+    [images] => ["import_files\/Q2612AF.jpg"]
+    [bar_code] => 
+    [description] => 
+    [features] => []
+    [properties] => {"Цвет":"черный","Класс-р":"Hewlett-Packard"}
+    [uuid] => 5621
+    [parent_uuid] => 1770
+    [status] => 
+)

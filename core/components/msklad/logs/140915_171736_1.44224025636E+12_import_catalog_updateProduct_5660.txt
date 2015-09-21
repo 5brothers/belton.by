@@ -1,0 +1,15 @@
+Array
+(
+    [id] => 205
+    [name] => Картридж НР Q7516A
+    [article] => Q7516A
+    [manufacturer] => 
+    [images] => ["import_files\/Q7516A.jpg"]
+    [bar_code] => 
+    [description] => 
+    [features] => []
+    [properties] => {"Цвет":"черный","Класс-р":"Hewlett-Packard"}
+    [uuid] => 5660
+    [parent_uuid] => 1770
+    [status] => 
+)

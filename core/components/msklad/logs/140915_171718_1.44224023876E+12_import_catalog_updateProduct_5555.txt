@@ -1,0 +1,15 @@
+Array
+(
+    [id] => 151
+    [name] => Картридж НР CF372AM (Строенная упаковка цветных картр. CC531A, CC532A, CC533A)
+    [article] => CF372AM
+    [manufacturer] => 
+    [images] => ["import_files\/CF372AM.jpg"]
+    [bar_code] => 
+    [description] => 
+    [features] => []
+    [properties] => {"Цвет":"трехцветный","Класс-р":"Hewlett-Packard"}
+    [uuid] => 5555
+    [parent_uuid] => 1770
+    [status] => 
+)

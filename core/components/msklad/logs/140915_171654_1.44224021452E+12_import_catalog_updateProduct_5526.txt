@@ -1,0 +1,15 @@
+Array
+(
+    [id] => 33
+    [name] => Картридж НР C9720A
+    [article] => C9720A
+    [manufacturer] => 
+    [images] => ["import_files\/C9720A.jpg"]
+    [bar_code] => 
+    [description] => 
+    [features] => []
+    [properties] => {"Цвет":"черный","Класс-р":"Hewlett-Packard"}
+    [uuid] => 5526
+    [parent_uuid] => 1770
+    [status] => 
+)

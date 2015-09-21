@@ -1,0 +1,15 @@
+Array
+(
+    [id] => 398
+    [name] => Картридж НР CC654AE чёрный
+    [article] => №901XL
+    [manufacturer] => 
+    [images] => ["import_files\/CC654AE.jpg"]
+    [bar_code] => 
+    [description] => 
+    [features] => []
+    [properties] => {"Цвет":"черный","Класс-р":"Hewlett-Packard"}
+    [uuid] => 5251
+    [parent_uuid] => 1771
+    [status] => 
+)

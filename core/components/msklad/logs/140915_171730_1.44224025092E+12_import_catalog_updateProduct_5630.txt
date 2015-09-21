@@ -1,0 +1,15 @@
+Array
+(
+    [id] => 175
+    [name] => Картридж НР Q3961A
+    [article] => Q3961A
+    [manufacturer] => 
+    [images] => ["import_files\/Q3961A.jpg"]
+    [bar_code] => 
+    [description] => 
+    [features] => []
+    [properties] => {"Цвет":"голубой","Класс-р":"Hewlett-Packard"}
+    [uuid] => 5630
+    [parent_uuid] => 1770
+    [status] => 
+)

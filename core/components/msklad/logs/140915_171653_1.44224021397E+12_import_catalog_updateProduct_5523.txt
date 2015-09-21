@@ -1,0 +1,15 @@
+Array
+(
+    [id] => 30
+    [name] => Картридж НР C9702A
+    [article] => C9702A
+    [manufacturer] => 
+    [images] => ["import_files\/C9702A.jpg"]
+    [bar_code] => 
+    [description] => 
+    [features] => []
+    [properties] => {"Цвет":"желтый","Класс-р":"Hewlett-Packard"}
+    [uuid] => 5523
+    [parent_uuid] => 1770
+    [status] => 
+)

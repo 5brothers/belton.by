@@ -1,0 +1,15 @@
+Array
+(
+    [id] => 193
+    [name] => Картридж НР Q6003A
+    [article] => Q6003A
+    [manufacturer] => 
+    [images] => ["import_files\/Q6003A.jpg"]
+    [bar_code] => 
+    [description] => 
+    [features] => []
+    [properties] => {"Цвет":"пурпурный","Класс-р":"Hewlett-Packard"}
+    [uuid] => 5648
+    [parent_uuid] => 1770
+    [status] => 
+)

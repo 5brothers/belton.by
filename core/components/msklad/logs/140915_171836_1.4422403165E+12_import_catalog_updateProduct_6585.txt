@@ -1,0 +1,15 @@
+Array
+(
+    [id] => 490
+    [name] => Печатающая головка НР C9463A фото чёрная и свет.-серая №91
+    [article] => №91
+    [manufacturer] => 
+    [images] => ["import_files\/C9463A.jpg"]
+    [bar_code] => 
+    [description] => 
+    [features] => []
+    [properties] => {"Цвет":"чёрная и светло-серая","Класс-р":"Hewlett-Packard"}
+    [uuid] => 6585
+    [parent_uuid] => 1771
+    [status] => 
+)

@@ -1,0 +1,15 @@
+Array
+(
+    [id] => 102
+    [name] => Картридж НР CE342A
+    [article] => CE342A
+    [manufacturer] => 
+    [images] => ["import_files\/CE342A.jpg"]
+    [bar_code] => 
+    [description] => 
+    [features] => []
+    [properties] => {"Цвет":"желтый","Класс-р":"Hewlett-Packard"}
+    [uuid] => 5620
+    [parent_uuid] => 1770
+    [status] => 
+)

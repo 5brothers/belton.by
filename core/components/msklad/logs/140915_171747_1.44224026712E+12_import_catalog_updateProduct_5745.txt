@@ -1,0 +1,15 @@
+Array
+(
+    [id] => 261
+    [name] => Картридж НР C4871A чёрный
+    [article] => №80
+    [manufacturer] => 
+    [images] => ["import_files\/C4871A.jpg"]
+    [bar_code] => 
+    [description] => 
+    [features] => []
+    [properties] => {"Цвет":"черный","Класс-р":"Hewlett-Packard"}
+    [uuid] => 5745
+    [parent_uuid] => 1771
+    [status] => 
+)

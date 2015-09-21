@@ -1,0 +1,15 @@
+Array
+(
+    [id] => 432
+    [name] => Картридж НР CN684HE чёрный
+    [article] => №178XL
+    [manufacturer] => 
+    [images] => ["import_files\/CN684HE.jpg"]
+    [bar_code] => 
+    [description] => 
+    [features] => []
+    [properties] => {"Цвет":"черный","Класс-р":"Hewlett-Packard"}
+    [uuid] => 5859
+    [parent_uuid] => 1771
+    [status] => 
+)

@@ -1,0 +1,8 @@
+Array
+(
+    [id] => 4
+    [name] => Струйные
+    [uuid] => 1771
+    [parent_uuid] => 486
+    [level] => 2
+)

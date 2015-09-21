@@ -1,0 +1,15 @@
+Array
+(
+    [id] => 384
+    [name] => Картридж НР CB338HE трёхцветный картридж №141XL
+    [article] => №141XL
+    [manufacturer] => 
+    [images] => ["import_files\/CB338HE.jpg"]
+    [bar_code] => 
+    [description] => 
+    [features] => []
+    [properties] => {"Цвет":"трехцветный","Класс-р":"Hewlett-Packard"}
+    [uuid] => 5869
+    [parent_uuid] => 1771
+    [status] => 
+)

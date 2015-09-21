@@ -1,0 +1,15 @@
+Array
+(
+    [id] => 389
+    [name] => Картридж НР CB345A (Сдвоенная упаковка жёлтых картр.)
+    [article] => №70
+    [manufacturer] => 
+    [images] => ["import_files\/CB345A.jpg"]
+    [bar_code] => 
+    [description] => 
+    [features] => []
+    [properties] => {"Цвет":"желтый","Класс-р":"Hewlett-Packard"}
+    [uuid] => 5875
+    [parent_uuid] => 1771
+    [status] => 
+)

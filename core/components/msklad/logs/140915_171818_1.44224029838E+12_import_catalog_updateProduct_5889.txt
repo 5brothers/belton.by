@@ -1,0 +1,15 @@
+Array
+(
+    [id] => 405
+    [name] => Картридж НР CH562HE трёхцветный
+    [article] => №122
+    [manufacturer] => 
+    [images] => ["import_files\/CH562HE.jpg"]
+    [bar_code] => 
+    [description] => 
+    [features] => []
+    [properties] => {"Цвет":"трехцветный","Класс-р":"Hewlett-Packard"}
+    [uuid] => 5889
+    [parent_uuid] => 1771
+    [status] => 
+)

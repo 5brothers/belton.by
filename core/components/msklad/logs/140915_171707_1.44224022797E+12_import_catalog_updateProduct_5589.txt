@@ -1,0 +1,15 @@
+Array
+(
+    [id] => 97
+    [name] => Картридж НР CE321A
+    [article] => CE321A
+    [manufacturer] => 
+    [images] => ["import_files\/CE321A.jpg"]
+    [bar_code] => 
+    [description] => 
+    [features] => []
+    [properties] => {"Цвет":"голубой","Класс-р":"Hewlett-Packard"}
+    [uuid] => 5589
+    [parent_uuid] => 1770
+    [status] => 
+)

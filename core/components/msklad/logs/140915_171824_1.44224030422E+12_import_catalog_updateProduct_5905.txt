@@ -1,0 +1,15 @@
+Array
+(
+    [id] => 437
+    [name] => Картридж НР CZ110AE голубой
+    [article] => №655
+    [manufacturer] => 
+    [images] => ["import_files\/CZ110AE.jpg"]
+    [bar_code] => 
+    [description] => 
+    [features] => []
+    [properties] => {"Цвет":"голубой","Класс-р":"Hewlett-Packard"}
+    [uuid] => 5905
+    [parent_uuid] => 1771
+    [status] => 
+)

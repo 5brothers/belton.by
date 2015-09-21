@@ -1,0 +1,15 @@
+Array
+(
+    [id] => 370
+    [name] => Картридж НР CB316HE чёрный
+    [article] => №178
+    [manufacturer] => 
+    [images] => ["import_files\/CB316HE.jpg"]
+    [bar_code] => 
+    [description] => 
+    [features] => []
+    [properties] => {"Цвет":"черный","Класс-р":"Hewlett-Packard"}
+    [uuid] => 5854
+    [parent_uuid] => 1771
+    [status] => 
+)

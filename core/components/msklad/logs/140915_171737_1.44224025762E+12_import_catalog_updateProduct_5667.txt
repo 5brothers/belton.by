@@ -1,0 +1,15 @@
+Array
+(
+    [id] => 212
+    [name] => Картридж НР Q7570A
+    [article] => Q7570A
+    [manufacturer] => 
+    [images] => ["import_files\/Q7570A.jpg"]
+    [bar_code] => 
+    [description] => 
+    [features] => []
+    [properties] => {"Цвет":"черный","Класс-р":"Hewlett-Packard"}
+    [uuid] => 5667
+    [parent_uuid] => 1770
+    [status] => 
+)

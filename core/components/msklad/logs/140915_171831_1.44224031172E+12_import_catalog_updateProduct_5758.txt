@@ -1,0 +1,15 @@
+Array
+(
+    [id] => 464
+    [name] => Печатающая головка  НР C4955A светло-пурпурная
+    [article] => №81
+    [manufacturer] => 
+    [images] => ["import_files\/C4955A.jpg"]
+    [bar_code] => 
+    [description] => 
+    [features] => []
+    [properties] => {"Цвет":"светло-пурпурная","Класс-р":"Hewlett-Packard"}
+    [uuid] => 5758
+    [parent_uuid] => 1771
+    [status] => 
+)

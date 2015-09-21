@@ -1,0 +1,15 @@
+Array
+(
+    [id] => 415
+    [name] => Картридж НР CN050AE
+    [article] => CN050AE
+    [manufacturer] => 
+    [images] => ["import_files\/CN050AE.jpg"]
+    [bar_code] => 
+    [description] => 
+    [features] => []
+    [properties] => {"Цвет":"голубой","Класс-р":"Hewlett-Packard"}
+    [uuid] => 8636
+    [parent_uuid] => 1771
+    [status] => 
+)

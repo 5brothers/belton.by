@@ -1,0 +1,15 @@
+Array
+(
+    [id] => 336
+    [name] => Картридж НР C9399A пурпурный
+    [article] => №72
+    [manufacturer] => 
+    [images] => ["import_files\/C9399A.jpg"]
+    [bar_code] => 
+    [description] => 
+    [features] => []
+    [properties] => {"Цвет":"пурпурный","Класс-р":"Hewlett-Packard"}
+    [uuid] => 5824
+    [parent_uuid] => 1771
+    [status] => 
+)

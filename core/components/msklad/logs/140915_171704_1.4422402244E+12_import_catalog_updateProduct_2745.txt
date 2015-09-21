@@ -1,0 +1,15 @@
+Array
+(
+    [id] => 85
+    [name] => Картридж НР CE278L
+    [article] => CE278L
+    [manufacturer] => 
+    [images] => ["import_files\/CE278L.jpg"]
+    [bar_code] => 
+    [description] => 
+    [features] => []
+    [properties] => {"Цвет":"черный","Класс-р":"Hewlett-Packard"}
+    [uuid] => 2745
+    [parent_uuid] => 1770
+    [status] => 
+)

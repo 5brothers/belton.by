@@ -1,0 +1,15 @@
+Array
+(
+    [id] => 231
+    [name] => Картридж НР B3P17A фото-чёрный картридж №727
+    [article] => B3P17A
+    [manufacturer] => 
+    [images] => ["import_files\/B3P17A.jpg"]
+    [bar_code] => 
+    [description] => 
+    [features] => []
+    [properties] => {"Цвет":"черный фото","Класс-р":"Hewlett-Packard"}
+    [uuid] => 6487
+    [parent_uuid] => 1771
+    [status] => 
+)

@@ -1,0 +1,15 @@
+Array
+(
+    [id] => 17
+    [name] => Картридж НР C4129X
+    [article] => C4129X
+    [manufacturer] => 
+    [images] => ["import_files\/C4129X.jpg"]
+    [bar_code] => 
+    [description] => 
+    [features] => []
+    [properties] => {"Цвет":"черный","Класс-р":"Hewlett-Packard"}
+    [uuid] => 5510
+    [parent_uuid] => 1770
+    [status] => 
+)

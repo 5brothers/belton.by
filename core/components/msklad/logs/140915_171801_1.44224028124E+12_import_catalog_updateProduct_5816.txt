@@ -1,0 +1,15 @@
+Array
+(
+    [id] => 327
+    [name] => Картридж НР C9387AE пурпурный
+    [article] => №88
+    [manufacturer] => 
+    [images] => ["import_files\/C9387AE_400x400.jpg"]
+    [bar_code] => 
+    [description] => 
+    [features] => []
+    [properties] => {"Цвет":"пурпурный","Класс-р":"Hewlett-Packard"}
+    [uuid] => 5816
+    [parent_uuid] => 1771
+    [status] => 
+)

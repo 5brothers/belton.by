@@ -1,0 +1,15 @@
+Array
+(
+    [id] => 361
+    [name] => Картридж НР C9483A (Строенная упаковка голубых картр. № 91 (C9467A))
+    [article] => C9483A
+    [manufacturer] => 
+    [images] => ["import_files\/C9483A.jpg"]
+    [bar_code] => 
+    [description] => 
+    [features] => []
+    [properties] => {"Цвет":"голубой","Класс-р":"Hewlett-Packard"}
+    [uuid] => 6184
+    [parent_uuid] => 1771
+    [status] => 
+)

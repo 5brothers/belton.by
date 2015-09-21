@@ -1,0 +1,15 @@
+Array
+(
+    [id] => 473
+    [name] => Печатающая головка  НР C9383A пурпурная и голубая
+    [article] => №72
+    [manufacturer] => 
+    [images] => ["import_files\/C9383A.jpg"]
+    [bar_code] => 
+    [description] => 
+    [features] => []
+    [properties] => {"Цвет":"пурпурный, голубой","Класс-р":"Hewlett-Packard"}
+    [uuid] => 5812
+    [parent_uuid] => 1771
+    [status] => 
+)

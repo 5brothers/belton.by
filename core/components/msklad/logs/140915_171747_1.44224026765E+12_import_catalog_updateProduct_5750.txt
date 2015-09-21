@@ -1,0 +1,15 @@
+Array
+(
+    [id] => 264
+    [name] => Картридж НР C4907AE голубой
+    [article] => №940XL
+    [manufacturer] => 
+    [images] => ["import_files\/C4907AE.jpg"]
+    [bar_code] => 
+    [description] => 
+    [features] => []
+    [properties] => {"Цвет":"голубой","Класс-р":"Hewlett-Packard"}
+    [uuid] => 5750
+    [parent_uuid] => 1771
+    [status] => 
+)

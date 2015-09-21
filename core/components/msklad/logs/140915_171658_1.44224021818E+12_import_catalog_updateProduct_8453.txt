@@ -1,0 +1,15 @@
+Array
+(
+    [id] => 55
+    [name] => Картридж НР CB543A
+    [article] => CB543A
+    [manufacturer] => 
+    [images] => ["import_files\/CB543A.jpg"]
+    [bar_code] => 
+    [description] => 
+    [features] => []
+    [properties] => {"Цвет":"пурпурный","Класс-р":"Hewlett-Packard"}
+    [uuid] => 8453
+    [parent_uuid] => 1770
+    [status] => 
+)

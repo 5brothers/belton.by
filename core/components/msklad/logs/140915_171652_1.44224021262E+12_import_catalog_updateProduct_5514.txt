@@ -1,0 +1,15 @@
+Array
+(
+    [id] => 21
+    [name] => Картридж НР C8061A
+    [article] => C8061A
+    [manufacturer] => 
+    [images] => ["import_files\/C8061A.jpg"]
+    [bar_code] => 
+    [description] => 
+    [features] => []
+    [properties] => {"Цвет":"черный","Класс-р":"Hewlett-Packard"}
+    [uuid] => 5514
+    [parent_uuid] => 1770
+    [status] => 
+)

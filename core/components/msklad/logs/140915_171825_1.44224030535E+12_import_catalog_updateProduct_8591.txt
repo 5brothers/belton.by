@@ -1,0 +1,15 @@
+Array
+(
+    [id] => 443
+    [name] => Картридж НР CZ132A жёлтый
+    [article] => №711Y
+    [manufacturer] => 
+    [images] => ["import_files\/CZ132A.jpg"]
+    [bar_code] => 
+    [description] => 
+    [features] => []
+    [properties] => {"Цвет":"желтый","Класс-р":"Hewlett-Packard"}
+    [uuid] => 8591
+    [parent_uuid] => 1771
+    [status] => 
+)

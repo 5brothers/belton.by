@@ -1,0 +1,15 @@
+Array
+(
+    [id] => 52
+    [name] => Картридж НР CB540AD (Сдвоенная упаковка чёрных картр. CB540A)
+    [article] => CB540AD
+    [manufacturer] => 
+    [images] => ["import_files\/CB540AD.jpg"]
+    [bar_code] => 
+    [description] => 
+    [features] => []
+    [properties] => {"Цвет":"черный","Класс-р":"Hewlett-Packard"}
+    [uuid] => 5546
+    [parent_uuid] => 1770
+    [status] => 
+)

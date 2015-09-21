@@ -1,0 +1,15 @@
+Array
+(
+    [id] => 390
+    [name] => Картридж НР CB346A (Сдвоенная упаковка светло-пурпурных картр.)
+    [article] => №70
+    [manufacturer] => 
+    [images] => ["import_files\/CB346A.jpeg"]
+    [bar_code] => 
+    [description] => 
+    [features] => []
+    [properties] => {"Цвет":"светло-пурпурная","Класс-р":"Hewlett-Packard"}
+    [uuid] => 5876
+    [parent_uuid] => 1771
+    [status] => 
+)

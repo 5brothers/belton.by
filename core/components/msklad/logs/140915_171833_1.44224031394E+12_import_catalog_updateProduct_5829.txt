@@ -1,0 +1,15 @@
+Array
+(
+    [id] => 476
+    [name] => Печатающая головка  НР C9405A светло-пурпурная и светло-голубая
+    [article] => №70
+    [manufacturer] => 
+    [images] => ["import_files\/C9405A.jpg"]
+    [bar_code] => 
+    [description] => 
+    [features] => []
+    [properties] => {"Цвет":"светло-пурпурная и светло-голубая","Класс-р":"Hewlett-Packard"}
+    [uuid] => 5829
+    [parent_uuid] => 1771
+    [status] => 
+)

@@ -1,0 +1,15 @@
+Array
+(
+    [id] => 57
+    [name] => Картридж НР CC364XD (Сдвоенная упаковка чёрных картр. CC364X)
+    [article] => CC364XD
+    [manufacturer] => 
+    [images] => ["import_files\/CC364XD.jpg"]
+    [bar_code] => 
+    [description] => 
+    [features] => []
+    [properties] => {"Цвет":"черный","Класс-р":"Hewlett-Packard"}
+    [uuid] => 5552
+    [parent_uuid] => 1770
+    [status] => 
+)

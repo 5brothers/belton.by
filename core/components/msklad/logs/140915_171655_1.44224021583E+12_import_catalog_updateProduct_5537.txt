@@ -1,0 +1,15 @@
+Array
+(
+    [id] => 41
+    [name] => Картридж НР CB383A
+    [article] => CB383A
+    [manufacturer] => 
+    [images] => ["import_files\/CB383A.jpg"]
+    [bar_code] => 
+    [description] => 
+    [features] => []
+    [properties] => {"Цвет":"пурпурный","Класс-р":"Hewlett-Packard"}
+    [uuid] => 5537
+    [parent_uuid] => 1770
+    [status] => 
+)

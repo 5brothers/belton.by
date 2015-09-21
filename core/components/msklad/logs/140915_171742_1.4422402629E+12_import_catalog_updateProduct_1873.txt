@@ -1,0 +1,15 @@
+Array
+(
+    [id] => 241
+    [name] => Картридж НР B6Y34A (Строенная упаковка жёлтых картр. № 771C (B6Y10A))
+    [article] => B6Y34A
+    [manufacturer] => 
+    [images] => ["import_files\/B6Y34A.jpg"]
+    [bar_code] => 
+    [description] => 
+    [features] => []
+    [properties] => {"Цвет":"желтый","Класс-р":"Hewlett-Packard"}
+    [uuid] => 1873
+    [parent_uuid] => 1771
+    [status] => 
+)

@@ -1,0 +1,15 @@
+Array
+(
+    [id] => 412
+    [name] => Картридж НР CN047AE пурпурный
+    [article] => №951XL
+    [manufacturer] => 
+    [images] => ["import_files\/CN047AE.jpg"]
+    [bar_code] => 
+    [description] => 
+    [features] => []
+    [properties] => {"Цвет":"пурпурный","Класс-р":"Hewlett-Packard"}
+    [uuid] => 5895
+    [parent_uuid] => 1771
+    [status] => 
+)

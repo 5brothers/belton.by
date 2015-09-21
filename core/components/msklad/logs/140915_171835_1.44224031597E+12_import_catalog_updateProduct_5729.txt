@@ -1,0 +1,15 @@
+Array
+(
+    [id] => 487
+    [name] => Печатающая головка НР C4813A желтая №11
+    [article] => №11
+    [manufacturer] => 
+    [images] => ["import_files\/C4813A.jpg"]
+    [bar_code] => 
+    [description] => 
+    [features] => []
+    [properties] => {"Цвет":"желтый","Класс-р":"Hewlett-Packard"}
+    [uuid] => 5729
+    [parent_uuid] => 1771
+    [status] => 
+)

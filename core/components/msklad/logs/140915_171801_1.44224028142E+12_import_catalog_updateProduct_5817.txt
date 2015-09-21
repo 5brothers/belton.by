@@ -1,0 +1,15 @@
+Array
+(
+    [id] => 328
+    [name] => Картридж НР C9388AE жёлтый
+    [article] => №88
+    [manufacturer] => 
+    [images] => ["import_files\/C9388AE_400x400.jpg"]
+    [bar_code] => 
+    [description] => 
+    [features] => []
+    [properties] => {"Цвет":"желтый","Класс-р":"Hewlett-Packard"}
+    [uuid] => 5817
+    [parent_uuid] => 1771
+    [status] => 
+)

@@ -1,0 +1,15 @@
+Array
+(
+    [id] => 382
+    [name] => Картридж НР CB336HE чёрный
+    [article] => №140
+    [manufacturer] => 
+    [images] => ["import_files\/CB336HE.jpeg"]
+    [bar_code] => 
+    [description] => 
+    [features] => []
+    [properties] => {"Цвет":"черный","Класс-р":"Hewlett-Packard"}
+    [uuid] => 5867
+    [parent_uuid] => 1771
+    [status] => 
+)

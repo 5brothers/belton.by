@@ -1,0 +1,15 @@
+Array
+(
+    [id] => 349
+    [name] => Картридж НР C9426A пурпурный
+    [article] => №85
+    [manufacturer] => 
+    [images] => ["import_files\/C9426A.jpg"]
+    [bar_code] => 
+    [description] => 
+    [features] => []
+    [properties] => {"Цвет":"пурпурный","Класс-р":"Hewlett-Packard"}
+    [uuid] => 5846
+    [parent_uuid] => 1771
+    [status] => 
+)

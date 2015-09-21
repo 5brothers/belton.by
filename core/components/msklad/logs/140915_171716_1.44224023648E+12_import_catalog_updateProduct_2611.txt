@@ -1,0 +1,15 @@
+Array
+(
+    [id] => 140
+    [name] => Картридж НР CF283X
+    [article] => CF283X
+    [manufacturer] => 
+    [images] => ["import_files\/CF283X.jpg"]
+    [bar_code] => 
+    [description] => 
+    [features] => []
+    [properties] => {"Цвет":"черный","Класс-р":"Hewlett-Packard"}
+    [uuid] => 2611
+    [parent_uuid] => 1770
+    [status] => 
+)

@@ -1,0 +1,15 @@
+Array
+(
+    [id] => 337
+    [name] => Картридж НР C9400A жёлтый
+    [article] => №72
+    [manufacturer] => 
+    [images] => ["import_files\/C9400A.jpg"]
+    [bar_code] => 
+    [description] => 
+    [features] => []
+    [properties] => {"Цвет":"желтый","Класс-р":"Hewlett-Packard"}
+    [uuid] => 5825
+    [parent_uuid] => 1771
+    [status] => 
+)

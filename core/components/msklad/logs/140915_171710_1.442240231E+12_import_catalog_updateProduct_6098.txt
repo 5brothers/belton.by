@@ -1,0 +1,15 @@
+Array
+(
+    [id] => 113
+    [name] => Картридж НР CE410XD
+    [article] => CE410XD
+    [manufacturer] => 
+    [images] => ["import_files\/CE410XD.jpg"]
+    [bar_code] => 
+    [description] => 
+    [features] => []
+    [properties] => {"Цвет":"черный","Класс-р":"Hewlett-Packard"}
+    [uuid] => 6098
+    [parent_uuid] => 1770
+    [status] => 
+)

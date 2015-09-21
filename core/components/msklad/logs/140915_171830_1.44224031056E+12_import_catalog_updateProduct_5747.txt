@@ -1,0 +1,15 @@
+Array
+(
+    [id] => 458
+    [name] => Печатающая головка  НР C4901A пурпурная и голубая
+    [article] => №940
+    [manufacturer] => 
+    [images] => ["import_files\/C4901A.jpg"]
+    [bar_code] => 
+    [description] => 
+    [features] => []
+    [properties] => {"Цвет":"пурпурный, голубой","Класс-р":"Hewlett-Packard"}
+    [uuid] => 5747
+    [parent_uuid] => 1771
+    [status] => 
+)

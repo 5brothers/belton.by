@@ -1,0 +1,15 @@
+Array
+(
+    [id] => 338
+    [name] => Картридж НР C9401A серый
+    [article] => №72
+    [manufacturer] => 
+    [images] => ["import_files\/C9401A.jpg"]
+    [bar_code] => 
+    [description] => 
+    [features] => []
+    [properties] => {"Цвет":"серый","Класс-р":"Hewlett-Packard"}
+    [uuid] => 5826
+    [parent_uuid] => 1771
+    [status] => 
+)

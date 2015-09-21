@@ -1,0 +1,15 @@
+Array
+(
+    [id] => 385
+    [name] => Картридж НР CB340A (Сдвоенная упаковка чёрных фотокартр.)
+    [article] => №70
+    [manufacturer] => 
+    [images] => ["import_files\/CB340A.jpg"]
+    [bar_code] => 
+    [description] => 
+    [features] => []
+    [properties] => {"Цвет":"черный фото","Класс-р":"Hewlett-Packard"}
+    [uuid] => 5871
+    [parent_uuid] => 1771
+    [status] => 
+)

@@ -1,0 +1,15 @@
+Array
+(
+    [id] => 399
+    [name] => Картридж НР CC656AE трёхцветный картридж №901
+    [article] => №901
+    [manufacturer] => 
+    [images] => ["import_files\/CC656AE.jpg"]
+    [bar_code] => 
+    [description] => 
+    [features] => []
+    [properties] => {"Цвет":"трехцветный","Класс-р":"Hewlett-Packard"}
+    [uuid] => 8635
+    [parent_uuid] => 1771
+    [status] => 
+)

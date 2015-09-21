@@ -1,0 +1,15 @@
+Array
+(
+    [id] => 314
+    [name] => Картридж НР C9361HE трёхцветный
+    [article] => №136
+    [manufacturer] => 
+    [images] => ["import_files\/C9361HE.jpg"]
+    [bar_code] => 
+    [description] => 
+    [features] => []
+    [properties] => {"Цвет":"трехцветный","Класс-р":"Hewlett-Packard"}
+    [uuid] => 5798
+    [parent_uuid] => 1771
+    [status] => 
+)

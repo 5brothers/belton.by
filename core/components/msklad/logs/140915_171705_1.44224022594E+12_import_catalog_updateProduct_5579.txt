@@ -1,0 +1,15 @@
+Array
+(
+    [id] => 89
+    [name] => Картридж НР CE310A
+    [article] => CE310A
+    [manufacturer] => 
+    [images] => ["import_files\/CE310A.jpg"]
+    [bar_code] => 
+    [description] => 
+    [features] => []
+    [properties] => {"Цвет":"черный","Класс-р":"Hewlett-Packard"}
+    [uuid] => 5579
+    [parent_uuid] => 1770
+    [status] => 
+)

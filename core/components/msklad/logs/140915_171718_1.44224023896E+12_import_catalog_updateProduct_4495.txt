@@ -1,0 +1,15 @@
+Array
+(
+    [id] => 152
+    [name] => Картридж НР CF380A
+    [article] => CF380A
+    [manufacturer] => 
+    [images] => ["import_files\/CF380A.jpg"]
+    [bar_code] => 
+    [description] => 
+    [features] => []
+    [properties] => {"Цвет":"черный","Класс-р":"Hewlett-Packard"}
+    [uuid] => 4495
+    [parent_uuid] => 1770
+    [status] => 
+)

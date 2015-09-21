@@ -1,0 +1,15 @@
+Array
+(
+    [id] => 117
+    [name] => Картридж НР CE413A
+    [article] => CE413A
+    [manufacturer] => 
+    [images] => ["import_files\/CE413A.jpg"]
+    [bar_code] => 
+    [description] => 
+    [features] => []
+    [properties] => {"Цвет":"пурпурный","Класс-р":"Hewlett-Packard"}
+    [uuid] => 5600
+    [parent_uuid] => 1770
+    [status] => 
+)

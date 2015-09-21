@@ -1,0 +1,15 @@
+Array
+(
+    [id] => 474
+    [name] => Печатающая головка  НР C9384A чёрная и жёлтая
+    [article] => №72
+    [manufacturer] => 
+    [images] => ["import_files\/C9384A.jpg"]
+    [bar_code] => 
+    [description] => 
+    [features] => []
+    [properties] => {"Цвет":"черный, желтый","Класс-р":"Hewlett-Packard"}
+    [uuid] => 5813
+    [parent_uuid] => 1771
+    [status] => 
+)

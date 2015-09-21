@@ -1,0 +1,15 @@
+Array
+(
+    [id] => 24
+    [name] => Картридж НР C8550A
+    [article] => C8550A
+    [manufacturer] => 
+    [images] => ["import_files\/C8550A.jpg"]
+    [bar_code] => 
+    [description] => 
+    [features] => []
+    [properties] => {"Цвет":"черный","Класс-р":"Hewlett-Packard"}
+    [uuid] => 5517
+    [parent_uuid] => 1770
+    [status] => 
+)

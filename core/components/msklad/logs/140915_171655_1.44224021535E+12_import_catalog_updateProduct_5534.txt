@@ -1,0 +1,15 @@
+Array
+(
+    [id] => 38
+    [name] => Картридж НР CB380A
+    [article] => CB380A
+    [manufacturer] => 
+    [images] => ["import_files\/CB380A.jpg"]
+    [bar_code] => 
+    [description] => 
+    [features] => []
+    [properties] => {"Цвет":"черный","Класс-р":"Hewlett-Packard"}
+    [uuid] => 5534
+    [parent_uuid] => 1770
+    [status] => 
+)

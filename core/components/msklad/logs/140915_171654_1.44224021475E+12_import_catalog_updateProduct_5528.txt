@@ -1,0 +1,15 @@
+Array
+(
+    [id] => 35
+    [name] => Картридж НР C9722A
+    [article] => C9722A
+    [manufacturer] => 
+    [images] => ["import_files\/C9722A.jpg"]
+    [bar_code] => 
+    [description] => 
+    [features] => []
+    [properties] => {"Цвет":"желтый","Класс-р":"Hewlett-Packard"}
+    [uuid] => 5528
+    [parent_uuid] => 1770
+    [status] => 
+)

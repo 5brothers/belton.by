@@ -1,0 +1,15 @@
+Array
+(
+    [id] => 173
+    [name] => Картридж НР Q2673A
+    [article] => Q2673A
+    [manufacturer] => 
+    [images] => ["import_files\/Q2673A.jpg"]
+    [bar_code] => 
+    [description] => 
+    [features] => []
+    [properties] => {"Цвет":"пурпурный","Класс-р":"Hewlett-Packard"}
+    [uuid] => 5628
+    [parent_uuid] => 1770
+    [status] => 
+)

@@ -1,0 +1,15 @@
+Array
+(
+    [id] => 450
+    [name] => Картридж НР F6T40AE  (Строенная уп. картр. №46 (2 чёрн. картр. CZ637AE и трёх-ый картр. CZ638AE))
+    [article] => F6T40AE
+    [manufacturer] => 
+    [images] => ["import_files\/F6T40AE.jpg"]
+    [bar_code] => 
+    [description] => 
+    [features] => []
+    [properties] => {"Цвет":"ч\/б, трехцветный","Класс-р":"Hewlett-Packard"}
+    [uuid] => 5911
+    [parent_uuid] => 1771
+    [status] => 
+)

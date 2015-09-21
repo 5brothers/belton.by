@@ -1,0 +1,15 @@
+Array
+(
+    [id] => 325
+    [name] => Картридж НР C9385AE чёрный
+    [article] => №88
+    [manufacturer] => 
+    [images] => ["import_files\/C9385AE_400x400.jpg"]
+    [bar_code] => 
+    [description] => 
+    [features] => []
+    [properties] => {"Цвет":"черный","Класс-р":"Hewlett-Packard"}
+    [uuid] => 5814
+    [parent_uuid] => 1771
+    [status] => 
+)

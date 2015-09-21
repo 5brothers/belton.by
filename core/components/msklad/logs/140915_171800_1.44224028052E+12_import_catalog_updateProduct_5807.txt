@@ -1,0 +1,15 @@
+Array
+(
+    [id] => 323
+    [name] => Картридж НР C9373A жёлтый
+    [article] => №72XL
+    [manufacturer] => 
+    [images] => ["import_files\/C9373A.jpg"]
+    [bar_code] => 
+    [description] => 
+    [features] => []
+    [properties] => {"Цвет":"желтый","Класс-р":"Hewlett-Packard"}
+    [uuid] => 5807
+    [parent_uuid] => 1771
+    [status] => 
+)

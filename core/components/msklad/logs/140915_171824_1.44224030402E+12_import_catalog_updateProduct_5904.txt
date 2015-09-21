@@ -1,0 +1,15 @@
+Array
+(
+    [id] => 436
+    [name] => Картридж НР CZ109AE чёрный
+    [article] => №655
+    [manufacturer] => 
+    [images] => ["import_files\/CZ109AE.jpg"]
+    [bar_code] => 
+    [description] => 
+    [features] => []
+    [properties] => {"Цвет":"черный","Класс-р":"Hewlett-Packard"}
+    [uuid] => 5904
+    [parent_uuid] => 1771
+    [status] => 
+)

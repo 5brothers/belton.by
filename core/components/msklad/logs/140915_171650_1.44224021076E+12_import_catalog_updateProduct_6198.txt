@@ -1,0 +1,15 @@
+Array
+(
+    [id] => 7
+    [name] => Картридж HP CF210XD (Сдвоенная упаковка чёрных картр. CF210X)
+    [article] => CF210XD
+    [manufacturer] => 
+    [images] => ["import_files\/CF210XD.jpg"]
+    [bar_code] => 
+    [description] => 
+    [features] => []
+    [properties] => {"Цвет":"черный","Класс-р":"Hewlett-Packard"}
+    [uuid] => 6198
+    [parent_uuid] => 1770
+    [status] => 
+)

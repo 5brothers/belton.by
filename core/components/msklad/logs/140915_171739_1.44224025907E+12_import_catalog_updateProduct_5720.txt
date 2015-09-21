@@ -1,0 +1,15 @@
+Array
+(
+    [id] => 220
+    [name] => Картридж НР 51629AE чёрный картридж
+    [article] => №29
+    [manufacturer] => 
+    [images] => ["import_files\/51629AE.jpg"]
+    [bar_code] => 
+    [description] => 
+    [features] => []
+    [properties] => {"Цвет":"черный","Класс-р":"Hewlett-Packard"}
+    [uuid] => 5720
+    [parent_uuid] => 1771
+    [status] => 
+)

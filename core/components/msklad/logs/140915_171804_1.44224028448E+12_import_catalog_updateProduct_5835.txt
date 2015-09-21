@@ -1,0 +1,15 @@
+Array
+(
+    [id] => 343
+    [name] => Картридж НР C9415A голубой
+    [article] => №38
+    [manufacturer] => 
+    [images] => ["import_files\/C9415A.jpg"]
+    [bar_code] => 
+    [description] => 
+    [features] => []
+    [properties] => {"Цвет":"голубой","Класс-р":"Hewlett-Packard"}
+    [uuid] => 5835
+    [parent_uuid] => 1771
+    [status] => 
+)

@@ -1,0 +1,15 @@
+Array
+(
+    [id] => 265
+    [name] => Картридж НР C4908AE пурпурный
+    [article] => №940XL
+    [manufacturer] => 
+    [images] => ["import_files\/C4908AE.jpg"]
+    [bar_code] => 
+    [description] => 
+    [features] => []
+    [properties] => {"Цвет":"пурпурный","Класс-р":"Hewlett-Packard"}
+    [uuid] => 5751
+    [parent_uuid] => 1771
+    [status] => 
+)

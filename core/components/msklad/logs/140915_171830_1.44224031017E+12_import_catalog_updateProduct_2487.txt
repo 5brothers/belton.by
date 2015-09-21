@@ -1,0 +1,15 @@
+Array
+(
+    [id] => 456
+    [name] => Печатающая головка  НР C4810А чёрная
+    [article] => №11
+    [manufacturer] => 
+    [images] => ["import_files\/C4810A.jpg"]
+    [bar_code] => 
+    [description] => 
+    [features] => []
+    [properties] => {"Цвет":"черный","Класс-р":"Hewlett-Packard"}
+    [uuid] => 2487
+    [parent_uuid] => 1771
+    [status] => 
+)

@@ -1,0 +1,15 @@
+Array
+(
+    [id] => 138
+    [name] => Картридж НР CF283A
+    [article] => CF283A
+    [manufacturer] => 
+    [images] => ["import_files\/CF283A.jpg"]
+    [bar_code] => 
+    [description] => 
+    [features] => []
+    [properties] => {"Цвет":"черный","Класс-р":"Hewlett-Packard"}
+    [uuid] => 1973
+    [parent_uuid] => 1770
+    [status] => 
+)

@@ -1,0 +1,15 @@
+Array
+(
+    [id] => 352
+    [name] => Картридж НР C9429A светло-пурпурный
+    [article] => №85
+    [manufacturer] => 
+    [images] => ["import_files\/C9429A.jpg"]
+    [bar_code] => 
+    [description] => 
+    [features] => []
+    [properties] => {"Цвет":"светло-пурпурная","Класс-р":"Hewlett-Packard"}
+    [uuid] => 5849
+    [parent_uuid] => 1771
+    [status] => 
+)

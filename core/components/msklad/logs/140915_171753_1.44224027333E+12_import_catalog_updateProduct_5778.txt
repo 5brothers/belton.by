@@ -1,0 +1,15 @@
+Array
+(
+    [id] => 295
+    [name] => Картридж НР C6657AE трёхцветный
+    [article] => №57
+    [manufacturer] => 
+    [images] => ["import_files\/C6657AE.jpg"]
+    [bar_code] => 
+    [description] => 
+    [features] => []
+    [properties] => {"Цвет":"трехцветный","Класс-р":"Hewlett-Packard"}
+    [uuid] => 5778
+    [parent_uuid] => 1771
+    [status] => 
+)

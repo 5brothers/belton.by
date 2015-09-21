@@ -1,0 +1,15 @@
+Array
+(
+    [id] => 246
+    [name] => Картридж НР C1823D трёхцветный картридж
+    [article] => №23
+    [manufacturer] => 
+    [images] => ["import_files\/C1823D.jpg"]
+    [bar_code] => 
+    [description] => 
+    [features] => []
+    [properties] => {"Цвет":"трехцветный","Класс-р":"Hewlett-Packard"}
+    [uuid] => 5727
+    [parent_uuid] => 1771
+    [status] => 
+)

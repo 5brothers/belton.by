@@ -1,0 +1,15 @@
+Array
+(
+    [id] => 110
+    [name] => Картридж НР CE402A
+    [article] => CE402A
+    [manufacturer] => 
+    [images] => ["import_files\/CE402A.jpg"]
+    [bar_code] => 
+    [description] => 
+    [features] => []
+    [properties] => {"Цвет":"желтый","Класс-р":"Hewlett-Packard"}
+    [uuid] => 3602
+    [parent_uuid] => 1770
+    [status] => 
+)

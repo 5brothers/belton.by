@@ -1,0 +1,15 @@
+Array
+(
+    [id] => 147
+    [name] => Картридж НР CF352A
+    [article] => CF352A
+    [manufacturer] => 
+    [images] => ["import_files\/CF352A.jpg"]
+    [bar_code] => 
+    [description] => 
+    [features] => []
+    [properties] => {"Цвет":"желтый","Класс-р":"Hewlett-Packard"}
+    [uuid] => 2236
+    [parent_uuid] => 1770
+    [status] => 
+)

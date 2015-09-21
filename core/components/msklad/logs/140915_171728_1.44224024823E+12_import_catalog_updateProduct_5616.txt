@@ -1,0 +1,15 @@
+Array
+(
+    [id] => 160
+    [name] => Картридж НР Q1338A
+    [article] => Q1338A
+    [manufacturer] => 
+    [images] => ["import_files\/Q1338A.jpg"]
+    [bar_code] => 
+    [description] => 
+    [features] => []
+    [properties] => {"Цвет":"черный","Класс-р":"Hewlett-Packard"}
+    [uuid] => 5616
+    [parent_uuid] => 1770
+    [status] => 
+)

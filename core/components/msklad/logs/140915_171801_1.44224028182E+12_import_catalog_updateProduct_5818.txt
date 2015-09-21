@@ -1,0 +1,15 @@
+Array
+(
+    [id] => 330
+    [name] => Картридж НР C9391AE голубой
+    [article] => №88XL
+    [manufacturer] => 
+    [images] => ["import_files\/C9391AE_400x400.jpg"]
+    [bar_code] => 
+    [description] => 
+    [features] => []
+    [properties] => {"Цвет":"голубой","Класс-р":"Hewlett-Packard"}
+    [uuid] => 5818
+    [parent_uuid] => 1771
+    [status] => 
+)

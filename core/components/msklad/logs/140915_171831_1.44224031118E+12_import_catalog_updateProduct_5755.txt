@@ -1,0 +1,15 @@
+Array
+(
+    [id] => 461
+    [name] => Печатающая головка  НР C4952A пурпурная
+    [article] => №81
+    [manufacturer] => 
+    [images] => ["import_files\/C4952A.jpg"]
+    [bar_code] => 
+    [description] => 
+    [features] => []
+    [properties] => {"Цвет":"пурпурный","Класс-р":"Hewlett-Packard"}
+    [uuid] => 5755
+    [parent_uuid] => 1771
+    [status] => 
+)

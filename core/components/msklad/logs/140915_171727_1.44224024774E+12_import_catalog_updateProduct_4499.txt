@@ -1,0 +1,15 @@
+Array
+(
+    [id] => 157
+    [name] => Картридж НР CF383A
+    [article] => CF383A
+    [manufacturer] => 
+    [images] => ["import_files\/CF383A.jpg"]
+    [bar_code] => 
+    [description] => 
+    [features] => []
+    [properties] => {"Цвет":"пурпурный","Класс-р":"Hewlett-Packard"}
+    [uuid] => 4499
+    [parent_uuid] => 1770
+    [status] => 
+)

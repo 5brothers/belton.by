@@ -1,0 +1,15 @@
+Array
+(
+    [id] => 424
+    [name] => Картридж НР CN622AE голубой №971
+    [article] => №971
+    [manufacturer] => 
+    [images] => ["import_files\/CN622AE.jpg"]
+    [bar_code] => 
+    [description] => 
+    [features] => []
+    [properties] => {"Цвет":"голубой","Класс-р":"Hewlett-Packard"}
+    [uuid] => 6170
+    [parent_uuid] => 1771
+    [status] => 
+)

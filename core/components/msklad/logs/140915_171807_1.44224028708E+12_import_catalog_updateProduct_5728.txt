@@ -1,0 +1,15 @@
+Array
+(
+    [id] => 353
+    [name] => Картридж НР C9448A матовый чёрный №70
+    [article] => №70
+    [manufacturer] => 
+    [images] => ["import_files\/C9448A.jpg"]
+    [bar_code] => 
+    [description] => 
+    [features] => []
+    [properties] => {"Цвет":"черный матовый","Класс-р":"Hewlett-Packard"}
+    [uuid] => 5728
+    [parent_uuid] => 1771
+    [status] => 
+)

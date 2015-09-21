@@ -1,0 +1,15 @@
+Array
+(
+    [id] => 164
+    [name] => Картридж НР Q2612A
+    [article] => Q2612A
+    [manufacturer] => 
+    [images] => ["import_files\/Q2612A.jpg"]
+    [bar_code] => 
+    [description] => 
+    [features] => []
+    [properties] => {"Цвет":"черный","Класс-р":"Hewlett-Packard"}
+    [uuid] => 2107
+    [parent_uuid] => 1770
+    [status] => 
+)

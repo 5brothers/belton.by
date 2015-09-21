@@ -1,0 +1,15 @@
+Array
+(
+    [id] => 169
+    [name] => Картридж НР Q2624A
+    [article] => Q2624A
+    [manufacturer] => 
+    [images] => ["import_files\/Q2624A.jpg"]
+    [bar_code] => 
+    [description] => 
+    [features] => []
+    [properties] => {"Цвет":"черный","Класс-р":"Hewlett-Packard"}
+    [uuid] => 5624
+    [parent_uuid] => 1770
+    [status] => 
+)

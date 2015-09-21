@@ -1,0 +1,15 @@
+Array
+(
+    [id] => 275
+    [name] => Картридж НР C5061A голубой
+    [article] => №90
+    [manufacturer] => 
+    [images] => ["import_files\/C5061A.jpg"]
+    [bar_code] => 
+    [description] => 
+    [features] => []
+    [properties] => {"Цвет":"голубой","Класс-р":"Hewlett-Packard"}
+    [uuid] => 5766
+    [parent_uuid] => 1771
+    [status] => 
+)

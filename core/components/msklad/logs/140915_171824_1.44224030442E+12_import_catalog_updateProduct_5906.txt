@@ -1,0 +1,15 @@
+Array
+(
+    [id] => 438
+    [name] => Картридж НР CZ111AE пурпурный
+    [article] => №655
+    [manufacturer] => 
+    [images] => ["import_files\/CZ111AE.jpg"]
+    [bar_code] => 
+    [description] => 
+    [features] => []
+    [properties] => {"Цвет":"пурпурный","Класс-р":"Hewlett-Packard"}
+    [uuid] => 5906
+    [parent_uuid] => 1771
+    [status] => 
+)

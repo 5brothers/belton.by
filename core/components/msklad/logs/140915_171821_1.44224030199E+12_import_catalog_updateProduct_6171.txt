@@ -1,0 +1,15 @@
+Array
+(
+    [id] => 425
+    [name] => Картридж НР CN623AE пурпурный №971
+    [article] => №971
+    [manufacturer] => 
+    [images] => ["import_files\/CN623AE.jpg"]
+    [bar_code] => 
+    [description] => 
+    [features] => []
+    [properties] => {"Цвет":"пурпурный","Класс-р":"Hewlett-Packard"}
+    [uuid] => 6171
+    [parent_uuid] => 1771
+    [status] => 
+)

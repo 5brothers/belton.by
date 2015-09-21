@@ -1,0 +1,15 @@
+Array
+(
+    [id] => 393
+    [name] => Картридж НР CC640HE чёрный
+    [article] => №121
+    [manufacturer] => 
+    [images] => ["import_files\/CC640HE.jpg"]
+    [bar_code] => 
+    [description] => 
+    [features] => []
+    [properties] => {"Цвет":"черный","Класс-р":"Hewlett-Packard"}
+    [uuid] => 5879
+    [parent_uuid] => 1771
+    [status] => 
+)

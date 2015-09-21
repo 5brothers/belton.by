@@ -1,0 +1,15 @@
+Array
+(
+    [id] => 484
+    [name] => Печатающая головка НР C1Q10A чёрная, голубая, пурпурная, жёлтая №711
+    [article] => C1Q10A
+    [manufacturer] => 
+    [images] => ["import_files\/C1Q10A.jpg"]
+    [bar_code] => 
+    [description] => 
+    [features] => []
+    [properties] => {"Цвет":"чёрная, голубая, пурпурная, жёлтая","Класс-р":"Hewlett-Packard"}
+    [uuid] => 4242
+    [parent_uuid] => 1771
+    [status] => 
+)

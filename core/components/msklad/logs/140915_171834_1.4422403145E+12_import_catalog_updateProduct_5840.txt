@@ -1,0 +1,15 @@
+Array
+(
+    [id] => 479
+    [name] => Печатающая головка  НР C9420A голубая
+    [article] => №85
+    [manufacturer] => 
+    [images] => ["import_files\/C9420A.jpg"]
+    [bar_code] => 
+    [description] => 
+    [features] => []
+    [properties] => {"Цвет":"голубой","Класс-р":"Hewlett-Packard"}
+    [uuid] => 5840
+    [parent_uuid] => 1771
+    [status] => 
+)

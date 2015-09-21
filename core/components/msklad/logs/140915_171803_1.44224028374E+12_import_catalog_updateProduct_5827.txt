@@ -1,0 +1,15 @@
+Array
+(
+    [id] => 339
+    [name] => Картридж НР C9403A матовый чёрный
+    [article] => №72XL
+    [manufacturer] => 
+    [images] => ["import_files\/С9403А.jpg"]
+    [bar_code] => 
+    [description] => 
+    [features] => []
+    [properties] => {"Цвет":"черный матовый","Класс-р":"Hewlett-Packard"}
+    [uuid] => 5827
+    [parent_uuid] => 1771
+    [status] => 
+)

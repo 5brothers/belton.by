@@ -1,0 +1,15 @@
+Array
+(
+    [id] => 4
+    [name] => Картридж HP C9733A
+    [article] => C9733A
+    [manufacturer] => 
+    [images] => ["import_files\/C9733A.jpg"]
+    [bar_code] => 
+    [description] => 
+    [features] => []
+    [properties] => {"Цвет":"пурпурный","Класс-р":"Hewlett-Packard"}
+    [uuid] => 5533
+    [parent_uuid] => 1770
+    [status] => 
+)

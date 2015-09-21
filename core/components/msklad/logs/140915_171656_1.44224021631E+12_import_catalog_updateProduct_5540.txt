@@ -1,0 +1,15 @@
+Array
+(
+    [id] => 44
+    [name] => Картридж НР CB386A жёлтый барабан передачи изображений
+    [article] => CB386A
+    [manufacturer] => 
+    [images] => ["import_files\/CB386A.jpg"]
+    [bar_code] => 
+    [description] => 
+    [features] => []
+    [properties] => {"Цвет":"желтый","Класс-р":"Hewlett-Packard"}
+    [uuid] => 5540
+    [parent_uuid] => 1770
+    [status] => 
+)

@@ -1,0 +1,15 @@
+Array
+(
+    [id] => 394
+    [name] => Картридж НР CC641HE чёрный
+    [article] => №121XL
+    [manufacturer] => 
+    [images] => ["import_files\/CC641HE.jpg"]
+    [bar_code] => 
+    [description] => 
+    [features] => []
+    [properties] => {"Цвет":"черный","Класс-р":"Hewlett-Packard"}
+    [uuid] => 5880
+    [parent_uuid] => 1771
+    [status] => 
+)

@@ -1,0 +1,15 @@
+Array
+(
+    [id] => 149
+    [name] => Картридж НР CF370AM (Строенная упаковка цветных картр. CE411A, CE412A, CE413A)
+    [article] => CF370AM
+    [manufacturer] => 
+    [images] => ["import_files\/CF370AM.jpg"]
+    [bar_code] => 
+    [description] => 
+    [features] => []
+    [properties] => {"Цвет":"трехцветный","Класс-р":"Hewlett-Packard"}
+    [uuid] => 1811
+    [parent_uuid] => 1770
+    [status] => 
+)

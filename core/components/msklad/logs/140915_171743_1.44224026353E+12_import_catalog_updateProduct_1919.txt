@@ -1,0 +1,15 @@
+Array
+(
+    [id] => 244
+    [name] => Картридж НР B6Y37A (Строенная упаковка фото-чёрных картр. № 771C (B6Y13A))
+    [article] => B6Y37A
+    [manufacturer] => 
+    [images] => ["import_files\/B6Y37A.jpg"]
+    [bar_code] => 
+    [description] => 
+    [features] => []
+    [properties] => {"Цвет":"черный фото","Класс-р":"Hewlett-Packard"}
+    [uuid] => 1919
+    [parent_uuid] => 1771
+    [status] => 
+)

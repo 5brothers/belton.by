@@ -1,0 +1,15 @@
+Array
+(
+    [id] => 111
+    [name] => Картридж НР CE403A
+    [article] => CE403A
+    [manufacturer] => 
+    [images] => ["import_files\/CE403A.jpg"]
+    [bar_code] => 
+    [description] => 
+    [features] => []
+    [properties] => {"Цвет":"пурпурный","Класс-р":"Hewlett-Packard"}
+    [uuid] => 3603
+    [parent_uuid] => 1770
+    [status] => 
+)

@@ -1,0 +1,15 @@
+Array
+(
+    [id] => 126
+    [name] => Картридж НР CF031A
+    [article] => CF031A
+    [manufacturer] => 
+    [images] => ["import_files\/CF031A.jpg"]
+    [bar_code] => 
+    [description] => 
+    [features] => []
+    [properties] => {"Цвет":"голубой","Класс-р":"Hewlett-Packard"}
+    [uuid] => 488
+    [parent_uuid] => 1770
+    [status] => 
+)

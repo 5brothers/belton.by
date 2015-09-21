@@ -1,0 +1,15 @@
+Array
+(
+    [id] => 14
+    [name] => Картридж НР C4092A
+    [article] => C4092A
+    [manufacturer] => 
+    [images] => ["import_files\/C4092A.jpg"]
+    [bar_code] => 
+    [description] => 
+    [features] => []
+    [properties] => {"Цвет":"черный","Класс-р":"Hewlett-Packard"}
+    [uuid] => 5507
+    [parent_uuid] => 1770
+    [status] => 
+)

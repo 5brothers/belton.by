@@ -1,0 +1,15 @@
+Array
+(
+    [id] => 42
+    [name] => Картридж НР CB384A чёрный барабан передачи изображений
+    [article] => CB384A
+    [manufacturer] => 
+    [images] => ["import_files\/CB384A.jpg"]
+    [bar_code] => 
+    [description] => 
+    [features] => []
+    [properties] => {"Цвет":"черный","Класс-р":"Hewlett-Packard"}
+    [uuid] => 5538
+    [parent_uuid] => 1770
+    [status] => 
+)

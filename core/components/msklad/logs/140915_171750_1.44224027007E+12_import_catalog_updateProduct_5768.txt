@@ -1,0 +1,15 @@
+Array
+(
+    [id] => 277
+    [name] => Картридж НР C5065A жёлтый
+    [article] => №90
+    [manufacturer] => 
+    [images] => ["import_files\/C5065A.jpg"]
+    [bar_code] => 
+    [description] => 
+    [features] => []
+    [properties] => {"Цвет":"желтый","Класс-р":"Hewlett-Packard"}
+    [uuid] => 5768
+    [parent_uuid] => 1771
+    [status] => 
+)

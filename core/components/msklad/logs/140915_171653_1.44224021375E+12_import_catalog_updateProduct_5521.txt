@@ -1,0 +1,15 @@
+Array
+(
+    [id] => 28
+    [name] => Картридж НР C9700A
+    [article] => C9700A
+    [manufacturer] => 
+    [images] => ["import_files\/C9700A.jpg"]
+    [bar_code] => 
+    [description] => 
+    [features] => []
+    [properties] => {"Цвет":"черный","Класс-р":"Hewlett-Packard"}
+    [uuid] => 5521
+    [parent_uuid] => 1770
+    [status] => 
+)

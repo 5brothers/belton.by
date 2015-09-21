@@ -1,0 +1,15 @@
+Array
+(
+    [id] => 283
+    [name] => Картридж НР C5072A (Строенная упаковка чёрных картр.№83 (C4940A))
+    [article] => C5072A
+    [manufacturer] => 
+    [images] => ["import_files\/C5072A.jpg"]
+    [bar_code] => 
+    [description] => 
+    [features] => []
+    [properties] => {"Цвет":"черный","Класс-р":"Hewlett-Packard"}
+    [uuid] => 4773
+    [parent_uuid] => 1771
+    [status] => 
+)

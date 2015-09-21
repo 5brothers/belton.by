@@ -1,0 +1,15 @@
+Array
+(
+    [id] => 77
+    [name] => Картридж НР CE263A
+    [article] => CE263A
+    [manufacturer] => 
+    [images] => ["import_files\/CE263A.jpg"]
+    [bar_code] => 
+    [description] => 
+    [features] => []
+    [properties] => {"Цвет":"пурпурный","Класс-р":"Hewlett-Packard"}
+    [uuid] => 5571
+    [parent_uuid] => 1770
+    [status] => 
+)

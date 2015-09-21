@@ -1,0 +1,15 @@
+Array
+(
+    [id] => 269
+    [name] => Картридж НР C4913A жёлтый
+    [article] => №82
+    [manufacturer] => 
+    [images] => ["import_files\/C4913A.jpg"]
+    [bar_code] => 
+    [description] => 
+    [features] => []
+    [properties] => {"Цвет":"желтый","Класс-р":"Hewlett-Packard"}
+    [uuid] => 5206
+    [parent_uuid] => 1771
+    [status] => 
+)

@@ -1,0 +1,15 @@
+Array
+(
+    [id] => 431
+    [name] => Картридж НР CN637HE (Сдвоенная упаковка картр.№121 (CC640HE и CC643HE))
+    [article] => CN637HE
+    [manufacturer] => 
+    [images] => ["import_files\/CN637HE.jpg"]
+    [bar_code] => 
+    [description] => 
+    [features] => []
+    [properties] => {"Цвет":"ч\/б, трехцветный","Класс-р":"Hewlett-Packard"}
+    [uuid] => 5777
+    [parent_uuid] => 1771
+    [status] => 
+)

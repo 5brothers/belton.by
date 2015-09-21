@@ -1,0 +1,15 @@
+Array
+(
+    [id] => 329
+    [name] => Картридж НР C9390A светло-голубой картридж №70
+    [article] => №70
+    [manufacturer] => 
+    [images] => ["import_files\/C9390A.jpg"]
+    [bar_code] => 
+    [description] => 
+    [features] => []
+    [properties] => {"Цвет":"светло-голубой","Класс-р":"Hewlett-Packard"}
+    [uuid] => 5804
+    [parent_uuid] => 1771
+    [status] => 
+)

@@ -1,0 +1,15 @@
+Array
+(
+    [id] => 163
+    [name] => Картридж НР Q2610A
+    [article] => Q2610A
+    [manufacturer] => 
+    [images] => ["import_files\/Q2610A.jpg"]
+    [bar_code] => 
+    [description] => 
+    [features] => []
+    [properties] => {"Цвет":"черный","Класс-р":"Hewlett-Packard"}
+    [uuid] => 5619
+    [parent_uuid] => 1770
+    [status] => 
+)

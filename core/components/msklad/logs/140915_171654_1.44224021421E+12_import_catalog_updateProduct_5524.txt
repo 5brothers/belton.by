@@ -1,0 +1,15 @@
+Array
+(
+    [id] => 31
+    [name] => Картридж НР C9703A
+    [article] => C9703A
+    [manufacturer] => 
+    [images] => ["import_files\/C9703A.jpg"]
+    [bar_code] => 
+    [description] => 
+    [features] => []
+    [properties] => {"Цвет":"пурпурный","Класс-р":"Hewlett-Packard"}
+    [uuid] => 5524
+    [parent_uuid] => 1770
+    [status] => 
+)

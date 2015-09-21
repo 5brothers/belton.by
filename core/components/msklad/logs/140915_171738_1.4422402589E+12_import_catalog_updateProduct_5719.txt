@@ -1,0 +1,15 @@
+Array
+(
+    [id] => 219
+    [name] => Картридж НР 51626AE чёрный картридж
+    [article] => №26
+    [manufacturer] => 
+    [images] => ["import_files\/51626AE.jpg"]
+    [bar_code] => 
+    [description] => 
+    [features] => []
+    [properties] => {"Цвет":"черный","Класс-р":"Hewlett-Packard"}
+    [uuid] => 5719
+    [parent_uuid] => 1771
+    [status] => 
+)

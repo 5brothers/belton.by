@@ -1,0 +1,15 @@
+Array
+(
+    [id] => 290
+    [name] => Картридж НР C6578D трёхцветный
+    [article] => №78D
+    [manufacturer] => 
+    [images] => ["import_files\/C6578D.jpg"]
+    [bar_code] => 
+    [description] => 
+    [features] => []
+    [properties] => {"Цвет":"трехцветный","Класс-р":"Hewlett-Packard"}
+    [uuid] => 5201
+    [parent_uuid] => 1771
+    [status] => 
+)

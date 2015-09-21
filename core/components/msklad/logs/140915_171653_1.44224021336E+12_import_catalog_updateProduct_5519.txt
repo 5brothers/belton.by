@@ -1,0 +1,15 @@
+Array
+(
+    [id] => 26
+    [name] => Картридж НР C8552A
+    [article] => C8552A
+    [manufacturer] => 
+    [images] => ["import_files\/C8552A.jpg"]
+    [bar_code] => 
+    [description] => 
+    [features] => []
+    [properties] => {"Цвет":"желтый","Класс-р":"Hewlett-Packard"}
+    [uuid] => 5519
+    [parent_uuid] => 1770
+    [status] => 
+)

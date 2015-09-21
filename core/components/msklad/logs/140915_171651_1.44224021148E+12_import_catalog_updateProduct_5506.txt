@@ -1,0 +1,15 @@
+Array
+(
+    [id] => 13
+    [name] => Картридж НР C3909A
+    [article] => C3909A
+    [manufacturer] => 
+    [images] => ["import_files\/C3909A.jpg"]
+    [bar_code] => 
+    [description] => 
+    [features] => []
+    [properties] => {"Цвет":"черный","Класс-р":"Hewlett-Packard"}
+    [uuid] => 5506
+    [parent_uuid] => 1770
+    [status] => 
+)

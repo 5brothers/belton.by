@@ -1,0 +1,15 @@
+Array
+(
+    [id] => 266
+    [name] => Картридж НР C4909AE жёлтый
+    [article] => №940XL
+    [manufacturer] => 
+    [images] => ["import_files\/C4909AE.jpg"]
+    [bar_code] => 
+    [description] => 
+    [features] => []
+    [properties] => {"Цвет":"желтый","Класс-р":"Hewlett-Packard"}
+    [uuid] => 5752
+    [parent_uuid] => 1771
+    [status] => 
+)

@@ -1,0 +1,15 @@
+Array
+(
+    [id] => 401
+    [name] => Картридж НР CD973AE пурпурный
+    [article] => №920XL
+    [manufacturer] => 
+    [images] => ["import_files\/CD973AE.jpg"]
+    [bar_code] => 
+    [description] => 
+    [features] => []
+    [properties] => {"Цвет":"пурпурный","Класс-р":"Hewlett-Packard"}
+    [uuid] => 5885
+    [parent_uuid] => 1771
+    [status] => 
+)

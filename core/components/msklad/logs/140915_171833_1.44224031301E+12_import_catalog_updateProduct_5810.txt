@@ -1,0 +1,15 @@
+Array
+(
+    [id] => 471
+    [name] => Печатающая головка  НР C9381A чёрная и жёлтая
+    [article] => №88
+    [manufacturer] => 
+    [images] => ["import_files\/C9381A.jpg"]
+    [bar_code] => 
+    [description] => 
+    [features] => []
+    [properties] => {"Цвет":"черный, желтый","Класс-р":"Hewlett-Packard"}
+    [uuid] => 5810
+    [parent_uuid] => 1771
+    [status] => 
+)

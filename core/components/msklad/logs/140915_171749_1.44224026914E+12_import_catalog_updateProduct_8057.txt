@@ -1,0 +1,15 @@
+Array
+(
+    [id] => 272
+    [name] => Картридж НР C5018A светло-пурпурный картридж №84
+    [article] => №84
+    [manufacturer] => 
+    [images] => ["import_files\/C5018A.jpg"]
+    [bar_code] => 
+    [description] => 
+    [features] => []
+    [properties] => {"Цвет":"светло-пурпурная","Класс-р":"Hewlett-Packard"}
+    [uuid] => 8057
+    [parent_uuid] => 1771
+    [status] => 
+)

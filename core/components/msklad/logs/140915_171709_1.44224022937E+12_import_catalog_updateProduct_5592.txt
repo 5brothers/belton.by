@@ -1,0 +1,15 @@
+Array
+(
+    [id] => 104
+    [name] => Картридж НР CE390A
+    [article] => CE390A
+    [manufacturer] => 
+    [images] => ["import_files\/CE390A.jpg"]
+    [bar_code] => 
+    [description] => 
+    [features] => []
+    [properties] => {"Цвет":"черный","Класс-р":"Hewlett-Packard"}
+    [uuid] => 5592
+    [parent_uuid] => 1770
+    [status] => 
+)

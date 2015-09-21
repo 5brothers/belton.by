@@ -1,0 +1,15 @@
+Array
+(
+    [id] => 34
+    [name] => Картридж НР C9721A
+    [article] => C9721A
+    [manufacturer] => 
+    [images] => ["import_files\/C9721A.jpg"]
+    [bar_code] => 
+    [description] => 
+    [features] => []
+    [properties] => {"Цвет":"голубой","Класс-р":"Hewlett-Packard"}
+    [uuid] => 5527
+    [parent_uuid] => 1770
+    [status] => 
+)

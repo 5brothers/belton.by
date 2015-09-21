@@ -1,0 +1,15 @@
+Array
+(
+    [id] => 271
+    [name] => Картридж НР C5017A светло-голубой картридж №84
+    [article] => №84
+    [manufacturer] => 
+    [images] => ["import_files\/C5017A.jpg"]
+    [bar_code] => 
+    [description] => 
+    [features] => []
+    [properties] => {"Цвет":"светло-голубой","Класс-р":"Hewlett-Packard"}
+    [uuid] => 8056
+    [parent_uuid] => 1771
+    [status] => 
+)

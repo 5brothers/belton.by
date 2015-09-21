@@ -1,0 +1,15 @@
+Array
+(
+    [id] => 53
+    [name] => Картридж НР CB541A
+    [article] => CB541A
+    [manufacturer] => 
+    [images] => ["import_files\/CB541A.jpg"]
+    [bar_code] => 
+    [description] => 
+    [features] => []
+    [properties] => {"Цвет":"голубой","Класс-р":"Hewlett-Packard"}
+    [uuid] => 8451
+    [parent_uuid] => 1770
+    [status] => 
+)

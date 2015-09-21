@@ -1,0 +1,15 @@
+Array
+(
+    [id] => 183
+    [name] => Картридж НР Q5949A
+    [article] => Q5949A
+    [manufacturer] => 
+    [images] => ["import_files\/Q5949A.jpg"]
+    [bar_code] => 
+    [description] => 
+    [features] => []
+    [properties] => {"Цвет":"черный","Класс-р":"Hewlett-Packard"}
+    [uuid] => 5638
+    [parent_uuid] => 1770
+    [status] => 
+)

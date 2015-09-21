@@ -1,0 +1,15 @@
+Array
+(
+    [id] => 54
+    [name] => Картридж НР CB542A
+    [article] => CB542A
+    [manufacturer] => 
+    [images] => ["import_files\/CB542A.jpg"]
+    [bar_code] => 
+    [description] => 
+    [features] => []
+    [properties] => {"Цвет":"желтый","Класс-р":"Hewlett-Packard"}
+    [uuid] => 8452
+    [parent_uuid] => 1770
+    [status] => 
+)

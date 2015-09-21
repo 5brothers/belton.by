@@ -1,0 +1,15 @@
+Array
+(
+    [id] => 206
+    [name] => Картридж НР Q7551A
+    [article] => Q7551A
+    [manufacturer] => 
+    [images] => ["import_files\/Q7551A.jpg"]
+    [bar_code] => 
+    [description] => 
+    [features] => []
+    [properties] => {"Цвет":"черный","Класс-р":"Hewlett-Packard"}
+    [uuid] => 5661
+    [parent_uuid] => 1770
+    [status] => 
+)

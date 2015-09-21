@@ -1,0 +1,15 @@
+Array
+(
+    [id] => 119
+    [name] => Картридж НР CE505D (Сдвоенная упаковка чёрных картр. CE505A)
+    [article] => CE505D
+    [manufacturer] => 
+    [images] => ["import_files\/CE505D.jpg"]
+    [bar_code] => 
+    [description] => 
+    [features] => []
+    [properties] => {"Цвет":"черный","Класс-р":"Hewlett-Packard"}
+    [uuid] => 8454
+    [parent_uuid] => 1770
+    [status] => 
+)

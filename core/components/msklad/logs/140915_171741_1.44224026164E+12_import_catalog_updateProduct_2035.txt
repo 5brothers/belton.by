@@ -1,0 +1,15 @@
+Array
+(
+    [id] => 234
+    [name] => Картридж НР B3P20A пурпурный картридж №727XL
+    [article] => B3P20A
+    [manufacturer] => 
+    [images] => ["import_files\/B3P20A.jpg"]
+    [bar_code] => 
+    [description] => 
+    [features] => []
+    [properties] => {"Цвет":"пурпурный","Класс-р":"Hewlett-Packard"}
+    [uuid] => 2035
+    [parent_uuid] => 1771
+    [status] => 
+)

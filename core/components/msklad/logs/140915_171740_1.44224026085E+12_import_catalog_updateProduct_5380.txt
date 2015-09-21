@@ -1,0 +1,15 @@
+Array
+(
+    [id] => 230
+    [name] => Картридж НР B3P15A жёлтый картридж №727
+    [article] => №727
+    [manufacturer] => 
+    [images] => ["import_files\/B3P15A.jpg"]
+    [bar_code] => 
+    [description] => 
+    [features] => []
+    [properties] => {"Цвет":"желтый","Класс-р":"Hewlett-Packard"}
+    [uuid] => 5380
+    [parent_uuid] => 1771
+    [status] => 
+)

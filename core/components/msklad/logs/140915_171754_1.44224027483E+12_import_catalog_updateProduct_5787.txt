@@ -1,0 +1,15 @@
+Array
+(
+    [id] => 303
+    [name] => Картридж НР C8767HE чёрный
+    [article] => №130
+    [manufacturer] => 
+    [images] => ["import_files\/C8766HE.jpeg"]
+    [bar_code] => 
+    [description] => 
+    [features] => []
+    [properties] => {"Цвет":"черный","Класс-р":"Hewlett-Packard"}
+    [uuid] => 5787
+    [parent_uuid] => 1771
+    [status] => 
+)

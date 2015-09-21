@@ -1,0 +1,15 @@
+Array
+(
+    [id] => 228
+    [name] => Картридж НР B3P13A голубой картридж №727
+    [article] => B3P13A
+    [manufacturer] => 
+    [images] => ["import_files\/B3P13A.jpg"]
+    [bar_code] => 
+    [description] => 
+    [features] => []
+    [properties] => {"Цвет":"голубой","Класс-р":"Hewlett-Packard"}
+    [uuid] => 6463
+    [parent_uuid] => 1771
+    [status] => 
+)

@@ -1,0 +1,15 @@
+Array
+(
+    [id] => 58
+    [name] => Картридж НР CC364Х
+    [article] => CC364Х
+    [manufacturer] => 
+    [images] => ["import_files\/CC364Х.jpg"]
+    [bar_code] => 
+    [description] => 
+    [features] => []
+    [properties] => {"Цвет":"черный","Класс-р":"Hewlett-Packard"}
+    [uuid] => 5551
+    [parent_uuid] => 1770
+    [status] => 
+)

@@ -1,0 +1,15 @@
+Array
+(
+    [id] => 292
+    [name] => Картридж НР C6615DE чёрный
+    [article] => №15
+    [manufacturer] => 
+    [images] => ["import_files\/C6615DE.jpg"]
+    [bar_code] => 
+    [description] => 
+    [features] => []
+    [properties] => {"Цвет":"черный","Класс-р":"Hewlett-Packard"}
+    [uuid] => 5774
+    [parent_uuid] => 1771
+    [status] => 
+)

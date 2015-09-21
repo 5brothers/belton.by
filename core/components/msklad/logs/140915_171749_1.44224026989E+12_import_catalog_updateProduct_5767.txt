@@ -1,0 +1,15 @@
+Array
+(
+    [id] => 276
+    [name] => Картридж НР C5063A пурпурный
+    [article] => №90
+    [manufacturer] => 
+    [images] => ["import_files\/C5063A.JPG"]
+    [bar_code] => 
+    [description] => 
+    [features] => []
+    [properties] => {"Цвет":"пурпурный","Класс-р":"Hewlett-Packard"}
+    [uuid] => 5767
+    [parent_uuid] => 1771
+    [status] => 
+)

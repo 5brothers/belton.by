@@ -1,0 +1,15 @@
+Array
+(
+    [id] => 423
+    [name] => Картридж НР CN621AE чёрный №970
+    [article] => №970
+    [manufacturer] => 
+    [images] => ["import_files\/CN621AE.jpg"]
+    [bar_code] => 
+    [description] => 
+    [features] => []
+    [properties] => {"Цвет":"черный","Класс-р":"Hewlett-Packard"}
+    [uuid] => 8639
+    [parent_uuid] => 1771
+    [status] => 
+)

@@ -1,0 +1,15 @@
+Array
+(
+    [id] => 274
+    [name] => Картридж НР C5059A чёрный
+    [article] => №90
+    [manufacturer] => 
+    [images] => ["import_files\/C5059A.jpg"]
+    [bar_code] => 
+    [description] => 
+    [features] => []
+    [properties] => {"Цвет":"черный","Класс-р":"Hewlett-Packard"}
+    [uuid] => 5765
+    [parent_uuid] => 1771
+    [status] => 
+)

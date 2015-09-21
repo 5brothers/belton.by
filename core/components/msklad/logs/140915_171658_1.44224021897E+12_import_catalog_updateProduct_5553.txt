@@ -1,0 +1,15 @@
+Array
+(
+    [id] => 59
+    [name] => Картридж НР CC530A
+    [article] => CC530A
+    [manufacturer] => 
+    [images] => ["import_files\/CC530A.jpg"]
+    [bar_code] => 
+    [description] => 
+    [features] => []
+    [properties] => {"Цвет":"черный","Класс-р":"Hewlett-Packard"}
+    [uuid] => 5553
+    [parent_uuid] => 1770
+    [status] => 
+)

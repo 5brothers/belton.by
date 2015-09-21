@@ -1,0 +1,15 @@
+Array
+(
+    [id] => 22
+    [name] => Картридж НР C8061X
+    [article] => C8061X
+    [manufacturer] => 
+    [images] => ["import_files\/C8061X.jpg"]
+    [bar_code] => 
+    [description] => 
+    [features] => []
+    [properties] => {"Цвет":"черный","Класс-р":"Hewlett-Packard"}
+    [uuid] => 5515
+    [parent_uuid] => 1770
+    [status] => 
+)

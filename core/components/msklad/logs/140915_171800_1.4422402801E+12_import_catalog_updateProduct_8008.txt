@@ -1,0 +1,15 @@
+Array
+(
+    [id] => 321
+    [name] => Картридж НР C9371А голубой
+    [article] => №72XL
+    [manufacturer] => 
+    [images] => ["import_files\/C9371A.jpg"]
+    [bar_code] => 
+    [description] => 
+    [features] => []
+    [properties] => {"Цвет":"голубой","Класс-р":"Hewlett-Packard"}
+    [uuid] => 8008
+    [parent_uuid] => 1771
+    [status] => 
+)

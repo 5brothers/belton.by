@@ -1,0 +1,15 @@
+Array
+(
+    [id] => 129
+    [name] => Картридж НР CF210Х
+    [article] => CF210X
+    [manufacturer] => 
+    [images] => ["import_files\/CF210X.jpg"]
+    [bar_code] => 
+    [description] => 
+    [features] => []
+    [properties] => {"Цвет":"черный","Класс-р":"Hewlett-Packard"}
+    [uuid] => 5609
+    [parent_uuid] => 1770
+    [status] => 
+)

@@ -1,0 +1,15 @@
+Array
+(
+    [id] => 153
+    [name] => Картридж НР CF380X
+    [article] => CF380X
+    [manufacturer] => 
+    [images] => ["import_files\/CF380X.jpg"]
+    [bar_code] => 
+    [description] => 
+    [features] => []
+    [properties] => {"Цвет":"черный","Класс-р":"Hewlett-Packard"}
+    [uuid] => 4496
+    [parent_uuid] => 1770
+    [status] => 
+)

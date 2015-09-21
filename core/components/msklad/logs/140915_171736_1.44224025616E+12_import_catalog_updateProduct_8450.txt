@@ -1,0 +1,15 @@
+Array
+(
+    [id] => 204
+    [name] => Картридж НР Q7432A (комплект картриджей со скрепками)
+    [article] => Q7432A
+    [manufacturer] => 
+    [images] => ["import_files\/Q7432A.jpg"]
+    [bar_code] => 
+    [description] => 
+    [features] => []
+    [properties] => {"Класс-р":"Hewlett-Packard"}
+    [uuid] => 8450
+    [parent_uuid] => 1770
+    [status] => 
+)

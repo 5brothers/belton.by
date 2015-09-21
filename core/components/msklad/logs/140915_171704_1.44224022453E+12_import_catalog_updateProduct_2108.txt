@@ -1,0 +1,15 @@
+Array
+(
+    [id] => 86
+    [name] => Картридж НР CE285A
+    [article] => CE285A
+    [manufacturer] => 
+    [images] => ["import_files\/CE285A.jpg"]
+    [bar_code] => 
+    [description] => 
+    [features] => []
+    [properties] => {"Цвет":"черный","Класс-р":"Hewlett-Packard"}
+    [uuid] => 2108
+    [parent_uuid] => 1770
+    [status] => 
+)

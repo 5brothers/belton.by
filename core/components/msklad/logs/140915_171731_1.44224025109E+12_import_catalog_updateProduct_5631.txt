@@ -1,0 +1,15 @@
+Array
+(
+    [id] => 176
+    [name] => Картридж НР Q3962A
+    [article] => Q3962A
+    [manufacturer] => 
+    [images] => ["import_files\/Q3962A.jpg"]
+    [bar_code] => 
+    [description] => 
+    [features] => []
+    [properties] => {"Цвет":"желтый","Класс-р":"Hewlett-Packard"}
+    [uuid] => 5631
+    [parent_uuid] => 1770
+    [status] => 
+)

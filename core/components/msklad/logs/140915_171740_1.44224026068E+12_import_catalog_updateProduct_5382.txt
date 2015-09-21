@@ -1,0 +1,15 @@
+Array
+(
+    [id] => 229
+    [name] => Картридж НР B3P14A пурпурный картридж №727
+    [article] => B3P14A
+    [manufacturer] => 
+    [images] => ["import_files\/B3P14A.jpg"]
+    [bar_code] => 
+    [description] => 
+    [features] => []
+    [properties] => {"Цвет":"пурпурный","Класс-р":"Hewlett-Packard"}
+    [uuid] => 5382
+    [parent_uuid] => 1771
+    [status] => 
+)

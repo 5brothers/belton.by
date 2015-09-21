@@ -1,0 +1,15 @@
+Array
+(
+    [id] => 287
+    [name] => Картридж НР C5076A (Строенная упаковка светло-голубых картр.№83 (C4944A))
+    [article] => C5076A
+    [manufacturer] => 
+    [images] => ["import_files\/C5076A.jpg"]
+    [bar_code] => 
+    [description] => 
+    [features] => []
+    [properties] => {"Цвет":"светло-голубой","Класс-р":"Hewlett-Packard"}
+    [uuid] => 7508
+    [parent_uuid] => 1771
+    [status] => 
+)

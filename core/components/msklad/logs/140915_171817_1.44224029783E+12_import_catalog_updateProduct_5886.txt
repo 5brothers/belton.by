@@ -1,0 +1,15 @@
+Array
+(
+    [id] => 402
+    [name] => Картридж НР CD974AE жёлтый
+    [article] => №920XL
+    [manufacturer] => 
+    [images] => ["import_files\/CD974AE.jpg"]
+    [bar_code] => 
+    [description] => 
+    [features] => []
+    [properties] => {"Цвет":"желтый","Класс-р":"Hewlett-Packard"}
+    [uuid] => 5886
+    [parent_uuid] => 1771
+    [status] => 
+)

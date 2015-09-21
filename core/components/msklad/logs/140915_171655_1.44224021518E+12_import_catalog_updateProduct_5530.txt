@@ -1,0 +1,15 @@
+Array
+(
+    [id] => 37
+    [name] => Картридж НР C9730A
+    [article] => C9730A
+    [manufacturer] => 
+    [images] => ["import_files\/C9730A.jpg"]
+    [bar_code] => 
+    [description] => 
+    [features] => []
+    [properties] => {"Цвет":"черный","Класс-р":"Hewlett-Packard"}
+    [uuid] => 5530
+    [parent_uuid] => 1770
+    [status] => 
+)

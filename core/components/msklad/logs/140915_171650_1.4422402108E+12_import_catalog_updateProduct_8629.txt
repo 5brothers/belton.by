@@ -1,0 +1,15 @@
+Array
+(
+    [id] => 9
+    [name] => Картридж HP CF214X
+    [article] => CF214X
+    [manufacturer] => 
+    [images] => ["import_files\/CF214X.jpg"]
+    [bar_code] => 
+    [description] => 
+    [features] => []
+    [properties] => {"Цвет":"черный","Класс-р":"Hewlett-Packard"}
+    [uuid] => 8629
+    [parent_uuid] => 1770
+    [status] => 
+)

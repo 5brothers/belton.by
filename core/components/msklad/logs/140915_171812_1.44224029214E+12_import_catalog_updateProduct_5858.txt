@@ -1,0 +1,15 @@
+Array
+(
+    [id] => 374
+    [name] => Картридж НР CB320HE жёлтый
+    [article] => №178
+    [manufacturer] => 
+    [images] => ["import_files\/CB320HE.jpg"]
+    [bar_code] => 
+    [description] => 
+    [features] => []
+    [properties] => {"Цвет":"желтый","Класс-р":"Hewlett-Packard"}
+    [uuid] => 5858
+    [parent_uuid] => 1771
+    [status] => 
+)

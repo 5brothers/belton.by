@@ -1,0 +1,15 @@
+Array
+(
+    [id] => 141
+    [name] => Картридж НР CF300A
+    [article] => CF300A
+    [manufacturer] => 
+    [images] => ["import_files\/CF300A.jpg"]
+    [bar_code] => 
+    [description] => 
+    [features] => []
+    [properties] => {"Цвет":"черный","Класс-р":"Hewlett-Packard"}
+    [uuid] => 2617
+    [parent_uuid] => 1770
+    [status] => 
+)

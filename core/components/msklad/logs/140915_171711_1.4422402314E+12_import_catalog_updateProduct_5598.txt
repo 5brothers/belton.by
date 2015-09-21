@@ -1,0 +1,15 @@
+Array
+(
+    [id] => 115
+    [name] => Картридж НР CE411A
+    [article] => CE411A
+    [manufacturer] => 
+    [images] => ["import_files\/CE411A.jpg"]
+    [bar_code] => 
+    [description] => 
+    [features] => []
+    [properties] => {"Цвет":"голубой","Класс-р":"Hewlett-Packard"}
+    [uuid] => 5598
+    [parent_uuid] => 1770
+    [status] => 
+)

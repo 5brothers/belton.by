@@ -1,0 +1,15 @@
+Array
+(
+    [id] => 299
+    [name] => Картридж НР C8727AE чёрный
+    [article] => №27
+    [manufacturer] => 
+    [images] => ["import_files\/C8727AE.jpg"]
+    [bar_code] => 
+    [description] => 
+    [features] => []
+    [properties] => {"Цвет":"черный","Класс-р":"Hewlett-Packard"}
+    [uuid] => 5782
+    [parent_uuid] => 1771
+    [status] => 
+)

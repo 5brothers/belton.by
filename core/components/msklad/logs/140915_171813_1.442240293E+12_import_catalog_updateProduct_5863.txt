@@ -1,0 +1,15 @@
+Array
+(
+    [id] => 378
+    [name] => Картридж НР CB325HE жёлтый
+    [article] => №178XL
+    [manufacturer] => 
+    [images] => ["import_files\/CB325HE.jpg"]
+    [bar_code] => 
+    [description] => 
+    [features] => []
+    [properties] => {"Цвет":"желтый","Класс-р":"Hewlett-Packard"}
+    [uuid] => 5863
+    [parent_uuid] => 1771
+    [status] => 
+)

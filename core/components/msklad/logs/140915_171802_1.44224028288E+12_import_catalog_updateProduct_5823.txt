@@ -1,0 +1,15 @@
+Array
+(
+    [id] => 335
+    [name] => Картридж НР C9398A голубой
+    [article] => №72
+    [manufacturer] => 
+    [images] => ["import_files\/C9398A.jpg"]
+    [bar_code] => 
+    [description] => 
+    [features] => []
+    [properties] => {"Цвет":"голубой","Класс-р":"Hewlett-Packard"}
+    [uuid] => 5823
+    [parent_uuid] => 1771
+    [status] => 
+)

@@ -1,0 +1,15 @@
+Array
+(
+    [id] => 132
+    [name] => Картридж НР CF213A
+    [article] => CF213A
+    [manufacturer] => 
+    [images] => ["import_files\/CF213A.jpg"]
+    [bar_code] => 
+    [description] => 
+    [features] => []
+    [properties] => {"Цвет":"пурпурный","Класс-р":"Hewlett-Packard"}
+    [uuid] => 5612
+    [parent_uuid] => 1770
+    [status] => 
+)

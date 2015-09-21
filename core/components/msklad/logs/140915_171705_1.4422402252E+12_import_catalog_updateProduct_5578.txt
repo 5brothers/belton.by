@@ -1,0 +1,15 @@
+Array
+(
+    [id] => 87
+    [name] => Картридж НР CE285AF (Сдвоенная упаковка чёрных картр. CE285A)
+    [article] => CE285AF
+    [manufacturer] => 
+    [images] => ["import_files\/CE285AF.jpg"]
+    [bar_code] => 
+    [description] => 
+    [features] => []
+    [properties] => {"Цвет":"черный","Класс-р":"Hewlett-Packard"}
+    [uuid] => 5578
+    [parent_uuid] => 1770
+    [status] => 
+)

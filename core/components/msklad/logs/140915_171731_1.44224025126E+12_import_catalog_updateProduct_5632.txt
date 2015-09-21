@@ -1,0 +1,15 @@
+Array
+(
+    [id] => 177
+    [name] => Картридж НР Q3963A
+    [article] => Q3963A
+    [manufacturer] => 
+    [images] => ["import_files\/Q3963A.jpg"]
+    [bar_code] => 
+    [description] => 
+    [features] => []
+    [properties] => {"Цвет":"пурпурный","Класс-р":"Hewlett-Packard"}
+    [uuid] => 5632
+    [parent_uuid] => 1770
+    [status] => 
+)

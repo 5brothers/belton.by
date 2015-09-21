@@ -1,0 +1,15 @@
+Array
+(
+    [id] => 72
+    [name] => Картридж НР CE260A
+    [article] => CE260A
+    [manufacturer] => 
+    [images] => ["import_files\/CE260A.jpg"]
+    [bar_code] => 
+    [description] => 
+    [features] => []
+    [properties] => {"Цвет":"черный","Класс-р":"Hewlett-Packard"}
+    [uuid] => 5567
+    [parent_uuid] => 1770
+    [status] => 
+)

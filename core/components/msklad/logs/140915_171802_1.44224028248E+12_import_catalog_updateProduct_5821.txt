@@ -1,0 +1,15 @@
+Array
+(
+    [id] => 333
+    [name] => Картридж НР C9396AE чёрный
+    [article] => №88XL
+    [manufacturer] => 
+    [images] => ["import_files\/C9396AE_400x400.jpg"]
+    [bar_code] => 
+    [description] => 
+    [features] => []
+    [properties] => {"Цвет":"черный","Класс-р":"Hewlett-Packard"}
+    [uuid] => 5821
+    [parent_uuid] => 1771
+    [status] => 
+)

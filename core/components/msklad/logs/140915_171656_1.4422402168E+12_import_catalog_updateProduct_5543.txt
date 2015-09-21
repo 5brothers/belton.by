@@ -1,0 +1,15 @@
+Array
+(
+    [id] => 47
+    [name] => Картридж НР CB435A
+    [article] => CB435A
+    [manufacturer] => 
+    [images] => ["import_files\/CB435A.jpg"]
+    [bar_code] => 
+    [description] => 
+    [features] => []
+    [properties] => {"Цвет":"черный","Класс-р":"Hewlett-Packard"}
+    [uuid] => 5543
+    [parent_uuid] => 1770
+    [status] => 
+)

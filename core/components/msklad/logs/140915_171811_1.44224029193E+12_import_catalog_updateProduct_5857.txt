@@ -1,0 +1,15 @@
+Array
+(
+    [id] => 373
+    [name] => Картридж НР CB319HE пурпурный
+    [article] => №178
+    [manufacturer] => 
+    [images] => ["import_files\/CB319HE.jpg"]
+    [bar_code] => 
+    [description] => 
+    [features] => []
+    [properties] => {"Цвет":"пурпурный","Класс-р":"Hewlett-Packard"}
+    [uuid] => 5857
+    [parent_uuid] => 1771
+    [status] => 
+)

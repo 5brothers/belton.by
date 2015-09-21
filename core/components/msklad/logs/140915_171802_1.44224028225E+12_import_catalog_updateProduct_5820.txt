@@ -1,0 +1,15 @@
+Array
+(
+    [id] => 332
+    [name] => Картридж НР C9393AE жёлтый
+    [article] => №88XL
+    [manufacturer] => 
+    [images] => ["import_files\/C9393AE_400x400.jpg"]
+    [bar_code] => 
+    [description] => 
+    [features] => []
+    [properties] => {"Цвет":"желтый","Класс-р":"Hewlett-Packard"}
+    [uuid] => 5820
+    [parent_uuid] => 1771
+    [status] => 
+)

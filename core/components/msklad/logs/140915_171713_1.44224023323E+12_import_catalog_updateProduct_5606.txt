@@ -1,0 +1,15 @@
+Array
+(
+    [id] => 124
+    [name] => Картридж НР CE742A
+    [article] => CE742A
+    [manufacturer] => 
+    [images] => ["import_files\/CE742A.jpg"]
+    [bar_code] => 
+    [description] => 
+    [features] => []
+    [properties] => {"Цвет":"желтый","Класс-р":"Hewlett-Packard"}
+    [uuid] => 5606
+    [parent_uuid] => 1770
+    [status] => 
+)
